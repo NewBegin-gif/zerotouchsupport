@@ -26,10 +26,11 @@
     </script>
     
     <style>
-        /* CSS Custom Properties for scaling and themes */
+        /* CSS Custom Properties */
         :root {
             --bg-dark: #040811;
             --bg-card: #08101f;
+            --bg-lighter: #0b1329;
             --text-main: #f8fafc;
             --text-muted: #94a3b8;
             --accent: #059669;
@@ -38,7 +39,6 @@
             --border: #1e293b;
         }
 
-        /* Base Reset & Smooth Scrolling */
         * {
             box-sizing: border-box;
             margin: 0;
@@ -53,7 +53,6 @@
             color: var(--text-main);
             line-height: 1.6;
             -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale;
         }
 
         h1, h2, h3 { line-height: 1.2; }
@@ -66,7 +65,6 @@
             font-size: 0.85rem;
             border-bottom: 1px solid var(--border);
             font-weight: 500;
-            letter-spacing: 0.02em;
         }
 
         nav {
@@ -91,10 +89,8 @@
             display: flex;
             align-items: center;
             gap: 0.4rem;
-            transition: opacity 0.2s;
         }
         
-        .logo:hover { opacity: 0.9; }
         .logo-dot { color: var(--accent); font-size: 1.2rem; }
         .logo-accent { color: #f8fafc; font-weight: 400; }
 
@@ -191,12 +187,12 @@
             margin: 0 auto;
             color: #475569;
             font-size: 0.8rem;
-            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            font-family: 'SFMono-Regular', Consolas, monospace;
         }
 
         .terminal-body {
             padding: 1.5rem;
-            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            font-family: 'SFMono-Regular', Consolas, monospace;
             font-size: 0.85rem;
             line-height: 1.8;
             color: #94a3b8;
@@ -204,7 +200,6 @@
 
         .term-green { color: #10b981; }
         .term-blue { color: #3b82f6; }
-        
         .cursor-blink { animation: blink 1s step-end infinite; }
         @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
 
@@ -233,7 +228,7 @@
         }
 
         .container {
-            padding: 0 5% 6rem;
+            padding: 0 5% 4rem;
             max-width: 1200px;
             margin: 0 auto;
         }
@@ -304,18 +299,14 @@
         }
 
         .card-actions {
-            margin-top: auto;
             display: flex;
             flex-direction: column;
             gap: 0.8rem;
         }
 
-        .btn {
+        .btn, .btn-outline {
             display: block;
             text-align: center;
-            background-color: rgba(5, 150, 105, 0.1);
-            border: 1px solid var(--accent);
-            color: #fff;
             padding: 0.8rem 1.5rem;
             border-radius: 6px;
             text-decoration: none;
@@ -323,33 +314,103 @@
             transition: all 0.2s;
         }
 
+        .btn {
+            background-color: rgba(5, 150, 105, 0.1);
+            border: 1px solid var(--accent);
+            color: #fff;
+        }
+
         .btn:hover { background-color: var(--accent); }
 
         .btn-outline {
-            display: block;
-            text-align: center;
             background-color: transparent;
             color: var(--text-muted);
-            padding: 0.8rem 1.5rem;
-            border-radius: 6px;
-            text-decoration: none;
-            font-weight: 600;
-            transition: color 0.2s;
         }
 
         .btn-outline:hover { color: #fff; }
 
-        .bottom-cta-section {
-            background-color: #02060d;
-            padding: 6rem 5%;
-            text-align: center;
+        /* --- NEW: About Section --- */
+        .about-section {
+            background-color: var(--bg-lighter);
             border-top: 1px solid var(--border);
+            border-bottom: 1px solid var(--border);
+            padding: 6rem 5%;
         }
 
-        .bottom-cta-content { max-width: 800px; margin: 0 auto; }
-        .bottom-cta-content h2 { font-size: 2.2rem; color: #fff; margin-bottom: 1.5rem; font-weight: 800; }
-        .bottom-cta-content p { color: var(--text-muted); font-size: 1.1rem; line-height: 1.8; margin-bottom: 2.5rem; }
+        .about-grid {
+            max-width: 1000px;
+            margin: 0 auto;
+            display: flex;
+            gap: 4rem;
+            align-items: center;
+        }
 
+        .about-content { flex: 2; }
+        .about-content h2 { font-size: 2.2rem; margin-bottom: 1.5rem; color: #fff; }
+        .about-content p { color: var(--text-muted); font-size: 1.1rem; margin-bottom: 1.2rem; }
+        
+        .about-stats {
+            flex: 1;
+            background-color: var(--bg-dark);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 2rem;
+        }
+
+        .stat-item { margin-bottom: 1.5rem; }
+        .stat-item:last-child { margin-bottom: 0; }
+        .stat-value { font-size: 1.5rem; font-weight: 800; color: var(--accent-hover); }
+        .stat-label { font-size: 0.85rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em; }
+
+        /* --- NEW: Ecosystem Bridge --- */
+        .network-section {
+            padding: 6rem 5%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .network-header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .network-header h2 { font-size: 2rem; color: #fff; margin-bottom: 1rem; }
+        .network-header p { color: var(--text-muted); max-width: 600px; margin: 0 auto; }
+
+        .network-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .net-card {
+            background-color: #02050c;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 2rem;
+            text-decoration: none;
+            transition: all 0.2s;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .net-card:hover {
+            border-color: #475569;
+            background-color: #08101f;
+        }
+
+        .net-tag {
+            font-family: monospace;
+            font-size: 0.75rem;
+            color: #64748b;
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        .net-card h3 { color: #f8fafc; font-size: 1.2rem; margin-bottom: 0.5rem; }
+        .net-card p { color: var(--text-muted); font-size: 0.9rem; }
+        
+        /* Footer Strip */
         .footer-strip {
             background-color: #02050c;
             padding: 2rem 5%;
@@ -368,6 +429,7 @@
         @media (max-width: 768px) {
             .hero { padding-top: 4rem; gap: 2rem; }
             .nav-links { display: none; }
+            .about-grid { flex-direction: column; gap: 2rem; }
             .footer-strip { flex-direction: column; text-align: center; }
         }
     </style>
@@ -384,12 +446,14 @@
         </a>
         <div class="nav-links">
             <a href="#infrastructure">The Support Stack</a>
-            <a href="https://aibuildermarketplace.com" target="_blank" rel="noopener noreferrer">Software Directory →</a>
+            <a href="#about">The Architect</a>
+            <a href="#network">The Network</a>
         </div>
     </nav>
 
     <main>
         <header class="hero">
+            <!-- (Hero content remains exactly the same as the previous version) -->
             <div class="hero-content">
                 <div class="hero-badge">
                     🛡️ Objective Engineering for Support Operations
@@ -549,14 +613,56 @@
             </div>
         </section>
 
-        <!-- The Broad Picture Section -->
-        <section class="bottom-cta-section">
-            <div class="bottom-cta-content">
-                <h2>Systemic Freedom</h2>
-                <p>Automating customer operations isn't just about reducing payroll—it’s about safeguarding internal focus. By offloading highly repetitive inbound tickets onto structured, self-improving infrastructure, companies protect their engineering and core business development channels from constant interruption.</p>
-                <p style="color: #475569; font-size: 0.9rem; margin-top: 2rem;">© 2026 ZeroTouchSupport. Built with intentional logic. All rights reserved.</p>
+        <!-- NEW: About The Architect -->
+        <section id="about" class="about-section">
+            <div class="about-grid">
+                <div class="about-content">
+                    <h2>Engineered by Experience.</h2>
+                    <p>I don't evaluate software like a marketer. With over two decades of senior experience in international banking, focusing intensely on global operations, risk management, and business architecture, I look at SaaS tools through a lens of systemic stability.</p>
+                    <p>Building automated systems is not about chasing the latest AI hype—it's about deploying deterministic infrastructure that predictably buys back time and reduces operational risk. From a decentralized base, I currently engineer and test the exact workflows that allow businesses to scale without ballooning their human headcount.</p>
+                </div>
+                <div class="about-stats">
+                    <div class="stat-item">
+                        <div class="stat-value">20+ Yrs</div>
+                        <div class="stat-label">Banking & Operations</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">Zero</div>
+                        <div class="stat-label">Tolerance for Fluff</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">100%</div>
+                        <div class="stat-label">Deterministic ROI</div>
+                    </div>
+                </div>
             </div>
         </section>
+
+        <!-- NEW: The Ecosystem Bridge -->
+        <section id="network" class="network-section">
+            <div class="network-header">
+                <h2>The Autonomous Operations Network</h2>
+                <p>ZeroTouchSupport is just one node. Explore our broader ecosystem of specialized digital assets designed to help founders and operators build extreme efficiency.</p>
+            </div>
+            <div class="network-cards">
+                <a href="https://aibuildermarketplace.com" target="_blank" rel="noopener noreferrer" class="net-card">
+                    <span class="net-tag">NODE 01: DISCOVERY</span>
+                    <h3>AI Builder Marketplace →</h3>
+                    <p>The master directory. A comprehensive, objective database of B2B SaaS tools and AI agents to automate every layer of your business.</p>
+                </a>
+                <a href="https://theweekly2pctedge.com" target="_blank" rel="noopener noreferrer" class="net-card">
+                    <span class="net-tag">NODE 02: APPLICATION</span>
+                    <h3>The Weekly 2% Edge →</h3>
+                    <p>The founder's stack. Deep-dive case studies on the specific "Honest Stack" of tools we use internally to buy back our own time.</p>
+                </a>
+                <a href="https://theweeklyaiedge.com" target="_blank" rel="noopener noreferrer" class="net-card">
+                    <span class="net-tag">NODE 03: INTELLIGENCE</span>
+                    <h3>The Weekly AI Edge →</h3>
+                    <p>The timeline. A human-centric log of the massive shifts in the software landscape, evaluated for practical utility and life balance.</p>
+                </a>
+            </div>
+        </section>
+
     </main>
 
     <!-- Footer Strip -->
