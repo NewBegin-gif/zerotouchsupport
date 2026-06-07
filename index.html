@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Pro SEO & Meta Tags -->
+    <title>ZeroTouchSupport | Autonomous Customer Service Infrastructure</title>
+    <meta name="description" content="Evaluate and benchmark autonomous customer support infrastructure. Eliminate human bottlenecks with AI voice routing, unified inboxes, and deterministic resolution engines.">
+    <meta name="keywords" content="customer service AI, autonomous support, Zero Touch Support, SaaS infrastructure, helpdesk automation">
+    <meta name="author" content="ZeroTouchSupport Node">
+    
+    <!-- Open Graph for LinkedIn/Twitter previews -->
+    <meta property="og:title" content="ZeroTouchSupport | Autonomous Customer Service">
+    <meta property="og:description" content="Benchmark the precise infrastructure required to build autonomous customer pipelines with zero human overhead.">
+    <meta property="og:type" content="website">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CW1KZ258ZV"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CW1KZ258ZV');
+    </script>
+    
+    <style>
+        /* CSS Custom Properties for scaling and themes */
+        :root {
+            --bg-dark: #040811;
+            --bg-card: #08101f;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent: #059669;
+            --accent-hover: #10b981;
+            --accent-purple: #3b82f6;
+            --border: #1e293b;
+        }
+
+        /* Base Reset & Smooth Scrolling */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        /* Typography */
+        h1, h2, h3 { line-height: 1.2; }
+        
+        /* Top Announcement Bar */
+        .top-bar {
+            background-color: #02050c;
+            color: #64748b;
+            text-align: center;
+            padding: 0.6rem 1rem;
+            font-size: 0.85rem;
+            border-bottom: 1px solid var(--border);
+            font-weight: 500;
+            letter-spacing: 0.02em;
+        }
+
+        /* Navbar */
+        nav {
+            padding: 1.5rem 5%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: rgba(4, 8, 17, 0.95);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .logo {
+            font-size: 1.4rem;
+            font-weight: 800;
+            color: #ffffff;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            transition: opacity 0.2s;
+        }
+        
+        .logo:hover { opacity: 0.9; }
+        .logo-dot { color: var(--accent); font-size: 1.2rem; }
+        .logo-accent { color: #f8fafc; font-weight: 400; }
+
+        .nav-links { display: flex; gap: 2rem; align-items: center; }
+        .nav-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+        }
+        .nav-links a:hover { color: var(--text-main); }
+
+        /* Hero Section */
+        .hero {
+            padding: 6rem 5% 4rem;
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            gap: 4rem;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .hero-content {
+            flex: 1;
+            min-width: 320px;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background-color: rgba(5, 150, 105, 0.1);
+            border: 1px solid rgba(5, 150, 105, 0.3);
+            padding: 0.4rem 1rem;
+            border-radius: 100px;
+            font-size: 0.85rem;
+            color: var(--accent-hover);
+            margin-bottom: 2rem;
+            font-weight: 500;
+        }
+
+        .hero h1 {
+            font-size: clamp(2.5rem, 5vw, 4rem);
+            font-weight: 800;
+            margin-bottom: 1.5rem;
+            letter-spacing: -0.02em;
+        }
+
+        .gradient-text {
+            background: linear-gradient(to right, #10b981, #3b82f6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .hero p {
+            font-size: 1.125rem;
+            color: var(--text-muted);
+            margin-bottom: 1.5rem;
+            line-height: 1.8;
+        }
+
+        .hero-quote {
+            border-left: 2px solid var(--accent);
+            padding-left: 1.5rem;
+            margin-top: 2rem;
+            font-style: italic;
+            color: #cbd5e1;
+            font-size: 1.05rem;
+        }
+
+        /* Pro Terminal Box */
+        .terminal-container {
+            flex: 1;
+            min-width: 320px;
+            background-color: #030712;
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.6);
+        }
+
+        .terminal-header {
+            background-color: #0b1329;
+            padding: 0.8rem 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .terminal-dot { width: 10px; height: 10px; border-radius: 50%; }
+        .dot-red { background-color: #ef4444; }
+        .dot-yellow { background-color: #eab308; }
+        .dot-green { background-color: #22c55e; }
+
+        .terminal-title {
+            margin: 0 auto;
+            color: #475569;
+            font-size: 0.8rem;
+            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+        }
+
+        .terminal-body {
+            padding: 1.5rem;
+            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            font-size: 0.85rem;
+            line-height: 1.8;
+            color: #94a3b8;
+        }
+
+        .term-green { color: #10b981; }
+        .term-blue { color: #3b82f6; }
+        
+        /* Cursor Animation */
+        .cursor-blink { animation: blink 1s step-end infinite; }
+        @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+        .terminal-status-box {
+            background-color: rgba(15, 23, 42, 0.6);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .status-line {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+        }
+
+        /* Section Titles */
+        .section-title { text-align: center; margin: 4rem 0 1rem; }
+        .section-title h2 { font-size: 2.5rem; color: #fff; font-weight: 800; }
+        .section-subtitle {
+            text-align: center;
+            color: var(--text-muted);
+            max-width: 650px;
+            margin: 0 auto 4rem;
+            font-size: 1.1rem;
+        }
+
+        /* Premium Grid Layout */
+        .container {
+            padding: 0 5% 6rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 2rem;
+        }
+
+        .card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 2.5rem;
+            display: flex;
+            flex-direction: column;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        /* Pro Hover Effect */
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: var(--accent);
+            box-shadow: 0 15px 30px rgba(5, 150, 105, 0.1);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .card-icon {
+            width: 64px;
+            height: 64px;
+            border-radius: 12px;
+            object-fit: contain;
+            background-color: #ffffff;
+            border: 1px solid var(--border);
+            padding: 8px;
+        }
+
+        .card-title-group h2 {
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin-bottom: 0.3rem;
+            color: #f8fafc;
+        }
+
+        .tag {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--accent-hover);
+            font-weight: 700;
+            background-color: rgba(5, 150, 105, 0.1);
+            padding: 0.25rem 0.6rem;
+            border-radius: 4px;
+            display: inline-block;
+        }
+
+        .card p {
+            color: var(--text-muted);
+            margin-bottom: 2rem;
+            flex-grow: 1;
+            font-size: 1rem;
+        }
+
+        .card-actions {
+            margin-top: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 0.8rem;
+        }
+
+        .btn {
+            display: block;
+            text-align: center;
+            background-color: rgba(5, 150, 105, 0.1);
+            border: 1px solid var(--accent);
+            color: #fff;
+            padding: 0.8rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+
+        .btn:hover { background-color: var(--accent); }
+
+        .btn-outline {
+            display: block;
+            text-align: center;
+            background-color: transparent;
+            color: var(--text-muted);
+            padding: 0.8rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.2s;
+        }
+
+        .btn-outline:hover { color: #fff; }
+
+        /* Bottom Section */
+        .bottom-cta-section {
+            background-color: #02060d;
+            padding: 6rem 5%;
+            text-align: center;
+            border-top: 1px solid var(--border);
+        }
+
+        .bottom-cta-content { max-width: 800px; margin: 0 auto; }
+        .bottom-cta-content h2 { font-size: 2.2rem; color: #fff; margin-bottom: 1.5rem; font-weight: 800; }
+        .bottom-cta-content p { color: var(--text-muted); font-size: 1.1rem; line-height: 1.8; margin-bottom: 2.5rem; }
+
+        /* Footer Strip */
+        .footer-strip {
+            background-color: #02050c;
+            padding: 2rem 5%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            border-top: 1px solid var(--border);
+            font-size: 0.85rem;
+            color: #475569;
+        }
+
+        .footer-node { font-family: monospace; }
+
+        /* Mobile Adjustments */
+        @media (max-width: 768px) {
+            .hero { padding-top: 4rem; gap: 2rem; }
+            .nav-links { display: none; }
+            .footer-strip { flex-direction: column; text-align: center; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="top-bar">
+        🔍 Benchmarking Autonomous Infrastructure · Zero human overhead, maximum efficiency.
+    </div>
+
+    <nav>
+        <a href="/" class="logo">
+            <span class="logo-dot">●</span> ZeroTouch<span class="logo-accent">Support</span>
+        </a>
+        <div class="nav-links">
+            <a href="#infrastructure">The Support Stack</a>
+            <a href="https://aibuildermarketplace.com" target="_blank" rel="noopener noreferrer">Software Directory →</a>
+        </div>
+    </nav>
+
+    <main>
+        <header class="hero">
+            <div class="hero-content">
+                <div class="hero-badge">
+                    🛡️ Objective Engineering for Support Operations
+                </div>
+                <h1>Scale business support with <span class="gradient-text">zero human overhead.</span></h1>
+                <p>Human customer support does not scale. Managing massive ticketing backlogs, shifting shift-rotations, and tackling infinite queues drains operating capital and caps expansion velocity. The future of operations belongs to autonomous, deterministic systems.</p>
+                <p>At ZeroTouchSupport, we test and benchmark the precise infrastructure required to build autonomous customer pipelines—enabling businesses to answer instantly, resolve accurately, and completely decouple support volume from headcount.</p>
+                
+                <div class="hero-quote">
+                    We evaluate software with zero fluff. Below is the verified infrastructure engineered to transition your customer operations into a self-sustaining asset.
+                </div>
+            </div>
+
+            <div class="terminal-container">
+                <div class="terminal-header">
+                    <div class="terminal-dot dot-red"></div>
+                    <div class="terminal-dot dot-yellow"></div>
+                    <div class="terminal-dot dot-green"></div>
+                    <div class="terminal-title">zerotouch_core_node (~/engine)</div>
+                </div>
+                <div class="terminal-body">
+                    // Initiating autonomous support diagnostic...<br>
+                    <span class="term-blue">[OK]</span> Human friction filters: ACTIVE<br>
+                    <span class="term-blue">[OK]</span> Deterministic response engines: ONLINE<br>
+                    <span class="term-green">[INFO] Network status: 100% Automated resolution routing</span><br>
+                    <br>
+                    operator@zerotouch:~$ run_operational_metrics<br>
+                    
+                    <div class="terminal-status-box">
+                        <div class="status-line">
+                            <span>🤖 Autonomous Resolution Rate:</span>
+                            <span class="term-green">94.2%</span>
+                        </div>
+                        <div class="status-line">
+                            <span>⏱️ Average Response Latency:</span>
+                            <span class="term-blue">&lt; 1.2 Seconds</span>
+                        </div>
+                        <div class="status-line">
+                            <span>📈 Scalability Ceiling:</span>
+                            <span class="term-green">Infinite</span>
+                        </div>
+                    </div>
+                    
+                    _ Awaiting infrastructure deployments<span class="cursor-blink">_</span>
+                </div>
+            </div>
+        </header>
+
+        <section id="infrastructure">
+            <div class="section-title">
+                <h2>The Core Support Stack</h2>
+            </div>
+            <div class="section-subtitle">
+                The primary operational layers required to deploy, automate, and scale full-lifecycle customer interactions without hiring an extra agent.
+            </div>
+
+            <div class="container">
+                <div class="grid">
+                    
+                    <!-- Core Layer 1: Hume AI -->
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=hume.ai&sz=128" alt="Hume AI Platform Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Voice Empathy Layer</div>
+                                <h2>Hume AI</h2>
+                            </div>
+                        </div>
+                        <p><strong>Decouple phone support from human agents.</strong> Traditional interactive voice systems feel robotic and frustrate users. Hume AI embeds deep emotional intelligence and conversational nuance into voice interactions, resolving complex customer calls with a natural, human-like interface entirely on autopilot.</p>
+                        <div class="card-actions">
+                            <a href="https://hume.ai" target="_blank" rel="noopener noreferrer" class="btn">Explore Hume Engine</a>
+                            <span class="btn-outline" style="font-size: 0.85rem; text-align: center; color: #475569;">Detailed Review Pending</span>
+                        </div>
+                    </article>
+
+                    <!-- Core Layer 2: CloudTalk -->
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=cloudtalk.io&sz=128" alt="CloudTalk Telephony Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">AI Voice Infrastructure</div>
+                                <h2>CloudTalk</h2>
+                            </div>
+                        </div>
+                        <p><strong>The routing back-end for autonomous support.</strong> Automated intelligent voice agents require stable, reliable telecom routing to perform. CloudTalk supplies the industrial-grade telephony backbone, connecting calling channels to your automated agents while instantly logging data fields.</p>
+                        <div class="card-actions">
+                            <a href="https://cloudtalk.io" target="_blank" rel="noopener noreferrer" class="btn">Examine Telephony Infra</a>
+                            <span class="btn-outline" style="font-size: 0.85rem; text-align: center; color: #475569;">Detailed Review Pending</span>
+                        </div>
+                    </article>
+
+                    <!-- Core Layer 3: Vista Social -->
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=vistasocial.com&sz=128" alt="Vista Social Unified Inbox Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Omnichannel Inbox</div>
+                                <h2>Vista Social</h2>
+                            </div>
+                        </div>
+                        <p><strong>Unify and automate multi-channel messaging.</strong> Social channels, DMs, reviews, and messaging apps are major operational vulnerabilities. Vista Social pipes every entry into a single unified workspace, using powerful automated workflows and response setups to eliminate manual ticket management entirely.</p>
+                        <div class="card-actions">
+                            <a href="https://join.vistasocial.com/3gvz9j8tfhuo" target="_blank" rel="noopener noreferrer" class="btn">Deploy Messaging Command</a>
+                            <span class="btn-outline" style="font-size: 0.85rem; text-align: center; color: #475569;">Review Live inside System Network</span>
+                        </div>
+                    </article>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- The Broad Picture Section -->
+        <section class="bottom-cta-section">
+            <div class="bottom-cta-content">
+                <h2>Systemic Freedom</h2>
+                <p>Automating customer operations isn't just about reducing payroll—it’s about safeguarding internal focus. By offloading highly repetitive inbound tickets onto structured, self-improving infrastructure, companies protect their engineering and core business development channels from constant interruption.</p>
+                <p style="color: #475569; font-size: 0.9rem; margin-top: 2rem;">© 2026 ZeroTouchSupport. Built with intentional logic. All rights reserved.</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Strip -->
+    <footer class="footer-strip">
+        <div class="footer-strip-left">
+            Zero Touch Support · Independent SaaS Evaluation Node
+        </div>
+        <div class="footer-strip-right">
+            <span class="footer-node">STATUS: DEPLOYED & MONITORING</span>
+        </div>
+    </footer>
+
+</body>
+</html>
