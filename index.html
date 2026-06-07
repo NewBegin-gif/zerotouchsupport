@@ -46,9 +46,7 @@
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
         }
 
-        html {
-            scroll-behavior: smooth;
-        }
+        html { scroll-behavior: smooth; }
 
         body {
             background-color: var(--bg-dark);
@@ -58,10 +56,8 @@
             -moz-osx-font-smoothing: grayscale;
         }
 
-        /* Typography */
         h1, h2, h3 { line-height: 1.2; }
         
-        /* Top Announcement Bar */
         .top-bar {
             background-color: #02050c;
             color: #64748b;
@@ -73,7 +69,6 @@
             letter-spacing: 0.02em;
         }
 
-        /* Navbar */
         nav {
             padding: 1.5rem 5%;
             display: flex;
@@ -113,7 +108,6 @@
         }
         .nav-links a:hover { color: var(--text-main); }
 
-        /* Hero Section */
         .hero {
             padding: 6rem 5% 4rem;
             max-width: 1200px;
@@ -124,10 +118,7 @@
             flex-wrap: wrap;
         }
 
-        .hero-content {
-            flex: 1;
-            min-width: 320px;
-        }
+        .hero-content { flex: 1; min-width: 320px; }
 
         .hero-badge {
             display: inline-flex;
@@ -172,7 +163,6 @@
             font-size: 1.05rem;
         }
 
-        /* Pro Terminal Box */
         .terminal-container {
             flex: 1;
             min-width: 320px;
@@ -215,7 +205,6 @@
         .term-green { color: #10b981; }
         .term-blue { color: #3b82f6; }
         
-        /* Cursor Animation */
         .cursor-blink { animation: blink 1s step-end infinite; }
         @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
 
@@ -233,7 +222,6 @@
             margin-bottom: 0.5rem;
         }
 
-        /* Section Titles */
         .section-title { text-align: center; margin: 4rem 0 1rem; }
         .section-title h2 { font-size: 2.5rem; color: #fff; font-weight: 800; }
         .section-subtitle {
@@ -244,7 +232,6 @@
             font-size: 1.1rem;
         }
 
-        /* Premium Grid Layout */
         .container {
             padding: 0 5% 6rem;
             max-width: 1200px;
@@ -267,7 +254,6 @@
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
-        /* Pro Hover Effect */
         .card:hover {
             transform: translateY(-5px);
             border-color: var(--accent);
@@ -353,7 +339,6 @@
 
         .btn-outline:hover { color: #fff; }
 
-        /* Bottom Section */
         .bottom-cta-section {
             background-color: #02060d;
             padding: 6rem 5%;
@@ -365,7 +350,6 @@
         .bottom-cta-content h2 { font-size: 2.2rem; color: #fff; margin-bottom: 1.5rem; font-weight: 800; }
         .bottom-cta-content p { color: var(--text-muted); font-size: 1.1rem; line-height: 1.8; margin-bottom: 2.5rem; }
 
-        /* Footer Strip */
         .footer-strip {
             background-color: #02050c;
             padding: 2rem 5%;
@@ -381,7 +365,6 @@
 
         .footer-node { font-family: monospace; }
 
-        /* Mobile Adjustments */
         @media (max-width: 768px) {
             .hero { padding-top: 4rem; gap: 2rem; }
             .nav-links { display: none; }
@@ -466,23 +449,7 @@
             <div class="container">
                 <div class="grid">
                     
-                    <!-- Core Layer 1: Hume AI -->
-                    <article class="card">
-                        <div class="card-header">
-                            <img src="https://www.google.com/s2/favicons?domain=hume.ai&sz=128" alt="Hume AI Platform Icon" class="card-icon" loading="lazy">
-                            <div class="card-title-group">
-                                <div class="tag">Voice Empathy Layer</div>
-                                <h2>Hume AI</h2>
-                            </div>
-                        </div>
-                        <p><strong>Decouple phone support from human agents.</strong> Traditional interactive voice systems feel robotic and frustrate users. Hume AI embeds deep emotional intelligence and conversational nuance into voice interactions, resolving complex customer calls with a natural, human-like interface entirely on autopilot.</p>
-                        <div class="card-actions">
-                            <a href="https://hume.ai" target="_blank" rel="noopener noreferrer" class="btn">Explore Hume Engine</a>
-                            <span class="btn-outline" style="font-size: 0.85rem; text-align: center; color: #475569;">Detailed Review Pending</span>
-                        </div>
-                    </article>
-
-                    <!-- Core Layer 2: CloudTalk -->
+                    <!-- Core Layer 1: CloudTalk -->
                     <article class="card">
                         <div class="card-header">
                             <img src="https://www.google.com/s2/favicons?domain=cloudtalk.io&sz=128" alt="CloudTalk Telephony Icon" class="card-icon" loading="lazy">
@@ -491,14 +458,14 @@
                                 <h2>CloudTalk</h2>
                             </div>
                         </div>
-                        <p><strong>The routing back-end for autonomous support.</strong> Automated intelligent voice agents require stable, reliable telecom routing to perform. CloudTalk supplies the industrial-grade telephony backbone, connecting calling channels to your automated agents while instantly logging data fields.</p>
+                        <p><strong>The routing back-end for autonomous voice support.</strong> Automated intelligent voice agents require stable telecom routing to perform. CloudTalk supplies the industrial-grade telephony backbone, connecting calling channels to your automated agents while instantly logging data fields.</p>
                         <div class="card-actions">
-                            <a href="https://cloudtalk.io" target="_blank" rel="noopener noreferrer" class="btn">Examine Telephony Infra</a>
-                            <span class="btn-outline" style="font-size: 0.85rem; text-align: center; color: #475569;">Detailed Review Pending</span>
+                            <a href="https://get.cloudtalk.io/750eho0hrkyk" target="_blank" rel="noopener noreferrer" class="btn">Examine Telephony Infra</a>
+                            <span class="btn-outline" style="font-size: 0.85rem; text-align: center; color: #475569;">Verified Partner Platform</span>
                         </div>
                     </article>
 
-                    <!-- Core Layer 3: Vista Social -->
+                    <!-- Core Layer 2: Vista Social -->
                     <article class="card">
                         <div class="card-header">
                             <img src="https://www.google.com/s2/favicons?domain=vistasocial.com&sz=128" alt="Vista Social Unified Inbox Icon" class="card-icon" loading="lazy">
@@ -507,10 +474,74 @@
                                 <h2>Vista Social</h2>
                             </div>
                         </div>
-                        <p><strong>Unify and automate multi-channel messaging.</strong> Social channels, DMs, reviews, and messaging apps are major operational vulnerabilities. Vista Social pipes every entry into a single unified workspace, using powerful automated workflows and response setups to eliminate manual ticket management entirely.</p>
+                        <p><strong>Unify and automate multi-channel messaging.</strong> Social channels, DMs, and messaging apps are major operational vulnerabilities. Vista Social pipes every entry into a single workspace, using powerful automated workflows and auto-responses to eliminate manual ticket management.</p>
                         <div class="card-actions">
                             <a href="https://join.vistasocial.com/3gvz9j8tfhuo" target="_blank" rel="noopener noreferrer" class="btn">Deploy Messaging Command</a>
-                            <span class="btn-outline" style="font-size: 0.85rem; text-align: center; color: #475569;">Review Live inside System Network</span>
+                            <span class="btn-outline" style="font-size: 0.85rem; text-align: center; color: #475569;">Verified Partner Platform</span>
+                        </div>
+                    </article>
+
+                    <!-- Core Layer 3: Reply.io -->
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=reply.io&sz=128" alt="Reply.io AI Email Resolution" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">AI Email Resolution</div>
+                                <h2>Reply.io</h2>
+                            </div>
+                        </div>
+                        <p><strong>Automate inbound email support.</strong> While traditionally used for sales outreach, Reply’s powerful AI infrastructure is perfectly equipped to categorize, route, and autonomously answer complex inbound support emails, drastically reducing manual inbox management.</p>
+                        <div class="card-actions">
+                            <a href="https://get.reply.io/l5ko4nvevkas" target="_blank" rel="noopener noreferrer" class="btn">Explore AI Inbox Logic</a>
+                            <span class="btn-outline" style="font-size: 0.85rem; text-align: center; color: #475569;">Verified Partner Platform</span>
+                        </div>
+                    </article>
+
+                    <!-- Core Layer 4: KrispCall -->
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=krispcall.com&sz=128" alt="KrispCall Virtual Contact Center" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Virtual Contact Center</div>
+                                <h2>KrispCall</h2>
+                            </div>
+                        </div>
+                        <p><strong>Modernize global telecom pipelines.</strong> A lightweight, highly scalable cloud telephony platform that allows you to virtualize your entire contact center. Perfect for seamlessly integrating with AI voice bots to handle intelligent routing and dynamic call distribution.</p>
+                        <div class="card-actions">
+                            <a href="https://try.krispcall.com/oxhjrkcubhma" target="_blank" rel="noopener noreferrer" class="btn">Virtualize Call Center</a>
+                            <span class="btn-outline" style="font-size: 0.85rem; text-align: center; color: #475569;">Verified Partner Platform</span>
+                        </div>
+                    </article>
+
+                    <!-- Core Layer 5: Calilio -->
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=calilio.com&sz=128" alt="Calilio Cloud Telecom" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Business Cloud Telecom</div>
+                                <h2>Calilio</h2>
+                            </div>
+                        </div>
+                        <p><strong>Streamlined VoIP for autonomous routing.</strong> A robust business communication platform that seamlessly connects your digital support logic to global phone networks. It enables complex IVR setups and automated resolution paths without physical hardware bottlenecks.</p>
+                        <div class="card-actions">
+                            <a href="https://try.calilio.com/ntqjzss06d92" target="_blank" rel="noopener noreferrer" class="btn">Deploy Cloud Telecom</a>
+                            <span class="btn-outline" style="font-size: 0.85rem; text-align: center; color: #475569;">Verified Partner Platform</span>
+                        </div>
+                    </article>
+
+                    <!-- Core Layer 6: CometChat -->
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=cometchat.com&sz=128" alt="CometChat In-App Infrastructure" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">In-App Chat Infrastructure</div>
+                                <h2>CometChat</h2>
+                            </div>
+                        </div>
+                        <p><strong>Deploy native messaging environments.</strong> When building autonomous support into your own software, you need rock-solid chat architecture. CometChat provides the B2B APIs and UI kits to deploy secure, bot-ready in-app messaging logic instantly.</p>
+                        <div class="card-actions">
+                            <a href="https://try.cometchat.com/155dumgioc1q" target="_blank" rel="noopener noreferrer" class="btn">Build Chat Infrastructure</a>
+                            <span class="btn-outline" style="font-size: 0.85rem; text-align: center; color: #475569;">Verified Partner Platform</span>
                         </div>
                     </article>
 
