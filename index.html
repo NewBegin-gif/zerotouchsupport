@@ -18,7 +18,6 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-CW1KZ258ZV');
     </script>
     
@@ -64,6 +63,7 @@
             font-weight: 500;
         }
 
+        /* Omni-Navigation */
         nav {
             padding: 1.5rem 5%;
             display: flex;
@@ -91,7 +91,22 @@
         .logo-dot { color: var(--accent); font-size: 1.2rem; }
         .logo-accent { color: #f8fafc; font-weight: 400; }
 
-        .nav-links { display: flex; gap: 2rem; align-items: center; }
+        .nav-links { display: flex; gap: 1.5rem; align-items: center; }
+        
+        .nav-network-label {
+            font-size: 0.7rem;
+            color: #64748b;
+            font-family: monospace;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-right: -0.5rem;
+        }
+
+        .nav-links .separator {
+            color: var(--border);
+            margin: 0 0.5rem;
+        }
+
         .nav-links a {
             color: var(--text-muted);
             text-decoration: none;
@@ -358,6 +373,7 @@
         .stat-value { font-size: 1.5rem; font-weight: 800; color: var(--accent-hover); }
         .stat-label { font-size: 0.85rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em; }
 
+        /* Unified Ecosystem Hub Section */
         .network-section {
             padding: 6rem 5%;
             max-width: 1200px;
@@ -370,11 +386,11 @@
         }
 
         .network-header h2 { font-size: 2rem; color: #fff; margin-bottom: 1rem; }
-        .network-header p { color: var(--text-muted); max-width: 600px; margin: 0 auto; }
+        .network-header p { color: var(--text-muted); max-width: 600px; margin: 0 auto; font-size: 1.1rem; }
 
         .network-cards {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
             gap: 1.5rem;
         }
 
@@ -387,11 +403,13 @@
             transition: all 0.2s;
             position: relative;
             overflow: hidden;
+            display: block;
         }
 
         .net-card:hover {
             border-color: #475569;
             background-color: #08101f;
+            transform: translateY(-3px);
         }
 
         .net-tag {
@@ -402,9 +420,11 @@
             display: block;
         }
 
-        .net-card h3 { color: #f8fafc; font-size: 1.2rem; margin-bottom: 0.5rem; }
-        .net-card p { color: var(--text-muted); font-size: 0.9rem; }
+        .net-card h3 { color: #f8fafc; font-size: 1.2rem; margin-bottom: 0.5rem; transition: color 0.2s; }
+        .net-card:hover h3 { color: var(--text-main); }
+        .net-card p { color: var(--text-muted); font-size: 0.9rem; line-height: 1.6; }
         
+        /* Footer */
         .footer-strip {
             background-color: #02050c;
             padding: 2rem 5%;
@@ -415,6 +435,28 @@
             gap: 1.5rem;
             border-top: 1px solid var(--border);
             font-size: 0.85rem;
+            color: #475569;
+        }
+
+        .footer-strip-right {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .footer-strip a {
+            color: #94a3b8;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .footer-strip a:hover {
+            color: #fff;
+        }
+
+        .footer-node {
+            font-family: monospace;
             color: #475569;
         }
 
@@ -437,9 +479,12 @@
             <span class="logo-dot">●</span> ZeroTouch<span class="logo-accent">Support</span>
         </a>
         <div class="nav-links">
-            <a href="#infrastructure">The Tools</a>
-            <a href="#about">About Me</a>
-            <a href="#network">Our Network</a>
+            <span class="nav-network-label">The Network</span>
+            <span class="separator">|</span>
+            <a href="https://theweeklyaiedge.com/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=cross_brand" target="_blank">AI Edge</a>
+            <a href="https://theweekly2pctedge.com/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=cross_brand" target="_blank">Honest Stack</a>
+            <a href="https://aibuildermarketplace.com/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=cross_brand" target="_blank">AI Builders</a>
+            <a href="https://officesoftwaremarketplace.com/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=cross_brand" target="_blank">Office Software</a>
         </div>
     </nav>
 
@@ -654,24 +699,32 @@
 
         <section id="network" class="network-section">
             <div class="network-header">
-                <h2>Explore the Network</h2>
-                <p>ZeroTouchSupport is part of a broader family of websites. We review, test, and write about the tools that help professionals build better businesses.</p>
+                <h2>Explore Our Broader Network</h2>
+                <p>This platform is one node in our unified ecosystem. Depending on your current operational focus, traverse our specialized network lanes to reclaim your time.</p>
             </div>
             <div class="network-cards">
-                <a href="https://aibuildermarketplace.com" target="_blank" rel="noopener noreferrer" class="net-card">
-                    <span class="net-tag">THE DIRECTORY</span>
-                    <h3>AI Builder Marketplace →</h3>
-                    <p>A straightforward directory of the best B2B software and AI tools to help you automate everyday tasks across your entire business.</p>
+                <a href="https://theweeklyaiedge.com/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=cross_brand" target="_blank" rel="noopener noreferrer" class="net-card">
+                    <span class="net-tag">01 / Trends & Mindset</span>
+                    <h3>The Weekly AI Edge &rarr;</h3>
+                    <p>Mindful analysis tracking major software shifts, cutting straight through market noise.</p>
                 </a>
-                <a href="https://theweekly2pctedge.com" target="_blank" rel="noopener noreferrer" class="net-card">
-                    <span class="net-tag">THE HONEST STACK</span>
-                    <h3>The Weekly 2% Edge →</h3>
-                    <p>Deep-dive case studies and reviews on the specific tools we actually use ourselves to buy back our time and stay organized.</p>
+                
+                <a href="https://theweekly2pctedge.com/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=cross_brand" target="_blank" rel="noopener noreferrer" class="net-card">
+                    <span class="net-tag">02 / Applied Automation</span>
+                    <h3>The Weekly 2% Edge &rarr;</h3>
+                    <p>Deep-dive personal case studies demonstrating precise execution of digital optimization.</p>
                 </a>
-                <a href="https://theweeklyaiedge.com" target="_blank" rel="noopener noreferrer" class="net-card">
-                    <span class="net-tag">THE TIMELINE</span>
-                    <h3>The Weekly AI Edge →</h3>
-                    <p>A human-centric look at the latest software trends. We cut through the noise to find tools that actually offer practical utility.</p>
+                
+                <a href="https://aibuildermarketplace.com/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=cross_brand" target="_blank" rel="noopener noreferrer" class="net-card">
+                    <span class="net-tag">04 / The Tech Registry</span>
+                    <h3>AI Builder Marketplace &rarr;</h3>
+                    <p>Curated platform tailored for AI developers, system architects, and tech pipelines.</p>
+                </a>
+
+                <a href="https://officesoftwaremarketplace.com/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=cross_brand" target="_blank" rel="noopener noreferrer" class="net-card">
+                    <span class="net-tag">05 / The Commodity Directory</span>
+                    <h3>Office Software &rarr;</h3>
+                    <p>Comprehensive database for day-to-day business utilities across all operational lanes.</p>
                 </a>
             </div>
         </section>
@@ -683,7 +736,9 @@
             ZeroTouchSupport · Helping you automate the busywork.
         </div>
         <div class="footer-strip-right">
-            <span>© 2026 All rights reserved.</span>
+            <a href="https://aibuildermarketplace.com/about/" target="_blank" rel="noopener noreferrer">About Me</a>
+            <span style="color: #334155;">|</span>
+            <span class="footer-node">Node Status: Active & Balanced</span>
         </div>
     </footer>
 
