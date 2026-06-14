@@ -135,5 +135,25 @@
         </aside>
     </div>
 <p style="font-size:.75rem;opacity:.6;text-align:center;margin:12px 0">Some links are affiliate links — we may earn a commission at no extra cost to you.</p>
+<script id="aff-click-tracker">
+(function(){try{
+  if (window.__affTrack) return; window.__affTrack = 1;
+  document.addEventListener('click', function(e){
+    try{
+      var t = e.target;
+      var a = t && t.closest ? t.closest('a[rel~="sponsored"]') : null;
+      if (!a || !a.href || a.href.indexOf('http') !== 0) return;
+      var h = 'unknown';
+      try { h = new URL(a.href).hostname.replace(/^(www|try|get|go|join|start|now|refer|partners?|affiliates?|psref)\./,''); } catch(_){}
+      if (window.gtag) gtag('event', 'affiliate_click', {
+        partner: h,
+        link_url: a.href.split('?')[0],
+        transport_type: 'beacon'
+      });
+    }catch(_){}
+  }, true);
+}catch(_){}})();
+</script>
+<aside class="aibm-read-more" style="max-width:760px;margin:2rem auto;padding:0.9rem 1.2rem;border:1px solid #1e293b;border-radius:10px;font-size:.88rem;opacity:.92"><strong>Go deeper on Readymode at AIBuilder Marketplace:</strong> <a href="https://aibuildermarketplace.com/deals/readymode/" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline">Readymode deal &amp; pricing</a> · <a href="https://aibuildermarketplace.com/finder/" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline">find your tool</a></aside>
 </body>
 </html>
