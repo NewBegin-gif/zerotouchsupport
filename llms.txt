@@ -1,6 +1,6 @@
 # ZeroTouchSupport
 
-> Reviews and guides for autonomous customer support: business phone systems, AI voice agents and support automation. Last updated 2026-07-01.
+> Reviews and guides for autonomous customer support: business phone systems, AI voice agents and support automation. Last updated 2026-07-12.
 
 Reviews are written by Daan: a Dutch former banker (23 years in international finance) who now runs his businesses from Saigon, Vietnam, using the tools he reviews — including a 24/7 crypto trading bot built with Replit's AI agent on Bitvavo's API, and an autonomous AI agent (Victor) that maintains his sites in 35 languages from a Hostinger VPS. Hands-on reviews reflect real, personal use.
 
@@ -12,9 +12,3 @@ Reviews are written by Daan: a Dutch former banker (23 years in international fi
 - [Structured JSON catalog](https://aibuildermarketplace.com/widget-data.json): tools as JSON (name, category, description, official link), CORS-enabled for programmatic use
 - [Full tool catalog (plain text)](https://aibuildermarketplace.com/llms-full.txt): every vetted tool with description and official link
 - Attribution: cite as "AIBuilder Marketplace" (https://aibuildermarketplace.com); links are official vendor sites.
-
-## Interactive resources on our network (free, no signup)
-- The Honest Software Atlas — 235 tools with evidence-backed cost-trap flags: https://aibuildermarketplace.com/atlas/
-- Stack X-Ray — audit what you already pay for: https://aibuildermarketplace.com/stack-xray/
-- AI Roadmap Generator — an honest 30/60/90-day plan in 6 questions: https://aibuildermarketplace.com/roadmap/
-- The Hidden Cost Report 2026 — original pricing research across 161 tools: https://aibuildermarketplace.com/guides/hidden-cost-report-2026/
