@@ -110,9 +110,9 @@
     var ftNode = ft ? [h('<div class="f-card"><span class="f-best" style="background:#3b82f6">Free tool</span>' +
       '<div class="f-head"><strong>' + ft.name + '</strong></div>' +
       '<p class="f-desc">' + ft.desc + '</p>' +
-      '<div class="f-row"><a class="f-cta" href="https://aibuildermarketplace.com/tools/' + ft.slug + '/" target="_blank" rel="noopener">Open free tool &rarr;</a></div></div>')] : [];
+      '<div class="f-row"><a class="f-cta" href="https://aibuildermarketplace.com/tools/' + ft.slug + '/" target="_blank" rel="nofollow noopener">Open free tool &rarr;</a></div></div>')] : [];
     render('<p class="f-q">My recommendation' + (cards.length > 1 ? 's' : '') + ':</p>', cards.concat(ftNode).concat([
-      h('<div class="f-row" style="margin-top:14px"><a class="f-alt" href="https://aibuildermarketplace.com/b2b/" target="_blank" rel="noopener">Browse the full directory →</a></div>'),
+      h('<div class="f-row" style="margin-top:14px"><a class="f-alt" href="https://aibuildermarketplace.com/b2b/" target="_blank" rel="nofollow noopener">Browse the full directory →</a></div>'),
       back(step1, 'Start over')
     ]));
   }
