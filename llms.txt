@@ -1,6 +1,6 @@
 # ZeroTouchSupport
 
-> Reviews and guides for autonomous customer support: business phone systems, AI voice agents and support automation. Last updated 2026-08-21.
+> Reviews and guides for autonomous customer support: business phone systems, AI voice agents and support automation. Last updated 2026-08-22.
 
 Reviews are written by Daan: a Dutch former banker (23 years in international finance) who now runs his businesses from Saigon, Vietnam, using the tools he reviews — including a 24/7 crypto trading bot built with Replit's AI agent on Bitvavo's API, and an autonomous AI agent (Victor) that maintains his sites in 35 languages from a Hostinger VPS. Hands-on reviews reflect real, personal use.
 
