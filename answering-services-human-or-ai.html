@@ -221,30 +221,47 @@ h1{font-size:1.5rem}
 }.wrap /*aibm-nav-align*/.nav-inner,.wrap .nav-in,.wrap .topnav-inner{box-sizing:border-box;max-width:1180px;margin-left:auto;margin-right:auto;padding-left:24px;padding-right:24px}.wrap .nav,.wrap .topnav{padding-left:0;padding-right:0}.wrap .nav-logo,.wrap .logo-t,.wrap .topnav-logo{margin-left:0 !important}
 .wrap{max-width:800px;margin:0 auto;padding:14px 24px 70px}</style>
 <style>:root{--bg:#0b1020;--card:#141a2e;--card2:#1b2340;--border:#2a3352;--text:#f5f7ff;--text2:#c7cee6;--muted:#8f98b8;--accent:#6366f1;}
-.hub{max-width:820px;margin:0 auto;padding:14px 24px 70px;color:var(--text)}
-.hub h1{font-size:2rem;line-height:1.2;letter-spacing:-.02em;margin:.4em 0 .3em}
-.hub h2{font-size:1.3rem;margin:2.2em 0 .6em;letter-spacing:-.01em}
-.hub h3{font-size:1.02rem;margin:1.6em 0 .4em}
+.hub{max-width:820px;margin:0 auto;padding:14px 24px 40px;color:var(--text)}
+.hub h1{font-size:clamp(1.6rem,4vw,2.2rem);line-height:1.15;font-weight:900;
+ letter-spacing:-.02em;margin:.3em 0 .3em}
+.hub h2{font-size:1.3rem;font-weight:800;margin:34px 0 12px;padding-bottom:7px;
+ border-bottom:1px solid var(--border)}
+.hub h3{font-size:1rem;font-weight:700;margin:1.5em 0 .35em}
 .hub p,.hub li{color:var(--text2);line-height:1.75}
 .hub .bc{font-size:.8rem;color:var(--muted);margin:14px 0}
 .hub .lede{font-size:1.08rem;color:var(--text2)}
 .hub .meta{display:flex;gap:14px;flex-wrap:wrap;color:var(--muted);
  font-size:.8rem;margin:.6em 0 1.4em}
-.hub table{width:100%;border-collapse:collapse;margin:1.2em 0;font-size:.9rem}
-.hub th,.hub td{border-bottom:1px solid var(--border);padding:10px 12px;
- text-align:left;vertical-align:top}
-.hub th{color:var(--text);font-weight:700;font-size:.82rem;
- text-transform:uppercase;letter-spacing:.04em}
-.hub td{color:var(--text2)}
+.hub .pick{background:var(--card);border:1px solid var(--border);
+ border-radius:14px;padding:18px 20px 16px;margin:14px 0}
+.hub .pick-h{display:flex;align-items:center;gap:12px;margin-bottom:8px}
+.hub .rank{flex:none;width:26px;height:26px;border-radius:8px;
+ background:var(--accent);color:#0a0a0a;font-weight:900;font-size:.85rem;
+ display:flex;align-items:center;justify-content:center}
+.hub .lg{position:relative;flex:none;width:38px;height:38px;border-radius:9px;
+ background:#fff;display:flex;align-items:center;justify-content:center;
+ overflow:hidden}
+.hub .lg img{position:relative;max-width:80%;max-height:80%;object-fit:contain}
+.hub .lt{position:absolute;font-weight:900;color:#0a0a0a;font-size:1rem}
+.hub .pick-n{font-weight:800;font-size:1.05rem;color:var(--text)}
+.hub .pick-bf{font-size:.8rem;color:var(--accent);font-weight:700}
+.hub .pick-d{margin:0 0 10px}
+.hub .skip{font-size:.86rem;color:var(--muted);margin:0 0 12px}
+.hub .pick-cta{display:inline-block;background:var(--accent);color:#0a0a0a;
+ font-weight:800;font-size:.86rem;padding:9px 16px;border-radius:9px;
+ text-decoration:none}
+.hub .pick-rev{margin-left:14px;font-size:.86rem;color:var(--accent)}
 .hub .tabelwrap{overflow-x:auto}
-.hub .kaart{background:var(--card);border:1px solid var(--border);
- border-radius:14px;padding:18px 20px;margin:1em 0}
-.hub .kaart h3{margin-top:0}
-.hub .stempel{display:inline-block;font-size:.76rem;color:var(--muted);
- border:1px solid var(--border);border-radius:999px;padding:3px 10px}
+.hub table{width:100%;border-collapse:collapse;margin:14px 0;font-size:.9rem}
+.hub th,.hub td{border-bottom:1px solid var(--border);padding:9px 11px;
+ text-align:left;vertical-align:top}
+.hub th{color:var(--muted);font-size:.72rem;text-transform:uppercase;
+ letter-spacing:.05em;font-weight:700}
+.hub .stempel{display:inline-block;font-size:.74rem;color:var(--muted)}
 .hub a{color:var(--accent)}
 .hub .disc{color:var(--muted);font-size:.82rem;margin-top:26px;
  border-top:1px solid var(--border);padding-top:14px}
+@media(max-width:520px){.hub .pick-rev{display:block;margin:10px 0 0}}
 </style>
 </head>
 <body>
@@ -273,10 +290,10 @@ h1{font-size:1.5rem}
 <tr><td><a href="/answering-service-care-review.html"><strong>Answering Service Care</strong></a></td><td>included minutes, four plans</td><td>Four plans, priced on included minutes.<br><span class="stempel">read 2026-08-19</span></td><td>your callers mostly want things a human does not need to do — order status, opening hours, a password reset — because you are paying per minute for a person to read them out. Skip it too if your volume is high and variable: at 500-plus minutes you are past the published ladder and into a custom quote, and per-minute billing makes a busy month expensive in a way a flat-rate provider would not</td></tr>
 <tr><td><a href="/lucrovox-review.html"><strong>Lucrovox</strong></a></td><td>per AI-handled call, three tiers</td><td>The phone agent has three published tiers and the plan table is back on the page: Starter $199 a month for up to 100 AI-handled calls, Pro $499 for up to 500 calls with CRM integration and advanced lead qualification, Enterprise $999 for up to 2,000 calls with white-label branding and multi-location support.<br><span class="stempel">read 2026-08-24</span></td><td>your call volume is tiny (100 Starter calls is the whole point) or your callers expect a human — ring their live demo line first and judge the voice yourself</td></tr>
 </tbody></table></div>
-<h2>Why each one is on the list</h2>
-<div class="kaart"><h3>Ruby</h3><p>Live human receptionists on a minute ladder, and the ladder is steep: this is a premium product priced like one. It earns that where a human voice directly wins the business — law, home services, clinics — and does not where the calls are routine.</p><p><a href="/ruby-review.html">Read the full Ruby review &rarr;</a></p></div>
-<div class="kaart"><h3>Answering Service Care</h3><p>The same model at a different point on the curve, with bilingual coverage. Right for a small business that loses money when a call goes to voicemail. The warning it deserves is the same one: you are paying people to answer things a person does not need to answer.</p><p><a href="/answering-service-care-review.html">Read the full Answering Service Care review &rarr;</a></p></div>
-<div class="kaart"><h3>Lucrovox</h3><p>An AI receptionist that answers missed calls, books jobs and captures details, priced per call handled rather than per minute. The economics are very different from the two above. Worth ringing their live demo line first and judging the voice yourself — that is the whole decision.</p><p><a href="/lucrovox-review.html">Read the full Lucrovox review &rarr;</a></p></div>
+<h2>The picks</h2>
+<div class="pick"><div class="pick-h"><span class="rank">1</span><span class="lg"><span class="lt">R</span><img data-d="ruby.com" src="https://logo.clearbit.com/ruby.com" alt="Ruby" loading="lazy" onerror="fb(this)"></span><div><div class="pick-n">Ruby</div><div class="pick-bf">Best for: client-driven service businesses (law, home services, clinics) where a live human answering every call directly wins bus</div></div></div><p class="pick-d">Live human receptionists on a minute ladder, and the ladder is steep: this is a premium product priced like one. It earns that where a human voice directly wins the business — law, home services, clinics — and does not where the calls are routine.</p><p class="skip"><strong>Skip it if</strong> your call volume is low or mostly routine — an AI answering service or a solid voicemail-to-text setup costs far less</p><a class="pick-cta" href="https://get.ruby.com/wlngs0yc8d9c" target="_blank" rel="sponsored noopener nofollow">Visit Ruby &rarr;</a><a class="pick-rev" href="/ruby-review.html">Read our full Ruby review &rarr;</a></div>
+<div class="pick"><div class="pick-h"><span class="rank">2</span><span class="lg"><span class="lt">A</span><img data-d="answeringservicecare.com" src="https://logo.clearbit.com/answeringservicecare.com" alt="Answering Service Care" loading="lazy" onerror="fb(this)"></span><div><div class="pick-n">Answering Service Care</div><div class="pick-bf">Best for: a small business that loses money when a call goes to voicemail — trades, clinics, law and property firms — and wants re</div></div></div><p class="pick-d">The same model at a different point on the curve, with bilingual coverage. Right for a small business that loses money when a call goes to voicemail. The warning it deserves is the same one: you are paying people to answer things a person does not need to answer.</p><p class="skip"><strong>Skip it if</strong> your callers mostly want things a human does not need to do — order status, opening hours, a password reset — because you are paying per minute for a person to read them out. Skip it too if your volume is high and variable: at 500-plus minutes you are past the published ladder and into a custom quote, and per-minute billing makes a busy month expensive in a way a flat-rate provider would not</p><a class="pick-cta" href="https://partners.answeringservicecare.com/nl6tzxl11oot" target="_blank" rel="sponsored noopener nofollow">Visit Answering Service Care &rarr;</a><a class="pick-rev" href="/answering-service-care-review.html">Read our full Answering Service Care review &rarr;</a></div>
+<div class="pick"><div class="pick-h"><span class="rank">3</span><span class="lg"><span class="lt">L</span><img data-d="lucrovox.com" src="https://logo.clearbit.com/lucrovox.com" alt="Lucrovox" loading="lazy" onerror="fb(this)"></span><div><div class="pick-n">Lucrovox</div><div class="pick-bf">Best for: local service businesses — HVAC, plumbing, roofing, med spas — losing revenue to missed calls who want a 24/7 AI recepti</div></div></div><p class="pick-d">An AI receptionist that answers missed calls, books jobs and captures details, priced per call handled rather than per minute. The economics are very different from the two above. Worth ringing their live demo line first and judging the voice yourself — that is the whole decision.</p><p class="skip"><strong>Skip it if</strong> your call volume is tiny (100 Starter calls is the whole point) or your callers expect a human — ring their live demo line first and judge the voice yourself</p><a class="pick-cta" href="https://try.lucrovox.com/0whtc6de3h9c" target="_blank" rel="sponsored noopener nofollow">Visit Lucrovox &rarr;</a><a class="pick-rev" href="/lucrovox-review.html">Read our full Lucrovox review &rarr;</a></div>
 <h2>Sort your calls before you buy</h2>
 <p>Spend one week tagging incoming calls into three buckets: someone wants information, someone wants to book, someone is deciding whether to hire you. The first two are what an AI agent handles well and what a human service charges you a premium to do. The third is where a live receptionist earns the money.</p>
 <p>Most businesses find the split is not what they assumed, and the answer is often both — an AI layer for hours and status, a human service for the calls that decide revenue. Pricing them as an either-or is what makes this category look expensive.</p>
@@ -284,8 +301,10 @@ h1{font-size:1.5rem}
 <h3>Will callers notice it is an AI?</h3><p>Often yes, and whether that matters depends entirely on why they rang. For a booking or an opening-hours question most people do not mind; for a decision about trusting you with something expensive, they do.</p>
 <h3>Is voicemail-to-text enough?</h3><p>For low volume, frequently. The case for an answering service is that a caller who reaches voicemail often rings your competitor next — if that is not happening to you, this whole category is optional.</p>
 <h3>How do I compare minute-based and call-based pricing?</h3><p>Work out your average call length and your monthly call count, then price both models against those two numbers. A short-call business is penalised by minute rounding; a long-call business is penalised by per-call pricing.</p>
+<h2>Other buying guides on this site</h2><ul><li><a href="/shopify-helpdesk-apps.html">Shopify helpdesk apps: four meters, and only one of them is agents</a></li><li><a href="/virtual-phone-systems.html">Virtual phone systems: the seat price is not the bill</a></li><li><a href="/helpdesk-platforms-compared.html">Helpdesk platforms: the entry tier is never the product you saw</a></li><li><a href="/whatsapp-and-messaging-inboxes.html">WhatsApp and messaging inboxes: platform fee plus per-message, always</a></li><li><a href="/outbound-calling-at-volume.html">Calling at volume: dialer, call centre or just a good phone system</a></li></ul>
 <p class="disc">Some links on this page are affiliate links: if you sign up we may earn a commission, at no cost to you, and it never changes what we write. Every figure above was read on the vendor&rsquo;s own page on the date shown.</p>
 </div>
+<script>function fb(i){if(!i.dataset.f){i.dataset.f=1;i.src="https://www.google.com/s2/favicons?domain="+i.dataset.d+"&sz=64";}}</script>
 <!--sister-net-start-->
 <nav aria-label="Sister sites" style="max-width:1100px;margin:28px auto 0;padding:16px 20px 4px;border-top:1px solid rgba(128,128,128,.22);font-size:.8rem;line-height:2;text-align:center;opacity:.8"><span style="display:block;text-transform:uppercase;letter-spacing:.12em;font-size:.66rem;opacity:.7;margin-bottom:4px">Part of the network</span><a href="https://aibuildermarketplace.com/?utm_source=zerotouchsupport&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">AI Builder Marketplace</a> <span style="opacity:.4">&middot;</span> <a href="https://officesoftwaremarketplace.com/?utm_source=zerotouchsupport&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">Office Software</a> <span style="opacity:.4">&middot;</span> <a href="https://marketingandsalessoftware.com/?utm_source=zerotouchsupport&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">Marketing & Sales Software</a> <span style="opacity:.4">&middot;</span> <a href="https://theweeklyaiedge.com/?utm_source=zerotouchsupport&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">The Weekly AI Edge</a> <span style="opacity:.4">&middot;</span> <a href="https://theweekly2pctedge.com/?utm_source=zerotouchsupport&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">The Weekly 2% Edge</a><span style="display:block;margin-top:6px;font-size:.72rem;opacity:.65">Six sites, one owner &mdash; all built and run by <a href="https://aibuildermarketplace.com/about/?utm_source=zerotouchsupport&utm_medium=footer_net&utm_campaign=network_owner" rel="nofollow noopener" target="_blank" style="color:inherit">Daniel Haket</a>.</span></nav>
 <!--sister-net-end-->

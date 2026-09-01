@@ -221,30 +221,47 @@ h1{font-size:1.5rem}
 }.wrap /*aibm-nav-align*/.nav-inner,.wrap .nav-in,.wrap .topnav-inner{box-sizing:border-box;max-width:1180px;margin-left:auto;margin-right:auto;padding-left:24px;padding-right:24px}.wrap .nav,.wrap .topnav{padding-left:0;padding-right:0}.wrap .nav-logo,.wrap .logo-t,.wrap .topnav-logo{margin-left:0 !important}
 .wrap{max-width:800px;margin:0 auto;padding:14px 24px 70px}</style>
 <style>:root{--bg:#0b1020;--card:#141a2e;--card2:#1b2340;--border:#2a3352;--text:#f5f7ff;--text2:#c7cee6;--muted:#8f98b8;--accent:#6366f1;}
-.hub{max-width:820px;margin:0 auto;padding:14px 24px 70px;color:var(--text)}
-.hub h1{font-size:2rem;line-height:1.2;letter-spacing:-.02em;margin:.4em 0 .3em}
-.hub h2{font-size:1.3rem;margin:2.2em 0 .6em;letter-spacing:-.01em}
-.hub h3{font-size:1.02rem;margin:1.6em 0 .4em}
+.hub{max-width:820px;margin:0 auto;padding:14px 24px 40px;color:var(--text)}
+.hub h1{font-size:clamp(1.6rem,4vw,2.2rem);line-height:1.15;font-weight:900;
+ letter-spacing:-.02em;margin:.3em 0 .3em}
+.hub h2{font-size:1.3rem;font-weight:800;margin:34px 0 12px;padding-bottom:7px;
+ border-bottom:1px solid var(--border)}
+.hub h3{font-size:1rem;font-weight:700;margin:1.5em 0 .35em}
 .hub p,.hub li{color:var(--text2);line-height:1.75}
 .hub .bc{font-size:.8rem;color:var(--muted);margin:14px 0}
 .hub .lede{font-size:1.08rem;color:var(--text2)}
 .hub .meta{display:flex;gap:14px;flex-wrap:wrap;color:var(--muted);
  font-size:.8rem;margin:.6em 0 1.4em}
-.hub table{width:100%;border-collapse:collapse;margin:1.2em 0;font-size:.9rem}
-.hub th,.hub td{border-bottom:1px solid var(--border);padding:10px 12px;
- text-align:left;vertical-align:top}
-.hub th{color:var(--text);font-weight:700;font-size:.82rem;
- text-transform:uppercase;letter-spacing:.04em}
-.hub td{color:var(--text2)}
+.hub .pick{background:var(--card);border:1px solid var(--border);
+ border-radius:14px;padding:18px 20px 16px;margin:14px 0}
+.hub .pick-h{display:flex;align-items:center;gap:12px;margin-bottom:8px}
+.hub .rank{flex:none;width:26px;height:26px;border-radius:8px;
+ background:var(--accent);color:#0a0a0a;font-weight:900;font-size:.85rem;
+ display:flex;align-items:center;justify-content:center}
+.hub .lg{position:relative;flex:none;width:38px;height:38px;border-radius:9px;
+ background:#fff;display:flex;align-items:center;justify-content:center;
+ overflow:hidden}
+.hub .lg img{position:relative;max-width:80%;max-height:80%;object-fit:contain}
+.hub .lt{position:absolute;font-weight:900;color:#0a0a0a;font-size:1rem}
+.hub .pick-n{font-weight:800;font-size:1.05rem;color:var(--text)}
+.hub .pick-bf{font-size:.8rem;color:var(--accent);font-weight:700}
+.hub .pick-d{margin:0 0 10px}
+.hub .skip{font-size:.86rem;color:var(--muted);margin:0 0 12px}
+.hub .pick-cta{display:inline-block;background:var(--accent);color:#0a0a0a;
+ font-weight:800;font-size:.86rem;padding:9px 16px;border-radius:9px;
+ text-decoration:none}
+.hub .pick-rev{margin-left:14px;font-size:.86rem;color:var(--accent)}
 .hub .tabelwrap{overflow-x:auto}
-.hub .kaart{background:var(--card);border:1px solid var(--border);
- border-radius:14px;padding:18px 20px;margin:1em 0}
-.hub .kaart h3{margin-top:0}
-.hub .stempel{display:inline-block;font-size:.76rem;color:var(--muted);
- border:1px solid var(--border);border-radius:999px;padding:3px 10px}
+.hub table{width:100%;border-collapse:collapse;margin:14px 0;font-size:.9rem}
+.hub th,.hub td{border-bottom:1px solid var(--border);padding:9px 11px;
+ text-align:left;vertical-align:top}
+.hub th{color:var(--muted);font-size:.72rem;text-transform:uppercase;
+ letter-spacing:.05em;font-weight:700}
+.hub .stempel{display:inline-block;font-size:.74rem;color:var(--muted)}
 .hub a{color:var(--accent)}
 .hub .disc{color:var(--muted);font-size:.82rem;margin-top:26px;
  border-top:1px solid var(--border);padding-top:14px}
+@media(max-width:520px){.hub .pick-rev{display:block;margin:10px 0 0}}
 </style>
 </head>
 <body>
@@ -274,11 +291,11 @@ h1{font-size:1.5rem}
 <tr><td><a href="/aircall-review.html"><strong>Aircall</strong></a></td><td>per licence, 3-licence minimum</td><td>(read 2026-08-26 on aircall.io/pricing over a US connection, with their own country selector on United States) Essentials is $30 per license a month and Professional $50, both on annual billing, which the page marks as 25% off monthly.<br><span class="stempel">read 2026-08-29</span></td><td>you're a solo operator or duo (the 3-license minimum prices you out), or you need a full contact-center suite with omnichannel routing</td></tr>
 <tr><td><a href="/800-com-review.html"><strong>800.com</strong></a></td><td>no free tier</td><td>No free tier.<br><span class="stempel">read 2026-08-13</span></td><td>you need a full unified-comms suite (video, chat, contact center), or you already have a phone system and just need occasional forwarding</td></tr>
 </tbody></table></div>
-<h2>Why each one is on the list</h2>
-<div class="kaart"><h3>Readymode</h3><p>The far end of the line: predictive dialing, compliance tooling and supervisor monitoring for high-volume outbound. Genuinely valuable for insurance, real estate and collections teams at scale, and clearly the wrong purchase for one or two reps.</p><p><a href="/readymode-review.html">Read the full Readymode review &rarr;</a></p></div>
-<div class="kaart"><h3>CloudTalk</h3><p>A cloud call centre with strong CRM integrations and call analytics, priced in a tight ladder. The detail worth catching is that the top tier carries a minimum licence count, so the headline price is not available to a very small team.</p><p><a href="/cloudtalk-review.html">Read the full CloudTalk review &rarr;</a></p></div>
-<div class="kaart"><h3>Aircall</h3><p>The polished option that lives inside your CRM or helpdesk. The three-licence minimum is the deciding fact for solo operators and pairs — it prices you out before features enter the conversation.</p><p><a href="/aircall-review.html">Read the full Aircall review &rarr;</a></p></div>
-<div class="kaart"><h3>800.com</h3><p>The near end of the line: a toll-free or vanity number with call tracking, routing and analytics. Not a phone system and not trying to be. Right when you want to look established and measure inbound; wrong when you need unified communications.</p><p><a href="/800-com-review.html">Read the full 800.com review &rarr;</a></p></div>
+<h2>The picks</h2>
+<div class="pick"><div class="pick-h"><span class="rank">1</span><span class="lg"><span class="lt">R</span><img data-d="readymode.com" src="https://logo.clearbit.com/readymode.com" alt="Readymode" loading="lazy" onerror="fb(this)"></span><div><div class="pick-n">Readymode</div><div class="pick-bf">Best for: high-volume outbound call teams (insurance, real estate, collections) with 5+ agents that need predictive dialing, compl</div></div></div><p class="pick-d">The far end of the line: predictive dialing, compliance tooling and supervisor monitoring for high-volume outbound. Genuinely valuable for insurance, real estate and collections teams at scale, and clearly the wrong purchase for one or two reps.</p><p class="skip"><strong>Skip it if</strong> you're a one- or two-rep operation (a simpler, cheaper dialer fits) or your outreach doesn't justify predictive-dialer speed and its compliance overhead</p><a class="pick-cta" href="https://try.readymode.com/w9q86uhvjvzd" target="_blank" rel="sponsored noopener nofollow">Visit Readymode &rarr;</a><a class="pick-rev" href="/readymode-review.html">Read our full Readymode review &rarr;</a></div>
+<div class="pick"><div class="pick-h"><span class="rank">2</span><span class="lg"><span class="lt">C</span><img data-d="cloudtalk.io" src="https://logo.clearbit.com/cloudtalk.io" alt="CloudTalk" loading="lazy" onerror="fb(this)"></span><div><div class="pick-n">CloudTalk</div><div class="pick-bf">Best for: support and sales teams that want a cloud call center with strong CRM integrations and call analytics</div></div></div><p class="pick-d">A cloud call centre with strong CRM integrations and call analytics, priced in a tight ladder. The detail worth catching is that the top tier carries a minimum licence count, so the headline price is not available to a very small team.</p><p class="skip"><strong>Skip it if</strong> you make only occasional calls — a basic VoIP line or your CRM's built-in dialer costs far less</p><a class="pick-cta" href="https://get.cloudtalk.io/750eho0hrkyk" target="_blank" rel="sponsored noopener nofollow">Visit CloudTalk &rarr;</a><a class="pick-rev" href="/cloudtalk-review.html">Read our full CloudTalk review &rarr;</a></div>
+<div class="pick"><div class="pick-h"><span class="rank">3</span><span class="lg"><span class="lt">A</span><img data-d="aircall.io" src="https://logo.clearbit.com/aircall.io" alt="Aircall" loading="lazy" onerror="fb(this)"></span><div><div class="pick-n">Aircall</div><div class="pick-bf">Best for: sales and support teams (3+ seats) that want a polished cloud phone system embedded in their CRM/helpdesk, with call rou</div></div></div><p class="pick-d">The polished option that lives inside your CRM or helpdesk. The three-licence minimum is the deciding fact for solo operators and pairs — it prices you out before features enter the conversation.</p><p class="skip"><strong>Skip it if</strong> you're a solo operator or duo (the 3-license minimum prices you out), or you need a full contact-center suite with omnichannel routing</p><a class="pick-cta" href="https://get.aircall.io/1sd4xwyb9qws" target="_blank" rel="sponsored noopener nofollow">Visit Aircall &rarr;</a><a class="pick-rev" href="/aircall-review.html">Read our full Aircall review &rarr;</a></div>
+<div class="pick"><div class="pick-h"><span class="rank">4</span><span class="lg"><span class="lt">8</span><img data-d="800.com" src="https://logo.clearbit.com/800.com" alt="800.com" loading="lazy" onerror="fb(this)"></span><div><div class="pick-n">800.com</div><div class="pick-bf">Best for: businesses that want a professional toll-free or vanity number with call tracking, routing and analytics to look bigger </div></div></div><p class="pick-d">The near end of the line: a toll-free or vanity number with call tracking, routing and analytics. Not a phone system and not trying to be. Right when you want to look established and measure inbound; wrong when you need unified communications.</p><p class="skip"><strong>Skip it if</strong> you need a full unified-comms suite (video, chat, contact center), or you already have a phone system and just need occasional forwarding</p><a class="pick-cta" href="https://try.800.com/twux0enbbfpj" target="_blank" rel="sponsored noopener nofollow">Visit 800.com &rarr;</a><a class="pick-rev" href="/800-com-review.html">Read our full 800.com review &rarr;</a></div>
 <h2>Match the tool to the motion, not the headcount</h2>
 <p>Outbound volume, not team size, is what should decide how far along this line you buy. A three-person team working a large list may genuinely need dialer speed; a ten-person team making considered calls does not, and will resent software built to keep them dialling.</p>
 <p>Check the compliance side before the feature side if you are calling consumers at volume. The rules on consent, timing and recording are not optional, and the tools that handle them properly cost more for exactly that reason.</p>
@@ -286,8 +303,10 @@ h1{font-size:1.5rem}
 <h3>What is a predictive dialer for?</h3><p>Keeping agents talking rather than waiting — it dials ahead and connects answered calls. That is valuable at high volume and pointless below it, where it mostly introduces awkward pauses for the person who picked up.</p>
 <h3>Do seat minimums really matter?</h3><p>They are frequently the deciding factor for small teams. A three-licence floor on a $30 seat is a $90 monthly commitment whatever your headcount, which changes the comparison entirely.</p>
 <h3>Is a toll-free number still worth having?</h3><p>For inbound credibility and call tracking, often yes. It is a presentation and measurement decision rather than a telephony one, and it does not replace a phone system.</p>
+<h2>Other buying guides on this site</h2><ul><li><a href="/shopify-helpdesk-apps.html">Shopify helpdesk apps: four meters, and only one of them is agents</a></li><li><a href="/virtual-phone-systems.html">Virtual phone systems: the seat price is not the bill</a></li><li><a href="/helpdesk-platforms-compared.html">Helpdesk platforms: the entry tier is never the product you saw</a></li><li><a href="/whatsapp-and-messaging-inboxes.html">WhatsApp and messaging inboxes: platform fee plus per-message, always</a></li><li><a href="/answering-services-human-or-ai.html">Someone has to answer: live receptionists against an AI agent</a></li></ul>
 <p class="disc">Some links on this page are affiliate links: if you sign up we may earn a commission, at no cost to you, and it never changes what we write. Every figure above was read on the vendor&rsquo;s own page on the date shown.</p>
 </div>
+<script>function fb(i){if(!i.dataset.f){i.dataset.f=1;i.src="https://www.google.com/s2/favicons?domain="+i.dataset.d+"&sz=64";}}</script>
 <!--sister-net-start-->
 <nav aria-label="Sister sites" style="max-width:1100px;margin:28px auto 0;padding:16px 20px 4px;border-top:1px solid rgba(128,128,128,.22);font-size:.8rem;line-height:2;text-align:center;opacity:.8"><span style="display:block;text-transform:uppercase;letter-spacing:.12em;font-size:.66rem;opacity:.7;margin-bottom:4px">Part of the network</span><a href="https://aibuildermarketplace.com/?utm_source=zerotouchsupport&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">AI Builder Marketplace</a> <span style="opacity:.4">&middot;</span> <a href="https://officesoftwaremarketplace.com/?utm_source=zerotouchsupport&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">Office Software</a> <span style="opacity:.4">&middot;</span> <a href="https://marketingandsalessoftware.com/?utm_source=zerotouchsupport&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">Marketing & Sales Software</a> <span style="opacity:.4">&middot;</span> <a href="https://theweeklyaiedge.com/?utm_source=zerotouchsupport&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">The Weekly AI Edge</a> <span style="opacity:.4">&middot;</span> <a href="https://theweekly2pctedge.com/?utm_source=zerotouchsupport&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">The Weekly 2% Edge</a><span style="display:block;margin-top:6px;font-size:.72rem;opacity:.65">Six sites, one owner &mdash; all built and run by <a href="https://aibuildermarketplace.com/about/?utm_source=zerotouchsupport&utm_medium=footer_net&utm_campaign=network_owner" rel="nofollow noopener" target="_blank" style="color:inherit">Daniel Haket</a>.</span></nav>
 <!--sister-net-end-->
