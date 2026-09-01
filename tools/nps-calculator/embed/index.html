@@ -123,7 +123,7 @@ body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div c
 <div><label>Promoters (9–10)</label><input type="number" id="np-p" value="60" min="0"></div>
 <div><label>Passives (7–8)</label><input type="number" id="np-a" value="25" min="0"></div>
 <div><label>Detractors (0–6)</label><input type="number" id="np-d" value="15" min="0"></div></div>
-<div id="np-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://aibuildermarketplace.com/tools/nps-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="noopener" style="color:#8b93a7;text-decoration:none">&#9889; NPS Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
+<div id="np-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://aibuildermarketplace.com/tools/nps-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; NPS Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
 function npCalc(){var p=+document.getElementById('np-p').value,a=+document.getElementById('np-a').value,d=+document.getElementById('np-d').value,o=document.getElementById('np-out'),tot=p+a+d;
 if(!(tot>0)){o.innerHTML='<p class="muted">Enter your responses.</p>';return;}
 var nps=Math.round((p/tot-d/tot)*100),v=nps>=50?'Excellent':nps>=30?'Great':nps>=0?'Good':'Needs work';
