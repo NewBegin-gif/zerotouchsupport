@@ -1,0 +1,1024 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    
+    <title>ZeroTouchSupport | Smart Customer Service Automation</title>
+<meta property="og:image" content="https://zerotouchsupport.com/og.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">
+    <meta name="description" content="Discover the best software to automate your customer support. Save time, reduce stress, and help your customers faster without hiring a massive team.">
+    <meta name="keywords" content="customer service software, support automation, helpdesk tools, SaaS reviews, business efficiency">
+    <meta name="author" content="ZeroTouchSupport">
+    
+    <meta property="og:title" content="ZeroTouchSupport | Smart Customer Service Automation">
+    <meta property="og:description" content="Find the tools that handle your customer support automatically, so you can focus on growing your business.">
+    <meta property="og:type" content="website">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CW1KZ258ZV"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-CW1KZ258ZV');
+    </script>
+    
+    <style>
+        /* CSS Custom Properties */
+        :root {
+            --bg-dark: #040811;
+            --bg-card: #08101f;
+            --bg-lighter: #0b1329;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent: #059669;
+            --accent-hover: #10b981;
+            --accent-purple: #3b82f6;
+            --border: #1e293b;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        html { scroll-behavior: smooth; }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        h1, h2, h3 { line-height: 1.2; }
+        
+        .top-bar {
+            background-color: #02050c;
+            color: #64748b;
+            text-align: center;
+            padding: 0.6rem 1rem;
+            font-size: 0.85rem;
+            border-bottom: 1px solid var(--border);
+            font-weight: 500;
+        }
+
+        /* Omni-Navigation */
+        nav {
+            padding: 1.5rem 5%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: rgba(4, 8, 17, 0.95);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 1px solid var(--border);
+        ;gap:2rem}
+
+        .logo {
+            font-size: 1.4rem;
+            font-weight: 800;
+            color: #ffffff;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+        
+        .logo-dot { color: var(--accent); font-size: 1.2rem; }
+        .logo-accent { color: #f8fafc; font-weight: 400; }
+
+        .nav-links { display: flex; gap: 1.5rem; align-items: center; }
+        
+        .nav-network-label {
+            font-size: 0.7rem;
+            color: #64748b;
+            font-family: monospace;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-right: -0.5rem;
+        }
+
+        .nav-links .separator {
+            color: var(--border);
+            margin: 0 0.5rem;
+        }
+
+        .nav-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+        }
+        .nav-links a:hover { color: var(--text-main); }
+
+        .hero {
+            padding: 6rem 5% 4rem;
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            gap: 4rem;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .hero-content { flex: 1; min-width: 320px; }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background-color: rgba(5, 150, 105, 0.1);
+            border: 1px solid rgba(5, 150, 105, 0.3);
+            padding: 0.4rem 1rem;
+            border-radius: 100px;
+            font-size: 0.85rem;
+            color: var(--accent-hover);
+            margin-bottom: 2rem;
+            font-weight: 500;
+        }
+
+        .hero h1 {
+            font-size: clamp(2.5rem, 5vw, 4rem);
+            font-weight: 800;
+            margin-bottom: 1.5rem;
+            letter-spacing: -0.02em;
+        }
+
+        .gradient-text {
+            background: linear-gradient(to right, #10b981, #3b82f6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .hero p {
+            font-size: 1.125rem;
+            color: var(--text-muted);
+            margin-bottom: 1.5rem;
+            line-height: 1.8;
+        }
+
+        .hero-quote {
+            border-left: 2px solid var(--accent);
+            padding-left: 1.5rem;
+            margin-top: 2rem;
+            font-style: italic;
+            color: #cbd5e1;
+            font-size: 1.05rem;
+        }
+
+        .terminal-container {
+            flex: 1;
+            min-width: 320px;
+            background-color: #030712;
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.6);
+        }
+
+        .terminal-header {
+            background-color: #0b1329;
+            padding: 0.8rem 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .terminal-dot { width: 10px; height: 10px; border-radius: 50%; }
+        .dot-red { background-color: #ef4444; }
+        .dot-yellow { background-color: #eab308; }
+        .dot-green { background-color: #22c55e; }
+
+        .terminal-title {
+            margin: 0 auto;
+            color: #475569;
+            font-size: 0.8rem;
+            font-family: 'SFMono-Regular', Consolas, monospace;
+        }
+
+        .terminal-body {
+            padding: 1.5rem;
+            font-family: 'SFMono-Regular', Consolas, monospace;
+            font-size: 0.85rem;
+            line-height: 1.8;
+            color: #94a3b8;
+        }
+
+        .term-green { color: #10b981; }
+        .term-blue { color: #3b82f6; }
+        .cursor-blink { animation: blink 1s step-end infinite; }
+        @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+        .terminal-status-box {
+            background-color: rgba(15, 23, 42, 0.6);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .status-line {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+        }
+
+        .section-title { text-align: center; margin: 4rem 0 1rem; }
+        .section-title h2 { font-size: 2.5rem; color: #fff; font-weight: 800; }
+        .section-subtitle {
+            text-align: center;
+            color: var(--text-muted);
+            max-width: 650px;
+            margin: 0 auto 4rem;
+            font-size: 1.1rem;
+        }
+
+        .container {
+            padding: 0 5% 4rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 2rem;
+        }
+
+        .card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 2.5rem;
+            display: flex;
+            flex-direction: column;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: var(--accent);
+            box-shadow: 0 15px 30px rgba(5, 150, 105, 0.1);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .card-icon {
+            width: 64px;
+            height: 64px;
+            border-radius: 12px;
+            object-fit: contain;
+            background-color: #ffffff;
+            border: 1px solid var(--border);
+            padding: 8px;
+        }
+
+        .card-title-group h2 {
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin-bottom: 0.3rem;
+            color: #f8fafc;
+        }
+
+        .tag {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--accent-hover);
+            font-weight: 700;
+            background-color: rgba(5, 150, 105, 0.1);
+            padding: 0.25rem 0.6rem;
+            border-radius: 4px;
+            display: inline-block;
+        }
+
+        .card p {
+            color: var(--text-muted);
+            margin-bottom: 2rem;
+            flex-grow: 1;
+            font-size: 1rem;
+        }
+
+        .card-actions {
+            display: flex;
+            flex-direction: column;
+            gap: 0.8rem;
+        }
+
+        .btn, .btn-outline {
+            display: block;
+            text-align: center;
+            padding: 0.8rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+
+        .btn {
+            background-color: rgba(5, 150, 105, 0.1);
+            border: 1px solid var(--accent);
+            color: #fff;
+        }
+
+        .btn:hover { background-color: var(--accent); }
+
+        .btn-outline {
+            background-color: transparent;
+            color: var(--text-muted);
+        }
+
+        .btn-outline:hover { color: #fff; }
+
+        .about-section {
+            background-color: var(--bg-lighter);
+            border-top: 1px solid var(--border);
+            border-bottom: 1px solid var(--border);
+            padding: 6rem 5%;
+        }
+
+        .about-grid {
+            max-width: 1000px;
+            margin: 0 auto;
+            display: flex;
+            gap: 4rem;
+            align-items: center;
+        }
+
+        .about-content { flex: 2; }
+        .about-content h2 { font-size: 2.2rem; margin-bottom: 1.5rem; color: #fff; }
+        .about-content p { color: var(--text-muted); font-size: 1.1rem; margin-bottom: 1.2rem; }
+        
+        .about-stats {
+            flex: 1;
+            background-color: var(--bg-dark);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 2rem;
+        }
+
+        .stat-item { margin-bottom: 1.5rem; }
+        .stat-item:last-child { margin-bottom: 0; }
+        .stat-value { font-size: 1.5rem; font-weight: 800; color: var(--accent-hover); }
+        .stat-label { font-size: 0.85rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em; }
+
+        /* Unified Ecosystem Hub Section */
+        .network-section {
+            padding: 6rem 5%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .network-header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .network-header h2 { font-size: 2rem; color: #fff; margin-bottom: 1rem; }
+        .network-header p { color: var(--text-muted); max-width: 600px; margin: 0 auto; font-size: 1.1rem; }
+
+        .network-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .net-card {
+            background-color: #02050c;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 2rem;
+            text-decoration: none;
+            transition: all 0.2s;
+            position: relative;
+            overflow: hidden;
+            display: block;
+        }
+
+        .net-card:hover {
+            border-color: #475569;
+            background-color: #08101f;
+            transform: translateY(-3px);
+        }
+
+        .net-tag {
+            font-family: monospace;
+            font-size: 0.75rem;
+            color: #64748b;
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        .net-card h3 { color: #f8fafc; font-size: 1.2rem; margin-bottom: 0.5rem; transition: color 0.2s; }
+        .net-card:hover h3 { color: var(--text-main); }
+        .net-card p { color: var(--text-muted); font-size: 0.9rem; line-height: 1.6; }
+        
+        /* Footer */
+        .footer-strip {
+            background-color: #02050c;
+            padding: 2rem 5%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            border-top: 1px solid var(--border);
+            font-size: 0.85rem;
+            color: #475569;
+        }
+
+        .footer-strip-right {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .footer-strip a {
+            color: #94a3b8;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .footer-strip a:hover {
+            color: #fff;
+        }
+
+        .footer-node {
+            font-family: monospace;
+            color: #475569;
+        }
+
+        @media (max-width: 768px) {
+            .hero { padding-top: 4rem; gap: 2rem; }
+            .nav-links { display: none; }
+            .about-grid { flex-direction: column; gap: 2rem; }
+            .footer-strip { flex-direction: column; text-align: center; }
+        }
+    </style>
+  <link rel="canonical" href="https://zerotouchsupport.com/">
+  <meta property="og:url" content="https://zerotouchsupport.com/">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "zerotouchsupport.com",
+  "url": "https://zerotouchsupport.com/",
+  "publisher": {
+    "@type": "Person",
+    "@id": "https://aibuildermarketplace.com/about/#daan",
+    "name": "Daniel Haket",
+    "alternateName": "Daan",
+    "url": "https://aibuildermarketplace.com/about/",
+    "jobTitle": "Founder & reviewer",
+    "description": "Twenty years in international banking (ABN AMRO, Deutsche Bank) in trade finance, operations and risk; now builds and reviews AI & B2B tools hands-on.",
+    "sameAs": [
+      "https://www.linkedin.com/in/daniel-haket-8305a33"
+    ]
+  }
+}
+</script>
+</head>
+<body>
+
+    <div class="top-bar">
+        🔍 Helping you automate customer support, so you can focus on growing your business.
+    </div>
+
+    <nav>
+        <a style="white-space:nowrap" href="/" class="logo">
+            <span class="logo-dot">●</span> ZeroTouch<span class="logo-accent">Support</span>
+        </a>
+        <div class="nav-links">
+            <span class="nav-network-label">The Network</span>
+            <span class="separator">|</span>
+            <a style="white-space:nowrap" href="https://aibuildermarketplace.com/atlas/?utm_source=zerotouchsupport&utm_medium=nav&utm_campaign=atlas" rel="nofollow noopener">Atlas</a><a style="white-space:nowrap" href="https://aibuildermarketplace.com/ai/model-context-protocol/?utm_source=zerotouchsupport&utm_medium=nav&utm_campaign=mcp_explained" rel="nofollow noopener">MCP &amp; AI</a> <a style="white-space:nowrap" href="https://aibuildermarketplace.com/build/customer-support-system/?utm_source=zerotouchsupport&utm_medium=nav&utm_campaign=blueprint" target="_blank" rel="nofollow noopener">Build a Support System</a><a style="white-space:nowrap" href="https://aibuildermarketplace.com/guides/?utm_source=zerotouchsupport&utm_medium=nav&utm_campaign=guides" target="_blank" rel="nofollow noopener">Guides</a><a style="white-space:nowrap" href="/tools/">Free Tools</a>            
+            
+            
+             
+        </div>
+    </nav>
+
+    <main>
+        <header class="hero">
+            <div class="hero-content">
+                <div class="hero-badge">
+                    🛡️ Honest, tested software reviews
+                </div>
+                <h1>Great customer support doesn't mean <span class="gradient-text">working 24/7.</span></h1>
+                <p>As your business grows, the questions pile up. Answering the same emails and calls over and over drains your energy and slows your team down. But hiring an army of support agents isn't always the smart answer.</p>
+                <p>At ZeroTouchSupport, we test and review the software that handles the repetitive questions automatically. We help you find practical tools that respond to your customers instantly, so you can finally get your evenings back.</p>
+                
+                <div class="hero-quote">
+                    No fluff, no empty hype. Just practical software that actually works to make your daily operations a lot smoother.
+                </div>
+                <div class="hero-cta" style="margin-top:28px;display:flex;flex-wrap:wrap;gap:12px">
+                    <a href="finder.html" class="btn" onclick="if(window.gtag)gtag('event','finder_cta_click',{location:'hero',site:'zts'})">Find your perfect support tool in 20 sec →</a>
+                    <a href="#infrastructure" class="btn-outline">Browse the support stack →</a>
+                </div>
+            </div>
+
+            <div class="terminal-container">
+                <div class="terminal-header">
+                    <div class="terminal-dot dot-red"></div>
+                    <div class="terminal-dot dot-yellow"></div>
+                    <div class="terminal-dot dot-green"></div>
+                    <div class="terminal-title">system_check (~/support)</div>
+                </div>
+                <div class="terminal-body">
+                    // Running daily operations check...<br>
+                    <span class="term-blue">[OK]</span> Repetitive questions answered<br>
+                    <span class="term-blue">[OK]</span> Smart AI call routing active<br>
+                    <span class="term-green">[INFO] Routine questions handled for you</span><br>
+                    <br>
+                    user@business:~$ check_metrics<br>
+                    
+                    <div class="terminal-status-box">
+                        <div class="status-line">
+                            <span>🤖 Handled automatically:</span>
+                            <span class="term-green">The repetitive stuff</span>
+                        </div>
+                        <div class="status-line">
+                            <span>⏱️ Auto-replies:</span>
+                            <span class="term-blue">Round the clock</span>
+                        </div>
+                        <div class="status-line">
+                            <span>📈 Your evenings:</span>
+                            <span class="term-green">Back</span>
+                        </div>
+                    </div>
+                    
+                    _ Ready for the next customer<span class="cursor-blink">_</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- START HERE (decision-first) -->
+        <section id="start-here" style="max-width:1100px;margin:0 auto;padding:52px 24px;border-bottom:1px solid var(--border)">
+            <style>.zt-door{display:block;padding:22px;border-radius:16px;background:var(--bg-card);border:1px solid var(--border);text-decoration:none;transition:border-color .15s,transform .15s}.zt-door:hover{border-color:var(--accent);transform:translateY(-2px)}.zt-door .h{font-weight:800;color:var(--text-main);font-size:1.08rem;margin:0 0 6px}.zt-door .d{color:var(--text-muted);font-size:.9rem;line-height:1.6}.zt-door .i{font-size:1.6rem;margin-bottom:10px}</style>
+            <div class="section-title"><h2>Where does support hurt most?</h2></div>
+            <div class="section-subtitle">Three honest paths to a fix — instead of scrolling a list of tools.</div>
+            <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin-top:28px">
+                <a class="zt-door" href="finder.html" onclick="if(window.gtag)gtag('event','finder_cta_click',{location:'starthere',site:'zts'})"><div class="i">🔁</div><div class="h">Same questions, over and over &rarr;</div><div class="d">Automate the repetitive replies. Get an honest shortlist of chat &amp; AI tools in 20 seconds.</div></a>
+                <a class="zt-door" href="#infrastructure"><div class="i">📞</div><div class="h">Calls are piling up &rarr;</div><div class="d">Smart call routing and AI voice agents that quietly clear the queue.</div></a>
+                <a class="zt-door" href="https://aibuildermarketplace.com/guides/zendesk-alternatives/?utm_source=zerotouchsupport&amp;utm_medium=starthere&amp;utm_campaign=cross_brand" target="_blank" rel="nofollow noopener"><div class="i">🧭</div><div class="h">Outgrowing Zendesk? &rarr;</div><div class="d">See the honest big-platform comparison — and cheaper alternatives worth a look.</div></a>
+            </div>
+        </section>
+
+        <section id="infrastructure">
+            <div class="section-title">
+                <h2>The Support Stack</h2>
+            </div>
+            <div class="section-subtitle">
+                The core tools you need to automate your calls, emails, and messages without losing that personal touch.
+            </div>
+<div style="text-align:center;margin:8px 0 26px"><a href="https://aibuildermarketplace.com/build/customer-support-system/?utm_source=zerotouchsupport&utm_medium=stack_cta&utm_campaign=blueprint" target="_blank" class="btn" rel="nofollow noopener">📐 Build your support system — step by step →</a></div>
+
+            <div class="container">
+                <div class="grid">
+<!--ZTS-AUTO-START-->
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=aircall.io&sz=128" alt="Aircall Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Aircall</h2></div></div><p>Cloud phone system for sales and support teams: call routing, analytics and CRM integrations. A three-licence minimum applies, so entry is effectively about $90/month; Essentials is roughly $30/user/month annual against $40 month-to-month.</p><div class="card-actions"><a href="https://get.aircall.io/1sd4xwyb9qws" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Aircall</a><a href="https://aibuildermarketplace.com/b2b/?tool=Aircall" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=answeringservicecare.com&sz=128" alt="Answering Service Care Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Answering Service Care</h2></div></div><p>US-based live answering with real people, 24/7 and bilingual English/Spanish, with call transfers, SMS and email relays, a client portal and app on every plan. Monthly plans run $40 Starter, $179 Small Business (100 minutes), $329 Pro (250) and $639 Enterprise (500), around 10% off if you pay a year upfront. Read the small print first: Starter includes zero minutes, there is a $50 start-up fee mentioned only in the body text, and the explanation below the table quotes three prices that do not match the table above it (read 12 Aug 2026).</p><div class="card-actions"><a href="https://partners.answeringservicecare.com/nl6tzxl11oot" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Answering Service Care</a><a href="https://aibuildermarketplace.com/b2b/?tool=Answering Service Care" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=crankwheel.com&sz=128" alt="CrankWheel Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>CrankWheel</h2></div></div><p>No-download screen sharing for sales calls — a prospect clicks a link and sees your screen on any device. Deliberately narrow: no video conferencing, webinars or collaboration. The free plan covers one user and 15 meetings a month; Solo is about $29/user/month.</p><div class="card-actions"><a href="https://try.crankwheel.com/0coqsbab00ua" target="_blank" rel="sponsored noopener noreferrer" class="btn">View CrankWheel</a><a href="https://aibuildermarketplace.com/b2b/?tool=CrankWheel" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=edesk.com&sz=128" alt="eDesk Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>eDesk</h2></div></div><p>E-commerce helpdesk: one unified inbox for Amazon, eBay, Shopify and email, with order data and an AI Agent that bills per resolved outcome. Free plan; paid from $39/agent/mo (annual).</p><div class="card-actions"><a href="https://www.edesk.com/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="btn">View eDesk</a><a href="https://aibuildermarketplace.com/b2b/?tool=eDesk" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=fireflies.ai&sz=128" alt="Fireflies.ai Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Fireflies.ai</h2></div></div><p>AI meeting assistant that records, transcribes and summarizes your calls across Zoom, Google Meet and Teams — searchable notes, action items and CRM sync, so nobody takes minutes by hand.</p><div class="card-actions"><a href="https://www.awin1.com/cread.php?awinmid=118085&awinaffid=2880219" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Fireflies.ai</a><a href="https://aibuildermarketplace.com/b2b/?tool=Fireflies.ai" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=freshchat.com&sz=128" alt="Freshchat Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Freshchat</h2></div></div><p>AI-powered customer messaging from Freshworks: live chat and chatbots across your website, app, WhatsApp and Instagram, with a unified agent inbox and automation that deflects repetitive questions.</p><div class="card-actions"><a href="https://affiliatepartner-freshchat.freshworks.com/613iz3k6u70i" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Freshchat</a><a href="https://aibuildermarketplace.com/b2b/?tool=Freshchat" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=freshworks.com&sz=128" alt="Freshworks Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Freshworks</h2></div></div><p>Suite of separately-sold products: Freshdesk support, Freshservice IT, Freshsales CRM, Freshchat and Freshcaller.</p><div class="card-actions"><a href="https://affiliate.freshworks.com/fd65q19uchnm" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Freshworks</a><a href="https://aibuildermarketplace.com/b2b/?tool=Freshworks" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=gorgias.com&sz=128" alt="Gorgias Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Gorgias</h2></div></div><p>Helpdesk built for ecommerce: tickets, automations and an AI agent, priced by volume rather than by seat.</p><div class="card-actions"><a href="https://partner.gorgias.com/53p147fye0wv" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Gorgias</a><a href="https://aibuildermarketplace.com/b2b/?tool=Gorgias" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=helpcenterapp.com&sz=128" alt="HelpCenter Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>HelpCenter</h2></div></div><p>Shopify helpdesk with live chat and an AI FAQ builder: email, chat and Messenger in one ticket queue, plus SEO-friendly FAQ pages. Free to install; paid from $5.99 to $49.99 a month.</p><div class="card-actions"><a href="https://platform.shoffi.app/r/rl_WyzIuyMD" target="_blank" rel="sponsored noopener noreferrer" class="btn">View HelpCenter</a><a href="https://aibuildermarketplace.com/b2b/?tool=HelpCenter" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=kixie.com&sz=128" alt="Kixie Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Kixie</h2></div></div><p>Power dialer with SMS and CRM integration for outbound sales teams. Kixie publishes no seat price: three tiers separated by how many lines they dial, with the multi-line AI voice detection, ConnectionBoost, Conversation Intelligence and DNC compliance all sold as add-ons on top.</p><div class="card-actions"><a href="https://get.kixie.com/e9lu0lbwzvmq" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Kixie</a><a href="https://aibuildermarketplace.com/b2b/?tool=Kixie" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=lucrovox.com&sz=128" alt="Lucrovox Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Lucrovox</h2></div></div><p>AI phone agent for local service businesses — answers missed calls, books jobs and captures leads 24/7 for trades like HVAC, plumbing and roofing.</p><div class="card-actions"><a href="https://try.lucrovox.com/0whtc6de3h9c" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Lucrovox</a><a href="https://aibuildermarketplace.com/b2b/?tool=Lucrovox" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=quo.com&sz=128" alt="Quo Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Quo</h2></div></div><p>Shared business numbers, texting and AI call summaries for small teams, formerly OpenPhone. About $15/user/month on annual billing, plus telecom taxes and surcharges in 16 US states. Call reliability off Wi-Fi is the recurring complaint, and there is no video conferencing.</p><div class="card-actions"><a href="https://get.quo.com/aibuildermarketplace" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Quo</a><a href="https://aibuildermarketplace.com/b2b/?tool=Quo" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=readymode.com&sz=128" alt="Readymode Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Readymode</h2></div></div><p>Predictive dialler with compliance tooling and supervisor monitoring for high-volume outbound floors. Starter is $239 per license/month and iQ $299 for teams of five or more, both with free outbound minutes under a fair-use policy (prices read on their own pricing page on 17 Aug 2026, after a vendor price change effective 1 Aug 2026). Premium per seat, and predictive dialling carries real TCPA compliance responsibility.</p><div class="card-actions"><a href="https://try.readymode.com/w9q86uhvjvzd" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Readymode</a><a href="https://aibuildermarketplace.com/b2b/?tool=Readymode" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=respond.io&sz=128" alt="respond.io Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>respond.io</h2></div></div><p>Shared inbox for WhatsApp, Instagram, Messenger, SMS, email and live chat, with workflow automation, broadcasts and AI agents on top. Priced per monthly active contact rather than per seat: $79 Starter, $159 Growth and $279 Advanced, around 20% off paid yearly, with a 7-day trial and no card. The catch is where the line sits: automation, broadcasts, AI agents and the API all start at Growth, so the entry plan is the inbox without the engine (read 13 Aug 2026).</p><div class="card-actions"><a href="https://get.respond.io/59337pcu4fh7" target="_blank" rel="sponsored noopener noreferrer" class="btn">View respond.io</a><a href="https://aibuildermarketplace.com/b2b/?tool=respond.io" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=ruby.com&sz=128" alt="Ruby Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Ruby</h2></div></div><p>Live human receptionists answering your calls, plus chat. Billed by receptionist-minute: $250/month for 50 minutes and $395 for 100, rising to $1,725 for 500, with chat bundled from $115/month. Premium rates that pay off only when a missed call is a lost client.</p><div class="card-actions"><a href="https://get.ruby.com/wlngs0yc8d9c" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Ruby</a><a href="https://aibuildermarketplace.com/b2b/?tool=Ruby" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=salesmessage.com&sz=128" alt="Salesmessage Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Salesmessage</h2></div></div><p>Business texting and SMS marketing in one shared inbox. Reach customers where they actually reply — two-way texting, automation and team collaboration.</p><div class="card-actions"><a href="https://join.salesmessage.com/y1pdhmogp2y0" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Salesmessage</a><a href="https://aibuildermarketplace.com/b2b/?tool=Salesmessage" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=signalhouse.io&sz=128" alt="Signal House Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Signal House</h2></div></div><p>SMS and Voice API positioned as a Twilio alternative. Usage-based with no platform fee: $0.0065 per SMS segment with no minimum, down to $0.0030 above 10m, and $1.00 a month per local number. A2P 10DLC fees are published; voice rates are not.</p><div class="card-actions"><a href="https://try.signalhouse.io/wqnlthk1tjwi" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Signal House</a><a href="https://aibuildermarketplace.com/b2b/?tool=Signal House" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=simpletexting.com&sz=128" alt="SimpleTexting Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>SimpleTexting</h2></div></div><p>SMS marketing and business texting: run mass-text campaigns, two-way conversations and automations with compliance built in.</p><div class="card-actions"><a href="https://simpletexting.stptnr.net/4jtoi813qzd0" target="_blank" rel="sponsored noopener noreferrer" class="btn">View SimpleTexting</a><a href="https://aibuildermarketplace.com/b2b/?tool=SimpleTexting" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=textline.com&sz=128" alt="Textline Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Textline</h2></div></div><p>Business SMS for support and sales teams: shared inboxes, automations and compliance tooling.</p><div class="card-actions"><a href="https://get.textline.com/dz7hjpbvfkue" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Textline</a><a href="https://aibuildermarketplace.com/b2b/?tool=Textline" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=unitelvoice.com&sz=128" alt="UniTel Voice Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>UniTel Voice</h2></div></div><p>Virtual business phone system for small teams. Get a toll-free or local number with auto-attendant, call routing and a mobile app — no hardware.</p><div class="card-actions"><a href="https://unitelvoice.partnerlinks.io/pez7g9obn4ti" target="_blank" rel="sponsored noopener noreferrer" class="btn">View UniTel Voice</a><a href="https://aibuildermarketplace.com/b2b/?tool=UniTel Voice" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=voyedatapool.com&sz=128" alt="Voye Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Voye</h2></div></div><p>Pooled eSIM data for travelling teams, billed on actual usage rather than prepaid bundles, with per-user spend controls. Coverage and speed vary by country and carrier partner, so pilot your heaviest routes first — the vendor&#x27;s roaming-savings figures stay claims until your invoice confirms them.</p><div class="card-actions"><a href="https://affiliate.voyedatapool.com/1hxkqaqeqiow" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Voye</a><a href="https://aibuildermarketplace.com/b2b/?tool=Voye" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=wati.io&sz=128" alt="Wati Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Wati</h2></div></div><p>WhatsApp Business API platform for sales and support: shared team inbox, bulk broadcasts and no-code chatbots — plus Astra, its AI agent builder for agents that actually resolve conversations (orders, refunds, bookings, lead qualification) across WhatsApp, web and voice. Its omnichannel inbox now also carries TikTok DMs natively (all plans, no extra cost) alongside Instagram and RCS — with ad-to-chat context that shows exactly which TikTok ad triggered a conversation. It now ships its own MCP server as well: connect Claude or ChatGPT once and manage contacts, send WhatsApp campaigns, read past chats and build agents in plain language, while sends still run on your own approved templates and the full history stays in the Wati dashboard. Wati&#x27;s own page puts the cost like this: free for current paid Astra customers with no usage cap during launch, and full MCP access on every Astra plan for new customers (checked 4 Aug 2026).</p><div class="card-actions"><a href="https://affiliates.wati.io/pzd090owoazz" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Wati</a><a href="https://aibuildermarketplace.com/b2b/?tool=Wati" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=zendesk.com&sz=128" alt="Zendesk Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Zendesk</h2></div></div><p>Customer service suite: ticketing, messaging, voice, help centre and AI agents.</p><div class="card-actions"><a href="https://try.zendesk.com/16u21xk7thhq" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Zendesk</a><a href="https://aibuildermarketplace.com/b2b/?tool=Zendesk" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=zenzap.co&sz=128" alt="ZenZap Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>ZenZap</h2></div></div><p>Secure work-chat for teams — organized channels, built-in tasks and workflows, AI agents and admin controls, as easy to use as texting.</p><div class="card-actions"><a href="https://try.zenzap.co/piw5krp2j8vw" target="_blank" rel="sponsored noopener noreferrer" class="btn">View ZenZap</a><a href="https://aibuildermarketplace.com/b2b/?tool=ZenZap" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=cloze.bot&sz=128" alt="Cloze Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Cloze</h2></div></div><p>AI shopping assistant for Shopify: a chat widget wired to your live catalogue, inventory and knowledge base that answers product questions, compares items, tracks orders and hands off to a human. Free for 25 conversations a month; paid runs $49, $99 or $199 a month on the App Store, with extra conversations at $0.10. New listing: no reviews yet as of 19 Aug 2026.</p><div class="card-actions"><a href="https://platform.shoffi.app/r/rl_A1yoHyzX" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Cloze</a><a href="https://aibuildermarketplace.com/b2b/?tool=Cloze" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=neuroadsinc.com&sz=128" alt="NeuroAds Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>NeuroAds</h2></div></div><p>AI chat widget for Shopify trained on your catalogue, orders and policy pages that replies in the shopper&#x27;s own language, with rich product cards, discount codes, order tracking and add-to-cart inside the chat. Free for 200 conversations a month; paid runs $19, $49 or $119 a month for 800, 3,000 or unlimited conversations. Launched June 2026 with six App Store reviews.</p><div class="card-actions"><a href="https://platform.shoffi.app/r/rl_l5Drunq1" target="_blank" rel="sponsored noopener noreferrer" class="btn">View NeuroAds</a><a href="https://aibuildermarketplace.com/b2b/?tool=NeuroAds" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=ecommercestorez.us&sz=128" alt="AskNest Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>AskNest</h2></div></div><p>Multilingual FAQ bot for the Shopify storefront that answers from your own FAQs, policy pages and product catalogue in seven languages, with product recommendations and best sellers. Free for 50 AI replies a month; paid runs $4.99, $9.99 or $19.99 a month for 500, 1,500 or 5,000 replies. Launched May 2026 with a single App Store review.</p><div class="card-actions"><a href="https://platform.shoffi.app/r/rl_CKIYlURe" target="_blank" rel="sponsored noopener noreferrer" class="btn">View AskNest</a><a href="https://aibuildermarketplace.com/b2b/?tool=AskNest" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=storefaq.io&sz=128" alt="StoreFAQ Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>StoreFAQ</h2></div></div><p>Builds SEO-friendly FAQ pages and product FAQ accordions with JSON-LD schema on Shopify, plus an AI chatbot, instant answers and live chat. Free plan covers 100 FAQ page views; Professional $7.99 a month, Growth $14.99 and Enterprise $49.99, all metered on page views and AI conversations.</p><div class="card-actions"><a href="https://platform.shoffi.app/r/rl_5FnnB8qq" target="_blank" rel="sponsored noopener noreferrer" class="btn">View StoreFAQ</a><a href="https://aibuildermarketplace.com/b2b/?tool=StoreFAQ" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=tidio.com&sz=128" alt="Tidio Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>Tidio</h2></div></div><p>Live chat, ticketing and the Lyro AI agent in one platform: AI answers routine questions from your own data, hands the rest to the team with context, and Flows chase leads proactively. Lyro also plugs into Zendesk, Intercom, Salesforce and 20+ platforms without migration, but only on Premium.</p><div class="card-actions"><a href="https://affiliate.tidio.com/n4o3znrjj9vm" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Tidio</a><a href="https://aibuildermarketplace.com/b2b/?tool=Tidio" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<article class="card"><div class="card-header"><img src="https://www.google.com/s2/favicons?domain=supportbee.com&sz=128" alt="SupportBee Icon" class="card-icon" loading="lazy"><div class="card-title-group"><div class="tag">Support Stack</div><h2>SupportBee</h2></div></div><p>Email ticketing for collaborative customer service: a shared team inbox where every agent has their own login, plus an integrated knowledge base and, on the upper tier, a customer portal. Per seat, no free plan.</p><div class="card-actions"><a href="https://try.supportbee.com/ewmir3q4j35f" target="_blank" rel="sponsored noopener noreferrer" class="btn">View SupportBee</a><a href="https://aibuildermarketplace.com/b2b/?tool=SupportBee" class="btn-outline" target="_blank" rel="nofollow noopener" style="font-size:0.85rem;">Compare reviews →</a></div></article>
+<!--ZTS-AUTO-END-->
+
+                    
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=usepylon.com&sz=128" alt="Pylon Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Support Infrastructure</div>
+                                <h2>Pylon</h2>
+                            </div>
+                        </div>
+                        <p><strong>B2B Support in Slack & Teams.</strong> Bridge the gap between the frictionless chat experience your client wants and the structured backend system your team desperately needs. Turn chat chaos into organized tickets instantly.</p>
+                        <div class="card-actions">
+                            <a href="https://pylon.partnerlinks.io/onwjl43ztonn" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Pylon</a>
+                            <a href="pylon.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Case Study →</a>
+                        </div>
+                    <a href="https://aibuildermarketplace.com/b2b/pylon-review/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=tool_review" target="_blank" rel="nofollow noopener" class="btn-outline" style="font-size: 0.85rem;">Read our review&nbsp;&rarr;</a></article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=800.com&sz=128" alt="800.com Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Voice Infrastructure</div>
+                                <h2>800.com</h2>
+                            </div>
+                        </div>
+                        <p><strong>Professionalize your front-desk.</strong> Set up a Zero-Touch IVR (smart voice menu) and a toll-free business line in minutes. Route calls automatically to the right team members and aggressively protect your personal time.</p>
+                        <div class="card-actions">
+                            <a href="https://try.800.com/twux0enbbfpj" target="_blank" rel="sponsored noopener noreferrer" class="btn">View 800.com</a>
+                            <a href="800.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Case Study →</a>
+                        </div>
+                    <a href="https://aibuildermarketplace.com/b2b/800-com-review/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=tool_review" target="_blank" rel="nofollow noopener" class="btn-outline" style="font-size: 0.85rem;">Read our review&nbsp;&rarr;</a></article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=surveysparrow.com&sz=128" alt="SurveySparrow Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Customer Feedback</div>
+                                <h2>SurveySparrow</h2>
+                            </div>
+                        </div>
+                        <p><strong>Skyrocket your NPS scores.</strong> Stop sending clunky corporate surveys that nobody fills out. SurveySparrow turns feedback forms into highly engaging, mobile-first chat conversations to automate your feedback loop.</p>
+                        <div class="card-actions">
+                            <a href="https://join.surveysparrow.com/tnkpgu26emfl" target="_blank" rel="sponsored noopener noreferrer" class="btn">View SurveySparrow</a>
+                            <a href="surveysparrow.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Case Study →</a>
+                        </div>
+                    <a href="https://aibuildermarketplace.com/b2b/surveysparrow-review/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=tool_review" target="_blank" rel="nofollow noopener" class="btn-outline" style="font-size: 0.85rem;">Read our review&nbsp;&rarr;</a></article>
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=vida.io&sz=128" alt="Vida AI Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">AI Voice Agents</div>
+                                <h2>Vida AI</h2>
+                            </div>
+                        </div>
+                        <p><strong>Never miss a call again.</strong> Vida provides autonomous voice agents that actually sound human. It handles frontline phone support 24/7, answering common questions and booking appointments, completely removing the front-desk bottleneck.</p>
+                        <div class="card-actions">
+                            <a href="https://try.vida.io/tao3fvpm3wby" target="_blank" rel="sponsored noopener noreferrer" class="btn">Deploy Vida AI</a>
+                            <a href="vida-review.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=callhippo.com&sz=128" alt="CallHippo Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Cloud Telephony</div>
+                                <h2>CallHippo</h2>
+                            </div>
+                        </div>
+                        <p><strong>Bypass spam and automate calls.</strong> CallHippo is a cloud-based communication platform that unifies calls, SMS, and WhatsApp, featuring intelligent spam prevention and 24/7 AI voice agents to protect your team's focus.</p>
+                        <div class="card-actions">
+                            <a href="https://join.callhippo.com/acacgh9cnvo1" target="_blank" rel="sponsored noopener noreferrer" class="btn">View CallHippo</a>
+                            <a href="callhippo-review.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=readymode.com&sz=128" alt="ReadyMode Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Predictive Dialer</div>
+                                <h2>ReadyMode</h2>
+                            </div>
+                        </div>
+                        <p><strong>Scale outbound connections.</strong> ReadyMode features an ultra-fast predictive dialer algorithm that maximizes agent talk time and connects your team with high-value leads far faster than manual dialing, while remaining natively compliant.</p>
+                        <div class="card-actions">
+                            <a href="https://try.readymode.com/w9q86uhvjvzd" target="_blank" rel="sponsored noopener noreferrer" class="btn">View ReadyMode</a>
+                            <a href="readymode-review.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=openphone.com&sz=128" alt="OpenPhone Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Cloud Hub</div>
+                                <h2>OpenPhone</h2>
+                            </div>
+                        </div>
+                        <p><strong>A collaborative hub for business numbers.</strong> Ditch the clunky desk phones and personal SIM cards. OpenPhone brings your team's calls, texts, and contacts into a single shared app, complete with AI transcripts and smart routing.</p>
+                        <div class="card-actions">
+                            <a href="https://get.quo.com/npur0vxl3w49" target="_blank" rel="sponsored noopener noreferrer" class="btn">View OpenPhone</a>
+                            <a href="quo-review.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=getweave.com&sz=128" alt="Weave Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Office Comms</div>
+                                <h2>Weave</h2>
+                            </div>
+                        </div>
+                        <p><strong>Consolidate the front desk.</strong> Weave combines elite cloud phones, two-way messaging, billing, and digital forms into one system, cutting front-desk chaos and drastically modernizing daily office workflows.</p>
+                        <div class="card-actions">
+                            <a href="https://partnerstack.getweave.com/6ofmdour3p3q" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Weave</a>
+                            <a href="weave-review.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=typewise.app&sz=128" alt="Typewise Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">AI Ticket Resolution</div>
+                                <h2>Typewise</h2>
+                            </div>
+                        </div>
+                        <p><strong>Automate entire workflows.</strong> Typewise is an orchestration layer that resolves customer support tickets end-to-end. It classifies requests, pulls data from your CRM, and drafts human-like responses, drastically cutting down manual ticket handling time.</p>
+                        <div class="card-actions">
+                            <a href="https://partner.typewise.app/gi20pkpo8bcd" target="_blank" rel="sponsored noopener noreferrer" class="btn">Automate with Typewise</a>
+                            <a href="typewise-review.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+                    
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=activecampaign.com&sz=128" alt="ActiveCampaign Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Client Journeys</div>
+                                <h2>ActiveCampaign</h2>
+                            </div>
+                        </div>
+                        <p><strong>Sophisticated client journeys.</strong> ActiveCampaign goes beyond basic newsletters. It uses advanced if/then branching logic and behavior-based CRM mapping to completely automate and scale long-term customer relationships.</p>
+                        <div class="card-actions">
+                            <a href="https://try.activecampaign.com/h07gxhkcy8v7" target="_blank" rel="sponsored noopener noreferrer" class="btn">View ActiveCampaign</a>
+                            <a href="activecampaign-review.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=process.st&sz=128" alt="Process Street Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Workflow SOPs</div>
+                                <h2>Process Street</h2>
+                            </div>
+                        </div>
+                        <p><strong>Turn static SOPs into actionable workflows.</strong> Stop relying on dusty Google Docs for team training. Process Street transforms your operational knowledge into interactive, AI-driven checklists that ensure perfect execution and airtight accountability.</p>
+                        <div class="card-actions">
+                            <a href="https://get.process.st/hyrxoou4prfc" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Process Street</a>
+                            <a href="process-street-review.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=cloudtalk.io&sz=128" alt="CloudTalk Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Smart Phone System</div>
+                                <h2>CloudTalk</h2>
+                            </div>
+                        </div>
+                        <p><strong>A modern phone system for growing teams.</strong> Forget clunky desk phones. CloudTalk is a flexible calling software that connects easily to your other tools. It helps route calls to the right person automatically, saving both you and your customers a lot of frustration.</p>
+                        <div class="card-actions">
+                            <a href="https://get.cloudtalk.io/750eho0hrkyk" target="_blank" rel="sponsored noopener noreferrer" class="btn">View CloudTalk</a>
+                            <a href="https://aibuildermarketplace.com/b2b/cloudtalk-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener noreferrer" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=alohi.com&sz=128" alt="Alohi Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Secure Documents</div>
+                                <h2>Alohi Suite</h2>
+                            </div>
+                        </div>
+                        <p><strong>Swiss-grade document security.</strong> Make client onboarding entirely paperless without sacrificing compliance. Alohi provides legally binding electronic signatures and secure cloud faxing pipelines, protected by top-tier encryption.</p>
+                        <div class="card-actions">
+                            <a href="https://ref.alohi.com/i94t0wafno1b" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Alohi</a>
+                            <a href="alohi-review.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=vistasocial.com&sz=128" alt="Vista Social Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Unified Inbox</div>
+                                <h2>Vista Social</h2>
+                            </div>
+                        </div>
+                        <p><strong>All your messages in one place.</strong> Stop switching tabs to answer Facebook messages, Instagram DMs, and reviews. Vista Social brings all your customer messages into one clean inbox and uses smart auto-replies to take the busywork off your hands.</p>
+                        <div class="card-actions">
+                            <a href="https://join.vistasocial.com/3gvz9j8tfhuo" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Vista Social</a>
+                            <a href="https://theweekly2pctedge.com/vista-social.html?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener noreferrer" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=reply.io&sz=128" alt="Reply.io Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">AI Email Assistant</div>
+                                <h2>Reply.io</h2>
+                            </div>
+                        </div>
+                        <p><strong>Let AI handle the repetitive emails.</strong> Your inbox shouldn't control your day. Reply's AI tools are surprisingly good at recognizing common customer questions, drafting the perfect response, and organizing your inbox so you only see what truly needs your attention.</p>
+                        <div class="card-actions">
+                            <a href="https://get.reply.io/l5ko4nvevkas" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Reply.io</a>
+                            <a href="reply-review.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=krispcall.com&sz=128" alt="KrispCall Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Virtual Call Center</div>
+                                <h2>KrispCall</h2>
+                            </div>
+                        </div>
+                        <p><strong>A full call center in your pocket.</strong> Whether your team is in the office or working from home, KrispCall keeps everyone connected. It’s incredibly easy to set up and allows you to add smart voice-bots to handle out-of-hours calls smoothly.</p>
+                        <div class="card-actions">
+                            <a href="https://try.krispcall.com/oxhjrkcubhma" target="_blank" rel="sponsored noopener noreferrer" class="btn">View KrispCall</a>
+                            <a href="krispcall-review.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=calilio.com&sz=128" alt="Calilio Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Business VoIP</div>
+                                <h2>Calilio</h2>
+                            </div>
+                        </div>
+                        <p><strong>Simple, reliable business calling.</strong> Sometimes you just need phone software that works without a headache. Calilio provides clear, stable calling features that make it easy to set up simple automatic menus, so your customers always reach the right department.</p>
+                        <div class="card-actions">
+                            <a href="https://try.calilio.com/ntqjzss06d92" target="_blank" rel="sponsored noopener noreferrer" class="btn">View Calilio</a>
+                            <a href="calilio-review.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <img src="https://www.google.com/s2/favicons?domain=cometchat.com&sz=128" alt="CometChat Icon" class="card-icon" loading="lazy">
+                            <div class="card-title-group">
+                                <div class="tag">Live Chat Tools</div>
+                                <h2>CometChat</h2>
+                            </div>
+                        </div>
+                        <p><strong>Add chat directly into your website.</strong> If you want to offer instant help while people are on your site, CometChat makes it easy. You can build reliable chat boxes where AI bots can greet visitors first, before passing them on to a real human if needed.</p>
+                        <div class="card-actions">
+                            <a href="https://try.cometchat.com/155dumgioc1q" target="_blank" rel="sponsored noopener noreferrer" class="btn">View CometChat</a>
+                            <a href="cometchat-review.html" class="btn-outline" style="font-size: 0.85rem;">Read Full Review →</a>
+                        </div>
+                    </article>
+
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="about-section">
+            <div class="about-grid">
+                <div class="about-content">
+                    <h2>Built on Real Experience.</h2>
+                    <p>I don't evaluate software like a typical marketer. After spending over two decades in international banking—focusing heavily on operations and risk management—I know exactly what happens when systems break down or teams get overwhelmed.</p>
+                    <p>I look at software through a very simple lens: does it actually save time, reduce stress, and make your life easier? I test and share practical, reliable tools that genuinely help you run a smoother business. It's all about building systems that work for you, so you can spend less time putting out fires and more time enjoying the ride.</p>
+                </div>
+                <div class="about-stats">
+                    <div class="stat-item">
+                        <div class="stat-value">20+ Yrs</div>
+                        <div class="stat-label">Banking & Operations</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">Zero</div>
+                        <div class="stat-label">Empty Hype</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">100%</div>
+                        <div class="stat-label">Practical Advice</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="network" class="network-section">
+            <div class="network-header">
+                <h2>Explore Our Broader Network</h2>
+                <p>This platform is one node in our unified ecosystem. Depending on your current operational focus, traverse our specialized network lanes to reclaim your time.</p>
+            </div>
+            <div class="network-cards">
+                
+                <a href="https://theweekly2pctedge.com/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener noreferrer" class="net-card">
+                    <span class="net-tag">02 / Applied Automation</span>
+                    <h3>The Weekly 2% Edge &rarr;</h3>
+                    <p>Deep-dive personal case studies demonstrating precise execution of digital optimization.</p>
+                </a>
+                
+                <a href="https://aibuildermarketplace.com/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener noreferrer" class="net-card">
+                    <span class="net-tag">04 / The Tech Registry</span>
+                    <h3>AI Builder Marketplace &rarr;</h3>
+                    <p>Curated platform tailored for AI developers, system architects, and tech pipelines.</p>
+                </a>
+
+                <a href="https://officesoftwaremarketplace.com/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener noreferrer" class="net-card">
+                    <span class="net-tag">05 / The Commodity Directory</span>
+                    <h3>Office Software &rarr;</h3>
+                    <p>Comprehensive database for day-to-day business utilities across all operational lanes.</p>
+                </a>
+
+                <a href="https://marketingandsalessoftware.com/?utm_source=zerotouchsupport&utm_medium=ecosystem&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener noreferrer" class="net-card">
+                    <span class="net-tag">06 / Growth &amp; Revenue</span>
+                    <h3>Marketing &amp; Sales Software &rarr;</h3>
+                    <p>Curated marketing, growth and sales-communication tools for revenue teams.</p>
+                </a>
+            </div>
+        </section>
+
+    </main>
+
+    <section style="max-width:760px;margin:44px auto;padding:30px 24px;background:rgba(99,102,241,.07);border:1px solid rgba(128,128,128,.25);border-radius:16px;text-align:center">
+  <h2 style="font-size:1.3rem;font-weight:800;margin:0 0 8px;color:#f1f5f9">Get the best AI &amp; business software, monthly</h2>
+  <p style="color:#94a3b8;margin:0 auto 16px;font-size:.92rem;max-width:520px">Honest tool picks, comparisons and time-saving workflows from an ex-banker who tests with his own money. No spam, unsubscribe anytime.</p>
+  <form action="https://aibuildermarketplace.beehiiv.com/subscribe" method="get" target="_blank" style="display:flex;gap:8px;max-width:440px;margin:18px auto 0;flex-wrap:wrap;justify-content:center"><input type="email" name="email" required placeholder="Enter your email" style="flex:1 1 220px;min-width:200px;padding:12px 15px;border-radius:9px;border:1px solid #334155;background:rgba(255,255,255,.05);color:#f1f5f9;font-size:.95rem"><button type="submit" style="padding:12px 24px;border-radius:9px;border:0;background:#3b82f6;color:#fff;font-weight:700;font-size:.95rem;cursor:pointer;white-space:nowrap">Subscribe &rarr;</button></form>
+  <p style="margin:14px 0 0;font-size:.88rem"><a href="https://aibuildermarketplace.com/free-stack/?utm_source=zerotouchsupport&utm_medium=ecosystem" style="color:#818cf8;font-weight:600" target="_blank" rel="nofollow noopener">📋 Grab the free 2026 B2B Software Stack (PDF) &rarr;</a></p>
+</section>
+<section class="section" id="price-watch" style="padding:28px 24px 8px;max-width:1148px;margin:0 auto"><style>
+  .pw-head{max-width:1100px;margin:0 auto 16px;text-align:center}
+  .pw-head h2{font-size:1.6rem;font-weight:800;color:#f1f5f9;margin:0 0 10px}
+  .pw-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;max-width:1100px;margin:0 auto}
+  @media(max-width:980px){.pw-grid{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:560px){.pw-grid{grid-template-columns:1fr}}
+  .pwc{display:flex;flex-direction:column;padding:16px 18px;border:1px solid #1e293b;border-radius:14px;background:rgba(255,255,255,.02);text-decoration:none;transition:border-color .2s,transform .2s}
+  .pwc:hover{border-color:#3b82f6;transform:translateY(-2px)}
+  .pwc .k{font-size:.64rem;font-weight:800;text-transform:uppercase;letter-spacing:.05em;margin-bottom:7px}
+  .pwc b{color:#f1f5f9;font-weight:700;font-size:1.02rem;margin-bottom:8px}
+  .pwc .pwn{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.76rem;color:#f1f5f9;margin-bottom:12px;flex-grow:1;line-height:1.5;word-break:break-word}
+  .pwc .pwn s{color:#64748b}
+  .pwc .go{color:#60a5fa;font-weight:700;font-size:.82rem}
+  .pw-cta{max-width:1100px;margin:16px auto 0;text-align:center}
+  .pw-cta a{display:inline-block;padding:11px 22px;border-radius:9px;background:linear-gradient(135deg,#3b82f6,#a78bfa);color:#fff;font-weight:800;font-size:.9rem;text-decoration:none}
+</style><div class="pw-head"><h2>Vendors raise prices quietly. We write it down.</h2><p style="color:#94a3b8;max-width:760px;margin:0 auto">Every month we archive the pricing page of the 30 tools reviewed on this site, then compare the new capture against the last. Between August 2026 and September 2026, 21 gave a comparable capture: one showed a verified price change, 13 were unchanged to the cent, and 7 changed wording or layout without a price we could confirm moved. Every capture is read by a person before it counts.</p></div><div class="pw-grid"><a class="pwc" href="/salesmessage-review.html"><span class="k" style="color:#a78bfa">LADDER REBUILT, TOP UP 32%</span><b>Salesmessage</b><span class="pwn"><s>$25</s> &rarr; $25</span><span class="go">Read the review &rarr;</span></a><a class="pwc" href="/callhippo-review.html"><span class="k" style="color:#fb7185">FEES UP</span><b>CallHippo</b><span class="pwn"><s>…of $15 per account applies.</s> &rarr; …of $20 per account applies.</span><span class="go">Read the review &rarr;</span></a><a class="pwc" href="/weave-review.html"><span class="k" style="color:#22c55e">PRICE CUT</span><b>Weave</b><span class="pwn"><s>…from $249 per month.</s> &rarr; …from $199 per month.</span><span class="go">Read the review &rarr;</span></a><a class="pwc" href="/calilio-review.html"><span class="k" style="color:#a78bfa">PLAN RESTRUCTURE</span><b>Calilio</b><span class="pwn"><s>…from $15 Per Month</s> &rarr; …at $15 Per Month Only</span><span class="go">Read the review &rarr;</span></a></div><div class="pw-cta"><a href="/price-watch.html">See what these vendors changed &rarr;</a></div></section>
+<section id="aibm-gidsen" style="max-width:820px;margin:3rem auto 0;padding:0 24px"><h2 style="font-size:1.25rem;font-weight:800;margin-bottom:.6rem">Buying guides</h2><ul style="list-style:none;padding:0;margin:0;line-height:2"><li><a href="/shopify-helpdesk-apps.html" style="color:#818cf8;text-decoration:underline">Shopify helpdesk apps: four meters compared</a></li><li><a href="/virtual-phone-systems.html" style="color:#818cf8;text-decoration:underline">Virtual phone systems: the seat price is not the bill</a></li><li><a href="/helpdesk-platforms-compared.html" style="color:#818cf8;text-decoration:underline">Helpdesk platforms: the entry tier is never the product</a></li><li><a href="/whatsapp-and-messaging-inboxes.html" style="color:#818cf8;text-decoration:underline">WhatsApp inboxes: platform fee plus per-message</a></li><li><a href="/answering-services-human-or-ai.html" style="color:#818cf8;text-decoration:underline">Someone has to answer: receptionists or an AI agent</a></li><li><a href="/outbound-calling-at-volume.html" style="color:#818cf8;text-decoration:underline">Calling at volume: dialer, call centre or phone system</a></li></ul></section>
+<section id="aibm-marketplace" style="max-width:820px;margin:3rem auto 0;padding:0 24px"><div style="background:var(--card,#0f172a);border:1px solid var(--border,#334155);border-radius:16px;padding:26px 28px;text-align:center"><h2 style="font-size:1.25rem;font-weight:800;margin:0 0 10px">Built something in customer support and voice?</h2><p style="color:var(--text2,#cbd5e1);line-height:1.7;margin:0 0 16px">We review tools independently, and founders can also list their own product &mdash; clearly labelled as vendor-written, held to real pricing, and open to reader reviews including critical ones. Listings live on our flagship site so every submission lands in one place. Shelf space is free during beta.</p><p style="margin:0"><a href="https://aibuildermarketplace.com/marketplace/?utm_source=zerotouchsupport&amp;utm_medium=block&amp;utm_campaign=marketplace" target="_blank" rel="nofollow noopener" style="display:inline-block;background:var(--accent,#818cf8);color:#0a0a0a;font-weight:800;font-size:.9rem;padding:11px 20px;border-radius:10px;text-decoration:none">Browse the marketplace &rarr;</a><a href="https://aibuildermarketplace.com/list-your-saas/?utm_source=zerotouchsupport&amp;utm_medium=block&amp;utm_campaign=list" target="_blank" rel="nofollow noopener" style="margin-left:16px;font-weight:700;font-size:.9rem;color:var(--accent,#818cf8)">List your SaaS &mdash; free &rarr;</a></p></div></section>
+<footer class="zfoot" id="zuster-voet"><style>
+.zfoot{border-top:1px solid var(--border,#334155);margin-top:3rem;
+ padding:44px 24px 26px;color:var(--text2,#cbd5e1);font-size:.9rem}
+.zfoot .in{max-width:1100px;margin:0 auto;display:grid;
+ grid-template-columns:1.6fr repeat(auto-fit,minmax(150px,1fr));gap:30px}
+.zfoot h3{font-size:.72rem;text-transform:uppercase;letter-spacing:.1em;
+ color:var(--muted,#94a3b8);font-weight:700;margin:0 0 12px}
+.zfoot ul{list-style:none;padding:0;margin:0;line-height:2}
+.zfoot a{color:var(--text2,#cbd5e1);text-decoration:none}
+.zfoot a:hover{color:var(--accent,#818cf8);text-decoration:underline}
+.zfoot .merk{font-weight:800;font-size:1.05rem;color:var(--text,#f8fafc);
+ margin:0 0 10px}
+.zfoot .pitch{line-height:1.7;max-width:34ch;margin:0}
+.zfoot .staart{max-width:1100px;margin:32px auto 0;
+ border-top:1px solid var(--border,#334155);padding-top:16px;
+ display:flex;flex-wrap:wrap;gap:12px;justify-content:space-between;
+ font-size:.82rem;color:var(--muted,#94a3b8)}
+@media(max-width:640px){.zfoot .in{grid-template-columns:1fr}}
+</style><div class="in"><div><div class="merk">ZeroTouch Support</div><p class="pitch">Honest reviews of customer support and voice software, with prices read on the vendor&rsquo;s own page and dated.</p></div><div><h3>Research &amp; data</h3><ul><li><a href="/atlas.html">The cost-trap atlas</a></li><li><a href="/price-watch.html">Price Watch</a></li><li><a href="/answers.html">Straight answers</a></li><li><a href="https://aibuildermarketplace.com/research/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">Pricing Transparency Report</a></li><li><a href="https://aibuildermarketplace.com/data/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">Open data</a></li><li><a href="https://aibuildermarketplace.com/glossary/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">Pricing glossary</a></li></ul></div><div><h3>Find your tool</h3><ul><li><a href="/finder.html">Tool Finder</a></li><li><a href="/tools/">Free calculators</a></li><li><a href="/">All reviews</a></li><li><a href="/#aibm-gidsen">Best tools</a></li><li><a href="/build-customer-support-system.html">Build a stack</a></li><li><a href="/#aibm-gidsen">Guides</a></li></ul></div><div><h3>Buying guides</h3><ul><li><a href="/answering-services-human-or-ai.html">Someone has to answer</a></li><li><a href="/best-business-phone-systems.html">Best business phone systems for small </a></li><li><a href="/best-customer-support-automation-tools.html">The best customer-support automation t</a></li><li><a href="/best-shopify-support-apps.html">The best Shopify customer support apps</a></li><li><a href="/helpdesk-platforms-compared.html">Helpdesk platforms</a></li><li><a href="/outbound-calling-at-volume.html">Calling at volume</a></li><li><a href="/shopify-helpdesk-apps.html">Shopify helpdesk apps</a></li><li><a href="/virtual-phone-systems.html">Virtual phone systems</a></li><li><a href="/whatsapp-and-messaging-inboxes.html">WhatsApp and messaging inboxes</a></li></ul></div><div><h3>Build a stack</h3><ul><li><a href="/build-customer-support-system.html">How to Build a Customer Support System</a></li></ul></div><div><h3>Free tools</h3><ul><li><a href="/tools/nps-calculator/">NPS Calculator</a></li></ul></div><div><h3>Community &amp; founders</h3><ul><li><a href="https://aibuildermarketplace.com/marketplace/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">SaaS Marketplace</a></li><li><a href="https://aibuildermarketplace.com/list-your-saas/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">List your SaaS — free</a></li><li><a href="https://aibuildermarketplace.com/videos/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">Video reviews</a></li></ul></div><div><h3>About</h3><ul><li><a href="https://aibuildermarketplace.com/how-we-review/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">How we review</a></li><li><a href="https://aibuildermarketplace.com/manifesto/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">The manifesto</a></li><li><a href="https://aibuildermarketplace.com/handbook/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">The Buyer's Handbook</a></li><li><a href="/about.html">About Daniel</a></li><li><a href="https://aibuildermarketplace.com/terms/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">Terms</a></li><li><a href="https://aibuildermarketplace.com/privacy/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">Privacy</a></li></ul></div></div><div class="staart"><span>&copy; 2025&ndash;2026 ZeroTouch Support. Some links are affiliate links &mdash; we may earn a commission at no extra cost to you.</span><span>Part of the network: <a href="https://aibuildermarketplace.com?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=network" rel="nofollow noopener">AI Builder Marketplace</a> &middot; <a href="https://officesoftwaremarketplace.com?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=network" rel="nofollow noopener">Office Software Marketplace</a> &middot; <a href="https://marketingandsalessoftware.com?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=network" rel="nofollow noopener">Marketing &amp; Sales Software</a> &middot; <a href="https://theweeklyaiedge.com?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=network" rel="nofollow noopener">The Weekly AI Edge</a> &middot; <a href="https://theweekly2pctedge.com?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=network" rel="nofollow noopener">The Weekly 2% Edge</a></span></div></footer>
+
+<script id="aff-click-tracker">
+(function(){try{
+  if (window.__affTrack) return; window.__affTrack = 1;
+  document.addEventListener('click', function(e){
+    try{
+      var t = e.target;
+      var a = t && t.closest ? t.closest('a[rel~="sponsored"]') : null;
+      if (!a || !a.href || a.href.indexOf('http') !== 0) return;
+      var h = 'unknown';
+      try { h = new URL(a.href).hostname.replace(/^(www|try|get|go|join|start|now|refer|partners?|affiliates?|psref)\./,''); } catch(_){}
+      if (window.gtag) gtag('event', 'affiliate_click', {
+        partner: h,
+        link_url: a.href.split('?')[0],
+        transport_type: 'beacon'
+      });
+    }catch(_){}
+  }, true);
+}catch(_){}})();
+</script>
+<!-- AIBM-FREETOOLS:START --><section style="max-width:1200px;margin:44px auto;padding:0 20px;font-family:system-ui,-apple-system,sans-serif"><div style="display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:8px"><h2 style="color:#fafafa;font-size:1.45rem;font-weight:800;margin:0 0 4px">Free tools</h2><a href="https://aibuildermarketplace.com/tools/?utm_source=zerotouchsupport&utm_medium=ecosystem" rel="nofollow noopener" style="color:#3b82f6;text-decoration:none;font-size:.8rem">All 78 free tools &rarr;</a></div><p style="color:#a3a3a3;margin:0 0 16px;font-size:.9rem">No signup, runs in your browser, each with an honest guide &mdash; from <a href="https://aibuildermarketplace.com/tools/?utm_source=zerotouchsupport&utm_medium=ecosystem" rel="nofollow noopener" style="color:#3b82f6;text-decoration:none">AIBuilder Marketplace</a>.</p><div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px"><a href="https://aibuildermarketplace.com/tools/nps-calculator/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" style="display:flex;gap:11px;align-items:flex-start;background:#141418;border:1px solid #26262b;border-radius:12px;padding:13px 14px;text-decoration:none"><div style="flex:none;width:34px;height:34px;border-radius:9px;background:linear-gradient(135deg,#06b6d4,#0891b2);display:flex;align-items:center;justify-content:center;color:#fff"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M8 14s1.5 2 4 2 4-2 4-2M9 9h.01M15 9h.01"/></svg></div><div style="min-width:0"><div style="font-weight:700;color:#fafafa;font-size:.88rem;line-height:1.3">NPS Calculator</div><div style="color:#9ca3af;font-size:.76rem;margin-top:3px;line-height:1.45">Enter your promoters, passives and detractors to get your Net Promoter Score instantly.</div></div></a><a href="https://aibuildermarketplace.com/tools/churn-rate-calculator/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" style="display:flex;gap:11px;align-items:flex-start;background:#141418;border:1px solid #26262b;border-radius:12px;padding:13px 14px;text-decoration:none"><div style="flex:none;width:34px;height:34px;border-radius:9px;background:linear-gradient(135deg,#06b6d4,#0891b2);display:flex;align-items:center;justify-content:center;color:#fff"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7l6 6 4-4 8 8"/><path d="M17 17h4v-4"/></svg></div><div style="min-width:0"><div style="font-weight:700;color:#fafafa;font-size:.88rem;line-height:1.3">Churn Rate Calculator</div><div style="color:#9ca3af;font-size:.76rem;margin-top:3px;line-height:1.45">Enter customers at the start and how many you lost to get your churn and retention rate.</div></div></a><a href="https://aibuildermarketplace.com/tools/survey-sample-size-calculator/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" style="display:flex;gap:11px;align-items:flex-start;background:#141418;border:1px solid #26262b;border-radius:12px;padding:13px 14px;text-decoration:none"><div style="flex:none;width:34px;height:34px;border-radius:9px;background:linear-gradient(135deg,#10b981,#059669);display:flex;align-items:center;justify-content:center;color:#fff"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="4" width="12" height="17" rx="2"/><path d="M9 4V3h6v1M9 9h6M9 13h6M9 17h4"/></svg></div><div style="min-width:0"><div style="font-weight:700;color:#fafafa;font-size:.88rem;line-height:1.3">Survey Sample Size Calculator</div><div style="color:#9ca3af;font-size:.76rem;margin-top:3px;line-height:1.45">Find how many people to survey for a given confidence level and margin of error.</div></div></a><a href="https://aibuildermarketplace.com/tools/engagement-rate-calculator/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" style="display:flex;gap:11px;align-items:flex-start;background:#141418;border:1px solid #26262b;border-radius:12px;padding:13px 14px;text-decoration:none"><div style="flex:none;width:34px;height:34px;border-radius:9px;background:linear-gradient(135deg,#06b6d4,#0891b2);display:flex;align-items:center;justify-content:center;color:#fff"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-8-5-8-11a4 4 0 0 1 8-1 4 4 0 0 1 8 1c0 6-8 11-8 11z"/></svg></div><div style="min-width:0"><div style="font-weight:700;color:#fafafa;font-size:.88rem;line-height:1.3">Engagement Rate Calculator</div><div style="color:#9ca3af;font-size:.76rem;margin-top:3px;line-height:1.45">Enter followers, likes and comments to get your social media engagement rate.</div></div></a><a href="https://aibuildermarketplace.com/tools/meeting-cost-calculator/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" style="display:flex;gap:11px;align-items:flex-start;background:#141418;border:1px solid #26262b;border-radius:12px;padding:13px 14px;text-decoration:none"><div style="flex:none;width:34px;height:34px;border-radius:9px;background:linear-gradient(135deg,#10b981,#059669);display:flex;align-items:center;justify-content:center;color:#fff"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.5"/><path d="M3 20a6 6 0 0 1 12 0"/><path d="M16 5a3.5 3.5 0 0 1 0 6M21 20a6 6 0 0 0-5-5.9"/></svg></div><div style="min-width:0"><div style="font-weight:700;color:#fafafa;font-size:.88rem;line-height:1.3">Meeting Cost Calculator</div><div style="color:#9ca3af;font-size:.76rem;margin-top:3px;line-height:1.45">Enter attendees, hourly cost and duration to see what a meeting really costs in salaried…</div></div></a><a href="https://aibuildermarketplace.com/tools/pomodoro-timer/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" style="display:flex;gap:11px;align-items:flex-start;background:#141418;border:1px solid #26262b;border-radius:12px;padding:13px 14px;text-decoration:none"><div style="flex:none;width:34px;height:34px;border-radius:9px;background:linear-gradient(135deg,#3b82f6,#6366f1);display:flex;align-items:center;justify-content:center;color:#fff"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8"/><path d="M12 13V9M9 2h6"/></svg></div><div style="min-width:0"><div style="font-weight:700;color:#fafafa;font-size:.88rem;line-height:1.3">Pomodoro Focus Timer</div><div style="color:#9ca3af;font-size:.76rem;margin-top:3px;line-height:1.45">25-minute focus sessions with 5-minute breaks, right in your browser.</div></div></a></div></section><!-- AIBM-FREETOOLS:END --></body>
+</html>
