@@ -127,7 +127,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Typewise: One number and no plan table. The bill scales with resolutions rather than seats, and "from $1" is a floor, not a rate card.
 
 ## Vida AI
-- Review: https://zerotouchsupport.com/vida-review.html
+- Review: https://zerotouchsupport.com/vida-ai-review.html
 - Verdict: Vida is quote-oriented and priced for resellers: agency plans start around $750 a month for 5 agents and about 2,500 AI voice minutes, platform plans from roughly $2.5k. Here is what that buys.
 
 ## Wati
