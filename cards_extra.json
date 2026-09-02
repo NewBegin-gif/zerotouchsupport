@@ -827,6 +827,10 @@
   ],
   "verified": "2026-08-20",
   "catch": "The honest boundary is geography: Bolt's network is Europe/Africa-centric across 600+ cities, so US-only operations should look elsewhere, and ride availability varies by city — pilot it on your team's actual routes.",
+  "coupon": {
+   "code": "BB25OFF20",
+   "label": "25% off 20 rides"
+  },
   "best": "Companies with European/African travel footprints that want employee rides centrally billed, policy-controlled and expense-integrated — at zero platform cost"
  },
  "Bookyourdata": {
@@ -885,6 +889,10 @@
   "price_note": "from · per month",
   "verified": "2026-08-11",
   "catch": "Not charging for unknowns and duplicates is genuinely fair — many rivals do.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: 10% off pay-as-you-go verification credits"
+  },
   "best": "Email marketers and outbound teams that clean lists regularly and want accurate verification with fair credit mechanics (no expiry, no double-charging)"
  },
  "Bread & Butter": {
@@ -1359,6 +1367,10 @@
   "price_note": "per month",
   "verified": "2026-08-26",
   "catch": "\"Fully managed\" here means the server, not your site — and that distinction is where the money is.",
+  "coupon": {
+   "code": "NETWORK26",
+   "label": "20% off for 3 months"
+  },
   "best": "Agencies and PHP shops running many sites who want servers managed but not metered. One server holds as many sites as it can carry with no visit caps, billing is hourly and post-paid with no annual term, and Magento and Laravel are first-class alongside WordPress. It suits teams who genuinely do not want anyone patching kernels at 2am"
  },
  "Clutch": {
@@ -1773,6 +1785,10 @@
   "price_note": "from · per month",
   "verified": "2026-09-01",
   "catch": "Formation is the cheap part; the recurring bookkeeping and tax tiers are where the real cost sits, and state fees are extra on top of doola's price.",
+  "coupon": {
+   "code": "AIBUILDER10",
+   "label": "10% off your first purchase of a Starter"
+  },
   "best": "Founders (often non-US) who want US LLC/C-Corp formation, EIN and compliance handled in one place without the paperwork"
  },
  "Drip": {
@@ -1974,6 +1990,10 @@
   "price_note": "per month",
   "verified": "2026-08-26",
   "catch": "The meter is contacts AND seats at once: prices are per user, and each tier caps contacts — Basic’s 500 contacts fills fast, and the Growth jump is steep ($15 → $65 per user).",
+  "coupon": {
+   "code": "AIBUILDER20",
+   "label": "20% off your first billing"
+  },
   "best": "Small teams that want CRM, email marketing, helpdesk and live chat in one affordable suite — the free tier is a genuine trial-for-life, and it undercuts HubSpot hard at small scale"
  },
  "Envoy": {
@@ -2271,6 +2291,10 @@
   "price_note": "from · per user per month",
   "verified": "2026-09-01",
   "catch": "Foxit's pitch is being the honest fraction of Acrobat's price, and on the headline numbers it delivers.",
+  "coupon": {
+   "code": "CP366-B4dCXGN5",
+   "label": "20% off"
+  },
   "best": "Individuals and businesses that want full PDF editing, OCR and organizing at a fraction of Acrobat's subscription — especially multi-seat deployments"
  },
  "Frase": {
@@ -3324,6 +3348,10 @@
   "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "The per-seat plus per-email-account model makes total cost unpredictable as you scale, and reviews flag support response times and the LinkedIn Chrome-extension's reliability.",
+  "coupon": {
+   "code": "OFFSUMMERLEMAGENT",
+   "label": "30 days free"
+  },
   "best": "Outbound teams that live in cold email and want multichannel sequences, warm-up and a big template community in one per-seat tool"
  },
  "LettrLabs": {
@@ -3667,6 +3695,10 @@
   "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "The sticker price buys a credit allowance, not finished video, and the two are easy to confuse.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: half again as many credits on any paid plan"
+  },
   "best": "Product and marketing teams that want to turn docs, screenshots and recordings into polished, on-brand videos quickly and repeatably"
  },
  "NiceJob": {
@@ -3735,6 +3767,10 @@
   ],
   "verified": "2026-08-26",
   "catch": "Their own site does not agree with itself about what this costs, and we have now checked that twice.",
+  "coupon": {
+   "code": "86ECADE3E22E",
+   "label": "10% off the first six months of Essential or Pro"
+  },
   "best": "Knowledge-heavy teams that need every answer traceable to a library they control — policy and public-sector units, compliance, legal, grants and research desks — where an unsourced answer is worse than no answer. The supporting infrastructure is aimed at exactly that reader. That means SOC 1 / SOC 2 Type I/II, encryption in transit and at rest, data held in Europe or the United States, dedicated data centres in a region you choose, and a full on-premises install. The World Bank's AVA is their reference deployment, live since August 2025, and it is the clearest statement of what the product is for: if the answer is not in the curated library, it does not get made up"
  },
  "Nutshell": {
@@ -3759,6 +3795,10 @@
   "price_note": "from · per user per month",
   "verified": "2026-08-17",
   "catch": "Full API access is included on every plan, so integrations are not the cost trap here — the add-ons are.",
+  "coupon": {
+   "code": "nspub-partner-1monthfree",
+   "label": "One month free of any Nutshell subscription"
+  },
   "best": "Small sales teams that want a friendly CRM with unlimited contacts and full API access on every tier, including the cheapest"
  },
  "Omniseo": {
@@ -4257,6 +4297,10 @@
   ],
   "verified": "2026-08-07",
   "catch": "Everything about the sales motion here is a conversation.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: 40% off the first three months for new customers"
+  },
   "best": "Brands and sellers already running paid media across several retail networks at once — Amazon Sponsored Ads and Amazon DSP, Walmart, Instacart, Criteo, Google, Meta and Microsoft — who would rather hand the whole set to one team than wire together a tool per channel. The fixed account team is the actual product here, not a support tier, and if you were going to hire an agency anyway then a platform with people attached is a fair shape for the money"
  },
  "QuickBooks UK": {
@@ -4340,6 +4384,10 @@
   "price_note": "from · per month",
   "verified": "2026-08-31",
   "catch": "Call reliability is the recurring complaint — G2 logs hundreds of connection and disconnection reports, and calls get shaky the moment you're off Wi-Fi.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: 7 days free plus 10% off the first three months"
+  },
   "best": "Micro-teams of 2–5 people working mostly on Wi-Fi who want a clean, modern phone app built around a shared inbox, with AI call summaries (Sona)"
  },
  "Rank Math": {
@@ -4530,6 +4578,10 @@
   "price": "$20",
   "price_note": "from · per month",
   "catch": "Work out which lane you are in before you pay, because the three lanes price the same photo very differently.",
+  "coupon": {
+   "code": "AIBuilder20",
+   "label": "20% off Retouch4me plugins"
+  },
   "best": "High-volume portrait, school and wedding photographers who already live in Photoshop and want repetitive retouching (skin, stray hairs, dust, teeth) automated — owning the plugins outright or renting the whole suite on credits, whichever their volume favours"
  },
  "Riverside": {
@@ -4722,6 +4774,10 @@
   "price_note": "per year",
   "verified": "2026-08-26",
   "catch": "Read the caps before you read the prices, because the caps are what you are actually buying.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: 10% off the first three months"
+  },
   "best": "Amazon and Walmart sellers past the hobby stage who compete for the Buy Box on a catalog of up to a few thousand SKUs, and want AI repricing and deep seller analytics in one place. The 15-day no-card trial makes it cheap to test against your own listings before any commitment"
  },
  "Sellfy": {
@@ -4769,6 +4825,10 @@
   ],
   "price_state": "quote-only",
   "catch": "The category claim (AI catches what filters miss) is plausible — Microsoft/Google native filtering misses sophisticated BEC — but any vendor's accuracy percentage is measured on their own test set, not your mail flow.",
+  "coupon": {
+   "code": "SUMMER",
+   "label": "Three months free"
+  },
   "best": "SMBs on Google Workspace/M365 that want an extra AI layer against phishing and BEC without infrastructure changes"
  },
  "SEO Space": {
@@ -5195,6 +5255,10 @@
   "price": "$29.99",
   "price_note": "Stamp Lite · per year",
   "verified": "2026-08-30",
+  "coupon": {
+   "code": "STAMP98",
+   "label": "98% off the first month of Stamp Lite"
+  },
   "best": "Local businesses (cafés, salons, retail) that want a simple digital stamp-card loyalty program starting free"
  },
  "Storylane": {
@@ -5484,6 +5548,10 @@
   ],
   "verified": "2026-08-30",
   "catch": "Note on how we link this one, updated 28 Jul 2026: between 21 and 28 July our partner link was dead — Tenable's shop subdomain stopped resolving, so we pointed the link at Tenable's own product page and earned nothing from it.",
+  "coupon": {
+   "code": "SAVE10",
+   "label": "10% off"
+  },
   "best": "Security teams and IT-mature companies that need continuous, authoritative vulnerability scanning and can remediate what it finds"
  },
  "TestGorilla": {
@@ -5784,6 +5852,10 @@
   "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "It's the classic budget-host trade-off, with one thing in its favour.",
+  "coupon": {
+   "code": "ultaad2RiM",
+   "label": "10% off"
+  },
   "best": "Budget-conscious owners, developers and small businesses that want cheap, fast NVMe hosting (shared or VPS) with free migration and DDoS protection, and will prepay a multi-year term"
  },
  "Unbounce": {
@@ -5931,6 +6003,10 @@
   "price_note": "from · per month",
   "verified": "2026-09-01",
   "catch": "Credits don't carry over month to month, and a few users report slow support/account responses — so run the free plan through a full create-and-publish loop before you pay.",
+  "coupon": {
+   "code": "AIBUILDERMARKETPLACE",
+   "label": "10% off"
+  },
   "best": "Creators and small brands running faceless or topic-based channels that want the trend-find, generate and auto-publish loop handled in one tool across TikTok, Instagram and YouTube"
  },
  "Vista Social": {
@@ -6128,6 +6204,10 @@
   "price_note": "Starter · per year",
   "verified": "2026-08-30",
   "catch": "Everything is credits, and generating a site burns them fast — Wegic's own page notes a single generation can cost over $10 in credits, while the free plan gives 100 credits once.",
+  "coupon": {
+   "code": "AIBUILDER10",
+   "label": "10% off any Wegic plan"
+  },
   "best": "Non-technical founders who want an AI to build and host a simple site fast, and are comfortable with usage-based credit pricing"
  },
  "WhatConverts": {
@@ -6940,6 +7020,10 @@
   "price_note": "Standard (1K) · per year",
   "verified": "2026-08-24",
   "catch": "The most important thing about this app is not on its App Store listing.",
+  "coupon": {
+   "code": "AIBM25",
+   "label": "25% off for three months on the monthly plans"
+  },
   "best": "Shopify merchants who want every bundle and upsell format from one app — mix-and-match, build-your-own, BOGO, volume breaks, AI frequently-bought-together — priced against what those offers actually earn rather than a flat fee, and who are comfortable with an app that Shopify delisted for two weeks in July 2026 and then restored"
  },
  "TnC": {
