@@ -1583,25 +1583,6 @@
   "catch": "Two numbers decide whether this is for you, and neither is the headline.",
   "best": "Small and mid-size companies that want a serious endpoint agent without running a security team — Falcon Go is genuinely priced for businesses under 100 devices."
  },
- "Customer.io": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
-  "price": "$100",
-  "price_note": "per month, billed monthly, as published",
-  "verified": "2026-08-28",
-  "catch": "The gap between the two published tiers is the thing to plan around: $100 to $1,000 a month is ten times, and there is nothing in between.",
-  "best": "Product-led companies whose messaging is triggered by what people do in the product rather than by a list."
- },
  "Databox": {
   "flags": [
    [
