@@ -508,6 +508,10 @@
 
 
 
+
+
+
+
 <style id="aibm-kaarten">#infrastructure{--bg:#020617;--bg-2:#0b1120;--surface:#0f172a;--surface-2:#1e293b;--border:#1e293b;--border-hi:#334155;--text:#f8fafc;--text-2:#cbd5e1;--text-3:#94a3b8;--accent:#818cf8;--accent-2:#a5b4fc;--green:#34d399;--amber:#fbbf24;--radius:16px;--radius-sm:11px;--max:1200px;--ease:cubic-bezier(.22,.68,.24,1);--shadow-card:0 1px 0 rgba(255,255,255,.035) inset,0 24px 48px -28px rgba(0,0,0,.75);--shadow-pop:0 20px 60px -18px rgba(0,0,0,.8);}
 /* FILTER */
 .filter-bar{display:flex;justify-content:center;gap:8px;margin-bottom:40px;flex-wrap:wrap}
@@ -595,7 +599,7 @@
 .tc-pw.decrease{color:var(--green);border:1px solid rgba(52,211,153,.35);background:rgba(52,211,153,.08)}
 .tc-pw.restructure,.tc-pw.withdrawn{color:#c4b5fd;border:1px solid rgba(167,139,250,.35);background:rgba(167,139,250,.08)}
 .tool-desc{margin-bottom:12px}
-.tc-catch,.tc-best{font-size:.84rem;line-height:1.5;margin:0 0 10px;padding-left:12px;border-left:2px solid var(--amber);color:var(--text-2);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.tc-catch,.tc-best{font-size:.84rem;line-height:1.5;margin:0 0 10px;padding-left:12px;border-left:2px solid var(--amber);color:var(--text-2);}
 .tc-best{border-left-color:var(--green)}
 .tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}
 .tc-best b{color:var(--green)}
@@ -632,6 +636,41 @@
 .tc-coupon.leeg{display:none}
 .tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
 .tc-coupon .lb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+/* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
+#marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
+.lg-kop{display:grid;grid-template-columns:200px 150px minmax(0,1fr) 190px 150px;gap:0 22px;position:sticky;top:60px;z-index:5;background:var(--bg);padding:10px 18px 10px 15px;border-bottom:1px solid var(--border);font-size:.66rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--text-3);margin:0}
+article.tool-card.ledger{display:grid;grid-template-columns:200px 150px minmax(0,1fr) 190px 150px;gap:0 22px;align-items:start;padding:20px 18px 20px 15px;border:0;border-bottom:1px solid var(--border);border-left:3px solid var(--border-hi);border-radius:0;background:linear-gradient(90deg,rgba(255,255,255,.015),transparent 40%);box-shadow:none;transform:none;overflow:visible;position:relative}
+article.tool-card.ledger:hover{background:var(--surface);transform:none;box-shadow:none;border-color:var(--border);border-left-color:var(--accent)}
+article.tool-card.ledger::after,article.tool-card.ledger .tc-stripe{display:none}
+article.tool-card.ledger[data-flag=quote_only]{border-left-color:#f59e0b}
+article.tool-card.ledger[data-flag=per_seat]{border-left-color:#60a5fa}
+article.tool-card.ledger[data-flag=usage_metered]{border-left-color:#a78bfa}
+article.tool-card.ledger[data-flag=renewal_jump]{border-left-color:#fb7185}
+article.tool-card.ledger[data-flag=addons_extra]{border-left-color:#c084fc}
+article.tool-card.ledger[data-flag=annual_lock]{border-left-color:#f472b6}
+article.tool-card.ledger[data-flag=free_tier]{border-left-color:#34d399}
+.lg-wie{display:flex;gap:12px;align-items:flex-start;min-width:0}
+.lg-wie .tool-logo{width:44px;height:44px;border-radius:10px;flex:none;box-shadow:0 0 0 1px rgba(255,255,255,.08)}
+.lg-naam{min-width:0}
+.lg-naam h3{margin:0 0 4px;font-size:1.05rem;font-weight:700;line-height:1.2;overflow-wrap:anywhere}
+.lg-naam .tool-badge{display:inline-block;margin:0 0 4px}
+.lg-naam .tc-alt{margin:2px 0 0;min-height:0}
+.lg-prijs .tc-price{margin:0;min-height:0;padding:0;border:0;background:none;display:block}
+.lg-prijs .tc-price b{display:block;font-size:1.45rem;line-height:1.1}.lg-prijs .tc-price b.na{font-size:.86rem;line-height:1.3}
+.lg-prijs .tc-price>span:not(.tc-pw):not(.tc-chips){display:block;font-size:.76rem;margin-top:2px;white-space:normal;overflow:visible}
+.lg-prijs .tc-chips{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px;min-height:0}
+.lg-prijs .tc-chips em{margin-left:0}
+.lg-oordeel .tool-desc{margin:0 0 8px;min-height:0;font-size:.9rem;line-height:1.55}
+.lg-oordeel .tc-best,.lg-oordeel .tc-catch{margin:0 0 6px;min-height:0;padding-left:0;border-left:0;font-size:.9rem}
+.lg-oordeel .tc-best b,.lg-oordeel .tc-catch b{display:inline-block;min-width:62px;margin-right:8px}
+.lg-signalen .tc-flags{margin:0 0 8px;min-height:0}
+.lg-signalen .tc-coupon{margin:0 0 8px;min-height:0}
+.lg-signalen .tool-tags{margin:0;min-height:0}
+.lg-acties{display:flex;flex-direction:column;gap:7px;margin:0}
+.lg-acties .tool-cta-primary,.lg-acties .tool-cta-review{padding:10px 12px;font-size:.84rem}
+@media(max-width:1024px){.lg-kop{display:none}article.tool-card.ledger{grid-template-columns:1fr 1fr;grid-template-areas:"wie prijs" "oordeel oordeel" "signalen acties";gap:14px 18px}.lg-wie{grid-area:wie}.lg-prijs{grid-area:prijs}.lg-oordeel{grid-area:oordeel}.lg-signalen{grid-area:signalen}.lg-acties{grid-area:acties}}
+@media(max-width:600px){article.tool-card.ledger{grid-template-columns:1fr;grid-template-areas:"wie" "prijs" "oordeel" "signalen" "acties"}}
 /* KAART_V5 */.tc-alt{min-height:18px;margin:0 0 8px;font-size:.72rem;color:var(--text-3)}.tc-alt>div{margin:0!important}
 .tc-price b .fp{font-size:.78rem;font-weight:700;color:var(--text-3);margin-right:3px;letter-spacing:0}
 
@@ -777,945 +816,790 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
             <div class="container">
                 <div class="tools-grid">
 <!-- TOOLS:START (auto-generated by build_cards.py — niet handmatig bewerken) -->
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="free_tier">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/800.com" alt="800.com" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=800.com&amp;sz=64'">
-   </div>
-   <h3>800.com</h3>
+<div class="lg-kop" aria-hidden="true"><span>Tool</span><span>Price, dated</span><span>What it does · best for · the catch</span><span>Pricing patterns · reader code</span><span></span></div>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="free_tier">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/800.com" alt="800.com" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=800.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
- </div>
- <div class="tc-alt">
+  <div class="lg-naam"><h3>800.com</h3><span class="tool-badge pick">Voice</span>
  <div style="font-size:.74rem;color:var(--text-3);margin:0 0 10px"><a href="/800.html" style="color:var(--accent-2)">Read the case study &rarr;</a></div></div>
- <div class="tc-price"><b>$23</b><span>per year</span><span class="tc-chips"><em>read 13 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Toll-free and vanity phone numbers for business, with call tracking, routing and analytics — plus 800 AI Agents (launched 2026) that answer calls, book appointments and filter spam when nobody picks up.</p>
+ </div>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$23</b><span>per year</span><span class="tc-chips"><em>read 13 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Toll-free and vanity phone numbers for business, with call tracking, routing and analytics — plus 800 AI Agents (launched 2026) that answer calls, book appointments and filter spam when nobody picks up.</p>
  <p class="tc-best"><b>Best for</b>Businesses that want a professional toll-free or vanity number with call tracking, routing and analytics to look bigger and measure inbound calls.</p>
- <p class="tc-catch"><b>The catch</b>It does one thing cleanly: toll-free and vanity numbers with call tracking and routing.</p>
+ <p class="tc-catch"><b>The catch</b>It does one thing cleanly: toll-free and vanity numbers with call tracking and routing.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.800.com/twux0enbbfpj" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit 800.com <span aria-hidden="true">&rarr;</span></a>
   <a href="800-com-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/aircall.io" alt="Aircall" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=aircall.io&amp;sz=64'">
-   </div>
-   <h3>Aircall</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/aircall.io" alt="Aircall" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=aircall.io&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
- </div>
- <div class="tc-alt">
+  <div class="lg-naam"><h3>Aircall</h3><span class="tool-badge pick">Voice</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">RingCentral</span></div></div>
- <div class="tc-price"><b>$40</b><span>Essentials, per licence · per year</span><span class="tc-chips"><em>read 29 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Cloud phone system for sales and support teams: call routing, analytics and CRM integrations. A three-licence minimum applies, so entry is effectively about $90/month; Essentials is roughly $30/user/month annual against $40 month-to-month.</p>
+ </div>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$40</b><span>Essentials, per licence · per year</span><span class="tc-chips"><em>read 29 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Cloud phone system for sales and support teams: call routing, analytics and CRM integrations. A three-licence minimum applies, so entry is effectively about $90/month; Essentials is roughly $30/user/month annual against $40 month-to-month.</p>
  <p class="tc-best"><b>Best for</b>Sales and support teams (3+ seats) that want a polished cloud phone system embedded in their CRM/helpdesk, with call routing, analytics and 250+ integrations.</p>
- <p class="tc-catch"><b>The catch</b>Two structural catches: the 3-seat minimum makes the real starting price triple the sticker, and the annual-vs-monthly gap is steep (Professional: $50 vs $70).</p>
+ <p class="tc-catch"><b>The catch</b>Two structural catches: the 3-seat minimum makes the real starting price triple the sticker, and the annual-vs-monthly gap is steep (Professional: $50 vs $70).</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://get.aircall.io/1sd4xwyb9qws" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Aircall <span aria-hidden="true">&rarr;</span></a>
   <a href="aircall-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/answeringservicecare.com" alt="Answering Service Care" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=answeringservicecare.com&amp;sz=64'">
-   </div>
-   <h3>Answering Service Care</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/answeringservicecare.com" alt="Answering Service Care" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=answeringservicecare.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Answering Service Care</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$40</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">US-based live answering with real people, 24/7 and bilingual English/Spanish, with call transfers, SMS and email relays, a client portal and app on every plan.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$40</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">US-based live answering with real people, 24/7 and bilingual English/Spanish, with call transfers, SMS and email relays, a client portal and app on every plan.</p>
  <p class="tc-best"><b>Best for</b>A small business that loses money when a call goes to voicemail — trades, clinics, law and property firms.</p>
- <p class="tc-catch"><b>The catch</b>Do the arithmetic before you pick a tier, because their own page does not.</p>
+ <p class="tc-catch"><b>The catch</b>Do the arithmetic before you pick a tier, because their own page does not.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://partners.answeringservicecare.com/nl6tzxl11oot" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Answering Service Care <span aria-hidden="true">&rarr;</span></a>
   <a href="answering-service-care-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Customer Support" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/ecommercestorez.us" alt="AskNest" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=ecommercestorez.us&amp;sz=64'">
-   </div>
-   <h3>AskNest</h3>
+<article class="tool-card ledger fade-in" data-category="Customer Support" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/ecommercestorez.us" alt="AskNest" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=ecommercestorez.us&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Support</span>
+  <div class="lg-naam"><h3>AskNest</h3><span class="tool-badge pick">Support</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$4.99</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Multilingual FAQ bot for the Shopify storefront that answers from your own FAQs, policy pages and product catalogue in seven languages, with product recommendations and best sellers.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$4.99</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Multilingual FAQ bot for the Shopify storefront that answers from your own FAQs, policy pages and product catalogue in seven languages, with product recommendations and best sellers.</p>
  <p class="tc-best"><b>Best for</b>Small stores with repetitive product, shipping and returns questions who want a cheap multilingual FAQ widget and can test the answer quality on their own policy pages for free first.</p>
- <p class="tc-catch"><b>The catch</b>One review.</p>
+ <p class="tc-catch"><b>The catch</b>One review.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Customer Support</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Customer Support</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_CKIYlURe" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit AskNest <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/asknest-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/calilio.com" alt="Calilio" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=calilio.com&amp;sz=64'">
-   </div>
-   <h3>Calilio</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/calilio.com" alt="Calilio" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=calilio.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Calilio</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"><span class="tc-pw restructure">plans rebuilt</span></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Cloud phone system with international numbers and call menus, from about $12/user/month annual on Standard. Numbers, minutes and SMS meter separately from a credit balance, so an active team&#x27;s real bill sits above the per-seat price.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"><span class="tc-pw restructure">plans rebuilt</span></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Cloud phone system with international numbers and call menus, from about $12/user/month annual on Standard. Numbers, minutes and SMS meter separately from a credit balance, so an active team&#x27;s real bill sits above the per-seat price.</p>
  <p class="tc-best"><b>Best for</b>Startups and small teams that want a modern, affordable cloud phone system with international numbers and clean dashboards.</p>
- <p class="tc-catch"><b>The catch</b>The subscription is the platform, not the talking: numbers, minutes and SMS meter separately from a credit balance, so an active calling team&#x27;s real bill sits meaningfully above the per-seat sticker — model a month of your actual call volume before comparing vendors.</p>
+ <p class="tc-catch"><b>The catch</b>The subscription is the platform, not the talking: numbers, minutes and SMS meter separately from a credit balance, so an active calling team&#x27;s real bill sits meaningfully above the per-seat sticker — model a month of your actual call volume before comparing vendors.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.calilio.com/ntqjzss06d92" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Calilio <span aria-hidden="true">&rarr;</span></a>
   <a href="calilio-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/callhippo.com" alt="CallHippo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=callhippo.com&amp;sz=64'">
-   </div>
-   <h3>CallHippo</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/callhippo.com" alt="CallHippo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=callhippo.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
- </div>
- <div class="tc-alt">
+  <div class="lg-naam"><h3>CallHippo</h3><span class="tool-badge pick">Voice</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">RingCentral</span></div></div>
- <div class="tc-price"><b><span class="fp">from ~</span>€19</b><span>per user per month</span><span class="tc-chips"><span class="tc-pw increase">price up</span><em>read 15 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">AI-driven business phone system. Virtual numbers in 50+ countries, power dialer, call analytics and AI agents — set up your sales and support calling in minutes.</p>
+ </div>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>€19</b><span>per user per month</span><span class="tc-chips"><span class="tc-pw increase">price up</span><em>read 15 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">AI-driven business phone system. Virtual numbers in 50+ countries, power dialer, call analytics and AI agents — set up your sales and support calling in minutes.</p>
  <p class="tc-best"><b>Best for</b>Budget-conscious sales/support teams wanting virtual numbers in 50+ countries with a free entry point and CRM integrations.</p>
- <p class="tc-catch"><b>The catch</b>&#x27;Unlimited calling&#x27; is unlimited to the US and Canada — international minutes meter separately, so teams calling Europe or Asia should price their real destinations first.</p>
+ <p class="tc-catch"><b>The catch</b>&#x27;Unlimited calling&#x27; is unlimited to the US and Canada — international minutes meter separately, so teams calling Europe or Asia should price their real destinations first.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://join.callhippo.com/acacgh9cnvo1" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit CallHippo <span aria-hidden="true">&rarr;</span></a>
   <a href="callhippo-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="quote_only">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/cloudtalk.io" alt="CloudTalk" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=cloudtalk.io&amp;sz=64'">
-   </div>
-   <h3>CloudTalk</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="quote_only">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/cloudtalk.io" alt="CloudTalk" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=cloudtalk.io&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
- </div>
- <div class="tc-alt">
+  <div class="lg-naam"><h3>CloudTalk</h3><span class="tool-badge pick">Voice</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">RingCentral</span></div></div>
- <div class="tc-price"><b><span class="fp">from ~</span>€9</b><span>per user per month</span><span class="tc-chips"><em>read 16 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Cloud call centre with call routing, analytics and CRM integrations, from €19/user/month on annual billing (Expert €49 needs at least three licences).</p>
+ </div>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>€9</b><span>per user per month</span><span class="tc-chips"><em>read 16 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Cloud call centre with call routing, analytics and CRM integrations, from €19/user/month on annual billing (Expert €49 needs at least three licences).</p>
  <p class="tc-best"><b>Best for</b>Support and sales teams that want a cloud call center with strong CRM integrations and call analytics.</p>
- <p class="tc-catch"><b>The catch</b>The per-seat price is only part of it — number rental, outbound minutes and the AI add-ons stack on top, so a call-heavy team&#x27;s real bill runs above the plan rate.</p>
+ <p class="tc-catch"><b>The catch</b>The per-seat price is only part of it — number rental, outbound minutes and the AI add-ons stack on top, so a call-heavy team&#x27;s real bill runs above the plan rate.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="quote_only">🔒 Hidden pricing</span><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://get.cloudtalk.io/750eho0hrkyk" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit CloudTalk <span aria-hidden="true">&rarr;</span></a>
   <a href="cloudtalk-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Customer Support" data-flag="free_tier">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/cloze.bot" alt="Cloze" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=cloze.bot&amp;sz=64'">
-   </div>
-   <h3>Cloze</h3>
+<article class="tool-card ledger fade-in" data-category="Customer Support" data-flag="free_tier">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/cloze.bot" alt="Cloze" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=cloze.bot&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Support</span>
+  <div class="lg-naam"><h3>Cloze</h3><span class="tool-badge pick">Support</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$49</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">AI shopping assistant for Shopify: a chat widget wired to your live catalogue, inventory and knowledge base that answers product questions, compares items, tracks orders and hands off to a human.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$49</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">AI shopping assistant for Shopify: a chat widget wired to your live catalogue, inventory and knowledge base that answers product questions, compares items, tracks orders and hands off to a human.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores with a catalogue big enough that shoppers ask which item to buy, who want a chat assistant that reads live inventory and hands off to a person.</p>
- <p class="tc-catch"><b>The catch</b>Two things to weigh, and the first is the price itself.</p>
+ <p class="tc-catch"><b>The catch</b>Two things to weigh, and the first is the price itself.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Customer Support</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Customer Support</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_A1yoHyzX" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Cloze <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/cloze-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/cometchat.com" alt="CometChat" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=cometchat.com&amp;sz=64'">
-   </div>
-   <h3>CometChat</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/cometchat.com" alt="CometChat" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=cometchat.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>CometChat</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"><span class="tc-pw held">price held</span></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">In-app text, voice and video chat infrastructure to embed into your own software — secure and scalable, with a free developer plan and, via the new Air release, fully on-prem or air-gapped deployment for regulated enterprises.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"><span class="tc-pw held">price held</span></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">In-app text, voice and video chat infrastructure to embed into your own software — secure and scalable, with a free developer plan and, via the new Air release, fully on-prem or air-gapped deployment for regulated enterprises.</p>
  <p class="tc-best"><b>Best for</b>Product teams that want proven in-app text/voice/video chat with SDKs for every major framework, without building messaging infrastructure themselves.</p>
- <p class="tc-catch"><b>The catch</b>The pricing cliff is the honest headline: from a 100-MAU free tier straight to ~$239/mo is a brutal jump for an early-stage app, and users report plan structures changing under them.</p>
+ <p class="tc-catch"><b>The catch</b>The pricing cliff is the honest headline: from a 100-MAU free tier straight to ~$239/mo is a brutal jump for an early-stage app, and users report plan structures changing under them.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.cometchat.com/155dumgioc1q" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit CometChat <span aria-hidden="true">&rarr;</span></a>
   <a href="cometchat-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="free_tier">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/crankwheel.com" alt="CrankWheel" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=crankwheel.com&amp;sz=64'">
-   </div>
-   <h3>CrankWheel</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="free_tier">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/crankwheel.com" alt="CrankWheel" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=crankwheel.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>CrankWheel</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$29</b><span>per month</span><span class="tc-chips"><em>read 21 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">No-download screen sharing for sales calls — a prospect clicks a link and sees your screen on any device. Deliberately narrow: no video conferencing, webinars or collaboration.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$29</b><span>per month</span><span class="tc-chips"><em>read 21 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">No-download screen sharing for sales calls — a prospect clicks a link and sees your screen on any device. Deliberately narrow: no video conferencing, webinars or collaboration.</p>
  <p class="tc-best"><b>Best for</b>Sales reps, insurance agents and consultants who need prospects to view a screen instantly with no download or install, on any device.</p>
- <p class="tc-catch"><b>The catch</b>It&#x27;s deliberately narrow — instant, no-download screen sharing for sales calls — so it&#x27;s excellent at that one job and thin everywhere else: no full video-conferencing suite, no deep collaboration or webinar tooling.</p>
+ <p class="tc-catch"><b>The catch</b>It&#x27;s deliberately narrow — instant, no-download screen sharing for sales calls — so it&#x27;s excellent at that one job and thin everywhere else: no full video-conferencing suite, no deep collaboration or webinar tooling.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.crankwheel.com/0coqsbab00ua" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit CrankWheel <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/crankwheel-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/edesk.com" alt="eDesk" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=edesk.com&amp;sz=64'">
-   </div>
-   <h3>eDesk</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/edesk.com" alt="eDesk" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=edesk.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>eDesk</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$49</b><span>Essential, per agent · per year</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">E-commerce helpdesk: one unified inbox for Amazon, eBay, Shopify and email, with order data and an AI Agent that bills per resolved outcome. Free plan; paid from $39/agent/mo (annual).</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$49</b><span>Essential, per agent · per year</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">E-commerce helpdesk: one unified inbox for Amazon, eBay, Shopify and email, with order data and an AI Agent that bills per resolved outcome. Free plan; paid from $39/agent/mo (annual).</p>
  <p class="tc-best"><b>Best for</b>E-commerce and marketplace sellers who want one unified inbox across Amazon, eBay, Shopify and email.</p>
- <p class="tc-catch"><b>The catch</b>There are two meters, and the second one is easy to miss.</p>
+ <p class="tc-catch"><b>The catch</b>There are two meters, and the second one is easy to miss.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://www.edesk.com/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit eDesk <span aria-hidden="true">&rarr;</span></a>
   <a href="edesk-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/fireflies.ai" alt="Fireflies.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=fireflies.ai&amp;sz=64'">
-   </div>
-   <h3>Fireflies.ai</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/fireflies.ai" alt="Fireflies.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=fireflies.ai&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
- </div>
- <div class="tc-alt">
+  <div class="lg-naam"><h3>Fireflies.ai</h3><span class="tool-badge pick">Voice</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Otter.ai</span></div></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$10</b><span>per user per month</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">AI meeting assistant that records, transcribes and summarizes your calls across Zoom, Google Meet and Teams — searchable notes, action items and CRM sync, so nobody takes minutes by hand.</p>
+ </div>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$10</b><span>per user per month</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">AI meeting assistant that records, transcribes and summarizes your calls across Zoom, Google Meet and Teams — searchable notes, action items and CRM sync, so nobody takes minutes by hand.</p>
  <p class="tc-best"><b>Best for</b>Teams that want every meeting transcribed and searchable automatically — the free unlimited-transcription tier is genuinely rare.</p>
- <p class="tc-catch"><b>The catch</b>The advertised $10 and $19 are annual-billing rates; month-to-month is $18 and $29.</p>
+ <p class="tc-catch"><b>The catch</b>The advertised $10 and $19 are annual-billing rates; month-to-month is $18 and $29.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://www.awin1.com/cread.php?awinmid=118085&amp;awinaffid=2880219" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Fireflies.ai <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/fireflies-ai-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/freshchat.com" alt="Freshchat" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=freshchat.com&amp;sz=64'">
-   </div>
-   <h3>Freshchat</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/freshchat.com" alt="Freshchat" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=freshchat.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Freshchat</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$19</b><span>per month</span><span class="tc-chips"><em>read 1 Sep 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">AI-powered customer messaging from Freshworks: live chat and chatbots across your website, app, WhatsApp and Instagram, with a unified agent inbox and automation that deflects repetitive questions.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$19</b><span>per month</span><span class="tc-chips"><em>read 1 Sep 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">AI-powered customer messaging from Freshworks: live chat and chatbots across your website, app, WhatsApp and Instagram, with a unified agent inbox and automation that deflects repetitive questions.</p>
  <p class="tc-best"><b>Best for</b>Small-to-mid support teams that want live chat and messaging with a real free tier to start.</p>
- <p class="tc-catch"><b>The catch</b>The free tier is genuinely useful for small teams, but AI features and higher-tier routing sit behind paid plans and add-ons — and being part of the wider Freshworks suite means you&#x27;ll be nudged toward the full platform.</p>
+ <p class="tc-catch"><b>The catch</b>The free tier is genuinely useful for small teams, but AI features and higher-tier routing sit behind paid plans and add-ons — and being part of the wider Freshworks suite means you&#x27;ll be nudged toward the full platform.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://affiliatepartner-freshchat.freshworks.com/613iz3k6u70i" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Freshchat <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/freshchat-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Customer Support" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/freshworks.com" alt="Freshworks" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=freshworks.com&amp;sz=64'">
-   </div>
-   <h3>Freshworks</h3>
+<article class="tool-card ledger fade-in" data-category="Customer Support" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/freshworks.com" alt="Freshworks" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=freshworks.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Support</span>
+  <div class="lg-naam"><h3>Freshworks</h3><span class="tool-badge pick">Support</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$19</b><span>Freshdesk Growth · per year</span><span class="tc-chips"><em>read 29 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Suite of separately-sold products: Freshdesk support, Freshservice IT, Freshsales CRM, Freshchat and Freshcaller.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$19</b><span>Freshdesk Growth · per year</span><span class="tc-chips"><em>read 29 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Suite of separately-sold products: Freshdesk support, Freshservice IT, Freshsales CRM, Freshchat and Freshcaller.</p>
  <p class="tc-best"><b>Best for</b>Teams who want a support desk that is cheaper per agent than the category leaders and will genuinely use the annual commitment.</p>
- <p class="tc-catch"><b>The catch</b>Freshworks is not a product, it is nine of them behind a pricing page that contains no price.</p>
+ <p class="tc-catch"><b>The catch</b>Freshworks is not a product, it is nine of them behind a pricing page that contains no price.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
- <div class="tool-tags"><span class="tool-tag">Customer Support</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Customer Support</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://affiliate.freshworks.com/fd65q19uchnm" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Freshworks <span aria-hidden="true">&rarr;</span></a>
   <a href="freshworks-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Customer Support" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/gorgias.com" alt="Gorgias" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=gorgias.com&amp;sz=64'">
-   </div>
-   <h3>Gorgias</h3>
+<article class="tool-card ledger fade-in" data-category="Customer Support" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/gorgias.com" alt="Gorgias" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=gorgias.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Support</span>
+  <div class="lg-naam"><h3>Gorgias</h3><span class="tool-badge pick">Support</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$90</b><span>Basic · per year</span><span class="tc-chips"><em>read 28 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Helpdesk built for ecommerce: tickets, automations and an AI agent, priced by volume rather than by seat.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$90</b><span>Basic · per year</span><span class="tc-chips"><em>read 28 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Helpdesk built for ecommerce: tickets, automations and an AI agent, priced by volume rather than by seat.</p>
  <p class="tc-best"><b>Best for</b>Ecommerce support teams with seasonal or spiky volume, where per-agent pricing punishes you for having enough people on a busy week.</p>
- <p class="tc-catch"><b>The catch</b>Never priced per agent is a real advantage and worth saying plainly: your whole team can be in the inbox without the bill moving.</p>
+ <p class="tc-catch"><b>The catch</b>Never priced per agent is a real advantage and worth saying plainly: your whole team can be in the inbox without the bill moving.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Customer Support</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Customer Support</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://partner.gorgias.com/53p147fye0wv" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Gorgias <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/gorgias-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Customer Support" data-flag="free_tier">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/helpcenterapp.com" alt="HelpCenter" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=helpcenterapp.com&amp;sz=64'">
-   </div>
-   <h3>HelpCenter</h3>
+<article class="tool-card ledger fade-in" data-category="Customer Support" data-flag="free_tier">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/helpcenterapp.com" alt="HelpCenter" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=helpcenterapp.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Support</span>
+  <div class="lg-naam"><h3>HelpCenter</h3><span class="tool-badge pick">Support</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$5.99</b><span>Basic · per year</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 29 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Shopify helpdesk with live chat and an AI FAQ builder: email, chat and Messenger in one ticket queue, plus SEO-friendly FAQ pages. Free to install; paid from $5.99 to $49.99 a month.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$5.99</b><span>Basic · per year</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 29 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Shopify helpdesk with live chat and an AI FAQ builder: email, chat and Messenger in one ticket queue, plus SEO-friendly FAQ pages. Free to install; paid from $5.99 to $49.99 a month.</p>
  <p class="tc-best"><b>Best for</b>Small Shopify stores that want ticketing, live chat and a searchable FAQ page from one app rather than bolting three together.</p>
- <p class="tc-catch"><b>The catch</b>The free tier is the hook and the FAQ builder is the reason people stay.</p>
+ <p class="tc-catch"><b>The catch</b>The free tier is the hook and the FAQ builder is the reason people stay.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Customer Support</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Customer Support</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_WyzIuyMD" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit HelpCenter <span aria-hidden="true">&rarr;</span></a>
   <a href="helpcenter-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/kixie.com" alt="Kixie" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=kixie.com&amp;sz=64'">
-   </div>
-   <h3>Kixie</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/kixie.com" alt="Kixie" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=kixie.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Kixie</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$30</b><span>per user per month</span><span class="tc-chips"><em>read 18 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Power dialer with SMS and CRM integration for outbound sales teams.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$30</b><span>per user per month</span><span class="tc-chips"><em>read 18 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Power dialer with SMS and CRM integration for outbound sales teams.</p>
  <p class="tc-best"><b>Best for</b>Outbound sales teams living in their CRM that want a serious power dialer with local presence, SMS and automation.</p>
- <p class="tc-catch"><b>The catch</b>Plan for 30-60% above the sticker: minutes, the multi-line dialer and AI human-voice-detection all bill separately, and the quarterly auto-renewing contract only allows downgrades in its final 30 days — read that clause before signing.</p>
+ <p class="tc-catch"><b>The catch</b>Plan for 30-60% above the sticker: minutes, the multi-line dialer and AI human-voice-detection all bill separately, and the quarterly auto-renewing contract only allows downgrades in its final 30 days — read that clause before signing.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://get.kixie.com/e9lu0lbwzvmq" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Kixie <span aria-hidden="true">&rarr;</span></a>
   <a href="kixie-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/krispcall.com" alt="KrispCall" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=krispcall.com&amp;sz=64'">
-   </div>
-   <h3>KrispCall</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/krispcall.com" alt="KrispCall" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=krispcall.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
- </div>
- <div class="tc-alt">
+  <div class="lg-naam"><h3>KrispCall</h3><span class="tool-badge pick">Voice</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">RingCentral</span></div></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$12</b><span>per user per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Virtual numbers across 100+ countries with a shared dashboard, dialer and CRM hooks, from about $12/user/month on annual billing.</p>
+ </div>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$12</b><span>per user per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Virtual numbers across 100+ countries with a shared dashboard, dialer and CRM hooks, from about $12/user/month on annual billing.</p>
  <p class="tc-best"><b>Best for</b>Sales and support teams that need virtual numbers across many countries with a shared dashboard, dialer and CRM hooks at a budget seat price.</p>
- <p class="tc-catch"><b>The catch</b>Same honest math as most budget VoIP: the plan buys the platform, the meter buys the conversations — per-minute and per-SMS charges land on top of every seat, so the comparison that matters is call-rate-per-country at your volume.</p>
+ <p class="tc-catch"><b>The catch</b>Same honest math as most budget VoIP: the plan buys the platform, the meter buys the conversations — per-minute and per-SMS charges land on top of every seat, so the comparison that matters is call-rate-per-country at your volume.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.krispcall.com/oxhjrkcubhma" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit KrispCall <span aria-hidden="true">&rarr;</span></a>
   <a href="krispcall-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/lucrovox.com" alt="Lucrovox" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=lucrovox.com&amp;sz=64'">
-   </div>
-   <h3>Lucrovox</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/lucrovox.com" alt="Lucrovox" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=lucrovox.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Lucrovox</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$199</b><span>Starter · per month</span><span class="tc-chips"><em>read 24 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">AI phone agent for local service businesses — answers missed calls, books jobs and captures leads 24/7 for trades like HVAC, plumbing and roofing.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$199</b><span>Starter · per month</span><span class="tc-chips"><em>read 24 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">AI phone agent for local service businesses — answers missed calls, books jobs and captures leads 24/7 for trades like HVAC, plumbing and roofing.</p>
  <p class="tc-best"><b>Best for</b>Local service businesses — HVAC, plumbing, roofing, med spas.</p>
- <p class="tc-catch"><b>The catch</b>The meter is AI-handled calls: Starter’s 100 calls a month is roughly three a day, so a genuinely busy shop outgrows it quickly — and the steps are steep ($199 → $499 → $999).</p>
+ <p class="tc-catch"><b>The catch</b>The meter is AI-handled calls: Starter’s 100 calls a month is roughly three a day, so a genuinely busy shop outgrows it quickly — and the steps are steep ($199 → $499 → $999).</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.lucrovox.com/0whtc6de3h9c" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Lucrovox <span aria-hidden="true">&rarr;</span></a>
   <a href="lucrovox-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Customer Support">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/neuroadsinc.com" alt="NeuroAds" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=neuroadsinc.com&amp;sz=64'">
-   </div>
-   <h3>NeuroAds</h3>
+<article class="tool-card ledger fade-in" data-category="Customer Support">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/neuroadsinc.com" alt="NeuroAds" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=neuroadsinc.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Support</span>
+  <div class="lg-naam"><h3>NeuroAds</h3><span class="tool-badge pick">Support</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$19</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">AI chat widget for Shopify trained on your catalogue, orders and policy pages that replies in the shopper&#x27;s own language, with rich product cards, discount codes, order tracking and add-to-cart inside the chat.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$19</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">AI chat widget for Shopify trained on your catalogue, orders and policy pages that replies in the shopper&#x27;s own language, with rich product cards, discount codes, order tracking and add-to-cart inside the chat.</p>
  <p class="tc-best"><b>Best for</b>Small and mid-size Shopify stores that want a multilingual, catalogue-aware chat widget with product cards, order tracking and add-to-cart.</p>
- <p class="tc-catch"><b>The catch</b>The app is ten weeks old.</p>
- <div class="tool-tags"><span class="tool-tag">Customer Support</span></div>
- <div class="tool-cta-row">
+ <p class="tc-catch"><b>The catch</b>The app is ten weeks old.</p></div>
+ <div class="lg-signalen">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Customer Support</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_l5Drunq1" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit NeuroAds <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/neuroads-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/usepylon.com" alt="Pylon" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=usepylon.com&amp;sz=64'">
-   </div>
-   <h3>Pylon</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/usepylon.com" alt="Pylon" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=usepylon.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
- </div>
- <div class="tc-alt">
+  <div class="lg-naam"><h3>Pylon</h3><span class="tool-badge pick">Voice</span>
  <div style="font-size:.74rem;color:var(--text-3);margin:0 0 10px"><a href="/pylon.html" style="color:var(--accent-2)">Read the case study &rarr;</a></div></div>
- <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">B2B customer support platform built for Slack and Microsoft Teams. Manage tickets, track issues, and deliver white-glove support directly where your clients chat.</p>
+ </div>
+ <div class="lg-prijs">
+ <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">B2B customer support platform built for Slack and Microsoft Teams. Manage tickets, track issues, and deliver white-glove support directly where your clients chat.</p>
  <p class="tc-best"><b>Best for</b>B2B SaaS teams supporting customers in shared Slack/Teams channels who want tickets, accounts and AI in one B2B-native platform.</p>
- <p class="tc-catch"><b>The catch</b>The per-seat sticker is the entry ticket; the AI that makes the platform sing is metered separately, so a realistic modern deployment (seats + AI agent + phone) lands well above the tier price — model your full basket.</p>
+ <p class="tc-catch"><b>The catch</b>The per-seat sticker is the entry ticket; the AI that makes the platform sing is metered separately, so a realistic modern deployment (seats + AI agent + phone) lands well above the tier price — model your full basket.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://pylon.partnerlinks.io/onwjl43ztonn" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Pylon <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/pylon-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/quo.com" alt="Quo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=quo.com&amp;sz=64'">
-   </div>
-   <h3>Quo</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/quo.com" alt="Quo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=quo.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
- </div>
- <div class="tc-alt">
+  <div class="lg-naam"><h3>Quo</h3><span class="tool-badge pick">Voice</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">RingCentral</span></div></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$1.50</b><span>per month</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div>
- <div class="tc-coupon" title="Reader code, verified with the vendor"><span aria-hidden="true">&#127915;</span><span class="lb">via our link: 7 days free plus 10% off the first three months</span></div>
- <p class="tool-desc">Shared business numbers, texting and AI call summaries for small teams, formerly OpenPhone. About $15/user/month on annual billing, plus telecom taxes and surcharges in 16 US states.</p>
+ </div>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$1.50</b><span>per month</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Shared business numbers, texting and AI call summaries for small teams, formerly OpenPhone. About $15/user/month on annual billing, plus telecom taxes and surcharges in 16 US states.</p>
  <p class="tc-best"><b>Best for</b>Micro-teams of 2–5 people working mostly on Wi-Fi who want a clean, modern phone app built around a shared inbox, with AI call summaries (Sona).</p>
- <p class="tc-catch"><b>The catch</b>Call reliability is the recurring complaint — G2 logs hundreds of connection and disconnection reports, and calls get shaky the moment you&#x27;re off Wi-Fi.</p>
+ <p class="tc-catch"><b>The catch</b>Call reliability is the recurring complaint — G2 logs hundreds of connection and disconnection reports, and calls get shaky the moment you&#x27;re off Wi-Fi.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon" title="Reader code, verified with the vendor"><span aria-hidden="true">&#127915;</span><span class="lb">via our link: 7 days free plus 10% off the first three months</span></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://get.quo.com/aibuildermarketplace" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Quo <span aria-hidden="true">&rarr;</span></a>
   <a href="quo-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/readymode.com" alt="Readymode" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=readymode.com&amp;sz=64'">
-   </div>
-   <h3>Readymode</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/readymode.com" alt="Readymode" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=readymode.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Readymode</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"><span class="tc-pw held">price held</span></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Predictive dialler with compliance tooling and supervisor monitoring for high-volume outbound floors.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"><span class="tc-pw held">price held</span></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Predictive dialler with compliance tooling and supervisor monitoring for high-volume outbound floors.</p>
  <p class="tc-best"><b>Best for</b>High-volume outbound call teams (insurance, real estate, collections) with 5+ agents that need predictive dialing, compliance tools and supervisor monitoring.</p>
- <p class="tc-catch"><b>The catch</b>The per-seat price is premium, and the model rewards scale — the predictive dialer, compliance tools and supervisor monitoring earn their keep on a 5-plus-agent floor, but for one or two reps it&#x27;s expensive for what a lighter dialer would do.</p>
+ <p class="tc-catch"><b>The catch</b>The per-seat price is premium, and the model rewards scale — the predictive dialer, compliance tools and supervisor monitoring earn their keep on a 5-plus-agent floor, but for one or two reps it&#x27;s expensive for what a lighter dialer would do.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.readymode.com/w9q86uhvjvzd" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Readymode <span aria-hidden="true">&rarr;</span></a>
   <a href="readymode-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/respond.io" alt="respond.io" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=respond.io&amp;sz=64'">
-   </div>
-   <h3>respond.io</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/respond.io" alt="respond.io" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=respond.io&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>respond.io</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$79</b><span>Starter · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 29 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Shared inbox for WhatsApp, Instagram, Messenger, SMS, email and live chat, with workflow automation, broadcasts and AI agents on top.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$79</b><span>Starter · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 29 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Shared inbox for WhatsApp, Instagram, Messenger, SMS, email and live chat, with workflow automation, broadcasts and AI agents on top.</p>
  <p class="tc-best"><b>Best for</b>A small team that already lives in WhatsApp and Instagram DMs and has outgrown a shared phone.</p>
- <p class="tc-catch"><b>The catch</b>The entry plan is the inbox without the engine.</p>
+ <p class="tc-catch"><b>The catch</b>The entry plan is the inbox without the engine.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://get.respond.io/59337pcu4fh7" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit respond.io <span aria-hidden="true">&rarr;</span></a>
   <a href="respond-io-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/ruby.com" alt="Ruby" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=ruby.com&amp;sz=64'">
-   </div>
-   <h3>Ruby</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/ruby.com" alt="Ruby" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=ruby.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Ruby</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$250</b><span>per year</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 19 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Live human receptionists answering your calls, plus chat. Billed by receptionist-minute: $250/month for 50 minutes and $395 for 100, rising to $1,725 for 500, with chat bundled from $115/month.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$250</b><span>per year</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 19 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Live human receptionists answering your calls, plus chat. Billed by receptionist-minute: $250/month for 50 minutes and $395 for 100, rising to $1,725 for 500, with chat bundled from $115/month.</p>
  <p class="tc-best"><b>Best for</b>Client-driven service businesses (law, home services, clinics) where a live human answering every call directly wins business.</p>
- <p class="tc-catch"><b>The catch</b>You&#x27;re paying premium rates for real human receptionists billed per minute — worth it when a missed call is a lost client, but expensive if your call volume is low or an AI answering service would do the job for a fraction.</p>
+ <p class="tc-catch"><b>The catch</b>You&#x27;re paying premium rates for real human receptionists billed per minute — worth it when a missed call is a lost client, but expensive if your call volume is low or an AI answering service would do the job for a fraction.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://get.ruby.com/wlngs0yc8d9c" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Ruby <span aria-hidden="true">&rarr;</span></a>
   <a href="ruby-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/salesmessage.com" alt="Salesmessage" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=salesmessage.com&amp;sz=64'">
-   </div>
-   <h3>Salesmessage</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/salesmessage.com" alt="Salesmessage" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=salesmessage.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Salesmessage</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$25</b><span>per month, on monthly billing, as published</span><span class="tc-chips"><span class="tc-pw restructure">plans rebuilt</span><em>read 8 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Business texting and SMS marketing in one shared inbox. Reach customers where they actually reply — two-way texting, automation and team collaboration.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$25</b><span>per month, on monthly billing, as published</span><span class="tc-chips"><span class="tc-pw restructure">plans rebuilt</span><em>read 8 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Business texting and SMS marketing in one shared inbox. Reach customers where they actually reply — two-way texting, automation and team collaboration.</p>
  <p class="tc-best"><b>Best for</b>Sales and service teams that want two-way texting and calling in one CRM-linked inbox, and can estimate their monthly credit burn — messages plus call minutes.</p>
- <p class="tc-catch"><b>The catch</b>Two things changed here and both cost money.</p>
+ <p class="tc-catch"><b>The catch</b>Two things changed here and both cost money.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://join.salesmessage.com/y1pdhmogp2y0" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Salesmessage <span aria-hidden="true">&rarr;</span></a>
   <a href="salesmessage-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="free_tier">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/signalhouse.io" alt="Signal House" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=signalhouse.io&amp;sz=64'">
-   </div>
-   <h3>Signal House</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="free_tier">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/signalhouse.io" alt="Signal House" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=signalhouse.io&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Signal House</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$1.50</b><span>per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 7 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">SMS and Voice API positioned as a Twilio alternative. Usage-based with no platform fee: $0.0065 per SMS segment with no minimum, down to $0.0030 above 10m, and $1.00 a month per local number.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$1.50</b><span>per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 7 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">SMS and Voice API positioned as a Twilio alternative. Usage-based with no platform fee: $0.0065 per SMS segment with no minimum, down to $0.0030 above 10m, and $1.00 a month per local number.</p>
  <p class="tc-best"><b>Best for</b>Teams sending real SMS volume in the US who already know what an A2P 10DLC campaign is and want a cheaper per-segment rate than Twilio’s list without giving up published pricing. The volume ladder is genuinely steep — from $0.0065 down to $0.0030 — so the case gets stronger the more you send, and the number discounts above 500 numbers suit anyone running many local presences.</p>
- <p class="tc-catch"><b>The catch</b>Two things are missing from a page that is otherwise unusually specific.</p>
+ <p class="tc-catch"><b>The catch</b>Two things are missing from a page that is otherwise unusually specific.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.signalhouse.io/wqnlthk1tjwi" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Signal House <span aria-hidden="true">&rarr;</span></a>
   <a href="signal-house-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/simpletexting.com" alt="SimpleTexting" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=simpletexting.com&amp;sz=64'">
-   </div>
-   <h3>SimpleTexting</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/simpletexting.com" alt="SimpleTexting" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=simpletexting.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>SimpleTexting</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$39</b><span>entry plan (500 credits) · per year</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">SMS marketing and business texting: run mass-text campaigns, two-way conversations and automations with compliance built in.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$39</b><span>entry plan (500 credits) · per year</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">SMS marketing and business texting: run mass-text campaigns, two-way conversations and automations with compliance built in.</p>
  <p class="tc-best"><b>Best for</b>US businesses that want straightforward, compliant SMS marketing and two-way texting with rollover credits.</p>
- <p class="tc-catch"><b>The catch</b>The credit model plus US carrier (10DLC) fees and per-number/per-seat add-ons mean the sticker isn&#x27;t the whole bill — and SMS marketing only works with genuine opt-in and a real offer, not blasting a cold list.</p>
+ <p class="tc-catch"><b>The catch</b>The credit model plus US carrier (10DLC) fees and per-number/per-seat add-ons mean the sticker isn&#x27;t the whole bill — and SMS marketing only works with genuine opt-in and a real offer, not blasting a cold list.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://simpletexting.stptnr.net/4jtoi813qzd0" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit SimpleTexting <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/simpletexting-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Customer Support" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/storefaq.io" alt="StoreFAQ" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=storefaq.io&amp;sz=64'">
-   </div>
-   <h3>StoreFAQ</h3>
+<article class="tool-card ledger fade-in" data-category="Customer Support" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/storefaq.io" alt="StoreFAQ" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=storefaq.io&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Support</span>
+  <div class="lg-naam"><h3>StoreFAQ</h3><span class="tool-badge pick">Support</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$7.99</b><span>Professional · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 21 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Builds SEO-friendly FAQ pages and product FAQ accordions with JSON-LD schema on Shopify, plus an AI chatbot, instant answers and live chat.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$7.99</b><span>Professional · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 21 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Builds SEO-friendly FAQ pages and product FAQ accordions with JSON-LD schema on Shopify, plus an AI chatbot, instant answers and live chat.</p>
  <p class="tc-best"><b>Best for</b>Small Shopify stores that want SEO-tagged FAQ pages with JSON-LD schema and a light AI chatbot for deflection, without standing up a full support stack.</p>
- <p class="tc-catch"><b>The catch</b>The meter is FAQ page views, and that is the thing this app exists to increase.</p>
+ <p class="tc-catch"><b>The catch</b>The meter is FAQ page views, and that is the thing this app exists to increase.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Customer Support</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Customer Support</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_5FnnB8qq" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit StoreFAQ <span aria-hidden="true">&rarr;</span></a>
   <a href="storefaq-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Customer Support" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/supportbee.com" alt="SupportBee" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=supportbee.com&amp;sz=64'">
-   </div>
-   <h3>SupportBee</h3>
+<article class="tool-card ledger fade-in" data-category="Customer Support" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/supportbee.com" alt="SupportBee" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=supportbee.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Support</span>
+  <div class="lg-naam"><h3>SupportBee</h3><span class="tool-badge pick">Support</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$20</b><span>Startup · per year</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 27 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Email ticketing for collaborative customer service: a shared team inbox where every agent has their own login, plus an integrated knowledge base and, on the upper tier, a customer portal. Per seat, no free plan.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$20</b><span>Startup · per year</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 27 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Email ticketing for collaborative customer service: a shared team inbox where every agent has their own login, plus an integrated knowledge base and, on the upper tier, a customer portal. Per seat, no free plan.</p>
  <p class="tc-best"><b>Best for</b>Small support teams working out of a shared email inbox who want assignment.</p>
- <p class="tc-catch"><b>The catch</b>It is an email helpdesk and only an email helpdesk.</p>
+ <p class="tc-catch"><b>The catch</b>It is an email helpdesk and only an email helpdesk.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Customer Support</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Customer Support</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.supportbee.com/ewmir3q4j35f" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit SupportBee <span aria-hidden="true">&rarr;</span></a>
   <a href="supportbee-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/textline.com" alt="Textline" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=textline.com&amp;sz=64'">
-   </div>
-   <h3>Textline</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/textline.com" alt="Textline" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=textline.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Textline</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Business SMS for support and sales teams: shared inboxes, automations and compliance tooling.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Business SMS for support and sales teams: shared inboxes, automations and compliance tooling.</p>
  <p class="tc-best"><b>Best for</b>Support and sales teams that already text customers from personal phones and need a shared, compliant inbox with a record of who said what.</p>
- <p class="tc-catch"><b>The catch</b>Two costs are easy to miss and both are monthly.</p>
+ <p class="tc-catch"><b>The catch</b>Two costs are easy to miss and both are monthly.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://get.textline.com/dz7hjpbvfkue" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Textline <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/textline-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Customer Support" data-flag="addons_extra">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/tidio.com" alt="Tidio" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tidio.com&amp;sz=64'">
-   </div>
-   <h3>Tidio</h3>
+<article class="tool-card ledger fade-in" data-category="Customer Support" data-flag="addons_extra">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/tidio.com" alt="Tidio" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tidio.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Support</span>
+  <div class="lg-naam"><h3>Tidio</h3><span class="tool-badge pick">Support</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$29</b><span>Starter · per year</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 24 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Live chat, ticketing and the Lyro AI agent in one platform: AI answers routine questions from your own data, hands the rest to the team with context, and Flows chase leads proactively.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$29</b><span>Starter · per year</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 24 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Live chat, ticketing and the Lyro AI agent in one platform: AI answers routine questions from your own data, hands the rest to the team with context, and Flows chase leads proactively.</p>
  <p class="tc-best"><b>Best for</b>Support teams that want an AI agent and a help desk from the same vendor and can size all three meters.</p>
- <p class="tc-catch"><b>The catch</b>The AI number on the homepage and the AI number on the pricing page do not agree, and the pricing page is the lower of the two.</p>
+ <p class="tc-catch"><b>The catch</b>The AI number on the homepage and the AI number on the pricing page do not agree, and the pricing page is the lower of the two.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Customer Support</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Customer Support</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://affiliate.tidio.com/n4o3znrjj9vm" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Tidio <span aria-hidden="true">&rarr;</span></a>
   <a href="tidio-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/unitelvoice.com" alt="UniTel Voice" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=unitelvoice.com&amp;sz=64'">
-   </div>
-   <h3>UniTel Voice</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/unitelvoice.com" alt="UniTel Voice" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=unitelvoice.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>UniTel Voice</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$9.99</b><span>per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Virtual business phone system for small teams. Get a toll-free or local number with auto-attendant, call routing and a mobile app — no hardware.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$9.99</b><span>per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Virtual business phone system for small teams. Get a toll-free or local number with auto-attendant, call routing and a mobile app — no hardware.</p>
  <p class="tc-best"><b>Best for</b>Solopreneurs and small teams that want a professional toll-free or local number, auto-attendant and call routing on their existing phones — no hardware.</p>
- <p class="tc-catch"><b>The catch</b>It&#x27;s a virtual phone layer, not a full unified-comms suite — you won&#x27;t find the deep team messaging, video meetings and contact-center features pricier platforms bundle.</p>
+ <p class="tc-catch"><b>The catch</b>It&#x27;s a virtual phone layer, not a full unified-comms suite — you won&#x27;t find the deep team messaging, video meetings and contact-center features pricier platforms bundle.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://unitelvoice.partnerlinks.io/pez7g9obn4ti" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit UniTel Voice <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/unitel-voice-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/vida.io" alt="Vida AI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=vida.io&amp;sz=64'">
-   </div>
-   <h3>Vida AI</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/vida.io" alt="Vida AI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=vida.io&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Vida AI</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$2.50</b><span>per month</span><span class="tc-chips"><span class="tc-pw withdrawn">rates withdrawn</span></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Deploy autonomous frontline voice agents. Let AI answer calls, book appointments, and handle FAQs 24/7 without sounding robotic.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$2.50</b><span>per month</span><span class="tc-chips"><span class="tc-pw withdrawn">rates withdrawn</span></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Deploy autonomous frontline voice agents. Let AI answer calls, book appointments, and handle FAQs 24/7 without sounding robotic.</p>
  <p class="tc-best"><b>Best for</b>Agencies, MSPs and service providers that want to deploy and resell white-label AI voice agents at volume, with unlimited-minute economics at scale.</p>
- <p class="tc-catch"><b>The catch</b>This is priced for agencies and telecoms reselling AI phone agents, not for a single small business wanting one receptionist bot — if that&#x27;s you, the entry price buys far more platform than you need.</p>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <p class="tc-catch"><b>The catch</b>This is priced for agencies and telecoms reselling AI phone agents, not for a single small business wanting one receptionist bot — if that&#x27;s you, the entry price buys far more platform than you need.</p></div>
+ <div class="lg-signalen">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.vida.io/tao3fvpm3wby" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Vida AI <span aria-hidden="true">&rarr;</span></a>
   <a href="vida-ai-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/voyedatapool.com" alt="Voye" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=voyedatapool.com&amp;sz=64'">
-   </div>
-   <h3>Voye</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/voyedatapool.com" alt="Voye" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=voyedatapool.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Voye</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Pooled eSIM data for travelling teams, billed on actual usage rather than prepaid bundles, with per-user spend controls.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Pooled eSIM data for travelling teams, billed on actual usage rather than prepaid bundles, with per-user spend controls.</p>
  <p class="tc-best"><b>Best for</b>Companies with regularly traveling teams that want one pooled global data contract, per-user controls and an end to roaming bill surprises.</p>
- <p class="tc-catch"><b>The catch</b>eSIM data pooling genuinely beats classic roaming for traveling teams, but the honest homework is coverage-and-speed on YOUR corridors: quality varies by country and local carrier partner, so pilot with two or three of your heaviest travelers before migrating everyone.</p>
+ <p class="tc-catch"><b>The catch</b>eSIM data pooling genuinely beats classic roaming for traveling teams, but the honest homework is coverage-and-speed on YOUR corridors: quality varies by country and local carrier partner, so pilot with two or three of your heaviest travelers before migrating everyone.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://affiliate.voyedatapool.com/1hxkqaqeqiow" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Voye <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/voye-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/wati.io" alt="Wati" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=wati.io&amp;sz=64'">
-   </div>
-   <h3>Wati</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/wati.io" alt="Wati" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=wati.io&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Wati</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>€39</b><span>per user per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 14 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">WhatsApp Business API platform for sales and support: shared team inbox, bulk broadcasts and no-code chatbots — plus Astra, its AI agent builder for agents that actually resolve conversations (orders, refunds, bookings, lead qualification)…</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>€39</b><span>per user per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 14 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">WhatsApp Business API platform for sales and support: shared team inbox, bulk broadcasts and no-code chatbots — plus Astra, its AI agent builder for agents that actually resolve conversations (orders, refunds, bookings, lead qualification)…</p>
  <p class="tc-best"><b>Best for</b>Businesses that want to run WhatsApp support and broadcasts at scale with a shared team inbox and automation.</p>
- <p class="tc-catch"><b>The catch</b>The plan price is the smallest part of the bill.</p>
+ <p class="tc-catch"><b>The catch</b>The plan price is the smallest part of the bill.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://affiliates.wati.io/pzd090owoazz" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Wati <span aria-hidden="true">&rarr;</span></a>
   <a href="wati-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="quote_only">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/getweave.com" alt="Weave" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=getweave.com&amp;sz=64'">
-   </div>
-   <h3>Weave</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="quote_only">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/getweave.com" alt="Weave" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=getweave.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
+  <div class="lg-naam"><h3>Weave</h3><span class="tool-badge pick">Voice</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$400</b><span>per month</span><span class="tc-chips"><span class="tc-pw decrease">price down</span></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Phone, texting, payments and reviews unified for the front desk, tuned to dental, optometry and small healthcare practices.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$400</b><span>per month</span><span class="tc-chips"><span class="tc-pw decrease">price down</span></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Phone, texting, payments and reviews unified for the front desk, tuned to dental, optometry and small healthcare practices.</p>
  <p class="tc-best"><b>Best for</b>Dental, optometry and small healthcare practices that want phone, texting, payments and reviews unified for the front desk.</p>
- <p class="tc-catch"><b>The catch</b>Two honest cautions.</p>
+ <p class="tc-catch"><b>The catch</b>Two honest cautions.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="quote_only">🔒 Hidden pricing</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://partnerstack.getweave.com/6ofmdour3p3q" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Weave <span aria-hidden="true">&rarr;</span></a>
   <a href="weave-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Customer Support" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/zendesk.com" alt="Zendesk" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=zendesk.com&amp;sz=64'">
-   </div>
-   <h3>Zendesk</h3>
+<article class="tool-card ledger fade-in" data-category="Customer Support" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/zendesk.com" alt="Zendesk" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=zendesk.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Support</span>
+  <div class="lg-naam"><h3>Zendesk</h3><span class="tool-badge pick">Support</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$50</b><span>per month</span><span class="tc-chips"><em>read 12 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Customer service suite: ticketing, messaging, voice, help centre and AI agents.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$50</b><span>per month</span><span class="tc-chips"><em>read 12 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Customer service suite: ticketing, messaging, voice, help centre and AI agents.</p>
  <p class="tc-best"><b>Best for</b>Support teams past the point where a shared inbox works, who need routing, a help centre and reporting in one place and have the volume to justify per-agent pricing.</p>
- <p class="tc-catch"><b>The catch</b>Three separate multipliers sit on top of the number you first see.</p>
+ <p class="tc-catch"><b>The catch</b>Three separate multipliers sit on top of the number you first see.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
- <div class="tool-tags"><span class="tool-tag">Customer Support</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Customer Support</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.zendesk.com/16u21xk7thhq" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Zendesk <span aria-hidden="true">&rarr;</span></a>
   <a href="zendesk-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/zenzap.co" alt="ZenZap" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=zenzap.co&amp;sz=64'">
-   </div>
-   <h3>ZenZap</h3>
+<article class="tool-card ledger fade-in" data-category="Communication &amp; Voice" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/zenzap.co" alt="ZenZap" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=zenzap.co&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Voice</span>
- </div>
- <div class="tc-alt">
+  <div class="lg-naam"><h3>ZenZap</h3><span class="tool-badge pick">Voice</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Slack</span></div></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$3</b><span>per user per month</span><span class="tc-chips"><em>read 1 Sep 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Secure work-chat for teams — organized channels, built-in tasks and workflows, AI agents and admin controls, as easy to use as texting.</p>
+ </div>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$3</b><span>per user per month</span><span class="tc-chips"><em>read 1 Sep 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Secure work-chat for teams — organized channels, built-in tasks and workflows, AI agents and admin controls, as easy to use as texting.</p>
  <p class="tc-best"><b>Best for</b>Small teams that run work over messy WhatsApp/personal chat today and want organized, professional chat with tasks — starting free.</p>
- <p class="tc-catch"><b>The catch</b>The pricing genuinely undercuts Slack — the honest question is ecosystem: team chat lives or dies on integrations and habit, and ZenZap&#x27;s app catalog is a fraction of Slack&#x27;s, so teams glued to hundreds of integrations will feel the gap.</p>
+ <p class="tc-catch"><b>The catch</b>The pricing genuinely undercuts Slack — the honest question is ecosystem: team chat lives or dies on integrations and habit, and ZenZap&#x27;s app catalog is a fraction of Slack&#x27;s, so teams glued to hundreds of integrations will feel the gap.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.zenzap.co/piw5krp2j8vw" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit ZenZap <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/zenzap-review/?utm_source=zerotouchsupport&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
