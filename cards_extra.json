@@ -1893,8 +1893,8 @@
   ],
   "price": "$6",
   "price_note": "Starter · per month",
-  "verified": "2026-08-26",
-  "catch": "Credits are the meter and retakes are the tax — regenerate a paragraph three times and you pay three times, so real usage lands well above the calculator estimate.",
+  "verified": "2026-09-03",
+  "catch": "Credits are the meter and retakes are the tax — you are charged per generation request, and a regeneration is only free while the content and settings are unchanged, so real usage lands well above the calculator estimate.",
   "best": "Creators, developers and product teams that want the most realistic AI voices available — voiceovers, audiobooks, dubbing, conversational agents and a well-documented API."
  },
  "EmailListVerify": {
@@ -2000,7 +2000,7 @@
   ],
   "price": "$362",
   "price_note": "Visitors Premium · per year",
-  "verified": "2026-08-29",
+  "verified": "2026-09-03",
   "catch": "None of the prices on that page is a price you can budget from.",
   "best": "Companies with a real office and a front desk problem."
  },
@@ -2070,7 +2070,7 @@
   ],
   "price": "$2,000",
   "price_note": "Business · per year",
-  "verified": "2026-08-15",
+  "verified": "2026-09-03",
   "catch": "The honest catch is that there is no middle any more.",
   "best": "B2B software teams (especially HubSpot-first) that want a live AI sales agent to qualify website visitors, hold buying conversations and route leads to reps.",
   "pw": "price up",
@@ -2112,8 +2112,8 @@
   ],
   "price": "$100",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
-  "catch": "The honest structure: the $100 tier is a limited on-ramp, and most of what Feedvisor is famous for (the algorithmic Buy-Box strategy that holds prices UP, ad management, analysts) lives behind the $1,500+ 360 tier — this is enterprise software for serious catalogs, priced accordingly.",
+  "verified": "2026-09-03",
+  "catch": "The honest structure: the $100 tier is a limited on-ramp, and most of what Feedvisor is famous for (the algorithmic Buy-Box strategy that holds prices UP, ad management, analysts) lives behind the $1,500+ top tier — this is enterprise software for serious catalogs, priced accordingly.",
   "best": "Mid-market and enterprise Amazon sellers with large catalogs where algorithmic repricing and ad optimization move real revenue."
  },
  "Filevine": {
@@ -2214,14 +2214,9 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
-  "verified": "2026-09-02",
+  "verified": "2026-09-03",
   "catch": "The real cost is the success fee, and it's a flat bracket rate on the whole sale price, not marginal — a mid-five-figure sale can hand over a four- to five-figure commission.",
   "best": "Buyers and sellers of small-to-mid online businesses, SaaS, apps and domains who want the largest marketplace and are comfortable doing their own due diligence.",
   "pw": "price up",
@@ -2237,7 +2232,7 @@
   ],
   "price": "$1,199",
   "price_note": "2 hours a day · per year",
-  "verified": "2026-08-06",
+  "verified": "2026-09-03",
   "catch": "'Unlimited' means unlimited queue, not unlimited throughput: work happens at your plan's daily capacity, so a big launch week still needs planning, and turnaround expectations are where subscription-design relationships sour.",
   "best": "Marketing teams and agencies with steady, recurring creative volume (ads, social, video edits) that want predictable flat-fee capacity instead of freelancer wrangling."
  },
@@ -2256,8 +2251,8 @@
   ],
   "price": "$30",
   "price_note": "Standard, per member · per year",
-  "verified": "2026-08-06",
-  "catch": "Two real gaps: there's no mobile app (browser only — the #1 complaint), and no proper workflow automation on any plan, just trigger-based emails.",
+  "verified": "2026-09-03",
+  "catch": "One gap has closed and one has not.",
   "best": "Small sales teams, agencies and VC/partnership teams who want a clean, fast-to-set-up CRM with a great LinkedIn enrichment extension."
  },
  "Foxit": {
@@ -2456,7 +2451,7 @@
   ],
   "price": "$19.99",
   "price_note": "from · per month",
-  "verified": "2026-08-26",
+  "verified": "2026-09-03",
   "catch": "The free plan is genuinely usable, so the honest question is only whether Gelato+ earns its fee — and that depends entirely on volume: below ~10 orders a month the discounts won't cover the subscription.",
   "best": "Creators and stores selling custom products internationally who want local production in many countries to cut shipping time and cost, with no inventory."
  },
@@ -2546,6 +2541,11 @@
     "usage_metered"
    ],
    [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -2553,7 +2553,7 @@
   ],
   "price": "$499",
   "price_note": "Launch · per month",
-  "verified": "2026-08-12",
+  "verified": "2026-09-03",
   "catch": "Every tier ships the whole platform — you pay for volume, not unlocks — and Core really is free forever, so 500 orders a month costs $0.",
   "best": "Multichannel e-commerce operations with serious order volume that want orders, inventory, purchasing, listings and shipping unified — including EDI retail."
  },
@@ -2675,14 +2675,17 @@
  "Hello Bar": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
-  "price": "$29",
-  "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-03",
   "catch": "The meter is views, not results: every visitor who sees a popup counts against your quota, so a traffic spike raises the bill regardless of how many emails you actually captured — a busy site outgrows the entry tier fast.",
   "best": "Content sites, blogs and stores that already have traffic and a genuinely worthwhile offer, and want sticky bars."
  },
@@ -2727,19 +2730,19 @@
     "per_seat"
    ],
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$5",
   "price_note": "from · per user per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-03",
   "catch": "The seat price is honest bait, the add-on grid is the business model: switch on three add-ons and your $12 seat becomes $27 — a la carte flexibility that punishes teams who need the full toolkit.",
   "best": "Project teams that want flexible PM (Gantt, Kanban, forms, chat) and only pay for the modules they actually use."
  },
@@ -3957,7 +3960,7 @@
   ],
   "price": "$4.50",
   "price_note": "from · per user per month",
-  "verified": "2026-09-02",
+  "verified": "2026-09-03",
   "catch": "The honest trade-off is maturity, not security.",
   "best": "Teams under twenty people who want zero-knowledge encryption and shared vaults at about $1.67 a seat a month."
  },
@@ -6245,13 +6248,20 @@
     "usage_metered"
    ],
    [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
-  "verified": "2026-08-17",
-  "catch": "The per-lead-action overage is the honest meter: every form, chat, call and tracked event past your credits bills a dime — busy sites should model that before choosing a tier.",
+  "price": "$30",
+  "price_note": "from · per month",
+  "verified": "2026-09-04",
+  "catch": "Its genuine strength versus bigger attribution suites is capturing EVERY lead type (not just calls) at a fair price; the flip side is you still need someone to read the reports and reallocate budget, or it's measurement theater.",
   "best": "Agencies and lead-gen businesses that want every lead — calls, forms, chats — attributed to its source and campaign without enterprise-suite prices."
  },
  "Wing Assistant": {
