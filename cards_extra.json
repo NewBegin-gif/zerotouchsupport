@@ -3485,14 +3485,14 @@
     "usage_metered"
    ],
    [
-    "🆓",
-    "Free tier",
-    "free_tier"
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$9.99",
   "price_note": "from · per user per month",
-  "verified": "2026-08-30",
+  "verified": "2026-09-04",
   "catch": "The meter is transcription hours and Pro gives you twenty a month, which is about an hour a working day.",
   "best": "People who run many external meetings and need a searchable record — the summaries earn their keep when you cannot remember which of four calls a detail came from."
  },
