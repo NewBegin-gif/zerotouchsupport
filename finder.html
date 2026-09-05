@@ -132,7 +132,7 @@
   function matchForm(top){
     var f = h('<form class="f-match" novalidate>' +
       '<p class="f-match-h">Want a personal second opinion on this shortlist?</p>' +
-      '<p class="f-match-p">Tell me a little about your situation and I will reply by email with the trade-offs between these picks for your case. No newsletter, and your details are never shared with vendors.</p>' +
+      '<p class="f-match-p">Tell me a little about your situation and you will get a reply by email with the trade-offs between these picks for your case. No newsletter, and your details are never shared with vendors.</p>' +
       '<div class="f-match-grid">' +
       '<label>Company size<select name="size"><option value="">Choose…</option><option value="solo">Just me</option><option value="2-10">2–10 people</option><option value="11-50">11–50 people</option><option value="51-200">51–200 people</option><option value="200+">200+ people</option></select></label>' +
       '<label>Monthly software budget<select name="budget"><option value="">Choose…</option><option value="free">Free only</option><option value="<50">Under $50</option><option value="50-200">$50–200</option><option value="200-1000">$200–1,000</option><option value="1000+">$1,000+</option></select></label>' +
@@ -156,7 +156,7 @@
         .then(function(x){
           if (!x.ok) { throw new Error(x.j && x.j.error ? x.j.error : 'error'); }
           track('matchmaker_submit', {finder_cat: state.cat, finder_sub: state.sub, mm_size: payload.size, mm_budget: payload.budget});
-          f.innerHTML = '<p class="f-match-h">Thanks — it is on its way to Daniel.</p><p class="f-match-p">He reads every one himself and replies personally, usually within two working days.</p>';
+          f.innerHTML = '<p class="f-match-h">Thanks — it is on its way to Daniel.</p><p class="f-match-p">He reads every request himself and replies by email. No newsletter, no follow-up sequence.</p>';
         })
         .catch(function(e){ btn.disabled = false; msg.textContent = 'That did not go through (' + (e.message || 'network') + '). Email daniel@aibuildermarketplace.com instead.'; });
     });
