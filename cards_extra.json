@@ -1017,6 +1017,7 @@
   ],
   "price": "$6.60",
   "price_note": "from · per user per month",
+  "verified": "2026-09-05",
   "catch": "The per-team-member tiers are the thing to size honestly: your clients report for free as guests, but everyone on your side who works the feedback needs a seat, so a growing agency steps up tiers.",
   "best": "Web agencies and site teams that want clients to point-and-click feedback directly on the page."
  },
@@ -1040,14 +1041,14 @@
   ],
   "price": "$79",
   "price_note": "from · per user per month",
-  "verified": "2026-09-02",
-  "catch": "Two meters run at once: seats AND credits — the seat price includes a credit allowance (500 a month on Core in August 2026; the September page no longer states it), and real outbound volume means credit packages on top, so budget past the sticker.",
+  "verified": "2026-09-05",
+  "catch": "Two meters run at once: seats AND credits — the seat price includes a credit allowance (500 a month on Core, 5,000 on AI Employee, read 5 September 2026), and real outbound volume means credit packages on top, so budget past the sticker.",
   "best": "GTM teams that want AI to run outbound end-to-end — prompt-driven prospecting of intent-ready buyers.",
   "pw": "plans rebuilt",
   "pw_soort": "restructure"
  },
  "Bybit": {
-  "verified": "2026-08-21",
+  "verified": "2026-09-05",
   "catch": "Derivatives are the draw and the danger: leverage cuts both ways, and funding rates on perpetuals are a real recurring cost the fee table doesn't show.",
   "best": "Active traders who want deep liquidity, low derivatives fees and a broad product range (spot, perps, options) with volume-tiered discounts."
  },
@@ -2775,15 +2776,20 @@
  "Housecall Pro": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
    ]
   ],
-  "price": "$35",
+  "price": "$20",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
-  "catch": "The Basic tier is a trap for real field teams — it omits GPS tracking and QuickBooks sync, so most businesses need Essentials or up, and add-on users plus processing fees push the true cost higher.",
+  "verified": "2026-09-04",
+  "catch": "The Basic tier is a trap for real field teams — it omits GPS tracking and QuickBooks sync, so most businesses need Essentials or up.",
   "best": "Home-service businesses (HVAC, plumbing, cleaning) that want scheduling, dispatch, invoicing and payments in one app."
  },
  "Hubstaff": {
@@ -2863,7 +2869,7 @@
   ],
   "price": "$9.99",
   "price_note": "Personal 5 TB · per year",
-  "verified": "2026-08-27",
+  "verified": "2026-09-04",
   "catch": "The first-year price is a teaser and the renewal is the price — IDrive says so itself under the plan table, and on the current numbers the step from discounted to standard is about 43% (Personal 5 TB goes from $6.99 to $9.99 a month).",
   "best": "Individuals and small businesses that want cheap multi-device cloud backup with versioning, snapshots and physical seed/restore shipping."
  },
@@ -2924,10 +2930,17 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
-  "verified": "2026-08-26",
-  "catch": "It's premium-priced and only justified by serious ad spend — small budgets will feel it.",
+  "price": "$159",
+  "price_note": "from · per month",
+  "verified": "2026-09-04",
+  "catch": "It's premium-priced and only justified by serious ad spend — Create is $79 a month billed annually for 15,000 unique monthly visitors, and the price per thousand barely improves as you climb, so the higher tiers buy features rather than cheaper traffic.",
   "best": "Marketing teams running significant paid ad campaigns who need post-click optimisation — AdMap ad-to-page personalisation, A/B testing and heatmaps."
  },
  "InVideo": {
@@ -2973,7 +2986,7 @@
   ],
   "price": "$49",
   "price_note": "per year",
-  "verified": "2026-08-26",
+  "verified": "2026-09-04",
   "catch": "The tier ladder is really a funnel-and-seat ladder — 3 live funnels on Start evaporates once you run campaigns in parallel, and Start cannot buy extra seats at all, so a second user means the $40 step up to Grow.",
   "best": "Marketers building interactive lead-gen — quizzes, calculators, assessments and payment funnels with built-in email sequences."
  },
@@ -3026,8 +3039,8 @@
   ],
   "price": "$34",
   "price_note": "Bronze · /mo billed annually",
-  "verified": "2026-08-26",
-  "catch": "The gating detail is conversations, not features — the free and lower tiers cap monthly conversations quickly, so an agent that actually gets used will push you up a tier.",
+  "verified": "2026-09-04",
+  "catch": "The gating detail is conversations, not features — Starter's 100 a month is a few days on a live site, and an agent that actually gets used will push you up a tier.",
   "best": "Teams already using Jotform (or wanting no-code) that need AI chatbots and service agents to handle leads, support and bookings tied to their forms."
  },
  "Jubilee": {
@@ -3921,12 +3934,22 @@
  "Papaya Global": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🪑",
     "Per-seat pricing",
     "per_seat"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
-  "price": "$599",
+  "price": "$5",
   "price_note": "from · per month",
   "catch": "Every headline price is a 'starting from' that dead-ends at 'book a demo'.",
   "best": "Finance-led mid-market and enterprises already running legal entities in several countries. They want to consolidate fragmented multi-country payroll and cross-border payments into one platform, with real-time workforce-cost dashboards, automated GL mapping, same-day local payouts and deep ERP/HRIS integration (Workday, SAP, NetSuite, HiBob). And they can absorb premium quote-only pricing for a white-glove managed service."
@@ -3962,11 +3985,18 @@
  "Payoneer": {
   "flags": [
    [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
+  "price": "$19",
+  "price_note": "from · per month",
   "verified": "2026-08-16",
   "catch": "The conversion and cross-currency withdrawal markups are where it quietly costs you — for pure currency conversion a specialist like Wise is often cheaper.",
   "best": "Freelancers and sellers getting paid by international clients and marketplaces (Amazon, Upwork, Fiverr) who need local receiving accounts."
@@ -6076,8 +6106,13 @@
   "best": "Companies with regularly traveling teams that want one pooled global data contract, per-user controls and an end to roaming bill surprises."
  },
  "VWO": {
-  "price": "$314",
-  "price_note": "from · per month",
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "catch": "The jump from Growth to Pro is steep — small businesses get priced out of MVT and complex targeting — and the UI is dense with options.",
   "best": "Teams that want an all-in-one experience-optimisation platform (A/B testing + heatmaps + personalisation) with friendlier Bayesian stats and transparent pricing."
  },
@@ -6568,7 +6603,7 @@
   ],
   "price": "$49",
   "price_note": "Starter · per month",
-  "verified": "2026-08-19",
+  "verified": "2026-09-04",
   "catch": "Two things to weigh, and the first is the price itself.",
   "best": "Shopify stores with a catalogue big enough that shoppers ask which item to buy, who want a chat assistant that reads live inventory and hands off to a person."
  },
