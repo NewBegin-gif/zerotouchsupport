@@ -45,6 +45,18 @@
   .f-cta{background:var(--accent);color:#fff;padding:9px 18px;border-radius:8px;font-weight:600;font-size:.9rem}
   .f-hands{color:var(--text2);font-size:.84rem;text-decoration:underline}
   .f-alt{color:var(--text2);text-decoration:underline;font-size:.9rem}
+  .f-match{background:var(--card);border:1px dashed var(--border);border-radius:14px;padding:18px 20px;margin-top:8px;position:relative}
+  .f-match-h{font-weight:700;color:var(--text);margin:0 0 6px;font-size:1rem}
+  .f-match-p{color:var(--text2);font-size:.88rem;margin:0 0 12px}
+  .f-match-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  @media(max-width:560px){.f-match-grid{grid-template-columns:1fr}}
+  .f-match label{display:block;color:var(--text2);font-size:.82rem;font-weight:600;margin:0 0 10px}
+  .f-match-opt{font-weight:400;color:var(--muted)}
+  .f-match select,.f-match input[type=email],.f-match textarea{display:block;width:100%;box-sizing:border-box;margin-top:5px;background:var(--bg,transparent);color:var(--text);border:1px solid var(--border);border-radius:8px;padding:9px 10px;font:inherit;font-size:.92rem;font-weight:400}
+  .f-match textarea{resize:vertical}
+  .f-match button.f-cta{border:none;cursor:pointer;font-family:inherit}
+  .f-match button[disabled]{opacity:.6;cursor:wait}
+  .f-match-msg{color:var(--muted);font-size:.84rem}
 
   </style>
 </head>
@@ -52,38 +64,7 @@
   <div class="home"><a href="/">← Home</a></div>
   <header class="page-head"><h1>Which phone or voice solution fits you?</h1><p>Answer one question, get an honest pick from the voice tools we cover.</p></header>
   <main class="f-wrap" id="finder"><noscript><p>This finder needs JavaScript.</p></noscript></main>
-  <footer class="zfoot" id="zuster-voet"><style>
-.zfoot{border-top:1px solid rgba(148,163,184,.18);margin-top:56px;padding:48px 24px 28px;
- background:linear-gradient(180deg,rgba(255,255,255,.02),rgba(0,0,0,0));color:#cbd5e1;
- font:400 .88rem/1.6 Inter,system-ui,-apple-system,"Segoe UI",sans-serif;text-align:left}
-.zfoot *{box-sizing:border-box}
-.zfoot .in{max-width:1140px;margin:0 auto}
-.zfoot .merkrij{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-start;
- gap:18px 40px;padding-bottom:28px;border-bottom:1px solid rgba(148,163,184,.14);margin-bottom:30px}
-.zfoot .merk{font-weight:800;font-size:1.15rem;color:#f8fafc;letter-spacing:-.01em;margin:0 0 6px;
- display:flex;align-items:center;gap:9px}
-.zfoot .merk i{display:inline-block;width:10px;height:10px;border-radius:3px;
- background:linear-gradient(135deg,#818cf8,#34d399)}
-.zfoot .pitch{margin:0;max-width:46ch;color:#94a3b8}
-.zfoot .net{font-size:.78rem;color:#94a3b8;max-width:40ch;line-height:1.9}
-.zfoot .net b{display:block;font-size:.66rem;letter-spacing:.12em;text-transform:uppercase;
- color:#64748b;font-weight:700;margin-bottom:2px}
-.zfoot .net a{color:#cbd5e1;text-decoration:none;white-space:nowrap}
-.zfoot .net a:hover{color:#a5b4fc}
-.zfoot .kol{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:26px 30px}
-.zfoot h3{font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:#64748b;
- font-weight:700;margin:0 0 10px;text-align:left}
-.zfoot ul{list-style:none;padding:0;margin:0}
-.zfoot li{margin:0 0 7px;line-height:1.45}
-.zfoot li a{color:#cbd5e1;text-decoration:none;font-size:.86rem}
-.zfoot li a:hover{color:#a5b4fc;text-decoration:underline}
-.zfoot li a.meer{color:#818cf8;font-weight:600}
-.zfoot .staart{margin-top:30px;padding-top:16px;border-top:1px solid rgba(148,163,184,.14);
- display:flex;flex-wrap:wrap;gap:8px 20px;justify-content:space-between;font-size:.76rem;color:#64748b}
-.zfoot .staart a{color:#94a3b8;text-decoration:none}
-.zfoot .staart a:hover{color:#a5b4fc}
-@media(max-width:640px){.zfoot{padding:36px 18px 22px}.zfoot .kol{grid-template-columns:1fr 1fr}}
-</style><div class="in"><div class="merkrij"><div><p class="merk"><i></i>ZeroTouch Support</p><p class="pitch">Honest reviews of customer support and voice software. Every price read on the vendor&rsquo;s own page, and dated.</p></div><div class="net"><b>Part of the network</b><a href="https://aibuildermarketplace.com?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=network" rel="nofollow noopener">AI Builder Marketplace</a> &middot; <a href="https://officesoftwaremarketplace.com?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=network" rel="nofollow noopener">Office Software Marketplace</a> &middot; <a href="https://marketingandsalessoftware.com?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=network" rel="nofollow noopener">Marketing &amp; Sales Software</a> &middot; <a href="https://theweeklyaiedge.com?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=network" rel="nofollow noopener">The Weekly AI Edge</a> &middot; <a href="https://theweekly2pctedge.com?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=network" rel="nofollow noopener">The Weekly 2% Edge</a></div></div><div class="kol"><div><h3>Find your tool</h3><ul><li><a href="/finder.html">Tool Finder, 20 seconds</a></li><li><a href="/">All reviews</a></li><li><a href="/build-customer-support-system.html">How to Build a Customer Support System That…</a></li><li><a href="/price-watch.html">Price Watch</a></li></ul></div><div><h3>Buying guides</h3><ul><li><a href="/answering-services-human-or-ai.html">Someone has to answer</a></li><li><a href="/best-business-phone-systems.html">Best business phone systems for small teams…</a></li><li><a href="/best-customer-support-automation-tools.html">The best customer-support automation tools…</a></li><li><a href="/best-shopify-support-apps.html">The best Shopify customer support apps…</a></li><li><a href="/helpdesk-platforms-compared.html">Helpdesk platforms</a></li><li><a href="/outbound-calling-at-volume.html">Calling at volume</a></li><li><a href="/guides.html" class="meer">All guides</a></li></ul></div><div><h3>Free tools</h3><ul><li><a href="/tools/nps-calculator/">NPS Calculator</a></li></ul></div><div><h3>Research & data</h3><ul><li><a href="/atlas.html">The cost-trap atlas</a></li><li><a href="/answers.html">Straight answers</a></li><li><a href="/mcp.html">Honest Atlas MCP for your AI</a></li><li><a href="https://aibuildermarketplace.com/research/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">Pricing Transparency Report</a></li><li><a href="https://aibuildermarketplace.com/research/saas-price-changes-summer-2026/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">SaaS price changes, summer 2026</a></li><li><a href="https://aibuildermarketplace.com/data/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">Open data</a></li><li><a href="https://aibuildermarketplace.com/glossary/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">Pricing glossary</a></li></ul></div><div><h3>About</h3><ul><li><a href="/about.html">About Daniel</a></li><li><a href="https://aibuildermarketplace.com/how-we-review/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">How we review</a></li><li><a href="https://aibuildermarketplace.com/manifesto/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">The manifesto</a></li><li><a href="https://aibuildermarketplace.com/handbook/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">The Buyer's Handbook</a></li><li><a href="https://aibuildermarketplace.com/list-your-saas/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">List your SaaS, free</a></li><li><a href="https://aibuildermarketplace.com/terms/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">Terms</a></li><li><a href="https://aibuildermarketplace.com/privacy/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=nav" rel="nofollow noopener">Privacy</a></li></ul></div></div><div class="staart"><span>&copy; 2025&ndash;2026 ZeroTouch Support. Some links are affiliate links; we may earn a commission at no cost to you, and it never changes what we write.</span><span>Six sites, one owner &mdash; all built and run by <a href="https://aibuildermarketplace.com/about/?utm_source=zerotouchsupport&amp;utm_medium=footer&amp;utm_campaign=network" rel="nofollow noopener">Daniel Haket</a>.</span></div></div></footer>
+  <footer>Some links are affiliate links — we may earn a commission at no extra cost to you.</footer>
   <script>
 
 (function(){
@@ -143,9 +124,43 @@
       '<p class="f-desc">' + ft.desc + '</p>' +
       '<div class="f-row"><a class="f-cta" href="https://aibuildermarketplace.com/tools/' + ft.slug + '/" target="_blank" rel="nofollow noopener">Open free tool &rarr;</a></div></div>')] : [];
     render('<p class="f-q">My recommendation' + (cards.length > 1 ? 's' : '') + ':</p>', cards.concat(ftNode).concat([
+      matchForm(top),
       h('<div class="f-row" style="margin-top:14px"><a class="f-alt" href="https://aibuildermarketplace.com/b2b/" target="_blank" rel="nofollow noopener">Browse the full directory →</a></div>'),
       back(step1, 'Start over')
     ]));
+  }
+  function matchForm(top){
+    var f = h('<form class="f-match" novalidate>' +
+      '<p class="f-match-h">Want a personal second opinion on this shortlist?</p>' +
+      '<p class="f-match-p">Tell me a little about your situation and I will reply by email with the trade-offs between these picks for your case. No newsletter, and your details are never shared with vendors.</p>' +
+      '<div class="f-match-grid">' +
+      '<label>Company size<select name="size"><option value="">Choose…</option><option value="solo">Just me</option><option value="2-10">2–10 people</option><option value="11-50">11–50 people</option><option value="51-200">51–200 people</option><option value="200+">200+ people</option></select></label>' +
+      '<label>Monthly software budget<select name="budget"><option value="">Choose…</option><option value="free">Free only</option><option value="<50">Under $50</option><option value="50-200">$50–200</option><option value="200-1000">$200–1,000</option><option value="1000+">$1,000+</option></select></label>' +
+      '</div>' +
+      '<label>Email <input type="email" name="email" placeholder="you@company.com" required></label>' +
+      '<label>What are you trying to fix? <span class="f-match-opt">(optional)</span><textarea name="note" rows="3" maxlength="600" placeholder="One or two sentences is plenty."></textarea></label>' +
+      '<input type="text" name="website" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px" aria-hidden="true">' +
+      '<div class="f-row"><button type="submit" class="f-cta">Send my shortlist for a second opinion</button><span class="f-match-msg" aria-live="polite"></span></div>' +
+      '</form>');
+    f.addEventListener('submit', function(ev){
+      ev.preventDefault();
+      var msg = f.querySelector('.f-match-msg');
+      var email = (f.email.value || '').trim();
+      if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) { msg.textContent = 'Please enter a valid email address.'; return; }
+      var btn = f.querySelector('button'); btn.disabled = true; msg.textContent = 'Sending…';
+      var payload = {site: 'zerotouchsupport.com', cat: state.cat, sub: state.sub,
+        top: top.map(function(t){ return t.name; }), size: f.size.value, budget: f.budget.value,
+        email: email, note: (f.note.value || '').trim(), website: f.website.value, page: location.pathname};
+      fetch('https://api.aibuildermarketplace.com/matchmaker', {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(payload)})
+        .then(function(r){ return r.json().then(function(j){ return {ok: r.ok, j: j}; }); })
+        .then(function(x){
+          if (!x.ok) { throw new Error(x.j && x.j.error ? x.j.error : 'error'); }
+          track('matchmaker_submit', {finder_cat: state.cat, finder_sub: state.sub, mm_size: payload.size, mm_budget: payload.budget});
+          f.innerHTML = '<p class="f-match-h">Thanks — it is on its way to Daniel.</p><p class="f-match-p">He reads every one himself and replies personally, usually within two working days.</p>';
+        })
+        .catch(function(e){ btn.disabled = false; msg.textContent = 'That did not go through (' + (e.message || 'network') + '). Email daniel@aibuildermarketplace.com instead.'; });
+    });
+    return f;
   }
   function btn(label, fn){ var b = h('<button class="f-btn">' + label + '</button>'); b.addEventListener('click', fn); return b; }
   function back(fn, label){ var b = h('<button class="f-back">' + (label || '← Back') + '</button>'); b.addEventListener('click', fn); return b; }
