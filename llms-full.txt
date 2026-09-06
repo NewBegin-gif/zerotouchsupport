@@ -1,6 +1,6 @@
 # ZeroTouch Support — Full Review Catalog
 
-> All 30 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-05.
+> All 26 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-06.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -11,18 +11,10 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: 800.com — On yearly billing: Startup $19/mo, Small Business $49/mo and Complete $99/mo. The 1,000-minute cap on Startup matters for higher call volume.
 - Price: (re-verified 2026-08-13, read on their own plans page with both billing tabs open) No free tier. On yearly billing: Startup $19/mo, Small Business $49/mo and Complete $99/mo; the same three month-to-month are $23, $59 and $119, badged SAVE 15%.
 
-## ActiveCampaign
-- Review: https://zerotouchsupport.com/activecampaign-review.html
-- Verdict: ActiveCampaign: No free plan, trial only. Pricing climbs with contact count and the add-ons (CRM, SMS, extra seats) stack up fast.
-
 ## Aircall
 - Review: https://zerotouchsupport.com/aircall-review.html
 - Verdict: Aircall: Essentials is $30 per license a month and Professional $50, both on annual billing. 'Unlimited calling' covers listed regions — check yours.
 - Price: (read 2026-08-26 on aircall.io/pricing over a US connection, with their own country selector on United States) Essentials is $30 per license a month and Professional $50, both on annual billing, which the page marks as 25% off monthly. Flip that toggle and the monthly rates read $40 and $70 per license (3 licenses for $120 and $210), checked 29 August 2026 from a US connection.
-
-## Alohi
-- Review: https://zerotouchsupport.com/alohi-review.html
-- Verdict: Alohi: Fax.Plus runs Basic about $6.99/mo, Premium ~$13.99. The honest catch is that Alohi is a suite of separate products — Fax.Plus, Sign.Plus, Scan.Plus.
 
 ## Answering Service Care
 - Review: https://zerotouchsupport.com/answering-service-care-review.html
@@ -32,10 +24,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Calilio
 - Review: https://zerotouchsupport.com/calilio-review.html
 - Verdict: Calilio: Standard $15 per user/mo, or $12 billed annually ($144 a year). The subscription is the platform, not the talking.
+- Price: (re-verified 2026-08-17) Standard $15 per user/mo, or $12 billed annually ($144 a year); Premium $35 per user/mo, or $28 annually ($336 a year); Enterprise custom. Annual billing saves 20%.
 
 ## CallHippo
 - Review: https://zerotouchsupport.com/callhippo-review.html
 - Verdict: CallHippo: The same grid read in dollars on 19 July 2026 showed $19, $30 and $42. 'Unlimited calling' is unlimited to the US and Canada.
+- Price: (2026-08-15, read on their own pricing page in euros) Starter €19/user/mo, Professional €29 and Ultimate €39 on monthly billing for a 1-4 user team, above a genuinely free Basic tier where you pay only for the numbers. Unlimited landline and mobile minutes start at Starter with 100 SMS; call recordings, AI voicemail transcription and multilingual IVR at Professional with 500 SMS; smart DID, multilevel and holiday…
 
 ## CloudTalk
 - Review: https://zerotouchsupport.com/cloudtalk-review.html
@@ -45,6 +39,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## CometChat
 - Review: https://zerotouchsupport.com/cometchat-review.html
 - Verdict: CometChat — Billed yearly, shown as a monthly equivalent: at 1,000 MAU Basic is $239 and Advanced $359. The pricing cliff is the honest headline.
+- Price: (re-verified 2026-08-17 against CometChat's own machine-readable pricing reference, which they publish for AI agents and last verified themselves on 2026-05-20; USD) Build is free for development: all features, up to 100 users and 25 concurrent connections, no card. Paid Chat plans are priced by monthly active users.
 
 ## eDesk
 - Review: https://zerotouchsupport.com/edesk-review.html
@@ -69,23 +64,22 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## KrispCall
 - Review: https://zerotouchsupport.com/krispcall-review.html
 - Verdict: KrispCall: Essential $12 per user/mo billed annually or $15 monthly, for solo agents and teams up to 5 people. Same honest math as most budget VoIP.
+- Price: (re-verified 2026-08-17 against the vendor's own pricing page) Essential $12 per user/mo billed annually or $15 monthly, for solo agents and teams up to 5 people; Standard $32 per user/mo annually or $40 monthly, for teams scaling up to 50 users; Enterprise custom. Annual saves 20%, which the page puts at $36 per user a year on Essential and $96 on Standard, and each plan comes with $1 of free calling and SMS credit.
 
 ## Lucrovox
 - Review: https://zerotouchsupport.com/lucrovox-review.html
 - Verdict: Lucrovox: The phone agent has three published tiers and the plan table is back on the page. The ‘callers can’t tell it’s AI’ claim is the vendor’s own.
 - Price: (re-verified 2026-08-24 on lucrovox.com/#pricing and lucrovox.com/lucrochat, both read in a real browser with the pages fully loaded) The phone agent has three published tiers and the plan table is back on the page: Starter $199 a month for up to 100 AI-handled calls, Pro $499 for up to 500 calls with CRM integration and advanced lead qualification, Enterprise $999 for up to 2,000 calls with white-label branding…
 
-## Process Street
-- Review: https://zerotouchsupport.com/process-street-review.html
-- Verdict: Process Street publishes no prices. Built for operations-driven teams that run recurring, checklist-based processes and want them tracked and auditable.
-
 ## Quo
 - Review: https://zerotouchsupport.com/quo-review.html
 - Verdict: Quo: Business $23 annual ($276/yr) or $33 monthly. Call reliability is the recurring complaint — G2 logs hundreds of connection and disconnection reports.
+- Price: (price re-verified 2026-08-31 against the vendor's own pricing page; quo.com refuses TLS to our usual client, so the page was fetched through our own European server — all prices are quoted on the page in USD) (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly; Business $23 annual ($276/yr) or $33 monthly; Scale $35 annual ($420/yr) or $47 monthly. 7-day free trial.
 
 ## Readymode
 - Review: https://zerotouchsupport.com/readymode-review.html
 - Verdict: Readymode — Two published plans, priced per license per month: Starter $239 for 1+ licenses and iQ $299. The per-seat price is premium.
+- Price: (re-verified 2026-08-17 on their own pricing page, after the vendor announced a price change effective 1 Aug 2026) Two published plans, priced per license per month: Starter $239 for 1+ licenses and iQ $299, which the page calls ideal for 5+ licenses. Both waive the set-up fee and the phone-number (DID) activation fee, both give free outbound minutes subject to a fair-use policy, and both charge inbound at $0.02/min.
 
 ## respond.io
 - Review: https://zerotouchsupport.com/respond-io-review.html
@@ -122,13 +116,10 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Tidio: The free plan carries 50 billable conversations, 100 Flows visitors reached and 50 Lyro AI conversations.
 - Price: (read 2026-08-24 on www.tidio.com/pricing/ with both billing columns clicked, and on www.tidio.com) The plan table opens on the annual column, so the first figures on the page are not what month-to-month costs. Starter is 24.17 a month billed annually against 29 paid monthly, Growth starts at 49.17 annually against 59 monthly, and the two stand-alone add-ons follow the same 20 percent step: the Lyro AI Agent from…
 
-## Typewise
-- Review: https://zerotouchsupport.com/typewise-review.html
-- Verdict: Typewise: One number and no plan table. The bill scales with resolutions rather than seats, and "from $1" is a floor, not a rate card.
-
 ## Vida AI
 - Review: https://zerotouchsupport.com/vida-ai-review.html
-- Verdict: Vida is quote-oriented and priced for resellers: agency plans start around $750 a month for 5 agents and about 2,500 AI voice minutes, platform plans from
+- Verdict: Vida AI: Verify current tiers with sales. The universal truth of voice AI: demo calls are rehearsed, your callers aren't.
+- Price: Quote-oriented (2026): agency/reseller plans from about $750/mo (a starter tier carries 5 agents and ~2,500 AI voice minutes; growth tiers advertise unlimited agents and minutes) and platform/service-provider plans from ~$2.5k/mo. Verify current tiers with sales.
 
 ## Wati
 - Review: https://zerotouchsupport.com/wati-review.html
@@ -137,7 +128,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Weave
 - Review: https://zerotouchsupport.com/weave-review.html
-- Verdict: Weave: Quote-based, not publicly listed (2026). The base bundle is only the start: add-ons, setup and per-location fees land on top.
+- Verdict: Weave: Practice owners commonly report all-in costs of roughly $400 to $700 a location once phones. The $199 starting price is a floor, not the bill.
+- Price: Weave sells a per-location monthly subscription and its pricing page (weavehq.com/pricing, read 5 September 2026) now states plans start from $199 per location a month, though the exact tier ladder is still only shown after a demo. Practice owners commonly report all-in costs of roughly $400 to $700 a location once phones, payments and add-ons are bundled, plus a one-time setup fee of about $750.
 
 ## Zendesk
 - Review: https://zerotouchsupport.com/zendesk-review.html
