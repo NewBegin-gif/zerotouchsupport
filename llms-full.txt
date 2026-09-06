@@ -88,8 +88,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Ruby
 - Review: https://zerotouchsupport.com/ruby-review.html
-- Verdict: Ruby: $250/mo for 50 minutes, $395/mo for 100, $720/mo for 200 and $1,725/mo for 500, with larger volumes quoted on request.
-- Price: (re-verified 2026-08-13, read on their own plans-and-pricing page) Live virtual receptionists billed on included receptionist-minutes: $250/mo for 50 minutes, $395/mo for 100, $720/mo for 200 and $1,725/mo for 500, with larger volumes quoted on request. Standalone live chat is $143/mo for 10 chats, $335/mo for 30 and $520/mo for 50; bundled with a receptionist plan those same volumes cost $115, $268 and $416/mo.
+- Verdict: Ruby: $5.00 a minute at the bottom, $3.45 at the top. You're paying premium rates for real human receptionists billed per minute.
+- Price: Read on their own plans-and-pricing page, 6 September 2026. Virtual receptionist plans are sold by monthly minutes: 50 minutes $250, 100 minutes $395, 200 minutes $720, 500 minutes $1,725 — $5.00 a minute at the bottom, $3.45 at the top.
 
 ## Salesmessage
 - Review: https://zerotouchsupport.com/salesmessage-review.html

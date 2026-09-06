@@ -164,7 +164,9 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-08-17",
+  "price": "€7.25",
+  "price_note": "from · per month",
+  "verified": "2026-09-06",
   "catch": "AhaSlides runs regional pricing: the number on the pricing page depends on where you browse from — so any review quoting one price (including ours) may not match yours.",
   "best": "Educators, trainers and event hosts running interactive sessions — polls, quizzes, word clouds and live Q&A — with audiences up to 50 free."
  },
@@ -781,8 +783,14 @@
     "📈",
     "Renewal jump",
     "renewal_jump"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
+  "verified": "2026-09-06",
   "catch": "Like most antivirus, the first-year price is a promo — renewals run notably higher, so budget for the renewal rate, not the intro.",
   "best": "Small businesses that want top-tier, independently-validated endpoint protection managed from one console."
  },
@@ -968,11 +976,16 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
-  "price": "€7",
+  "price": "$27",
   "price_note": "from · per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-06",
   "catch": "Charging by sends rather than contacts is genuinely cheaper for big lists you email infrequently — but the free daily cap and add-on fees mean high-frequency senders should model their real send volume first.",
   "best": "Businesses with large contact lists who email selectively and want to pay by send volume, not list size."
  },
@@ -1131,14 +1144,14 @@
     "addons_extra"
    ],
    [
-    "📅",
-    "Annual commit",
-    "annual_lock"
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
-  "price": "$55",
+  "price": "$50",
   "price_note": "from · per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-06",
   "catch": "The headline price is a floor, not a ceiling — the included minutes, numbers and SMS are modest, so an active campaign quickly hits metered overages that meaningfully lift the bill.",
   "best": "Marketers and agencies that need to prove which campaigns, keywords and ads drive phone calls and form leads, with recordings and multi-touch attribution."
  },
@@ -1873,7 +1886,7 @@
   ],
   "price": "$24",
   "price_note": "Pro · per year",
-  "verified": "2026-08-05",
+  "verified": "2026-09-06",
   "catch": "We have to be blunt here: DropGenius carries a very poor Trustpilot rating (around 1.6/5 at research time), with recurring complaints about charges continuing after cancellation and refund difficulty.",
   "best": "Absolute beginners who want a pre-built Shopify dropshipping store scaffold in minutes and understand it's a starting point, not a business."
  },
@@ -3518,11 +3531,6 @@
     "addons_extra"
    ],
    [
-    "📅",
-    "Annual commit",
-    "annual_lock"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -3530,7 +3538,7 @@
   ],
   "price": "$14",
   "price_note": "250 active contacts · per month",
-  "verified": "2026-08-04",
+  "verified": "2026-09-06",
   "catch": "Flows are button-and-script based, not natural language — type something unexpected and the bot falls back.",
   "best": "Creators and brands running comment-to-DM and multi-channel (Instagram, Messenger, WhatsApp) marketing funnels — its killer feature works reliably."
  },
@@ -3545,11 +3553,16 @@
     "🔒",
     "Hidden pricing",
     "quote_only"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$395",
   "price_note": "from · per month",
-  "verified": "2026-08-15",
+  "verified": "2026-09-06",
   "catch": "Two honest cautions.",
   "best": "Small businesses that want one vendor handling website, CRM, ads, email and reputation with real humans to help, and prefer done-for-you over DIY."
  },
@@ -4727,16 +4740,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$250",
   "price_note": "per year",
-  "verified": "2026-08-19",
+  "verified": "2026-09-06",
   "catch": "You're paying premium rates for real human receptionists billed per minute — worth it when a missed call is a lost client, but expensive if your call volume is low or an AI answering service would do the job for a fraction.",
   "best": "Client-driven service businesses (law, home services, clinics) where a live human answering every call directly wins business.",
   "pw": "price held",
@@ -5042,14 +5050,19 @@
     "usage_metered"
    ],
    [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
-  "price": "$17",
+  "price": "$19",
   "price_note": "from · per month",
-  "verified": "2026-08-11",
+  "verified": "2026-09-06",
   "catch": "The pricing is honest but layered.",
   "best": "E-commerce sellers shipping across multiple carriers who want rate comparison, label printing and tracking in one place with genuine rate discounts."
  },
@@ -6209,6 +6222,7 @@
     "usage_metered"
    ]
   ],
+  "verified": "2026-09-06",
   "catch": "eSIM data pooling genuinely beats classic roaming for traveling teams, but the honest homework is coverage-and-speed on YOUR corridors: quality varies by country and local carrier partner, so pilot with two or three of your heaviest travelers before migrating everyone.",
   "best": "Companies with regularly traveling teams that want one pooled global data contract, per-user controls and an end to roaming bill surprises."
  },
