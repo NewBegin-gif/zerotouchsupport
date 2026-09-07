@@ -3044,11 +3044,6 @@
  "involve.me": {
   "flags": [
    [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ],
-   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -3057,12 +3052,17 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$49",
   "price_note": "per year",
-  "verified": "2026-09-04",
-  "catch": "The tier ladder is really a funnel-and-seat ladder — 3 live funnels on Start evaporates once you run campaigns in parallel, and Start cannot buy extra seats at all, so a second user means the $40 step up to Grow.",
+  "verified": "2026-09-07",
+  "catch": "The tier pages sell live funnels, but the meter that empties first is contacts.",
   "best": "Marketers building interactive lead-gen — quizzes, calculators, assessments and payment funnels with built-in email sequences."
  },
  "Jibble": {
