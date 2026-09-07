@@ -3213,8 +3213,10 @@
     "annual_lock"
    ]
   ],
-  "verified": "2026-08-18",
-  "catch": "The business pricing page does not price the business plans.",
+  "price": "$2",
+  "price_note": "from · per user per month",
+  "verified": "2026-09-06",
+  "catch": "The per-user price is the smallest part of the bill.",
   "best": "Teams that need shared credentials with real admin control and audit."
  },
  "Kinsta": {
@@ -3505,8 +3507,8 @@
   "best": "Teams running a predictable programme of webinars to a known audience size, where buying a year of attendance up front is cheaper than a per-seat platform."
  },
  "Logome.ai": {
-  "verified": "2026-08-17",
-  "catch": "Update, 21 Jul 2026: Logome's public website, including its pricing page, is currently returning 404 and only the app itself still loads, so we cannot verify any price or plan detail right now.",
+  "verified": "2026-09-06",
+  "catch": "Update, 6 Sep 2026: logome.ai no longer answers at all.",
   "best": "Founders and small businesses that want a professional-looking logo and basic brand assets generated fast and cheaply, without hiring a designer."
  },
  "Lucrovox": {
@@ -3656,7 +3658,14 @@
   "best": "Teams that think visually — brainstorms, flowcharts, retros, workshops and planning on an infinite shared canvas with strong templates and facilitation tools."
  },
  "Mktg.ai": {
-  "verified": "2026-08-26",
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "verified": "2026-09-06",
   "catch": "Two honest cautions.",
   "best": "Marketing teams with real media spend across channels who want an always-on AI analyst."
  },
@@ -3680,8 +3689,8 @@
   ],
   "price": "$60",
   "price_note": "from · per month",
-  "verified": "2026-08-15",
-  "catch": "The 'free' plan is the most expensive one once you have real volume: a 5% commission on every sale overtakes Pro's $60 flat fee around $30k/year in processed revenue.",
+  "verified": "2026-09-06",
+  "catch": "The 'free' plan is the most expensive one once you have real volume: a 5% commission on every sale overtakes Pro's $60 flat fee around $29k a year in processed revenue, and Pro in turn loses to the $199 Custom plan above about $67k a year.",
   "best": "Class-based businesses — studios, gyms, salons, schools — that want scheduling, memberships, payments and marketing in one system with a member app."
  },
  "monday.com": {
@@ -3717,12 +3726,17 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$9",
   "price_note": "Pro at 500 contacts · per year",
-  "verified": "2026-08-17",
-  "catch": "The friendly $7-9 headline is the entry rate at the smallest list size (500 contacts) — Moosend's pricing scales with your contact count, so as your list grows the monthly bill climbs with it, and the lowest rate assumes you pay a year up front.",
+  "verified": "2026-09-06",
+  "catch": "The friendly $7-9 headline is the entry rate at the smallest list size (500 contacts), and the ladder above it does not fall smoothly: paid annually, 8,000 contacts costs $51 a month while 10,000 costs $70, so a list of 9,000 sits on the wrong side of the sharpest jump on the slider.",
   "best": "Small businesses and marketers who want affordable email marketing and automation with a low entry price, a real free trial and a clean drag-and-drop builder."
  },
  "Motive": {
@@ -3946,10 +3960,17 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
-  "verified": "2026-08-17",
-  "catch": "Two meters at once: content types/layouts gate the lower tiers, and monthly LEAD limits gate the upside — a quiz that goes even mildly viral hits the 1,000-lead cap on Essentials, which is precisely when you least want friction.",
+  "price": "$225",
+  "price_note": "from · per month",
+  "verified": "2026-09-06",
+  "catch": "Two meters at once: content types and pieces gate the lower tiers, and monthly LEAD limits gate the upside.",
   "best": "Marketers who want quizzes, calculators and assessments that earn the lead by giving genuine value — with logic, integrations and templates handled."
  },
  "Ownr": {
@@ -4013,7 +4034,7 @@
   ],
   "price": "$15",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-06",
   "catch": "The unavoidable honest limit of every AI detector, including accurate ones: it is never infallible.",
   "best": "Educators, publishers and platforms that need a low-false-positive signal on whether text is AI-generated, at web-app or API scale."
  },
@@ -4064,7 +4085,7 @@
   ],
   "price": "$4.50",
   "price_note": "from · per user per month",
-  "verified": "2026-09-03",
+  "verified": "2026-09-06",
   "catch": "The honest trade-off is maturity, not security.",
   "best": "Teams under twenty people who want zero-knowledge encryption and shared vaults at about $1.67 a seat a month."
  },
@@ -4088,14 +4109,7 @@
   "best": "Freelancers and sellers getting paid by international clients and marketplaces (Amazon, Upwork, Fiverr) who need local receiving accounts."
  },
  "PDWare": {
-  "flags": [
-   [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ]
-  ],
-  "verified": "2026-09-05",
+  "verified": "2026-09-06",
   "catch": "This is genuine enterprise software with enterprise buying: opaque pricing, demo-first sales and implementation effort — appropriate for portfolio offices planning hundreds of resources, overkill below that.",
   "best": "Enterprise PMOs that plan portfolios around named-resource capacity and need feasibility answers before committing to projects."
  },
@@ -4119,7 +4133,7 @@
   ],
   "price": "$15",
   "price_note": "Pro, per member · per year",
-  "verified": "2026-09-05",
+  "verified": "2026-09-06",
   "catch": "The ladder here is not about how much you make, it is about which file you are allowed to hand over.",
   "best": "Individuals and small teams who need infographics, data-heavy reports and posters to look designed without hiring a designer."
  },
@@ -4167,16 +4181,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
-  "price": "€9",
+  "price": "€14",
   "price_note": "Starter · per month",
-  "verified": "2026-08-26",
+  "verified": "2026-09-06",
   "catch": "The meter is credits per attempt, not per usable result — and buyer reviews centre on exactly that.",
   "best": "Solo founders and small teams that want a steady stream of product-marketing videos and posters generated from a product link, without filming anything."
  },
@@ -5093,8 +5102,9 @@
     "free_tier"
    ]
   ],
-  "price": "$15",
+  "price": "$12",
   "price_note": "from · per month",
+  "verified": "2026-09-06",
   "catch": "In a category where the market leader has a generous free plan, Shorby charges from day one, so it has to earn the gap.",
   "best": "Creators and businesses that sell via messenger conversations or retarget link-in-bio traffic with ad pixels."
  },
@@ -6380,7 +6390,7 @@
   ],
   "price": "$39.90",
   "price_note": "Starter · per year",
-  "verified": "2026-08-30",
+  "verified": "2026-09-06",
   "catch": "Everything is credits, and generating a site burns them fast — Wegic's own page notes a single generation can cost over $10 in credits, while the free plan gives 100 credits once.",
   "coupon": {
    "code": "AIBUILDER10",
