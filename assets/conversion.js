@@ -254,6 +254,19 @@
         '<span id="rr-msg" style="margin-left:12px;font-size:.85rem;color:#94a3b8"></span></div>' +
       '</form>';
     host.appendChild(sec);
+    /* Een hash-link naar #reader-reviews (o.a. uit onze videobeschrijvingen) wordt
+       door de browser opgelost voordat dit blok bestaat, dus zonder deze regels
+       landt de bezoeker bovenaan een lange reviewpagina - 8 sep 2026. Drie keer
+       ankeren: meteen, zodra de reviewkaarten binnen zijn, en op window.load,
+       want lazy-loading beelden erboven schuiven de pagina anders alsnog weg. */
+    function naarBlok(){
+      if (location.hash !== '#reader-reviews') return;
+      document.getElementById('rr-open').style.display = 'none';
+      document.getElementById('rr-form').style.display = 'block';
+      sec.scrollIntoView();
+    }
+    naarBlok();
+    window.addEventListener('load', naarBlok);
     document.getElementById('rr-open').addEventListener('click', function(){
       this.style.display = 'none';
       document.getElementById('rr-form').style.display = 'block';
@@ -270,6 +283,7 @@
           '<p style="margin:8px 0 0;color:#e2e8f0">“' + esc(r.why) + '”</p>';
         list.appendChild(c);
       });
+      naarBlok();
     }).catch(function(){});
     document.getElementById('rr-form').addEventListener('submit', function(e){
       e.preventDefault();
