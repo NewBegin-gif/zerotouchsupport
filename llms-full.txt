@@ -68,7 +68,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Kixie
 - Review: https://zerotouchsupport.com/kixie-review.html
-- Verdict: Kixie: No seat price is published. The dialer itself is genuinely fast and CRM-native.
+- Verdict: Kixie: No seat price is published. Plan for 30-60% above the sticker: minutes, the multi-line dialer and AI human-voice-detection all bill separately.
 - Price: (2026-08-18, read on their own pricing page) No seat price is published. Three plans are listed — Professional, Single-Line PowerDialer and Multi-Line PowerDialer — with a quarterly/yearly toggle but no amount rendered anywhere on the page.
 
 ## KrispCall
