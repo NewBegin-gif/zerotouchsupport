@@ -498,10 +498,13 @@ def main():
     # kaart-CSS van AIBM, in het palet van deze site. Gemarkeerd blok, zodat een
     # herbouw hem vervangt in plaats van er nog een toe te voegen.
     _css = (f"<style id=\"aibm-kaarten\">#infrastructure{{{PALET}}}\n{KAART_CSS}</style>\n{FILTER_JS}")
-    # eerst alle eerder ingespoten blokken weg, anders stapelen ze op
-    for _pat in (r'<style id="aibm-kaarten">.*?</style>',
-                 r'<script id="aibm-filter">.*?</script>',
-                 r'<script>\s*document\.querySelectorAll\(\'\.filter-btn\'\).*?</script>'):
+    # eerst alle eerder ingespoten blokken weg, anders stapelen ze op.
+    # De \n? hoort erbij: zonder die newline laat elke herbouw een lege regel
+    # achter voor </head>, waardoor index/about/guides/mcp elke dag groeiden
+    # en er elke dag een commit+deploy zonder inhoudelijke wijziging kwam.
+    for _pat in (r'<style id="aibm-kaarten">.*?</style>\n?',
+                 r'<script id="aibm-filter">.*?</script>\n?',
+                 r'<script>\s*document\.querySelectorAll\(\'\.filter-btn\'\).*?</script>\n?'):
         index = re.sub(_pat, "", index, flags=re.S)
     index = index.replace("</head>", _css + "\n</head>", 1)
 
