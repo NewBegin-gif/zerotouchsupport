@@ -5509,7 +5509,7 @@
   ],
   "price": "$5",
   "price_note": "from · per user per month",
-  "verified": "2026-08-21",
+  "verified": "2026-09-08",
   "catch": "The ladder rewards size rather than commitment: moving from 25 to 26 users drops the rate a dollar, and the annual discount is worth about the same single dollar per user.",
   "best": "Leadership teams that already run on goals and want one place to set objectives, track KPIs and scorecards, and keep strategy execution on cadence."
  },
@@ -5552,7 +5552,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-08-26",
+  "verified": "2026-09-08",
   "catch": "The free tier is a teaser.",
   "best": "Teams that need research-grade survey logic (skip logic, randomisation, quotas) with compliance (HIPAA, GDPR, SOC 2) and 200+ integrations."
  },
@@ -5593,14 +5593,19 @@
     "free_tier"
    ]
   ],
-  "price": "$349",
-  "price_note": "Pro · per month",
-  "verified": "2026-08-17",
+  "price": "$56",
+  "price_note": "Growth (100 responses) · per month",
+  "verified": "2026-09-08",
   "catch": "The plan is metered by response volume, not by surveys — a viral NPS month can push you a tier up, and the free plan's 30-day retention quietly deletes your history.",
   "best": "Product and CX teams running always-on feedback — NPS, CSAT and in-app surveys — piped into the CRM and analytics stack they already use."
  },
  "Switcher Studio": {
   "flags": [
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
    [
     "📅",
     "Annual commit",
@@ -5612,10 +5617,10 @@
     "free_tier"
    ]
   ],
-  "price": "$45",
+  "price": "$55",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
-  "catch": "It's iOS-only — iPhones and iPads, no Android and no desktop app — so your whole capture setup lives in Apple's ecosystem.",
+  "verified": "2026-09-08",
+  "catch": "The app runs on Mac and iOS only — Android phones can join as cameras, but there is no Windows version — so the machine doing the switching has to be an Apple one.",
   "best": "Creators, churches, events and small businesses that want multi-camera live production and streaming using iPhones and iPads they already own — no broadcast hardware."
  },
  "Synthesia": {
@@ -5660,7 +5665,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-08-17",
+  "verified": "2026-09-08",
   "catch": "Per-form pricing is genuinely cheap for a handful of 1099s, but it's metered: TIN matching, W-9 requests, state filing and corrections can each carry their own charge.",
   "best": "Businesses and accountants who need to e-file 1099s, W-2s and related forms accurately and cheaply, especially seasonal or higher-volume filers."
  },
