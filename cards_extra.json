@@ -4498,9 +4498,9 @@
     "free_tier"
    ]
   ],
-  "price": "€8.33",
-  "price_note": "from · per month",
-  "verified": "2026-09-07",
+  "price": "$8.33",
+  "price_note": "Premium · per month",
+  "verified": "2026-09-08",
   "catch": "The free tier is deliberately narrow: 125 words per paraphrase and two of the modes.",
   "best": "Students, non-native writers and anyone who wants quick paraphrasing, grammar and summarizing help."
  },
@@ -4713,9 +4713,7 @@
     "free_tier"
    ]
   ],
-  "price": "$14.08",
-  "price_note": "from · per month",
-  "verified": "2026-09-07",
+  "verified": "2026-09-08",
   "catch": "Work out which lane you are in before you pay, because the three lanes price the same photo very differently.",
   "coupon": {
    "code": "AIBuilder20",
