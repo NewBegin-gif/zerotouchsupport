@@ -4795,12 +4795,20 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
-  "price": "$79",
-  "price_note": "from · per user per month",
-  "verified": "2026-08-02",
-  "catch": "The per-seat price falls steeply with team size — roughly $79 alone against $29.98 at fifty seats — so a solo operator pays two to three times what an agency pays per seat for the same product.",
+  "verified": "2026-09-09",
+  "catch": "The per-seat rate falls with team size but the monthly bill does not follow it: 19 seats on Starter is $1,330 while 20 seats on Pro is $799, so a team that stops one seat short of a tier pays $531 a month more for less.",
   "best": "Outbound sales teams and agencies running LinkedIn sequences across several seats, where the per-seat price drops and the admin panel earns its keep."
  },
  "Salesmessage": {
