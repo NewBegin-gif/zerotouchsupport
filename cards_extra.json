@@ -2649,8 +2649,8 @@
   ],
   "price": "$90",
   "price_note": "Basic · per month",
-  "verified": "2026-08-28",
-  "catch": "Never priced per agent is a real advantage and worth saying plainly: your whole team can be in the inbox without the bill moving.",
+  "verified": "2026-09-08",
+  "catch": "Never priced per agent is a real advantage, but it starts one tier up: the comparison table caps Starter at 3 user seats, and only Basic and above open the inbox to 500.",
   "best": "Ecommerce support teams with seasonal or spiky volume, where per-agent pricing punishes you for having enough people on a busy week."
  },
  "GrapeLeads": {
@@ -6960,14 +6960,14 @@
   ],
   "price": "$29",
   "price_note": "Pro · per month",
-  "verified": "2026-08-21",
+  "verified": "2026-09-08",
   "catch": "The split between the two tiers is unusually clean, and worth seeing clearly: everything this app is described as doing, the margins, the net units, the restock advice, is free.",
   "best": "Small and mid-size Shopify merchants who want cost price, gross margin, clean net unit sales and restock advice inside the admin instead of exporting to a spreadsheet."
  },
  "Intelis": {
   "price": "$49",
   "price_note": "Basic · per month",
-  "verified": "2026-08-21",
+  "verified": "2026-09-08",
   "catch": "The ladder counts variants, not products, and that is where stores get caught.",
   "best": "Shopify stores with hundreds to a few thousand variants that genuinely compete on price on Google Shopping and want competitor monitoring and repricing handled automatically."
  },
@@ -7505,7 +7505,7 @@
   ],
   "price": "$349",
   "price_note": "from · per month",
-  "verified": "2026-09-01",
+  "verified": "2026-09-08",
   "catch": "The free tier is real and needs no card, which makes Bitscale unusually easy to judge for yourself before paying.",
   "best": "Sales and RevOps teams that already run enrichment across several vendors and want the waterfall, the signals and the CRM sync in one place."
  },
@@ -7541,7 +7541,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-09-01",
+  "verified": "2026-09-08",
   "catch": "Nobody gets caught by the monthly fee here; they get caught by the per-ticket one.",
   "best": "Shopify stores that sell tickets alongside products and want attendees."
  },

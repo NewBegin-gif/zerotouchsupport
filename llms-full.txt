@@ -1,6 +1,6 @@
 # ZeroTouch Support — Full Review Catalog
 
-> All 28 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-08.
+> All 29 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-09.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -55,6 +55,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://zerotouchsupport.com/edesk-review.html
 - Verdict: eDesk: Free plan to start; Essential $39 per agent/mo, Growth $89 (recommended), Professional $119, Enterprise custom.
 - Price: (re-verified 2026-08-17) Free plan to start; Essential $39 per agent/mo, Growth $89 (recommended), Professional $119, Enterprise custom — all billed annually, with monthly billing 20% higher ($49 against $39 on Essential). The AI Agent is included on every paid tier, but its automated resolutions bill separately at $0.99 per outcome: you pay when it actually resolves a query, not per attempt.
+
+## Fireflies.ai
+- Review: https://zerotouchsupport.com/fireflies-ai-review.html
+- Verdict: Fireflies.ai: Free $0 — unlimited transcription, limited AI summaries, 400 mins storage per team, 20 AI credits. AI credits are capped on every tier.
+- Price: (price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit) Free $0 — unlimited transcription, limited AI summaries, 400 mins storage per team, 20 AI credits. Pro $18/seat/mo month-to-month or $10/seat/mo billed annually — unlimited AI summaries, 8,000 mins storage per seat, 20 AI credits.
 
 ## Freshworks
 - Review: https://zerotouchsupport.com/freshworks-review.html
