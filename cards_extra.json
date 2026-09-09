@@ -2989,16 +2989,15 @@
     "addons_extra"
    ],
    [
-    "📅",
-    "Annual commit",
-    "annual_lock"
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$8",
   "price_note": "from · per user per month",
-  "verified": "2026-09-01",
-  "catch": "This is employee-monitoring software, so weigh the culture cost, not just the price: the advertised $8-16 rates are per seat AND assume annual billing, security features like insider-threat detection are a paid add-on, and monitoring tools can damage trust if rolled out without transparency.",
-  "best": "Operations leaders who want transparent, consent-based workforce analytics — time tracking, productivity insight and workflow data — across in-office and remote teams."
+  "verified": "2026-09-09",
+  "best": "COOs, CFOs and operations leaders who want a work intelligence platform rather than a time clock: workforce analytics plus AI process capture."
  },
  "Instapage": {
   "flags": [
