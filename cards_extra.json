@@ -221,7 +221,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-08-20",
+  "verified": "2026-09-10",
   "catch": "Airia used to publish part of its ladder, which was refreshingly rare for enterprise AI.",
   "best": "Enterprises that need to find the AI already running across their organisation, enforce policy on it at runtime, and build and govern their own agents."
  },
@@ -6970,8 +6970,8 @@
   ],
   "price": "$149",
   "price_note": "Essance · per month",
-  "verified": "2026-08-21",
-  "catch": "Read the feature lists rather than the prices and the entry tier stops looking like an entry tier.",
+  "verified": "2026-09-10",
+  "catch": "Read the feature lists rather than the prices and the entry tier stops looking like the product.",
   "best": "Shopify fashion and apparel brands with real ad spend that want profit per SKU and per campaign in one place."
  },
  "EcomXray": {
@@ -7290,10 +7290,10 @@
     "free_tier"
    ]
   ],
-  "price": "$15",
-  "price_note": "Essential · per month",
-  "verified": "2026-08-25",
-  "catch": "Out-of-the-box integrations stop at Gmail, Google Calendar, Outlook, Microsoft 365, and RSS or news feeds, so anything else in your stack sits outside the brief.",
+  "price": "$8",
+  "price_note": "Pro · per month",
+  "verified": "2026-09-10",
+  "catch": "Everything sits on one $8 plan, so the question is not which tier to buy but whether the caps on that plan fit your day.",
   "best": "Professionals and small-business owners who lose the first hour of the day triaging Gmail and a calendar, and want one ranked brief instead of five open tabs."
  },
  "Scrolly": {
@@ -7579,7 +7579,7 @@
   ],
   "price": "$19.95",
   "price_note": "from · per month",
-  "verified": "2026-09-01",
+  "verified": "2026-09-10",
   "catch": "The free tier is more useful than it first looks: one pre-order product, unlimited time, with the mixed-cart warning included.",
   "best": "Stores that sell drops, restocks or made-to-order products and want pre-order badges, partial payments and back-in-stock emails without touching the theme."
  },
