@@ -5677,7 +5677,19 @@
   "best": "Businesses and accountants who need to e-file 1099s, W-2s and related forms accurately and cheaply, especially seasonal or higher-volume filers."
  },
  "TaxCycle": {
-  "verified": "2026-09-05",
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "verified": "2026-09-09",
   "catch": "This is professional preparer software priced for firms, not a consumer filing app: the cost only makes sense if you're preparing returns for clients at volume.",
   "best": "Canadian accountants and bookkeepers who prepare and e-file client returns and want fast, checked, CRA-integrated professional tax software."
  },
@@ -5735,11 +5747,16 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
-  "verified": "2026-09-05",
-  "catch": "The modular pricing is honest — buy only the ATS, or only HRIS — but note the ATS floor: ~€270/mo prices it for teams that hire continuously, not for the company filling two roles a year.",
-  "best": "European scale-ups hiring continuously that want a collaborative ATS (and optionally modular HRIS/performance) with transparent per-module pricing."
+  "verified": "2026-09-09",
+  "catch": "Tellent's modular shape is genuinely useful — you can buy just the ATS, or just the HRIS — but nothing is priced in public: every tier on tellent.com/pricing ends in 'Get a demo' (read in a browser on 9 September 2026), and recruitee.com/pricing carries no figures either.",
+  "best": "European scale-ups hiring continuously that want a collaborative ATS they can extend with HRIS and performance modules, and can put a sales call in the buying process."
  },
  "Tenable": {
   "flags": [
@@ -5874,7 +5891,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-08-15",
+  "verified": "2026-09-09",
   "catch": "The fee honesty is the product — flat cents per ticket instead of percentage skims makes it dramatically cheaper than the big platforms on higher-priced tickets (a $0.30-0.85 fee on a $50 ticket vs a percentage is no contest).",
   "best": "Event organizers with their own audience (venues, communities, creators) who want flat low per-ticket fees, full branding and no subscription."
  },
@@ -5894,15 +5911,15 @@
   "price": "$5",
   "price_note": "from · per month",
   "verified": "2026-09-05",
-  "catch": "The free plan's 5-project cap and missing reminders push most serious users to Pro quickly — but Pro is genuinely cheap.",
+  "catch": "The free plan's 5-project cap, and reminders that fire only at the moment a task comes due, push most serious users to Pro quickly — but Pro is genuinely cheap.",
   "best": "Individuals and small teams who want a fast, elegant task manager that gets out of the way."
  },
  "Toggl": {
   "flags": [
    [
-    "📈",
-    "Renewal jump",
-    "renewal_jump"
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
    ],
    [
     "🆓",
@@ -5911,8 +5928,8 @@
    ]
   ],
   "price": "$9",
-  "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "price_note": "from · per user per month",
+  "verified": "2026-09-09",
   "catch": "Toggl's honesty problem is the good kind: the free tier is so capable that many teams never need to pay — the paid line is drawn exactly at 'do you bill clients' (budgets, rates, profitability).",
   "best": "Freelancers, consultants and agencies that bill by the hour and want frictionless tracking with budgets, rates and profitability per project."
  },
@@ -5974,8 +5991,8 @@
   ],
   "price": "$9",
   "price_note": "from · per month",
-  "verified": "2026-08-23",
-  "catch": "The client-count ladder looks gentle, but working trainers switch on nutrition, payments and video — and the real monthly lands 30-50% above the sticker (a Pro-50 at ~$120 becomes ~$165+ dressed for work).",
+  "verified": "2026-09-09",
+  "catch": "The client-count ladder looks gentle, but the add-ons are flat and they land hardest on the smallest coach: at five seats a $23 Pro plan dressed with nutrition, payments and video is $88, while the same three turn the $275 two-hundred-client row into $340.",
   "best": "Personal trainers and studios delivering structured workout/nutrition coaching through a polished client app, scaling by client count."
  },
  "Trainual": {
@@ -6044,8 +6061,8 @@
  },
  "UENI": {
   "price": "$24.99",
-  "price_note": "Launch · per month",
-  "verified": "2026-08-22",
+  "price_note": "Website Launch · per month",
+  "verified": "2026-09-09",
   "catch": "It's done-for-you, which is the appeal and the catch.",
   "best": "Small-business owners with no time or tech skills who want a professional site built for them, not another tool to learn.",
   "pw": "plans rebuilt",
@@ -6059,9 +6076,9 @@
     "renewal_jump"
    ]
   ],
-  "price": "$4.39",
+  "price": "$3.44",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-09",
   "catch": "It's the classic budget-host trade-off, with one thing in its favour.",
   "coupon": {
    "code": "ultaad2RiM",
@@ -6109,9 +6126,9 @@
     "per_seat"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
    ],
    [
     "📅",
@@ -6121,7 +6138,7 @@
   ],
   "price": "$9.99",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-09",
   "catch": "It's a virtual phone layer, not a full unified-comms suite — you won't find the deep team messaging, video meetings and contact-center features pricier platforms bundle.",
   "best": "Solopreneurs and small teams that want a professional toll-free or local number, auto-attendant and call routing on their existing phones — no hardware."
  },
@@ -6571,19 +6588,24 @@
   ],
   "price": "£166",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-09",
   "catch": "The 'starting from' wording is doing real work: £166/mo is the floor of the cheapest module, billed annually, so a working setup for a brand that sells wholesale quickly stacks toward £332/mo and beyond — about £4,000 a year before add-ons.",
   "best": "Small and mid-size fashion brands that need sales, production, inventory and wholesale in one system built around size curves, seasons and linesheets."
  },
  "Zeffy": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
-  "verified": "2026-08-17",
+  "verified": "2026-09-09",
   "catch": "The honest scrutiny of 'free': the tip prompt is shown to YOUR donors, with suggested percentages.",
   "best": "Small and mid-size nonprofits that want donations, ticketing, memberships and payments without any fee eating the mission's money."
  },
