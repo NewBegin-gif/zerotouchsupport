@@ -1,0 +1,9 @@
+
+# back-ups van patchscripts horen niet in de repo en dus ook
+# niet in /var/www -- 'git add -A' in zusters_bijwerken.py zou ze
+# anders meenemen (10 sep 2026)
+*.bak
+*.bak-*
+*.bak.*
+*.tmp-*
+*.orig
