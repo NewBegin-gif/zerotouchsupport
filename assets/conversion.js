@@ -56,7 +56,8 @@
     })();
     function ctaVerb(){ return CTA_VERB[VARIANT]; }
     /* CRO-autopilot: exposure-event 1x per pagina → click-rate per variant berekenbaar */
-    try { if (window.gtag) setTimeout(function(){ gtag('event', 'cro_view_' + VARIANT.toLowerCase(), {transport_type:'beacon'}); }, 800); } catch (_) {}
+    /* 10 sep 2026: door de GA4-poort. Vuurde dit na 800 ms onvoorwaardelijk, dan telde elke bot die zo lang blijft alsnog als gebruiker in GA4 -- elk event maakt daar een gebruiker, niet alleen de page_view. */
+    try { window.__ga4wacht = window.__ga4wacht || []; window.__ga4wacht.push(function(){ if (window.gtag) gtag('event', 'cro_view_' + VARIANT.toLowerCase(), {transport_type:'beacon'}); }); } catch (_) {}
 
     /* Demand-mining: wat zoeken bezoekers op de site? (GA4 'search' → searchTerm-dimensie)
        Elke term = gratis marktonderzoek; termen zonder dekking worden dossier-kandidaten. */
