@@ -2323,7 +2323,7 @@
   "price": "$30",
   "price_note": "Standard, per member · per month",
   "verified": "2026-09-03",
-  "catch": "One gap has closed and one has not.",
+  "catch": "One gap has closed and one has narrowed.",
   "best": "Small sales teams, agencies and VC/partnership teams who want a clean, fast-to-set-up CRM with a great LinkedIn enrichment extension."
  },
  "Foxit": {
@@ -4821,7 +4821,7 @@
    ]
   ],
   "price": "$25",
-  "price_note": "per month, on monthly billing, as published",
+  "price_note": "per month",
   "verified": "2026-09-10",
   "catch": "Two things changed here and both cost money.",
   "best": "Sales and service teams that want two-way texting and calling in one CRM-linked inbox, and can estimate their monthly credit burn — messages plus call minutes.",
