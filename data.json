@@ -1434,13 +1434,6 @@
   "replaces": "Zoom Webinars"
  },
  {
-  "name": "Logome.ai",
-  "category": "Growth & Revenue",
-  "domain": "logome.ai",
-  "desc": "Generates a logo and basic brand assets from a prompt. Designing and previewing is free, but downloading requires a paid plan — Basic at around $29/month gives one file without a transparent background. Their public site including pricing returned 404 at last check, so verify what you are charged.",
-  "link": "https://logome.ai"
- },
- {
   "name": "Lucrovox",
   "domain": "lucrovox.com",
   "link": "https://try.lucrovox.com/0whtc6de3h9c",
