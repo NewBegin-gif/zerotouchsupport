@@ -6054,7 +6054,7 @@
   "price": "$89",
   "price_note": "from · per month",
   "verified": "2026-09-05",
-  "catch": "The bill has two parts now and both are published: a base fee from $99 and a resolution rate from $2 (pay as you go) down to $1 with volume packages.",
+  "catch": "The bill has two parts and both are published: a base fee from $99 and a resolution rate from $2 (pay as you go) down to $1 with volume packages.",
   "best": "Customer-service teams with real ticket volume that want AI agents to resolve requests end to end and act inside the systems they already run.",
   "pw": "price held",
   "pw_soort": "held"
@@ -6355,17 +6355,12 @@
     "per_seat"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
-  "price": "€4.31",
+  "price": "$5",
   "price_note": "from · per user per month",
   "verified": "2026-09-05",
   "catch": "It solves a real annoyance: dozens of web apps and multiple accounts per app as tidy desktop windows.",
