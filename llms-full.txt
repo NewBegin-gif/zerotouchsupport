@@ -19,7 +19,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Answering Service Care
 - Review: https://zerotouchsupport.com/answering-service-care-review.html
 - Verdict: Answering Service Care: $161, $296 and $575 for the three larger plans. Do the arithmetic before you pick a tier, because their own page does not.
-- Price: (2026-09-10, read off their own pricing page, both billing toggles) Four plans, priced on included minutes. Billed monthly: Starter $40 with **zero** minutes included and $1.75 per minute after that; Small Business $179 for 100 minutes, then $1.70; Pro $329 for 250 minutes, then $1.60; Enterprise $639 for 500 minutes, then $1.35.
+- Price: (2026-09-10, read off their own pricing page, both billing toggles) Four plans, priced on included minutes. Billed monthly: Starter $40 with zero minutes included and $1.75 per minute after that; Small Business $179 for 100 minutes, then $1.70; Pro $329 for 250 minutes, then $1.60; Enterprise $639 for 500 minutes, then $1.35.
 
 ## Calilio
 - Review: https://zerotouchsupport.com/calilio-review.html
