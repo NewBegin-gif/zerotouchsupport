@@ -124,7 +124,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Signal House
 - Review: https://zerotouchsupport.com/signal-house-review.html
 - Verdict: Signal House: Usage-based, no platform subscription. The product is sold as an SMS and Voice API and the pricing page publishes no voice rate at all.
-- Price: (2026-08-07, read on their own pricing page) Usage-based, no platform subscription. SMS on a 10DLC local number costs $0.0065 per segment with no minimum, falling on volume: $0.0050 from 500k segments a month, $0.0045 from 1m, $0.0040 from 2m, $0.0035 from 5m and $0.0030 from 10m.
+- Price: (2026-09-11, re-read on their own pricing page) Usage-based, no platform subscription. SMS on a 10DLC local number costs $0.0065 per segment with no minimum, falling on volume: $0.0050 from 500k segments a month, $0.0045 from 1m, $0.0040 from 2m, $0.0035 from 5m and $0.0030 from 10m.
 
 ## StoreFAQ
 - Review: https://zerotouchsupport.com/storefaq-review.html

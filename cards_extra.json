@@ -1061,7 +1061,7 @@
   ],
   "price": "$25",
   "price_note": "from · per month",
-  "verified": "2026-08-11",
+  "verified": "2026-09-11",
   "catch": "Not charging for unknowns and duplicates is genuinely fair — many rivals do.",
   "coupon": {
    "code": "",
@@ -1129,12 +1129,17 @@
  "Bright Data": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
-  "verified": "2026-08-11",
+  "verified": "2026-09-11",
   "catch": "This is enterprise-grade web data infrastructure at enterprise-grade prices — the per-GB meter looks small until you multiply by real scraping volume, and the committed tiers only pay off if your usage is steady.",
   "best": "Data teams and enterprises with real, ongoing web-data needs (pricing intelligence, market research) that justify committed volume and pass use-case vetting."
  },
@@ -4478,6 +4483,11 @@
  "NiceJob": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -4485,7 +4495,7 @@
   ],
   "price": "$75",
   "price_note": "from · per month",
-  "verified": "2026-08-07",
+  "verified": "2026-09-11",
   "catch": "Reporting and customization are fairly basic and there's a setup fee on top of the monthly.",
   "best": "Local and service businesses that want reputation marketing on offense — automatically asking happy customers for reviews and showcasing them."
  },
@@ -5210,7 +5220,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-08-07",
+  "verified": "2026-09-11",
   "catch": "Everything about the sales motion here is a conversation.",
   "coupon": {
    "code": "",
@@ -6066,7 +6076,7 @@
   ],
   "price": "$1.50",
   "price_note": "from · per month",
-  "verified": "2026-08-07",
+  "verified": "2026-09-11",
   "catch": "Two things are missing from a page that is otherwise unusually specific.",
   "best": "Teams sending real SMS volume in the US who already know what an A2P 10DLC campaign is and want a cheaper per-segment rate than Twilio’s list without giving up published pricing. The volume ladder is genuinely steep — from $0.0065 down to $0.0030 — so the case gets stronger the more you send, and the number discounts above 500 numbers suit anyone running many local presences.",
   "pw": "price held",
