@@ -1979,6 +1979,13 @@
   "desc": "Enterprise workforce-payments platform unifying global payroll, EOR hiring, contractor management and cross-border payments in one system — finance-first, with same-day local payouts on owned payment rails and deep ERP/HRIS integration. Premium, quote-only pricing."
  },
  {
+  "name": "Parallel AI",
+  "category": "Growth & Revenue",
+  "domain": "parallellabs.app",
+  "desc": "AI agent platform for sales, marketing and support: build AI employees on every major model, run Smart Lists for lead generation and enrichment, and schedule content and support agents from one place. Free tier at 50 credits, no card; paid from $99 a month for 2,000.",
+  "link": "https://parallellabs.app/?red=aibuil"
+ },
+ {
   "name": "Parim",
   "category": "HR & People",
   "domain": "parim.co",

@@ -4778,6 +4778,30 @@
   "catch": "Every headline price is a 'starting from' that dead-ends at 'book a demo'.",
   "best": "Finance-led mid-market and enterprises already running legal entities in several countries. They want to consolidate fragmented multi-country payroll and cross-border payments into one platform, with real-time workforce-cost dashboards, automated GL mapping, same-day local payouts and deep ERP/HRIS integration (Workday, SAP, NetSuite, HiBob). And they can absorb premium quote-only pricing for a white-glove managed service."
  },
+ "Parallel AI": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$99",
+  "price_note": "from · per month",
+  "verified": "2026-09-11",
+  "catch": "The free tier is genuinely free -- 50 credits, no card -- and it is the only way to answer the question the pricing page leaves open.",
+  "best": "Teams that want the sales, content and support agents in one place and will genuinely use the lead engine."
+ },
  "Parim": {
   "flags": [
    [
