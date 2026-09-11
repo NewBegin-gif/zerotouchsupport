@@ -126,7 +126,7 @@
   ],
   "price": "$49",
   "price_note": "from · per month",
-  "verified": "2026-08-02",
+  "verified": "2026-09-10",
   "catch": "The honest math is the 10%-of-ad-spend fee on top of the minimum.",
   "best": "E-commerce stores (Shopify, WooCommerce, BigCommerce) that want automated, largely hands-off retargeting and prospecting ads on Meta and Google."
  },
@@ -693,7 +693,7 @@
   ],
   "price": "$25",
   "price_note": "from · per month",
-  "verified": "2026-08-02",
+  "verified": "2026-09-10",
   "catch": "Read the seat row before the price row.",
   "best": "Agencies and in-house teams shipping email at volume across brands or ESPs."
  },
@@ -6213,9 +6213,9 @@
  "Vida AI": {
   "flags": [
    [
-    "🆓",
-    "Free tier",
-    "free_tier"
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
    ]
   ],
   "price": "$1,500",
