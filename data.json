@@ -3326,5 +3326,29 @@
   "domain": "zoominfo.com",
   "desc": "Enterprise B2B sales intelligence and contact database. Find verified company and contact data, buying signals and org charts to fuel outbound at scale.",
   "link": "https://try.zoominfo.com/me0vaf3cnryt"
+ },
+ {
+  "name": "SEOKart",
+  "category": "SEO & Marketing",
+  "domain": "seokart.com",
+  "desc": "Shopify SEO app with one-click AI optimisation: bulk meta tags, image alt text and file names, URL edits, JSON-LD schema and rich snippets, 404 fixing and 301 redirects, image compression for page speed, and a built-in keyword rank tracker with a Cruise Control auto-SEO mode. Free plan covers 50 pages and 10 keywords; Pro $20 a month or $216 a year for 1,000 products, Plus $30 or $324 for 5,000, Max $40 or $432 for 10,000 — above Pro the ladder buys catalogue size and nothing else. Read 12 Sep 2026.",
+  "link": "https://platform.shoffi.app/r/rl_mneJxkRC",
+  "platform": "shopify"
+ },
+ {
+  "name": "Super",
+  "category": "E-commerce",
+  "domain": "effectify.io",
+  "desc": "Shopify gift app that adds paid or free gift wrap, gift boxes, greeting cards, a gift message and a price-hiding gift receipt to the product page, cart or Plus checkout, and tags those orders automatically for fulfilment. Basic $9.99 a month or $83.92 a year, Advanced $12.99 or $109.12, Pro $19.99 or $167.92; the free plan in the listing is for development stores only, and the $24.99 Plus tier that puts gift options inside the Shopify Plus checkout appears only in the vendor's own pricing article. Read 12 Sep 2026.",
+  "link": "https://platform.shoffi.app/r/rl_RUzMuiqS",
+  "platform": "shopify"
+ },
+ {
+  "name": "Trackr",
+  "category": "Customer Support",
+  "domain": "parceltrackr.com",
+  "desc": "Shopify order-tracking app that replaces carrier links with one branded tracking page: estimated delivery dates, email, WhatsApp and US SMS updates, Apple and Google Wallet tracking, 2,100-plus carriers, shipping analytics and product recommendations on the tracking page. No free plan — Basic $10 a month or $96 a year for 400 shipments, Standard $45 or $432 for 2,000, Advanced $150 or $1,440 for 9,000, Enterprise $250 or $2,400 for 18,000, and $0.05 for every shipment above the allowance. Read 12 Sep 2026.",
+  "link": "https://platform.shoffi.app/r/rl_1LxSF29T",
+  "platform": "shopify"
  }
 ]
