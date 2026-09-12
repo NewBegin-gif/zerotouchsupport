@@ -874,18 +874,13 @@
  "Bitdefender": {
   "flags": [
    [
-    "📈",
-    "Renewal jump",
-    "renewal_jump"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
    ]
   ],
   "verified": "2026-09-06",
-  "catch": "Like most antivirus, the first-year price is a promo — renewals run notably higher, so budget for the renewal rate, not the intro.",
+  "catch": "The price you see is already discounted: the configurator applies 30% off list by default on all three GravityZone tiers, so compare on the discounted figure and ask what applies at renewal rather than assuming the same 30% comes back.",
   "best": "Small businesses that want top-tier, independently-validated endpoint protection managed from one console."
  },
  "Bitscale": {
