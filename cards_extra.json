@@ -8023,5 +8023,50 @@
   "verified": "2026-08-17",
   "catch": "The contract is the most-cited frustration: annual lock-in with a strict 60–90 day cancellation window and 10–20% renewal increases.",
   "best": "Enterprise go-to-market teams that need the deepest US database, buyer-intent signals and conversation intelligence — and can absorb the contract."
+ },
+ "SEOKart": {
+  "price": "$20",
+  "price_note": "from · per month",
+  "verified": "2026-09-12",
+  "catch": "Every plan, free included, lists free SEO consultancy, and it is worth knowing what sits behind that call.",
+  "best": "Shopify merchants with a few hundred to a few thousand products who want on-page SEO cleaned up in bulk."
+ },
+ "Super": {
+  "flags": [
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9.99",
+  "price_note": "from · per month",
+  "verified": "2026-09-12",
+  "catch": "If you are on Shopify Plus, the price block on the listing is not the one you pay from — the three published tiers exclude Plus stores in their own text, and the tier that covers you is $24.99 in a help-centre article.",
+  "best": "Shopify stores with a real gifting season — jewellery, cosmetics, speciality food, anything bought for someone else."
+ },
+ "Trackr": {
+  "flags": [
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$10",
+  "price_note": "from · per month",
+  "verified": "2026-09-12",
+  "catch": "The rating is 4.1 over 56 reviews on 12 September 2026, and the shape says more than the average: 45 five-star, three three-star, one two-star and seven one-star, which is a split verdict rather than a soft middle.",
+  "best": "Shopify stores shipping a few hundred to a few thousand parcels a month that want where-is-my-order traffic off the support desk."
  }
 }
