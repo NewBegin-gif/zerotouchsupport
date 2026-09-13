@@ -1611,7 +1611,7 @@
   ],
   "price": "$19",
   "price_note": "Solo, per user · per month",
-  "verified": "2026-08-14",
+  "verified": "2026-09-12",
   "catch": "The built-in calling is the draw, but call and SMS credits stack on top of the seat price — a '$99' plan can effectively cost ~$160/user once a rep dials 50+ times a day.",
   "best": "Inside-sales teams that live on the phone and want calling, SMS and CRM in one place."
  },
@@ -1687,7 +1687,7 @@
   "best": "Shopify stores with a catalogue big enough that shoppers ask which item to buy, who want a chat assistant that reads live inventory and hands off to a person."
  },
  "Clutch": {
-  "verified": "2026-08-14",
+  "verified": "2026-09-12",
   "catch": "It's genuinely free to submit a brief — but be clear on what it is: a lead-generation marketplace, not a neutral directory.",
   "best": "Businesses that want to skip manual agency research and get matched quickly with vetted, best-fit service providers for a specific project."
  },
@@ -1920,20 +1920,25 @@
  "Databox": {
   "flags": [
    [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
    ],
    [
-    "🆓",
-    "Free tier",
-    "free_tier"
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
-  "price": "$5.60",
+  "price": "$71",
   "price_note": "from · per month",
-  "verified": "2026-08-13",
-  "catch": "The pricing model bites: Pro connects only 3 data sources, so the per-source fees stack up fast — and for agencies juggling many clients with diverse tools it gets expensive.",
+  "verified": "2026-09-12",
+  "catch": "The pricing model bites, just not where it used to.",
   "best": "SMBs and agencies that want clean KPI dashboards from 130+ one-click integrations without building them by hand."
  },
  "Datarails": {
@@ -3126,7 +3131,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-08-12",
+  "verified": "2026-09-12",
   "catch": "You are billed per result, not per usable lead: one credit opens the search and one more is charged for every business it returns, so a broad filter burns credits whether or not the results are worth calling.",
   "best": "Web developers, designers and agencies prospecting local businesses that do not have a website yet — surfaced from Google Maps with contact details."
  },
@@ -4053,7 +4058,7 @@
   ],
   "price": "$29.99",
   "price_note": "Plus · per user/mo",
-  "verified": "2026-08-12",
+  "verified": "2026-09-12",
   "catch": "Cost tracks headcount rather than output: every colleague who so much as @mentions Lindy in Slack takes a paid seat, and a seat you remove runs to the end of the cycle with no mid-cycle proration.",
   "best": "Teams that live in Slack and want one shared teammate that sits in their meetings, runs scheduled routines and drafts replies inside the tools they already use.",
   "pw": "plans rebuilt",
@@ -7266,7 +7271,7 @@
   ],
   "price": "$25",
   "price_note": "per month",
-  "verified": "2026-08-14",
+  "verified": "2026-09-12",
   "catch": "It's a newer, enterprise-leaning automation platform, so it's less proven with a smaller community than the big names — and the credit-per-execution model means heavy volume needs cost-checking.",
   "best": "Teams that want an AI-assisted way to discover, document and run automations without deep RPA expertise."
  },
@@ -7580,7 +7585,7 @@
   ],
   "price": "€39",
   "price_note": "from · per user per month",
-  "verified": "2026-08-14",
+  "verified": "2026-09-12",
   "catch": "The plan price is the smallest part of the bill.",
   "best": "Businesses that want to run WhatsApp support and broadcasts at scale with a shared team inbox and automation.",
   "pw": "price held",
