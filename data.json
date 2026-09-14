@@ -3366,5 +3366,12 @@
   "desc": "Shopify app that re-sorts collections, variant lists, search results and upsell blocks automatically, using recipes built from 60+ signals such as sales, margin, inventory and reviews. Free Demo tier; paid $99 to $499 a month.",
   "link": "https://platform.shoffi.app/r/rl_57MfCQ8m",
   "platform": "shopify"
+ },
+ {
+  "name": "Signitic",
+  "category": "Marketing",
+  "domain": "signitic.com",
+  "desc": "Email signature management for Google Workspace and Microsoft 365: central templates, per-entity branding, and clickable banner campaigns with click statistics. ISO 27001 certified and hosted in Europe.",
+  "link": "https://www.signitic.com/?red=aibuil"
  }
 ]
