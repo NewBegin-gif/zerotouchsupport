@@ -3350,5 +3350,21 @@
   "desc": "Shopify order-tracking app that replaces carrier links with one branded tracking page: estimated delivery dates, email, WhatsApp and US SMS updates, Apple and Google Wallet tracking, 2,100-plus carriers, shipping analytics and product recommendations on the tracking page. No free plan — Basic $10 a month or $96 a year for 400 shipments, Standard $45 or $432 for 2,000, Advanced $150 or $1,440 for 9,000, Enterprise $250 or $2,400 for 18,000, and $0.05 for every shipment above the allowance. Read 12 Sep 2026.",
   "link": "https://platform.shoffi.app/r/rl_1LxSF29T",
   "platform": "shopify"
+ },
+ {
+  "name": "Nexis CRO",
+  "category": "E-commerce",
+  "domain": "nexiscro.com",
+  "desc": "Shopify app that runs a 34-check SEO and AEO audit across products, collections, pages and policies, rewrites the gaps with AI, deploys JSON-LD schema and an llms.txt file, and tracks whether ChatGPT, Gemini and Perplexity cite your store. Free plan; paid $9 to $44 a month.",
+  "link": "https://platform.shoffi.app/r/rl_kItNUEVJ",
+  "platform": "shopify"
+ },
+ {
+  "name": "Dynasort",
+  "category": "E-commerce",
+  "domain": "dynasort.io",
+  "desc": "Shopify app that re-sorts collections, variant lists, search results and upsell blocks automatically, using recipes built from 60+ signals such as sales, margin, inventory and reviews. Free Demo tier; paid $99 to $499 a month.",
+  "link": "https://platform.shoffi.app/r/rl_57MfCQ8m",
+  "platform": "shopify"
  }
 ]
