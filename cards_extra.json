@@ -8075,5 +8075,31 @@
   "verified": "2026-09-12",
   "catch": "The rating is 4.1 over 56 reviews on 12 September 2026, and the shape says more than the average: 45 five-star, three three-star, one two-star and seven one-star, which is a split verdict rather than a soft middle.",
   "best": "Shopify stores shipping a few hundred to a few thousand parcels a month that want where-is-my-order traffic off the support desk."
+ },
+ "Nexis CRO": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "Pro · per month",
+  "verified": "2026-09-14",
+  "catch": "It has no track record at all.",
+  "best": "Shopify merchants who already care about being cited in ChatGPT, Gemini and Perplexity, and who want the audit, the schema deployment."
+ },
+ "Dynasort": {
+  "price": "$99",
+  "price_note": "Basic · per month",
+  "verified": "2026-09-14",
+  "catch": "Sorting driven by 60+ blended signals is powerful and opaque in the same breath: a recipe that ranks by margin, velocity and stock at once will sometimes bury a product you wanted seen, and there is real trial and error in getting the recipes to match how you actually merchandise.",
+  "best": "Shopify stores with large or fast-changing catalogues where product order is a merchandising decision — seasonal ranges, frequent stock-outs, wide margin spreads."
  }
 }
