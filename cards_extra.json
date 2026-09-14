@@ -95,7 +95,7 @@
   ],
   "price": "$39",
   "price_note": "from · per month",
-  "verified": "2026-08-15",
+  "verified": "2026-09-13",
   "catch": "The meter counts downloads, not campaigns — iterate seriously on ad variations and a 10-credit starter evaporates in an afternoon, which is exactly what iteration-heavy ad work does.",
   "best": "Performance marketers and stores that test many ad variations across sizes and platforms and want on-brand creative volume without a designer bottleneck."
  },
@@ -318,9 +318,16 @@
   "best": "B2B teams with real inbound traffic that want an AI agent qualifying visitors, personalizing the site by visitor identity and booking meetings."
  },
  "Alidrop": {
+  "flags": [
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
   "price": "$39",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-13",
   "catch": "Alidrop's pitch includes faster-shipping (including US/EU) suppliers, but the core dropshipping economics still apply: you pay the subscription plus wholesale product cost, and margins live or die on product selection and ad efficiency, not the tool.",
   "best": "Dropshippers who want automated product sourcing, fulfillment and inventory sync with access to faster-shipping suppliers and one-click store integration."
  },
@@ -608,7 +615,7 @@
   ],
   "price": "$450",
   "price_note": "Capture · per month",
-  "verified": "2026-08-19",
+  "verified": "2026-09-13",
   "catch": "This is the most expensive app in its category on the Shopify store by a wide margin, and the jump is not gradual — free to $450 a month with nothing in between.",
   "best": "Stores already running Klaviyo at volume, where a few percent more recovered carts is worth $450 a month and the identity-resolution layer has enough traffic to work with."
  },
@@ -1181,8 +1188,8 @@
   ],
   "price": "$13",
   "price_note": "Basic · per month, annual",
-  "verified": "2026-09-02",
-  "catch": "The yearly toggle wears a -20% badge, but the arithmetic on the page is steeper than that: Basic is $13 yearly against $20 monthly (35% less), Essential $56 against $100 (44% less) and Advanced $96 against $200 (52% less).",
+  "verified": "2026-09-13",
+  "catch": "Those list prices are the discount's anchor, not a rate anyone is currently offered.",
   "best": "Teams that need a reusable web scraper or browser bot without writing selectors, want the browsers, residential proxies and CAPTCHA handling managed for them."
  },
  "BuddyPunch": {
@@ -2720,7 +2727,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-08-13",
+  "verified": "2026-09-13",
   "catch": "“Zero monthly fees” is the headline, and there genuinely is no subscription — but there is a floor.",
   "best": "A physical shop, café or bar with steady card turnover above £995 a month that wants one predictable rate on every card type instead of a pricing table full of card categories. The on-site installation and 24/7 support suit an owner who would rather not configure hardware, and daily payouts help if cash flow is tight."
  },
@@ -2988,7 +2995,7 @@
  "GeoStock": {
   "price": "$9.99",
   "price_note": "Basic · per month",
-  "verified": "2026-08-19",
+  "verified": "2026-09-13",
   "catch": "Know what this is before you buy it: despite the name it is a storefront widget, not an inventory system.",
   "best": "Retailers with physical locations who want shoppers to see per-store stock and find the nearest branch on the product page itself."
  },
@@ -3255,7 +3262,7 @@
   ],
   "price": "$5.99",
   "price_note": "Basic · per month",
-  "verified": "2026-08-29",
+  "verified": "2026-09-13",
   "catch": "The free tier is the hook and the FAQ builder is the reason people stay.",
   "best": "Small Shopify stores that want ticketing, live chat and a searchable FAQ page from one app rather than bolting three together.",
   "pw": "price held",
@@ -5053,7 +5060,7 @@
   ],
   "price": "$19.95",
   "price_note": "from · per month",
-  "verified": "2026-09-10",
+  "verified": "2026-09-13",
   "catch": "The free tier is more useful than it first looks: one pre-order product, unlimited time, with the mixed-cart warning included.",
   "best": "Stores that sell drops, restocks or made-to-order products and want pre-order badges, partial payments and back-in-stock emails without touching the theme."
  },
@@ -5794,7 +5801,7 @@
   ],
   "price": "$5.99",
   "price_note": "Pro · per month",
-  "verified": "2026-08-19",
+  "verified": "2026-09-13",
   "catch": "Blocking by country and IP is a blunt instrument and it cuts both ways: every rule that keeps out a fraudster also keeps out a customer travelling, using a corporate VPN, or living behind a carrier NAT.",
   "best": "Stores seeing real fraud or bot traffic that want country, IP, VPN and email-risk rules plus automatic holds on suspicious orders."
  },
@@ -7351,7 +7358,7 @@
   ],
   "price": "$9",
   "price_note": "from · per month",
-  "verified": "2026-08-12",
+  "verified": "2026-09-13",
   "catch": "The tier jumps are steep and a lot is gated: analytics are capped at 60 days on the entry plan, scan limits apply across all tiers, and custom domains sit behind higher pricing.",
   "best": "Marketing teams that need dynamic QR codes with real analytics and enterprise compliance (SOC 2, GDPR, ISO 27001, optional HIPAA)."
  },
