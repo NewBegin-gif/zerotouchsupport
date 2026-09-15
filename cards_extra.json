@@ -313,7 +313,7 @@
   ],
   "price": "$200",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "Algomo is a member of the quote-only club: $200/month is the only number on the site, and the real bill for your traffic volume and feature set only emerges in a sales conversation.",
   "best": "B2B teams with real inbound traffic that want an AI agent qualifying visitors, personalizing the site by visitor identity and booking meetings."
  },
@@ -406,11 +406,16 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "$600",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "It's premium and built for teams that will use the whole all-in-one stack.",
   "best": "Mid-market sales teams (20+ reps) who'll actually adopt the full AI-prospecting, multichannel and deliverability stack in one vendor."
  },
@@ -838,6 +843,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$49",
+  "price_note": "from · per month",
   "verified": "2026-09-15",
   "catch": "Per-user pricing plus per-transaction fees means the real cost depends on team size and payment volume — it's built for finance teams with genuine AP workflows and is overkill if you pay a handful of bills a month.",
   "best": "Growing companies with real accounts-payable volume and approval chains that want to automate bill pay and sync to accounting."
@@ -1295,17 +1302,17 @@
     "per_seat"
    ],
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
-  "price": "$19",
+  "price": "$30",
   "price_note": "from · per user per month",
   "verified": "2026-09-15",
   "catch": "'Unlimited calling' is unlimited to the US and Canada — international minutes meter separately, so teams calling Europe or Asia should price their real destinations first.",
@@ -1345,14 +1352,17 @@
     "addons_extra"
    ],
    [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
-  "price": "€9",
-  "price_note": "from · per month",
-  "verified": "2026-08-16",
+  "verified": "2026-09-14",
   "catch": "You pay for contacts, not sends — so a large, quiet list costs the same as a large, active one, and dormant subscribers are literally a line item.",
   "best": "Brands and agencies that want beautiful, reliable email campaigns with strong templates and client-friendly management, priced per contact."
  },
@@ -8068,9 +8078,16 @@
   "best": "Enterprise go-to-market teams that need the deepest US database, buyer-intent signals and conversation intelligence — and can absorb the contract."
  },
  "SEOKart": {
+  "flags": [
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
   "price": "$20",
   "price_note": "from · per month",
-  "verified": "2026-09-14",
+  "verified": "2026-09-15",
   "catch": "Every plan, free included, lists free SEO consultancy, and it is worth knowing what sits next to it.",
   "best": "Shopify or BigCommerce merchants with a few hundred to a few thousand products who want on-page SEO cleaned up in bulk."
  },
