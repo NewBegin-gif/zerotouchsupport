@@ -223,13 +223,6 @@
   "best": "Enterprises that need to find the AI already running across their organisation, enforce policy on it at runtime, and build and govern their own agents."
  },
  "Airwallex": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$12",
   "price_note": "from · per month",
   "verified": "2026-08-28",
@@ -582,11 +575,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$29",
@@ -629,11 +617,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "verified": "2026-08-28",
@@ -681,13 +664,6 @@
   "best": "Shopify stores under roughly 1,500 orders a month that want the whole store backed up daily — metafields, metaobjects and translations included."
  },
  "Barcodes Talk": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "verified": "2026-09-05",
   "catch": "The honest caveat is about fit, not the codes.",
   "best": "Sellers and small brands listing on marketplaces or in independent retail who want authentic, one-time-cost UPC/EAN barcodes without an annual GS1 membership."
@@ -981,11 +957,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "verified": "2026-08-26",
@@ -1003,11 +974,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "verified": "2026-08-18",
@@ -1271,11 +1237,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$50",
@@ -1312,11 +1273,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$14",
@@ -1617,11 +1573,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$14",
@@ -1795,11 +1746,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$49",
@@ -2017,11 +1963,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$25.21",
@@ -2078,11 +2019,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "verified": "2026-08-19",
@@ -2313,11 +2249,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "verified": "2026-08-31",
@@ -2434,13 +2365,6 @@
   "best": "Shopify stores with genuine repeat business that want a loyalty programme priced on the orders it influences rather than on total volume."
  },
  "Evey Events": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "verified": "2026-09-08",
   "catch": "Nobody gets caught by the monthly fee here; they get caught by the per-ticket one.",
   "best": "Shopify stores that sell tickets alongside products and want attendees."
@@ -2657,13 +2581,6 @@
   "best": "A physical shop, café or bar with steady card turnover above £995 a month that wants one predictable rate on every card type instead of a pricing table full of card categories. The on-site installation and 24/7 support suit an owner who would rather not configure hardware, and daily payouts help if cash flow is tight."
  },
  "FlexiQuiz": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$17",
   "price_note": "from · per month",
   "verified": "2026-08-31",
@@ -2866,11 +2783,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$55",
@@ -3037,11 +2949,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$90",
@@ -3056,11 +2963,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "verified": "2026-09-12",
@@ -3352,11 +3254,6 @@
     "📅",
     "Annual commit",
     "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$9.99",
@@ -3396,11 +3293,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$8",
@@ -3599,11 +3491,6 @@
     "📅",
     "Annual commit",
     "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$299",
@@ -3911,11 +3798,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$55",
@@ -3934,11 +3816,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$399",
@@ -4273,11 +4150,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$9",
@@ -4466,13 +4338,6 @@
   "best": "Teams that want simple, reliable secure network access and a business VPN without heavy setup."
  },
  "Notify Me": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$9.90",
   "price_note": "from · per month",
   "verified": "2026-09-02",
@@ -5056,13 +4921,6 @@
   "best": "Shopify stores with enough volume to clear roughly $100 of protection revenue a month and a known parcel-loss rate."
  },
  "Proton": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "€7.99",
   "price_note": "Proton for Business… · billed monthly with no commitment",
   "verified": "2026-08-26",
@@ -5203,11 +5061,6 @@
     "📅",
     "Annual commit",
     "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$5",
@@ -5241,11 +5094,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$1.50",
@@ -5307,11 +5155,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "verified": "2026-08-17",
@@ -5454,11 +5297,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "verified": "2026-09-08",
@@ -5543,13 +5381,6 @@
   "pw_soort": "held"
  },
  "Runpod": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$0.27",
   "price_note": "RTX A5000 pod, Secure… · per hour, billed per second",
   "verified": "2026-09-05",
@@ -5955,11 +5786,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$9",
@@ -5995,13 +5821,6 @@
   "best": "Salons, barbers, spas, wellness studios, physical therapists, craftspeople and local retailers that want bookings via Google and Instagram, no-show-reducing reminders."
  },
  "Signal House": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$1.50",
   "price_note": "from · per month",
   "verified": "2026-09-11",
@@ -6173,11 +5992,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "verified": "2026-09-07",
@@ -6687,11 +6501,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "verified": "2026-09-08",
@@ -6853,11 +6662,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "verified": "2026-08-31",
@@ -6884,11 +6688,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "verified": "2026-09-01",
@@ -6920,11 +6719,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "verified": "2026-09-09",
@@ -7570,11 +7364,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$30",
@@ -7896,11 +7685,6 @@
     "📅",
     "Annual commit",
     "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$10",
