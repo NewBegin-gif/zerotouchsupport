@@ -13,7 +13,7 @@
    ]
   ],
   "price": "$3.99",
-  "price_note": "Individual · regular rate billed annually",
+  "price_note": "Individual · per year, regular rate billed annually",
   "verified": "2026-09-11",
   "catch": "It's the polished, category-leading pick, and it's priced like it — free and cheaper managers exist, so you're paying for the UX, ecosystem and business controls, not raw functionality.",
   "best": "Teams that want the most polished, secure password manager with solid admin controls and integrations."
@@ -965,7 +965,7 @@
    ]
   ],
   "price": "$9.99",
-  "price_note": "Starter · per month, a month, or $107.99 a year, for five locations and team members with…",
+  "price_note": "Starter · a month, or $107.99 a year, for five locations and team members with…",
   "verified": "2026-09-08",
   "catch": "The free plan is a demonstration rather than a plan.",
   "best": "Shopify merchants running appointment-based services — salons, studios, clinics, rentals, classes and events."
@@ -1134,7 +1134,7 @@
    ]
   ],
   "price": "$13",
-  "price_note": "Basic · annual",
+  "price_note": "Basic · per month, annual",
   "verified": "2026-09-13",
   "catch": "Those list prices are the discount's anchor, not a rate anyone is currently offered.",
   "best": "Teams that need a reusable web scraper or browser bot without writing selectors, want the browsers, residential proxies and CAPTCHA handling managed for them."
@@ -1448,7 +1448,7 @@
    ]
   ],
   "price": "€24",
-  "price_note": "Pro · annual",
+  "price_note": "Pro · per month, annual",
   "verified": "2026-09-08",
   "catch": "The four tiers sell two different products, and only one of them is self-serve.",
   "best": "Revenue teams that want every call captured — by default with no notetaker bot in the meeting, though a customisable bot is there for teams that prefer one."
@@ -1779,7 +1779,7 @@
    ]
   ],
   "price": "$10",
-  "price_note": "Standard · per month, a month, or $100 a year, for unlimited cookie scans, multi-region…",
+  "price_note": "Standard · a month, or $100 a year, for unlimited cookie scans, multi-region…",
   "verified": "2026-09-08",
   "catch": "Read the ladder before you budget $10 for this.",
   "best": "Shopify merchants selling into several jurisdictions who want one app to carry the cookie banner, the consent signals the ad platforms now demand."
@@ -2215,8 +2215,8 @@
     "annual_lock"
    ]
   ],
-  "price": "$500",
-  "price_note": "from · per month",
+  "price": "$29",
+  "price_note": "Essential · per month, or $299 a year",
   "verified": "2026-09-04",
   "catch": "The pricing is tied to the thing the app is supposed to grow.",
   "best": "Shopify merchants who want build-your-own-box, gift-box, mix-and-match, fixed-price or volume bundles live in days rather than sprints."
@@ -3143,7 +3143,7 @@
    ]
   ],
   "price": "$129",
-  "price_note": "Lite · annual billing only",
+  "price_note": "Lite · per month, annual billing only",
   "verified": "2026-09-05",
   "catch": "Mind the fine print between tiers: the entry plan does not include your annual tax filing (a ~$750 one-off on Lite), it is annual billing only, and messy back-months cost extra as catch-up fees.",
   "best": "Therapists and health-and-wellness practice owners — SLPs, dieticians, chiropractors, audiologists, coaches, massage and physical therapists."
@@ -4211,7 +4211,7 @@
    ]
   ],
   "price": "$4",
-  "price_note": "Basic · annual",
+  "price_note": "Basic · per month, annual",
   "verified": "2026-09-03",
   "catch": "The numbers on Modge's own pages do not agree with each other.",
   "best": "Desk-bound remote or hybrid teams of a few to a few hundred people who want time tracking, app classification, shift adherence."
@@ -7592,7 +7592,7 @@
    ]
   ],
   "price": "$34.95",
-  "price_note": "Lite · per month, a month, billed every 30 days",
+  "price_note": "Lite · a month, billed every 30 days",
   "verified": "2026-09-08",
   "catch": "It is a feature ladder, not a volume ladder, and the features most people picture when they say wholesale sit high on it.",
   "best": "Shopify merchants who already have wholesale buyers and want them ordering from the same store as retail customers."
