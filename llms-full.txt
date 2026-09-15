@@ -89,7 +89,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Lucrovox
 - Review: https://zerotouchsupport.com/lucrovox-review.html
 - Verdict: Lucrovox: The phone agent has three published tiers and the plan table is back on the page. The ‘callers can’t tell it’s AI’ claim is the vendor’s own.
-- Price: (re-verified 2026-08-24 on lucrovox.com/#pricing and lucrovox.com/lucrochat, both read in a real browser with the pages fully loaded) The phone agent has three published tiers and the plan table is back on the page: Starter $199 a month for up to 100 AI-handled calls, Pro $499 for up to 500 calls with CRM integration and advanced lead qualification, Enterprise $999 for up to 2,000 calls with white-label branding…
+- Price: (re-verified 2026-09-15 on lucrovox.com/#pricing and lucrovox.com/lucrochat, both read in a real browser with the pages fully loaded) The phone agent has three published tiers and the plan table is back on the page: Starter $199 a month for up to 100 AI-handled calls, Pro $499 for up to 500 calls with CRM integration and advanced lead qualification, Enterprise $999 for up to 2,000 calls with white-label branding…
 
 ## NeuroAds
 - Review: https://zerotouchsupport.com/neuroads-review.html
