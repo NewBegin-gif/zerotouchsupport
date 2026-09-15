@@ -28,8 +28,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## CallHippo
 - Review: https://zerotouchsupport.com/callhippo-review.html
-- Verdict: CallHippo: Click Monthly and the same three cards read $25, $40 and $55 per user per month. 'Unlimited calling' is unlimited to the US and Canada.
-- Price: (re-verified 2026-09-15 in a browser on callhippo.com/pricing with the currency selector on USD, phone-number region US/CA and team size 1-4) The grid opens on its yearly tab, and that is where the familiar numbers come from: Starter $19, Professional $30 and Ultimate $42 per user per month on annual billing, with the toggle beside them advertising "Save 3 Months' Cost". Click Monthly and the same three cards…
+- Verdict: CallHippo: Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55.
+- Price: (re-verified 2026-09-15 in a browser on callhippo.com/pricing, currency selector on USD, phone-number region US/CA, team size 1-4) Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55. Read the tab before the number: the grid opens on yearly, so the lower column is what most write-ups quote, and the toggle beside it advertises "Save 3 Months'…
 
 ## CloudTalk
 - Review: https://zerotouchsupport.com/cloudtalk-review.html
