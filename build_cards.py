@@ -103,6 +103,21 @@ PALET = "--bg:#020617;--bg-2:#0b1120;--surface:#0f172a;--surface-2:#1e293b;--bor
 KNOP = ("filter-btn")
 
 
+def _filtercats(t, tools):
+    """Alle filtercategorieën van een kaart: de eigen categorie plus elke
+    andere bestaande categorie waar de naam of kaarttekst letterlijk om
+    vraagt. 15 sep 2026 (audit R3-01): 'Sales & CRM' verborg Pipedrive,
+    Close, folk, Nutshell en Salesflare omdat die 'Growth & Revenue' dragen.
+    Er komen geen nieuwe knoppen bij: alleen categorieën die al bestaan."""
+    eigen = t.get("category") or ""
+    bestaand = {x.get("category") for x in tools if x.get("category")}
+    tekst = f'{t.get("name", "")} {t.get("desc", "")}'
+    uit = [eigen] if eigen else []
+    if "Sales & CRM" in bestaand and "Sales & CRM" != eigen and re.search(r"\bCRM\b", tekst):
+        uit.append("Sales & CRM")
+    return uit
+
+
 def filterknoppen(tools):
     """De knoppenrij uit dezelfde tools als de kaarten.
 
@@ -128,7 +143,7 @@ window.filterTools = function (c) {
     b.classList.toggle('active', b.dataset.cat === c);
   });
   document.querySelectorAll('article.tool-card').forEach(function (k) {
-    k.style.display = (c === 'All' || k.dataset.category === c) ? '' : 'none';
+    k.style.display = (c === 'All' || (k.dataset.category || '').split('|').indexOf(c) > -1) ? '' : 'none';
   });
 };
 </script>"""
@@ -468,7 +483,7 @@ def main():
 
     cards = "\n".join(
         CARD.format(
-            category_attr=html.escape(t["category"], quote=True),
+            category_attr=html.escape("|".join(_filtercats(t, tools)), quote=True),
             category=html.escape(t["category"]),
             domain=html.escape(t.get("domain", "example.com"), quote=True),
             name=html.escape(t["name"]),
