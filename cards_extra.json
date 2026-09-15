@@ -838,7 +838,7 @@
     "addons_extra"
    ]
   ],
-  "verified": "2026-08-15",
+  "verified": "2026-09-15",
   "catch": "Per-user pricing plus per-transaction fees means the real cost depends on team size and payment volume — it's built for finance teams with genuine AP workflows and is overkill if you pay a handful of bills a month.",
   "best": "Growing companies with real accounts-payable volume and approval chains that want to automate bill pay and sync to accounting."
  },
@@ -1298,11 +1298,16 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "€19",
   "price_note": "from · per user per month",
-  "verified": "2026-08-15",
+  "verified": "2026-09-15",
   "catch": "'Unlimited calling' is unlimited to the US and Canada — international minutes meter separately, so teams calling Europe or Asia should price their real destinations first.",
   "best": "Budget-conscious sales/support teams wanting virtual numbers in 50+ countries with a free entry point and CRM integrations.",
   "pw": "price up",

@@ -28,8 +28,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## CallHippo
 - Review: https://zerotouchsupport.com/callhippo-review.html
-- Verdict: CallHippo: The same grid read in dollars on 19 July 2026 showed $19, $30 and $42. 'Unlimited calling' is unlimited to the US and Canada.
-- Price: (2026-08-15, read on their own pricing page in euros) Starter €19/user/mo, Professional €29 and Ultimate €39 on monthly billing for a 1-4 user team, above a genuinely free Basic tier where you pay only for the numbers. Unlimited landline and mobile minutes start at Starter with 100 SMS; call recordings, AI voicemail transcription and multilingual IVR at Professional with 500 SMS; smart DID, multilevel and holiday…
+- Verdict: CallHippo: Starter €19/user/mo, Professional €29 and Ultimate €39 on monthly billing for a 1-4 user team.
+- Price: (re-verified 2026-09-15 on their own pricing page, read from Europe in euros) Starter €19/user/mo, Professional €29 and Ultimate €39 on monthly billing for a 1-4 user team — the same three amounts as on 15 August 2026, with the same 100, 500 and 1,000 SMS caps. Basic still costs €0, but the fair-usage terms printed lower on that page say it is free only for the first six months from signup, after which the…
 
 ## CloudTalk
 - Review: https://zerotouchsupport.com/cloudtalk-review.html
