@@ -484,7 +484,7 @@
   "name": "Brevo",
   "category": "Growth & Revenue",
   "domain": "brevo.com",
-  "desc": "Email, SMS and a light CRM, priced by monthly send volume rather than contact count — cheaper for a large list you email selectively. Free forever at 300 emails a day with unlimited contacts; paid from about $9/month. Model your real send volume if you mail frequently.",
+  "desc": "Email, SMS and a light CRM, priced by monthly send volume rather than contact count — cheaper for a large list you email selectively. Free forever at 300 emails a day and storage for up to 100,000 contacts; paid from about $9/month, and every paid send tier caps stored contacts too (5,000 sends a month stores up to 500). Model your real send volume if you mail frequently.",
   "link": "https://get.brevo.com/1fja6u7hu62y",
   "replaces": "Mailchimp"
  },
