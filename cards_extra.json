@@ -634,7 +634,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month",
-  "verified": "2026-08-15",
+  "verified": "2026-09-14",
   "catch": "The $29 Demo tier cannot actually publish to the App Store or Google Play — real branded apps start at $240 a month.",
   "best": "Creators and media brands with a real audio catalog — podcasts, audiobooks, meditations, courses — ready to monetize subscriptions in their own branded apps."
  },
@@ -1169,7 +1169,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month",
-  "verified": "2026-08-15",
+  "verified": "2026-09-14",
   "catch": "Two honest realities of no-code scraping.",
   "best": "Ops, research and growth teams that want to monitor competitors, prices or listings and pipe structured web data into sheets without writing scrapers."
  },
@@ -1528,11 +1528,16 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$167",
   "price_note": "per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "Two honest catches: a steep learning curve (expect 2–4 weeks, many teams need a dedicated Clay expert), and credits that are hard to forecast at scale.",
   "best": "Modern GTM and ops teams who want best-in-class waterfall enrichment and custom research workflows — and have someone to own it."
  },
@@ -1795,9 +1800,9 @@
     "free_tier"
    ]
   ],
-  "price": "$0.50",
+  "price": "$29",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "The free-for-10 plan is one of the most generous in the category, but the three-hub structure means costs can stack if you need all of them — price the specific hubs you'll actually use, not the full bundle.",
   "best": "Deskless and frontline teams (shift work, field crews) that need scheduling, a time clock and comms in one app, on the free-for-10 plan."
  },
@@ -2835,7 +2840,7 @@
   ],
   "price": "$39",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "The article quotas pinch if you publish at volume (overage docs bill each), and it's a research-and-optimization tool, not a magic ranking button — it speeds up briefs, it doesn't replace the writing or the backlinks.",
   "best": "Content teams and SEOs who want to speed up research, briefs and SERP-driven optimization in one workflow."
  },
@@ -3028,7 +3033,7 @@
   ],
   "price": "€13.12",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "Priced by contact count, so the entry number climbs as your list grows, and the best value only shows on long (annual/24-month) commitments.",
   "best": "Small businesses that want email plus landing pages, automation and webinars in one affordable suite."
  },
@@ -3482,7 +3487,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "This is enterprise omnichannel supply-chain software, and the opaque, quote-based pricing signals the target customer: retail brands with real scale, not small stores.",
   "best": "Retail brands and omnichannel sellers at real scale needing warehouse management plus algorithm-driven merchandising and inventory optimization."
  },
@@ -3743,11 +3748,16 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "$30",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "You're paying a premium for managed speed, Google Cloud infrastructure and expert support — worth it if performance and hands-off management matter, wasteful on a low-traffic hobby site a $5 shared host would carry fine.",
   "best": "Business-critical WordPress sites where speed, uptime and expert support directly affect revenue."
  },
@@ -3949,7 +3959,7 @@
     "annual_lock"
    ]
   ],
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "It's the value pick, not the optimisation pick — if you're spending big on ads, Unbounce's Smart Traffic and Instapage's 1:1 personalisation go deeper.",
   "best": "Small businesses building landing pages and simple funnels who want unmetered traffic — no per-visitor anxiety, unlike metered rivals."
  },
@@ -4419,7 +4429,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "The meter is generation hours per YEAR, not per month — 24 hours sounds generous until you count retakes, and regenerating a script three times bills three times.",
   "best": "Creators, trainers and product teams that need studio-quality voiceovers in many languages without booking voice actors — explainers, courses, product videos."
  },
@@ -4560,11 +4570,16 @@
     "📈",
     "Renewal jump",
     "renewal_jump"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "€3.49",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "For a business you're really buying NordLayer, priced per user with a seat minimum.",
   "best": "Teams that want simple, reliable secure network access and a business VPN without heavy setup."
  },
@@ -5441,9 +5456,7 @@
     "free_tier"
    ]
   ],
-  "price": "$10",
-  "price_note": "from · per user per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "The magic only works if your team lives in Google Calendar — it's Google-first, so Outlook-heavy shops are out, and the free tier is quite limited.",
   "best": "Google Calendar teams that want AI to auto-schedule tasks, habits and meetings around their priorities."
  },
@@ -5667,11 +5680,19 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
-  "price": "$29",
-  "price_note": "from · per user per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "It's deliberately lean: no built-in dialer, no quoting or invoicing, and reporting feels basic unless you export.",
   "best": "Small B2B teams whose reps hate data entry — Salesflare auto-logs emails, meetings and contact details from your inbox and calendar."
  },
@@ -6264,7 +6285,7 @@
   ],
   "price": "$20",
   "price_note": "Team, per seat · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "It's a broad, do-everything work-management platform, so the power comes with a learning curve and a per-seat cost that adds up for bigger teams — a single source of truth if you commit, overkill if you just need a task list.",
   "best": "Teams consolidating projects, CRM and operations into one flexible, database-driven work-management platform."
  },
@@ -6712,11 +6733,16 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
-  "price": "$19",
+  "price": "€19",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "The conversational-survey UX is the draw, but response limits on lower tiers and the 'contact sales' wall on advanced features (API, higher volume) make budgeting fiddly — and there's no true monthly billing.",
   "best": "Teams that want engaging, conversational surveys and NPS with a polished respondent experience."
  },
@@ -6783,7 +6809,7 @@
   ],
   "price": "$29",
   "price_note": "Starter · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "The video-minute caps are tight — 10 min/mo on Starter goes fast when you iterate, and re-generating edits burns minutes.",
   "best": "Teams making talking-head training, explainer and onboarding videos without cameras, actors or editing."
  },
@@ -7221,7 +7247,7 @@
   ],
   "price": "$12",
   "price_note": "from · per month",
-  "verified": "2026-08-16",
+  "verified": "2026-09-14",
   "catch": "Per-user pricing is honest and simple, but it means the cost scales linearly with headcount — a ten-person crew is a real monthly number, not the single-seat sticker.",
   "best": "Electricians, plumbers, HVAC and other trades businesses that want quoting, scheduling, job tracking and invoicing from the field in one simple app."
  },
@@ -7339,7 +7365,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-08-17",
+  "verified": "2026-09-14",
   "catch": "The entry price is high for a landing-page tool, and the visitor caps bite if a campaign takes off.",
   "best": "PPC specialists and agencies running paid campaigns who want A/B testing and Smart Traffic (AI routing each visitor to the best-converting variant)."
  },
@@ -7848,9 +7874,14 @@
     "📈",
     "Renewal jump",
     "renewal_jump"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
-  "verified": "2026-08-12",
+  "verified": "2026-09-14",
   "catch": "It's a subscription, not a lifetime license — you keep your settings if you stop paying but lose updates and support, and a technically-minded user can get most of the way there with a free caching plugin.",
   "best": "WordPress owners who want near-instant page-speed gains out of the box without touching cache config."
  },
@@ -8101,5 +8132,19 @@
   "verified": "2026-09-14",
   "catch": "Sorting driven by 60+ blended signals is powerful and opaque in the same breath: a recipe that ranks by margin, velocity and stock at once will sometimes bury a product you wanted seen, and there is real trial and error in getting the recipes to match how you actually merchandise.",
   "best": "Shopify stores with large or fast-changing catalogues where product order is a merchandising decision — seasonal ranges, frequent stock-outs, wide margin spreads."
+ },
+ "Signitic": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ]
+  ],
+  "price": "€1",
+  "price_note": "Standard · per month",
+  "verified": "2026-09-14",
+  "catch": "The homepage sells deployment 'without going through IT', and Signitic's own help centre contradicts that on every path in.",
+  "best": "European organisations of roughly twenty people and up, on Google Workspace or Microsoft 365."
  }
 }
