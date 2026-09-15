@@ -705,7 +705,7 @@
   "verified": "2026-09-02",
   "catch": "The smart-template engine is the feature and the fence: decks look polished with zero design skill precisely because the system constrains you, so pixel-perfect custom layouts and heavy brand exceptions fight the tool.",
   "best": "Founders, sales and small teams that want consistently good-looking decks fast, where design consistency matters more than pixel-level control.",
-  "pw": "price up",
+  "pw": "price up Sep 2026",
   "pw_soort": "increase"
  },
  "Beefree": {
@@ -1157,7 +1157,7 @@
   "verified": "2026-09-05",
   "catch": "That flat $19 base fee makes it pricey for very small teams — at three or four users the base fee dominates the bill, so it's better value once you're past a handful of employees.",
   "best": "Small-to-mid teams that need straightforward employee time tracking with GPS and payroll-ready exports.",
-  "pw": "price up",
+  "pw": "price up Aug 2026",
   "pw_soort": "increase"
  },
  "BugHerd": {
@@ -1202,7 +1202,7 @@
   "verified": "2026-09-05",
   "catch": "Two meters run at once: seats AND credits — the seat price includes a credit allowance (500 a month on Core, 5,000 on AI Employee, read 5 September 2026), and real outbound volume means credit packages on top, so budget past the sticker.",
   "best": "GTM teams that want AI to run outbound end-to-end — prompt-driven prospecting of intent-ready buyers.",
-  "pw": "plans rebuilt",
+  "pw": "plans rebuilt Sep 2026",
   "pw_soort": "restructure"
  },
  "Bybit": {
@@ -1231,7 +1231,7 @@
   "verified": "2026-08-17",
   "catch": "The subscription is the platform, not the talking: numbers, minutes and SMS meter separately from a credit balance, so an active calling team's real bill sits meaningfully above the per-seat sticker — model a month of your actual call volume before comparing vendors.",
   "best": "Startups and small teams that want a modern, affordable cloud phone system with international numbers and clean dashboards.",
-  "pw": "plans rebuilt",
+  "pw": "plans rebuilt Aug 2026",
   "pw_soort": "restructure"
  },
  "CallHippo": {
@@ -1257,7 +1257,7 @@
   "verified": "2026-09-15",
   "catch": "'Unlimited calling' is unlimited to the US and Canada — international minutes meter separately, so teams calling Europe or Asia should price their real destinations first.",
   "best": "Budget-conscious sales/support teams wanting virtual numbers in 50+ countries with a free entry point and CRM integrations.",
-  "pw": "price up",
+  "pw": "price up Aug 2026",
   "pw_soort": "increase"
  },
  "CallRail": {
@@ -2504,7 +2504,7 @@
   "verified": "2026-09-03",
   "catch": "The honest catch is that there is no middle any more.",
   "best": "B2B software teams (especially HubSpot-first) that want a live AI sales agent to qualify website visitors, hold buying conversations and route leads to reps.",
-  "pw": "price up",
+  "pw": "price up Sep 2026",
   "pw_soort": "increase"
  },
  "ExpertSender": {
@@ -2681,7 +2681,7 @@
   "verified": "2026-09-03",
   "catch": "The real cost is the success fee, and it's a flat bracket rate on the whole sale price, not marginal — a mid-five-figure sale can hand over a four- to five-figure commission.",
   "best": "Buyers and sellers of small-to-mid online businesses, SaaS, apps and domains who want the largest marketplace and are comfortable doing their own due diligence.",
-  "pw": "price up",
+  "pw": "price up Sep 2026",
   "pw_soort": "increase"
  },
  "Flocksy": {
@@ -3832,7 +3832,7 @@
   "verified": "2026-09-05",
   "catch": "The words doing the work are 'starting at'.",
   "best": "B2B teams with real website traffic and a sales team that will actually work the list.",
-  "pw": "price up",
+  "pw": "price up Aug 2026",
   "pw_soort": "increase"
  },
  "Leadpages": {
@@ -3946,7 +3946,7 @@
   "verified": "2026-08-31",
   "catch": "Direct mail only pays off with a tight list and a real offer — it's a leverage channel, not a cheap thing to test blindly.",
   "best": "Local businesses and e-commerce brands using robotically handwritten mail (~$0.49/piece incl. postage) to stand out where email gets ignored.",
-  "pw": "price up",
+  "pw": "price up Aug 2026",
   "pw_soort": "increase"
  },
  "Lindy.ai": {
@@ -3967,7 +3967,7 @@
   "verified": "2026-09-12",
   "catch": "Cost tracks headcount rather than output: every colleague who so much as @mentions Lindy in Slack takes a paid seat, and a seat you remove runs to the end of the cycle with no mid-cycle proration.",
   "best": "Teams that live in Slack and want one shared teammate that sits in their meetings, runs scheduled routines and drafts replies inside the tools they already use.",
-  "pw": "plans rebuilt",
+  "pw": "plans rebuilt Sep 2026",
   "pw_soort": "restructure"
  },
  "Livestorm": {
@@ -5391,7 +5391,7 @@
   "verified": "2026-09-02",
   "catch": "The credit model on AI-heavy building is unpredictable — a complex agent session can burn credits fast, and they expire monthly, so heavy AI users hit surprise costs.",
   "best": "Developers, learners and tinkerers who want a zero-setup, browser-based coding environment with AI assistance.",
-  "pw": "price down",
+  "pw": "price down Sep 2026",
   "pw_soort": "decrease"
  },
  "Reply.io": {
@@ -5623,7 +5623,7 @@
   "verified": "2026-09-10",
   "catch": "Two things changed here and both cost money.",
   "best": "Sales and service teams that want two-way texting and calling in one CRM-linked inbox, and can estimate their monthly credit burn — messages plus call minutes.",
-  "pw": "plans rebuilt",
+  "pw": "plans rebuilt Sep 2026",
   "pw_soort": "restructure"
  },
  "SaneBox": {
@@ -5794,7 +5794,7 @@
   "verified": "2026-09-07",
   "catch": "The honest mechanic is the revenue ladder: plans cap by your ANNUAL SALES, so success moves you up.",
   "best": "Creators selling digital products, subscriptions and print-on-demand who want a simple store with zero platform commission.",
-  "pw": "price down",
+  "pw": "price down Sep 2026",
   "pw_soort": "decrease"
  },
  "Sendcloud": {
@@ -6221,7 +6221,7 @@
   "verified": "2026-09-07",
   "catch": "Builder seats are billed on top of the plan, and pricing counts builders and app users separately, so a public-facing app with a lot of end users gets expensive fast.",
   "best": "Teams building internal tools, client portals or member apps on top of Airtable or Google Sheets without code.",
-  "pw": "plans rebuilt",
+  "pw": "plans rebuilt Sep 2026",
   "pw_soort": "restructure"
  },
  "Spiky.ai": {
@@ -7147,7 +7147,7 @@
   "verified": "2026-09-09",
   "catch": "It's done-for-you, which is the appeal and the catch.",
   "best": "Small-business owners with no time or tech skills who want a professional site built for them, not another tool to learn.",
-  "pw": "plans rebuilt",
+  "pw": "plans rebuilt Aug 2026",
   "pw_soort": "restructure"
  },
  "UltaHost": {
@@ -7301,7 +7301,7 @@
   "verified": "2026-09-02",
   "catch": "The pitch is unusually bold: an AI that learns your business the way a great employee would, finds the constraint keeping you stuck, and helps you solve it.",
   "best": "Hands-on entrepreneurs and small-business owners buried in operational detail who want AI that learns their specific business and helps surface what's actually holding it back — explicitly not enterprise software.",
-  "pw": "plans rebuilt",
+  "pw": "plans rebuilt Sep 2026",
   "pw_soort": "restructure"
  },
  "Velora": {
@@ -7322,7 +7322,7 @@
   "verified": "2026-09-10",
   "catch": "This is priced for agencies and telecoms reselling AI phone agents, not for a single small business wanting one receptionist bot.",
   "best": "Agencies, MSPs and service providers that want to deploy and resell white-label AI voice agents at volume.",
-  "pw": "rates withdrawn",
+  "pw": "rates withdrawn Aug 2026",
   "pw_soort": "withdrawn"
  },
  "VidPal": {
@@ -7468,7 +7468,7 @@
   "verified": "2026-09-05",
   "catch": "Two honest cautions.",
   "best": "Dental, optometry and small healthcare practices that want phone, texting, payments and reviews unified for the front desk.",
-  "pw": "price down",
+  "pw": "price down Aug 2026",
   "pw_soort": "decrease"
  },
  "WebCatalog": {
