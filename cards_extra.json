@@ -7241,9 +7241,9 @@
     "free_tier"
    ]
   ],
-  "price": "$9.99",
-  "price_note": "Basic Plan · per month for up to 50 store locations, or $95.90 a year",
-  "verified": "2026-08-25",
+  "price": "$6.99",
+  "price_note": "Basic Plan · per month for up to 50 store locations, or $67.10 a year",
+  "verified": "2026-09-16",
   "catch": "The pricing page reads like a feature ladder and behaves like a counter.",
   "best": "Retailers and brands with physical stockists who want a Google Maps locator on their Shopify storefront without setting up a Maps API key or paying Google directly."
  },
@@ -7732,5 +7732,19 @@
   "verified": "2026-09-14",
   "catch": "The homepage sells deployment 'without going through IT', and Signitic's own help centre contradicts that on every path in.",
   "best": "European organisations of roughly twenty people and up, on Google Workspace or Microsoft 365."
+ },
+ "Kumo": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$15",
+  "price_note": "B2B · per month with unlimited pricing rules",
+  "verified": "2026-09-16",
+  "catch": "Five stars over nine reviews is not a track record, and the age makes that worse rather than better.",
+  "best": "Shopify merchants on a standard plan who need wholesale prices for named customer groups, with CSV price lists and a registration form that someone approves."
  }
 }
