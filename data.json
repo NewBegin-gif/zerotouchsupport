@@ -3398,5 +3398,12 @@
     "link": "https://platform.shoffi.app/r/rl_w0nUPKoB",
     "platform": "shopify",
     "brand": "Helm: Business Radar"
+  },
+  {
+    "name": "PhotoGenerator",
+    "category": "Design & Content",
+    "domain": "photogenerator.ai",
+    "desc": "AI image and video generator that puts a dozen third-party models behind one credit balance and one workspace: Nano Banana (three variants) and GPT Image 2 for stills, Seedance, Kling, Veo 3 and Wan 2.5 for video, plus face swap, background removal, upscaling, style transfer, lip-sync, motion sync, character creation and voice tools. A prompt gallery carries thousands of community prompts with the image each produced, reusable as prompt or reference. Credit-based with no free plan: monthly Starter $12 for 360 credits, Pro $49 for 1,100, Max $119 for 5,300; annually $120, $468 and $1,068 for 4,320, 24,000 and 63,600; or one-off packs from $99 for 2,750 credits to $499 for 19,900. Read 16 Sep 2026.",
+    "link": "https://www.photogenerator.ai/?ref=aibm"
   }
 ]
