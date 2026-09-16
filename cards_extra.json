@@ -4970,7 +4970,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-16",
   "catch": "The bundles are push-first: every paid tier still caps included email at 500 a month, so 'omnichannel' email at any real volume means buying separate credits — and consumption-based pricing gets harder to predict as your sends climb.",
   "best": "Shopify stores that want to win back abandoned carts and browsing sessions with one-click web push — reaching shoppers who never handed over an email."
  },
@@ -5676,11 +5676,21 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
-  "price": "$33.33",
+  "price": "$18.99",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-16",
   "catch": "Squarespace has been quietly absorbing the job this tool was invented for.",
   "best": "Squarespace freelancers and studios billing for several client sites. Pricing by number of websites rather than per seat."
  },
@@ -5839,7 +5849,7 @@
   ],
   "price": "$10",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-16",
   "catch": "The $10 Personal plan is annual-billed and single-seat — and note that sign-unlimited is not send-unlimited: proper unlimited sending starts at Business, $20 per seat on a yearly commitment, while contract-management features gate at Business Pro, $30 per seat.",
   "best": "Small teams that want straightforward unlimited sending and signing per seat, with contract management one tier up."
  },
@@ -6597,7 +6607,7 @@
     "addons_extra"
    ]
   ],
-  "verified": "2026-08-30",
+  "verified": "2026-09-16",
   "catch": "Note on how we link this one, updated 28 Jul 2026: between 21 and 28 July our partner link was dead — Tenable's shop subdomain stopped resolving, so we pointed the link at Tenable's own product page and earned nothing from it.",
   "coupon": {
    "code": "SAVE10",
@@ -7030,7 +7040,7 @@
   ],
   "price": "$399",
   "price_note": "Core · per month excluding tax, and it includes only 3 users and 100 sales…",
-  "verified": "2026-08-17",
+  "verified": "2026-09-16",
   "catch": "The 100 sales orders a month included on both bundles is the number that decides your bill, not the $399.",
   "best": "Manufacturers and wholesalers who have outgrown spreadsheets and need real-time stock across multiple warehouses, with batch and serial tracking."
  },
