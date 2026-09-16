@@ -4309,7 +4309,7 @@
   ],
   "price": "€11",
   "price_note": "Starter · per user per month on annual billing",
-  "verified": "2026-09-09",
+  "verified": "2026-09-16",
   "catch": "The pitch is that salespeople hate CRMs, and the answer is a tool built around the next action rather than the form.",
   "best": "Solo sellers, small outbound teams and telesales operations that want a list of leads each carrying a next step, rather than a CRM to configure."
  },
@@ -4586,7 +4586,7 @@
   ],
   "price": "$99",
   "price_note": "from · per month",
-  "verified": "2026-09-11",
+  "verified": "2026-09-16",
   "catch": "The free tier is genuinely free -- 50 credits, no card -- and it is the only way to answer the question the pricing page leaves open.",
   "best": "Teams that want the sales, content and support agents in one place and will genuinely use the lead engine."
  },
@@ -7708,15 +7708,15 @@
   ],
   "price": "$9",
   "price_note": "Pro · per month, or $99 a year",
-  "verified": "2026-09-14",
+  "verified": "2026-09-15",
   "catch": "It has no track record at all.",
   "best": "Shopify merchants who already care about being cited in ChatGPT, Gemini and Perplexity, and who want the audit, the schema deployment."
  },
  "Dynasort": {
   "price": "$99",
   "price_note": "Basic · per month",
-  "verified": "2026-09-14",
-  "catch": "Sorting driven by 60+ blended signals is powerful and opaque in the same breath: a recipe that ranks by margin, velocity and stock at once will sometimes bury a product you wanted seen, and there is real trial and error in getting the recipes to match how you actually merchandise.",
+  "verified": "2026-09-15",
+  "catch": "Sorting driven by 40+ blended signals is powerful and opaque in the same breath: a recipe that ranks by margin, velocity and stock at once will sometimes bury a product you wanted seen, and there is real trial and error in getting the recipes to match how you actually merchandise.",
   "best": "Shopify stores with large or fast-changing catalogues where product order is a merchandising decision — seasonal ranges, frequent stock-outs, wide margin spreads."
  },
  "Signitic": {
@@ -7729,7 +7729,7 @@
   ],
   "price": "€1",
   "price_note": "Standard · per user per month, minimum 20 licences",
-  "verified": "2026-09-14",
+  "verified": "2026-09-16",
   "catch": "The homepage sells deployment 'without going through IT', and Signitic's own help centre contradicts that on every path in.",
   "best": "European organisations of roughly twenty people and up, on Google Workspace or Microsoft 365."
  },
@@ -7746,5 +7746,19 @@
   "verified": "2026-09-16",
   "catch": "Five stars over nine reviews is not a track record, and the age makes that worse rather than better.",
   "best": "Shopify merchants on a standard plan who need wholesale prices for named customer groups, with CSV price lists and a registration form that someone approves."
+ },
+ "MX AI": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$2.99",
+  "price_note": "Monthly Plan · per month for the whole app, with no usage tier above it",
+  "verified": "2026-09-16",
+  "catch": "The strongest argument against paying for this is one App Store search away.",
+  "best": "Shopify merchants who want seasonal or ambient audio on the storefront, want a say in how the player looks and behaves."
  }
 }
