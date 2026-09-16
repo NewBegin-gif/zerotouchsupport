@@ -3373,5 +3373,13 @@
   "domain": "signitic.com",
   "desc": "Email signature management for Google Workspace and Microsoft 365: central templates, per-entity branding, and clickable banner campaigns with click statistics. ISO 27001 certified and hosted in Europe.",
   "link": "https://www.signitic.com/?red=aibuil"
+ },
+ {
+  "name": "Kumo",
+  "category": "E-commerce",
+  "domain": "cloudlift.app",
+  "desc": "Shopify wholesale app from Cloudlift GmbH: unlimited custom pricing rules that apply automatically to named customer groups, CSV import and export of price lists, B2B registration forms with an approval workflow, and prices that update in the theme without code edits. Two plans and no free tier — B2B $15 a month, PLUS $30, both with a 7-day trial; everything PLUS adds requires Shopify Plus. Built for Shopify, launched November 2024, 5.0 stars over 9 reviews as of 16 Sep 2026.",
+  "link": "https://platform.shoffi.app/r/rl_woYcZmgz",
+  "platform": "shopify"
  }
 ]
