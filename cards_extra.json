@@ -7760,5 +7760,19 @@
   "verified": "2026-09-16",
   "catch": "The strongest argument against paying for this is one App Store search away.",
   "best": "Shopify merchants who want seasonal or ambient audio on the storefront, want a say in how the player looks and behaves."
+ },
+ "Helm": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$129",
+  "price_note": "from · per month",
+  "verified": "2026-09-16",
+  "catch": "Nine days old and trading under three names.",
+  "best": "Shopify stores already spending on Meta and Google Ads and keeping their books in QuickBooks Online, that want one place reading orders, ad spend."
  }
 }
