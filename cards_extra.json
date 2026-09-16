@@ -2341,7 +2341,7 @@
   ],
   "price": "$362",
   "price_note": "Visitors Premium · per location per month, billed annually (the pricing page's JSON-LD…",
-  "verified": "2026-09-03",
+  "verified": "2026-09-16",
   "catch": "None of the prices on that page is a price you can budget from.",
   "best": "Companies with a real office and a front desk problem."
  },
@@ -2520,7 +2520,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-08-29",
+  "verified": "2026-09-16",
   "catch": "Nothing is priced, so everything is negotiable — which cuts both ways.",
   "best": "Law firms past the point where a general project tool works, with enough matters that case-specific workflows and intake tracking pay back a negotiated annual contract."
  },
@@ -4159,7 +4159,7 @@
   "best": "Small businesses and marketers who want affordable email marketing and automation with a low entry price, a real free trial and a clean drag-and-drop builder."
  },
  "Motive": {
-  "verified": "2026-08-30",
+  "verified": "2026-09-16",
   "catch": "A pricing page with a form where the prices should be.",
   "best": "Fleets large enough that ELD compliance and dash-cam evidence are already costing you money, and who will negotiate a quote rather than accept the first one."
  },
@@ -6858,6 +6858,10 @@
   "price_note": "from · per month",
   "verified": "2026-09-14",
   "catch": "Per-user pricing is honest and simple, but it means the cost scales linearly with headcount — a ten-person crew is a real monthly number, not the single-seat sticker.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: 50% off for three months"
+  },
   "best": "Electricians, plumbers, HVAC and other trades businesses that want quoting, scheduling, job tracking and invoicing from the field in one simple app."
  },
  "Trainerize": {
@@ -7774,5 +7778,19 @@
   "verified": "2026-09-16",
   "catch": "Nine days old and trading under three names.",
   "best": "Shopify stores already spending on Meta and Google Ads and keeping their books in QuickBooks Online, that want one place reading orders, ad spend."
+ },
+ "PhotoGenerator": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$12",
+  "price_note": "from · per month",
+  "verified": "2026-09-16",
+  "catch": "The plan cards and the comparison table on the same page disagree about what Pro costs.",
+  "best": "People who want several image and video models behind one balance and one interface."
  }
 }
