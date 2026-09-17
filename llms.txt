@@ -9,6 +9,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Price Watch](https://zerotouchsupport.com/price-watch.html): dated price changes, free-tier cuts and renewal jumps
 - [Straight answers](https://zerotouchsupport.com/answers.html): is it worth it, what does it really cost, what is the catch — per tool
 - [Tool finder](https://zerotouchsupport.com/finder.html): pick a tool in under a minute
+- [Deals](https://zerotouchsupport.com/deals.html): current deals and free trials
 
 ## Buying guides (4)
 - [Best Business Phone Systems 2026](https://zerotouchsupport.com/best-business-phone-systems.html): Best business phone systems for small teams (2026) — honestly compared by someone who runs his business on these tools.
