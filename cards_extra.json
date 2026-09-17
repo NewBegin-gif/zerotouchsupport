@@ -1614,7 +1614,7 @@
   ],
   "price": "$14.99",
   "price_note": "from · per month",
-  "verified": "2026-09-06",
+  "verified": "2026-09-16",
   "catch": "Read the free plan's number twice, because the word doing the work is 'lifetime': it is 500 codes in total, not 500 a month.",
   "best": "Shopify stores that already run email or SMS campaigns and need thousands of unique, single-use codes generated out of one existing discount and handed over as a CSV."
  },
@@ -3871,6 +3871,10 @@
   "price_note": "Starter · per month for up to 100 AI-handled calls, with a 14-day free trial",
   "verified": "2026-09-15",
   "catch": "The meter is AI-handled calls: Starter’s 100 calls a month is roughly three a day, so a genuinely busy shop outgrows it quickly — and the steps are steep ($199 → $499 → $999).",
+  "coupon": {
+   "code": "AIBUILDER25",
+   "label": "25% off your first month on any LucroVox or LucroChat plan"
+  },
   "best": "Local service businesses — HVAC, plumbing, roofing, med spas."
  },
  "ManyChat": {
