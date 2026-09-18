@@ -7837,5 +7837,55 @@
   "verified": "2026-09-18",
   "catch": "This is a styling subscription, and the listing's own framing oversells it: social icons and share buttons build no trust on their own, and 'boost sales with social proof' is a claim the app has no way to support.",
   "best": "Shopify merchants who want branded social icons and a WhatsApp chat button on product pages without touching theme code."
+ },
+ "TestDriver.ai": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "verified": "2026-09-18",
+  "catch": "You do not control your own seat count.",
+  "best": "Teams already living inside GitHub pull requests who want end-to-end tests to exist at all."
+ },
+ "Influencer Hero": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$519",
+  "price_note": "from · per month",
+  "verified": "2026-09-18",
+  "catch": "The three-month minimum is the real commitment, and it is easy to read past.",
+  "best": "Brands running influencer marketing as a continuous programme rather than a campaign, with enough volume to use 1,000 reach-outs a month from the first month."
+ },
+ "Niural AI": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$20",
+  "price_note": "from · per month",
+  "verified": "2026-09-18",
+  "catch": "Every tier says Book a demo.",
+  "best": "US companies that want payroll, benefits, PEO and international hiring from one vendor and want to see a number before the call."
  }
 }
