@@ -7818,5 +7818,24 @@
   "verified": "2026-09-16",
   "catch": "The plan cards and the comparison table on the same page disagree about what Pro costs.",
   "best": "People who want several image and video models behind one balance and one interface."
+ },
+ "Skip To Checkout": {
+  "verified": "2026-09-18",
+  "catch": "The cart skip blinds the measurement you would use to judge it.",
+  "best": "Shopify merchants who want a free sticky buy button, or who need to hide add-to-cart and express-payment buttons on products they list online but sell in person."
+ },
+ "Social Bar": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$4.99",
+  "price_note": "from · per month",
+  "verified": "2026-09-18",
+  "catch": "This is a styling subscription, and the listing's own framing oversells it: social icons and share buttons build no trust on their own, and 'boost sales with social proof' is a claim the app has no way to support.",
+  "best": "Shopify merchants who want branded social icons and a WhatsApp chat button on product pages without touching theme code."
  }
 }
