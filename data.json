@@ -3405,5 +3405,21 @@
     "domain": "photogenerator.ai",
     "desc": "AI image and video generator that puts a dozen third-party models behind one credit balance and one workspace: Nano Banana (three variants) and GPT Image 2 for stills, Seedance, Kling, Veo 3 and Wan 2.5 for video, plus face swap, background removal, upscaling, style transfer, lip-sync, motion sync, character creation and voice tools. A prompt gallery carries thousands of community prompts with the image each produced, reusable as prompt or reference. Credit-based with no free plan: monthly Starter $12 for 360 credits, Pro $49 for 1,100, Max $119 for 5,300; annually $120, $468 and $1,068 for 4,320, 24,000 and 63,600; or one-off packs from $99 for 2,750 credits to $499 for 19,900. Read 16 Sep 2026.",
     "link": "https://www.photogenerator.ai/?ref=aibm"
+  },
+  {
+    "name": "Skip To Checkout",
+    "category": "E-commerce",
+    "domain": "effectify.io",
+    "desc": "Free Shopify app from Effective Apps that puts a sticky add-to-cart bar on product pages and can send the shopper straight to checkout, skipping the cart. It also hides PayPal, Apple Pay or the add-to-cart and buy-now buttons when you want a single path to payment. Free is the only plan and there is no usage meter. Built for Shopify, on the App Store since November 2019, 4.6 stars over 34 reviews.",
+    "link": "https://platform.shoffi.app/r/rl_QNwl6ZDo",
+    "platform": "shopify"
+  },
+  {
+    "name": "Social Bar",
+    "category": "Marketing",
+    "domain": "effectify.io",
+    "desc": "Shopify app from Effective Apps that adds a bar of social media icons and share buttons to storefront pages, covering more than 80 platforms, with a per-platform Follow Us bar, shape and colour options, an animation, a one-click hide for shoppers and a click counter. The free plan is limited to development and partner stores, so a live store pays $4.99 a month or $41.88 a year after a 7-day trial. Built for Shopify, on the App Store since April 2020, 5.0 stars over 39 reviews.",
+    "link": "https://platform.shoffi.app/r/rl_8zZLdiWT",
+    "platform": "shopify"
   }
 ]
