@@ -387,7 +387,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-09-10",
+  "verified": "2026-09-17",
   "catch": "Unlimited seats is genuinely unusual and worth the credit — you are not taxed for letting the whole team look.",
   "best": "Product teams who want everyone looking at the same behavioural data — the free 2 million events a month is a real working tier, not a demo."
  },
@@ -966,17 +966,12 @@
  "Boulevard": {
   "flags": [
    [
-    "📈",
-    "Renewal jump",
-    "renewal_jump"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
    ]
   ],
-  "verified": "2026-08-18",
+  "verified": "2026-09-17",
   "catch": "Two things about this price list.",
   "best": "Salons, spas and clinics with staff to schedule and a front desk to run — the per-location pricing works out fine for one busy site."
  },
@@ -1505,7 +1500,7 @@
   ],
   "price": "$30",
   "price_note": "Lite · per month for 37,500 credits",
-  "verified": "2026-08-17",
+  "verified": "2026-09-17",
   "catch": "The free tier is a sampler, not a trial of the real thing: 500 credits is about 100 async ChatGPT answers at the 5-credit rate we were actually charged, and their table lists 7 for a full response.",
   "best": "SEO and marketing teams who need AI-search visibility as structured data."
  },
@@ -1636,7 +1631,7 @@
     "addons_extra"
    ]
   ],
-  "verified": "2026-08-18",
+  "verified": "2026-09-17",
   "catch": "No price, no credit allowance, and a five-seat minimum on both named plans.",
   "best": "Outbound sales teams in Europe who need mobile numbers that are actually verified and care about GDPR provenance — that is the specific thing this is better at."
  },
@@ -2021,7 +2016,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-08-19",
+  "verified": "2026-09-17",
   "catch": "Free to install is doing a lot of work here.",
   "best": "Shopify stores with a chargeback problem big enough to cost real money and nobody in-house to fight disputes."
  },
@@ -2063,9 +2058,16 @@
   "best": "Founders (often non-US) who want US LLC/C-Corp formation, EIN and compliance handled in one place without the paperwork."
  },
  "Drip": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
   "price": "$39",
   "price_note": "2,500 contacts · per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-17",
   "catch": "The word “unlimited” quietly expires.",
   "best": "An online store on Shopify, WooCommerce or BigCommerce that already has order data worth segmenting and wants ecommerce playbooks."
  },
@@ -2094,11 +2096,16 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "$30",
   "price_note": "Starter · per month, or $240 a year which works out at $20 a month",
-  "verified": "2026-08-19",
+  "verified": "2026-09-17",
   "catch": "Read the ladder before you climb it.",
   "best": "Someone who wants a turnkey private-label coffee or tea brand on Shopify — their roasting and packaging, your label on the bag."
  },
@@ -2170,7 +2177,7 @@
     "annual_lock"
    ]
   ],
-  "verified": "2026-08-26",
+  "verified": "2026-09-17",
   "catch": "You are buying domains and history, not features.",
   "best": "Anyone who sends email from their own domain and has not yet got DMARC to enforcement — the reporting is the part that makes that safe rather than guesswork."
  },
@@ -2886,7 +2893,7 @@
  "Gixo": {
   "price": "$10",
   "price_note": "Quill, Lumen or Prism… · per month, the lowest published floor across seven separately sold products",
-  "verified": "2026-08-19",
+  "verified": "2026-09-17",
   "catch": "Two things about this pricing are worth reading twice.",
   "best": "Teams that want one dedicated, source-grounded tool per deliverable — a deck tool, a content tool, a proposal tool."
  },
@@ -3519,7 +3526,7 @@
   ],
   "price": "$2",
   "price_note": "from · per user per month",
-  "verified": "2026-09-06",
+  "verified": "2026-09-17",
   "catch": "The per-user price is the smallest part of the bill.",
   "best": "Teams that need shared credentials with real admin control and audit."
  },
@@ -4069,7 +4076,7 @@
   ],
   "price": "$19",
   "price_note": "Starter · per month for 100 AI images",
-  "verified": "2026-08-19",
+  "verified": "2026-09-17",
   "catch": "The economics are flat: at roughly $0.19 to $0.20 an image on every tier, moving up the ladder buys resolution, custom presets and support, never a cheaper image.",
   "best": "Shopify fashion, jewellery and homeware sellers who need consistent on-model."
  },
@@ -4460,7 +4467,7 @@
   ],
   "price": "$9.99",
   "price_note": "Starter · per month, plus $2 per extra AI video credit beyond the 2 included",
-  "verified": "2026-08-31",
+  "verified": "2026-09-17",
   "catch": "AI video is the reason to install this, and it is the one thing the subscription does not cover.",
   "best": "Shopify stores that already own product video and want it working as an upsell at the product page, cart and post-purchase moments."
  },
@@ -4600,11 +4607,16 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
    ]
   ],
   "price": "£47",
   "price_note": "from · per month",
-  "verified": "2026-08-20",
+  "verified": "2026-09-17",
   "catch": "Unlimited users sounds like the generous part, and it is — until you notice what replaces per-seat pricing: a bill that scales with shifts scheduled.",
   "best": "Staffing agencies, security firms and event operators with large rosters of shift workers."
  },
@@ -4762,7 +4774,7 @@
   ],
   "price": "€2.99",
   "price_note": "Starter · per user per month with a 5-user minimum, so the real floor is EUR 14.95",
-  "verified": "2026-08-20",
+  "verified": "2026-09-17",
   "catch": "The €25 monthly platform fee on Plus is the line most comparisons miss.",
   "best": "Shift-based businesses in hospitality and retail with 10 or more staff who need leave management and payroll integration."
  },
@@ -5525,7 +5537,7 @@
   ],
   "price": "$9",
   "price_note": "Starter · per month for 25 credits and access to the full section library, billed…",
-  "verified": "2026-08-19",
+  "verified": "2026-09-17",
   "catch": "Almost three years on the App Store and one review.",
   "best": "Shopify merchants who want ready-made theme sections and the occasional AI-generated layout inside the native theme editor."
  },
