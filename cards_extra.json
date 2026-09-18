@@ -2325,7 +2325,7 @@
   ],
   "price": "$14.99",
   "price_note": "All-in-One Basic, per… · per user per month on monthly billing",
-  "verified": "2026-08-26",
+  "verified": "2026-09-18",
   "catch": "The meter is contacts AND seats at once: prices are per user, and each tier caps contacts — Basic’s 500 contacts fills fast, and the Growth jump is steep ($15 → $65 per user).",
   "coupon": {
    "code": "AIBUILDER20",
@@ -4014,19 +4014,19 @@
     "quote_only"
    ],
    [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$16",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-18",
   "catch": "The no-markup model pass-through is genuinely fair — but it also means your real cost is subscription PLUS model spend, and an agent that loops or processes big documents burns provider credits invisibly until you set limits.",
   "best": "Operators and teams that want to build and deploy real AI agents and workflows visually, across many models, without engineering time."
  },
@@ -4436,6 +4436,11 @@
     "per_seat"
    ],
    [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "📅",
     "Annual commit",
     "annual_lock"
@@ -4443,7 +4448,7 @@
   ],
   "price": "€50",
   "price_note": "from · per user per month",
-  "verified": "2026-09-02",
+  "verified": "2026-09-18",
   "catch": "The entry is €250 a month on annual billing — €3,000 a year committed before you've sent your first contract — and the rest of the ladder lives in a sales conversation.",
   "best": "Sales and legal teams with real contract volume who want the full lifecycle — creating, negotiating, e-signing and archiving interactive contracts."
  },
@@ -6905,7 +6910,14 @@
   "best": "Personal trainers and studios delivering structured workout/nutrition coaching through a polished client app, scaling by client count."
  },
  "Trainual": {
-  "verified": "2026-08-25",
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "verified": "2026-09-18",
   "catch": "You cannot find out what it costs without booking a demo.",
   "best": "Growing teams (roughly 10+ staff) that need to document SOPs and onboard new hires consistently instead of training by osmosis."
  },
@@ -7476,9 +7488,9 @@
     "addons_extra"
    ]
   ],
-  "price": "$5",
+  "price": "$1",
   "price_note": "from · per month",
-  "verified": "2026-08-25",
+  "verified": "2026-09-18",
   "catch": "The $7-per-100-prospects unit reads cheap, but a real outbound motion stacks add-ons fast.",
   "best": "Outbound teams that want usage-priced cold email plus LinkedIn outreach, with unlimited seats and email accounts included instead of per-user fees."
  },
@@ -7887,5 +7899,19 @@
   "verified": "2026-09-18",
   "catch": "Every tier says Book a demo.",
   "best": "US companies that want payroll, benefits, PEO and international hiring from one vendor and want to see a number before the call."
+ },
+ "Poptin": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$20",
+  "price_note": "from · per month",
+  "verified": "2026-09-18",
+  "catch": "The plan Poptin recommends does not have a price on it.",
+  "best": "Sites that want popups, forms and coupons with a genuinely usable free tier and a cheap first paid rung."
  }
 }
