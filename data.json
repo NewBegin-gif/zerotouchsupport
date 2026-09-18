@@ -3421,5 +3421,26 @@
     "desc": "Shopify app from Effective Apps that adds a bar of social media icons and share buttons to storefront pages, covering more than 80 platforms, with a per-platform Follow Us bar, shape and colour options, an animation, a one-click hide for shoppers and a click counter. The free plan is limited to development and partner stores, so a live store pays $4.99 a month or $41.88 a year after a 7-day trial. Built for Shopify, on the App Store since April 2020, 5.0 stars over 39 reviews.",
     "link": "https://platform.shoffi.app/r/rl_8zZLdiWT",
     "platform": "shopify"
+  },
+  {
+    "name": "TestDriver.ai",
+    "category": "Developer Tools",
+    "domain": "testdriver.ai",
+    "desc": "AI QA engineer that lives in GitHub: mention @testdriverai in a pull request or issue and it starts a real desktop sandbox, runs your application, writes and runs an end-to-end UI test, posts a recording, and commits the test file to your repository — then reruns it on every pull request that touches the same ground. Tests are written against behaviour rather than selectors (find “signup button”, assert “dashboard is visible”). Pro is $20 per seat a month plus $0.14 per testing minute with 120 minutes included and a 14-day trial, and seats are billed automatically for every GitHub user who gets a PR review or runs a test. Covers web apps, Chrome and VSCode extensions, Windows desktop and Linux; Mac, iOS and Android are Enterprise-only and marked coming soon. By Haxor Inc. Read 18 Sep 2026.",
+    "link": "https://get.testdriver.ai/gc1hssxgvwa8"
+  },
+  {
+    "name": "Influencer Hero",
+    "category": "Marketing",
+    "domain": "influencer-hero.com",
+    "desc": "All-in-one influencer marketing platform: AI creator discovery, automated outreach, an influencer CRM, UGC tracking and affiliate management in one record per creator, plus product send-outs and influencer payouts. Every plan carries the full toolset — the ladder is gated on quota and seats. Standard $519 a month (1,000 reach-outs, 20 payouts, 1 seat), Pro $839 (5,000 reach-outs, 200 payouts, 3 seats, dedicated account manager), Business $1,992 (10,000 reach-outs, UGC tracking to 1,500, unlimited payouts, 8 seats), Enterprise on quote. Quarterly saves 20% and annual 30%, billed up front, and every plan has a three-month minimum term — so the real entry price is $1,557. No overage rate is published. Read 18 Sep 2026.",
+    "link": "https://influencerhero.partnerlinks.io/jkswf1mg3zyf-b9bh0a"
+  },
+  {
+    "name": "Niural AI",
+    "category": "HR & People",
+    "domain": "niural.com",
+    "desc": "Payroll, benefits, HR, PEO and global hiring from one vendor, and — rare in this category — every product carries a published price. US Payroll Standard is a $100 monthly platform fee plus $20 per employee; US PEO runs from $59 a head without benefits and $120 with them. Internationally, with no platform fee: Global Payroll from $29 per employee for entities you already own, Contractor Management $49 per contractor, Contractor of Record $299, and Employer of Record from $299 across 150-plus countries. Every tier is demo-led with no self-serve sign-up, and the pricing page asks your headcount band before it shows a ladder. Read 18 Sep 2026.",
+    "link": "https://affiliate.niural.com/w0yzolgbfn7l"
   }
 ]
