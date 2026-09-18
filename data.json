@@ -1113,7 +1113,7 @@
     "category": "E-commerce",
     "domain": "feedyio.com",
     "desc": "Shopify product-feed engine (by happyapps.cz) that generates and syncs feeds for Google, Meta, Pinterest, TikTok, Bing and 130-plus marketplaces and price-comparison sites, with strong coverage of the Central European channels (Heureka, Glami, Kaufland, Favi). Custom XML, CSV, TXT or JSON feeds are built from your own Liquid template, with category mapping, attribute rules and validation before products get rejected. Free tier up to 30 products; Basic $9.99 a month, Advanced $19.99, Pro $29.99, capped on catalogue size. Launched May 2022, 115 reviews as of 10 Sep 2026.",
-    "link": "https://platform.shoffi.app/r/rl_zWJe8yiW",
+    "link": "https://feedyio.com/",
     "platform": "shopify"
   },
   {
@@ -2521,8 +2521,8 @@
     "name": "Shipdock",
     "domain": "happyapps.cz",
     "category": "E-commerce",
-    "desc": "Shopify pickup points, multi-carrier label printing and cash-on-delivery tracking, strongest on the Central European carrier networks.",
-    "link": "https://platform.shoffi.app/r/rl_GhvBej7p",
+    "desc": "Shopify pickup points, multi-carrier label printing and cash-on-delivery tracking, strongest on the Central European carrier networks. Listed in the Shopify App Store as \"ShipD Labels & Pickup points\" (apps.shopify.com/packeta) - same app by happyapps.cz, Shipdock is the earlier name (checked 18 September 2026).",
+    "link": "https://apps.shopify.com/packeta",
     "platform": "shopify"
   },
   {
