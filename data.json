@@ -3457,5 +3457,13 @@
     "desc": "Shopify app by Bold that predicts when each customer is due to reorder and nudges them at that moment by email, SMS, WhatsApp or on-site, with a one-click Smart Cart and tiered loyalty discounts instead of a subscription. Priced purely on results: free to install, then 3% of reorders completed within 24 hours of a nudge, 1% within seven days, and 5% on anything added beyond the reorder product — with no SMS, email, per-contact, push or app fees and no minimum. No ceiling and no volume discount either, so the bill scales with the result indefinitely. Launched 4 July 2025, 5.0 from nine reviews. Read 19 Sep 2026.",
     "link": "https://platform.shoffi.app/r/rl_tsd9mx5J",
     "platform": "shopify"
+  },
+  {
+    "name": "Selleasy",
+    "category": "Growth & Revenue",
+    "domain": "logbase.io",
+    "desc": "Shopify upsell and cross-sell app (by Logbase): bundles and product add-ons on the product page, add-on pop-ups and response-based funnels on the cart, one-click post-purchase offers and thank-you page add-ons. Priced by your store's total order count rather than by upsell revenue, and free under 50 orders a month.",
+    "link": "https://platform.shoffi.app/r/rl_mwMyx5kO",
+    "platform": "shopify"
   }
 ]
