@@ -2367,7 +2367,7 @@
   ],
   "price": "$10",
   "price_note": "Starter · per month for up to 500 loyalty-influenced orders",
-  "verified": "2026-08-22",
+  "verified": "2026-09-18",
   "catch": "Two things to read closely before you pay.",
   "best": "Shopify stores with genuine repeat business that want a loyalty programme priced on the orders it influences rather than on total volume."
  },
@@ -4002,7 +4002,7 @@
   ],
   "price": "$29",
   "price_note": "Automated app · a one-time payment rather than a subscription, and a floor rather than…",
-  "verified": "2026-08-23",
+  "verified": "2026-09-18",
   "catch": "The listing tells you nothing about what this costs.",
   "best": "Merchants moving an existing store into Shopify who want products, customers, orders and — critically."
  },
@@ -4936,10 +4936,10 @@
  },
  "ProtectMyOrder": {
   "price": "$20",
-  "price_note": "Free to install · minimum monthly charge on the App Store plan",
-  "verified": "2026-08-22",
-  "catch": "Start with the two pricing pages, because they do not describe the same product.",
-  "best": "Shopify stores with enough volume to clear roughly $100 of protection revenue a month and a known parcel-loss rate."
+  "price_note": "from · per month",
+  "verified": "2026-09-18",
+  "catch": "Start with what is no longer there.",
+  "best": "Shopify stores with a known parcel-loss rate that are willing to come in through the vendor rather than the App Store."
  },
  "Proton": {
   "price": "€7.99",
@@ -5783,7 +5783,7 @@
   ],
   "price": "$14.99",
   "price_note": "Basic · per month, the cheapest tier that prints shipping labels",
-  "verified": "2026-08-22",
+  "verified": "2026-09-18",
   "catch": "Read the carrier list against your own country before anything else.",
   "best": "Shopify merchants shipping in Central and Eastern Europe who want pickup points."
  },
@@ -6783,17 +6783,10 @@
   "pw_soort": "held"
  },
  "TiXel": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$19.99",
-  "price_note": "Unlimited Plan · per month, or $119.94 a year at a stated 50% saving",
-  "verified": "2026-08-22",
-  "catch": "The 4.1 rating is the most useful number on this listing, but not for the reason an average usually is.",
+  "price_note": "Unlimited Plan · per month, or $119.94 a year at a stated 50% saving, on a seven-day…",
+  "verified": "2026-09-18",
+  "catch": "The rating is the most useful number on this listing, but not for the reason an average usually is.",
   "best": "Shopify merchants running Meta and TikTok ads who need more than the free channel apps give them."
  },
  "TnC": {
