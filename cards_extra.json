@@ -6700,18 +6700,9 @@
   "best": "Support and sales teams that already text customers from personal phones and need a shared, compliant inbox with a record of who said what."
  },
  "TheTop": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
-  "price": "$8",
-  "price_note": "Pro · per month on the only plan there is, month to month",
-  "verified": "2026-09-10",
-  "catch": "Everything sits on one $8 plan, so the question is not which tier to buy but whether the caps on that plan fit your day.",
-  "best": "Professionals and small-business owners who lose the first hour of the day triaging Gmail and a calendar, and want one ranked brief instead of five open tabs."
+  "verified": "2026-09-19",
+  "catch": "The price is the knock, because there isn't one.",
+  "best": "Enterprises running AI across several departments, models and applications that cannot answer what the bill bought."
  },
  "Thordata": {
   "flags": [
@@ -7897,5 +7888,17 @@
   "verified": "2026-09-18",
   "catch": "The plan Poptin recommends does not have a price on it.",
   "best": "Sites that want popups, forms and coupons with a genuinely usable free tier and a cheap first paid rung."
+ },
+ "rePete": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "verified": "2026-09-19",
+  "catch": "The pricing is honest and the arithmetic still deserves care, because this is a percentage with no ceiling on it.",
+  "best": "Shopify stores selling consumables or anything with a natural replenishment rhythm — coffee, supplements, pet food, skincare."
  }
 }
