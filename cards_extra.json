@@ -7439,9 +7439,7 @@
     "free_tier"
    ]
   ],
-  "price": "$79",
-  "price_note": "from · per month",
-  "verified": "2026-09-18",
+  "verified": "2026-09-19",
   "catch": "Bandwidth is the meter that decides your bill, and it is the one number you cannot predict before you publish.",
   "best": "Marketing teams who want video on their own site with real analytics and lead capture, and who care that the player does not recommend a competitor's video afterwards."
  },
@@ -7900,5 +7898,19 @@
   "verified": "2026-09-19",
   "catch": "The pricing is honest and the arithmetic still deserves care, because this is a percentage with no ceiling on it.",
   "best": "Shopify stores selling consumables or anything with a natural replenishment rhythm — coffee, supplements, pet food, skincare."
+ },
+ "Selleasy": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "Starter Tier II · per month for 51-500 total store orders",
+  "verified": "2026-09-19",
+  "catch": "The meter is your whole store, not the app.",
+  "best": "Shopify stores that want bundles, add-ons, cart funnels and post-purchase offers out of one app and would rather be billed on order volume than hand over a share of the upsell revenue — and small stores in particular, since under 50 orders a month the full strategy set costs nothing."
  }
 }
