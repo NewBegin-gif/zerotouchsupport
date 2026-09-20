@@ -1034,6 +1034,11 @@
  "Brevo": {
   "flags": [
    [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -1044,9 +1049,9 @@
     "free_tier"
    ]
   ],
-  "price": "$27",
-  "price_note": "from · per month",
-  "verified": "2026-09-06",
+  "price": "€26.08",
+  "price_note": "from · per user per month",
+  "verified": "2026-09-19",
   "catch": "Charging by sends looks cheaper for a big list you email rarely, but the send tiers cap stored contacts too: 5,000 sends a month stores only 500 contacts, and a 20,000-contact list needs the 20,000-send tier whatever you send.",
   "best": "Businesses with large contact lists who email selectively and want to pay by send volume, not list size."
  },
@@ -2112,8 +2117,8 @@
   ],
   "price": "$24",
   "price_note": "Pro · per month billed annually at $288 -- cheaper than the $39 monthly…",
-  "verified": "2026-09-06",
-  "catch": "We have to be blunt here: DropGenius carries a very poor Trustpilot rating (around 1.6/5 at research time), with recurring complaints about charges continuing after cancellation and refund difficulty.",
+  "verified": "2026-09-19",
+  "catch": "We have to be blunt here: the dominant theme in DropGenius’s public buyer reviews is unauthorised charges continuing after cancellation with no route to a refund, and some reviewers report never reaching a dashboard to cancel at all, with support emails bouncing back undeliverable.",
   "best": "Absolute beginners who want a pre-built Shopify dropshipping store scaffold in minutes and understand it's a starting point, not a business."
  },
  "Dryground AI": {
@@ -2846,7 +2851,7 @@
   ],
   "price": "$9",
   "price_note": "Dev · per month billed yearly ($12 monthly)",
-  "verified": "2026-09-19",
+  "verified": "2026-09-20",
   "catch": "The meter is pageviews, not visitors, and each product consumes its own pageview on the same page visit — so a redirect plus a popup bills twice.",
   "best": "Marketers personalizing redirects, content blocks and popups by visitor location — country to city level — without engineering work."
  },
@@ -3370,7 +3375,7 @@
   ],
   "price": "$49",
   "price_note": "Start (3 live funnels… · per month, month-to-month",
-  "verified": "2026-09-07",
+  "verified": "2026-09-19",
   "catch": "The tier pages sell live funnels, but the meter that empties first is contacts.",
   "best": "Marketers building interactive lead-gen — quizzes, calculators, assessments and payment funnels with built-in email sequences."
  },
@@ -4827,7 +4832,9 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-09-05",
+  "price": "$750",
+  "price_note": "from · per month",
+  "verified": "2026-09-19",
   "catch": "The $0 a month is not free — it carries a $49 monthly minimum spend, which means $49 is your floor whether you send anything or not.",
   "best": "Shopify stores with a list large enough that SMS beats email on response — the per-message economics only work once volume justifies the platform fee."
  },
@@ -7357,7 +7364,7 @@
   ],
   "price": "$39.90",
   "price_note": "Starter · per month billed monthly, or 286.80 a year (23.90 a month, the…",
-  "verified": "2026-09-06",
+  "verified": "2026-09-19",
   "catch": "Everything is credits, and generating a site burns them fast — Wegic's own page notes a single generation can cost over $10 in credits, while the free plan gives 100 credits once.",
   "coupon": {
    "code": "",
