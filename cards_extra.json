@@ -7905,5 +7905,19 @@
   "verified": "2026-09-19",
   "catch": "The meter is your whole store, not the app.",
   "best": "Shopify stores that want bundles, add-ons, cart funnels and post-purchase offers out of one app and would rather be billed on order volume than hand over a share of the upsell revenue — and small stores in particular, since under 50 orders a month the full strategy set costs nothing."
+ },
+ "Warn": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$6.99",
+  "price_note": "from · per month",
+  "verified": "2026-09-20",
+  "catch": "The app is called Warn: Warnings Checkout Blocks, and blocking checkout is the one thing most readers of this listing cannot buy at the advertised price.",
+  "best": "Shopify merchants who know exactly which notice they need — a Prop 65 label, a shipping-delay alert, an age-verification disclaimer, a we-no-longer-ship-here message."
  }
 }
