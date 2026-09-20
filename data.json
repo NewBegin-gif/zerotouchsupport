@@ -1446,6 +1446,14 @@
   "replaces": "Backblaze"
  },
  {
+  "name": "Imgify",
+  "category": "Design & Content",
+  "domain": "effectify.io",
+  "desc": "Shopify app that drops your own logo — or snow, hearts and dozens of holiday presets — down the storefront, with a marquee slider for partner, payment and press logos and an AI logo maker for the artwork. $2.99 a month or $28.70 a year; the free plan is development and partner stores only, so a live shop pays from day one.",
+  "link": "https://platform.shoffi.app/r/rl_ow1RPnmR",
+  "platform": "shopify"
+ },
+ {
   "name": "InboxAlly",
   "category": "Growth & Revenue",
   "domain": "inboxally.com",
