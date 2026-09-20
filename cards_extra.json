@@ -6424,9 +6424,9 @@
     "free_tier"
    ]
   ],
-  "price": "€19",
+  "price": "$19",
   "price_note": "from · per month",
-  "verified": "2026-09-14",
+  "verified": "2026-09-20",
   "catch": "The conversational-survey UX is the draw, but response limits on lower tiers and the 'contact sales' wall on advanced features (API, higher volume) make budgeting fiddly — and there's no true monthly billing.",
   "best": "Teams that want engaging, conversational surveys and NPS with a polished respondent experience."
  },
