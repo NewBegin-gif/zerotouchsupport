@@ -3481,5 +3481,12 @@
   "desc": "Shopify app from Effective Apps that adds customizable warnings — Prop 65 labels, shipping-delay alerts, age-verification and withdrawal disclaimers — to product, cart and checkout pages, as text or pop-ups, targeted globally or by product, collection, country or US state. Free covers one textual warning; $6.99 a month lifts that to unlimited warnings for every store except Shopify Plus. Showing a warning on the Checkout page and blocking checkout are Plus Plan features at $12.99 a month, and that plan is for Shopify Plus stores. On the App Store since December 2019.",
   "link": "https://platform.shoffi.app/r/rl_ovOui0KR",
   "platform": "shopify"
+ },
+ {
+  "name": "Gushwork",
+  "category": "SEO & Marketing",
+  "domain": "gushwork.ai",
+  "desc": "AI marketing agents for small and mid-sized businesses, sold as one done-for-you system rather than a seat: it publishes pages built for AI search and Google, keeps a brand-memory source of truth, tracks every visitor, filters spam out of the leads dashboard and runs paid campaigns alongside. Setup, writing, publishing and optimisation are handled for you; pricing starts at $900 a month and the rest is quoted.",
+  "link": "https://try.gushwork.ai/8h4qdc30ztgm"
  }
 ]
