@@ -1092,11 +1092,21 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$19",
   "price_note": "from · per month",
-  "verified": "2026-09-14",
+  "verified": "2026-09-21",
   "catch": "Two honest realities of no-code scraping.",
   "best": "Ops, research and growth teams that want to monitor competitors, prices or listings and pipe structured web data into sheets without writing scrapers."
  },
