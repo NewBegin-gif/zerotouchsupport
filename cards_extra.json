@@ -1503,7 +1503,7 @@
  "Clonable": {
   "price": "€25",
   "price_note": "from · per month",
-  "verified": "2026-09-19",
+  "verified": "2026-09-21",
   "catch": "Two honest caveats.",
   "best": "Businesses that want a fast, continuously-updated translated version of an existing website without rebuilding it as a multilingual site."
  },
@@ -2081,7 +2081,7 @@
   ],
   "price": "$329",
   "price_note": "from · per month",
-  "verified": "2026-09-01",
+  "verified": "2026-09-21",
   "catch": "Formation is the cheap part; the recurring bookkeeping and tax tiers are where the real cost sits, and state fees are extra on top of doola's price.",
   "coupon": {
    "code": "AIBUILDER10",
