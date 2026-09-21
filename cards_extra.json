@@ -341,7 +341,16 @@
   "best": "Image-heavy sites that need alt text written back into the CMS automatically: e-commerce catalogues, publishers and long-running blogs on WordPress, Shopify."
  },
  "Alvys": {
-  "verified": "2026-08-26",
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$100",
+  "price_note": "from · per month",
+  "verified": "2026-09-20",
   "catch": "Two honest boundaries.",
   "best": "FTL trucking carriers and asset-based (hybrid) brokers with roughly 5–300 trucks — especially compliance-heavy freight like hazmat, reefer and cross-border."
  },
@@ -912,7 +921,7 @@
   ],
   "price": "$49",
   "price_note": "Start · per month, cancel anytime per their own FAQ",
-  "verified": "2026-09-11",
+  "verified": "2026-09-20",
   "catch": "Bokun is a Tripadvisor/Viator company, and that's both the draw and the lock-in.",
   "best": "Tour, activity and experience operators who want booking management plus wide OTA distribution (Viator, GetYourGuide and more) from one dashboard."
  },
@@ -1004,11 +1013,16 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$49",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-20",
   "catch": "Two meters to watch: it prices per WEBSITE (multi-site setups multiply the $49) and the AI features run on compute-credit blocks that stack as usage grows.",
   "best": "Marketing and revenue teams that want engaged visitors — people who filled a form or left an email."
  },
@@ -1101,7 +1115,7 @@
   ],
   "price": "$13",
   "price_note": "Basic · per month, annual",
-  "verified": "2026-09-13",
+  "verified": "2026-09-20",
   "catch": "Those list prices are the discount's anchor, not a rate anyone is currently offered.",
   "best": "Teams that need a reusable web scraper or browser bot without writing selectors, want the browsers, residential proxies and CAPTCHA handling managed for them."
  },
@@ -1332,11 +1346,16 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "$19",
   "price_note": "Basic · per month for 2,000 credits, billed in USD every 30 days",
-  "verified": "2026-08-19",
+  "verified": "2026-09-20",
   "catch": "First, the name is not a name.",
   "best": "Shopify stores with catalogues in the thousands that need descriptions, titles, meta tags and alt text written in bulk and in several languages."
  },
@@ -1753,11 +1772,16 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "$299",
   "price_note": "from · per month",
-  "verified": "2026-08-21",
+  "verified": "2026-09-20",
   "catch": "The meter is tested users, and it keeps running: blow past your monthly allowance and overuse blocks land at $399-699 unless you hard-cap them — and every extra custom domain is $1,000 a year.",
   "best": "CRO teams running serious A/B and multivariate testing who want a privacy-first, GDPR-friendly alternative to the big experimentation suites."
  },
@@ -2837,7 +2861,7 @@
  "GeoStock": {
   "price": "$9.99",
   "price_note": "Basic · per month",
-  "verified": "2026-09-13",
+  "verified": "2026-09-20",
   "catch": "Know what this is before you buy it: despite the name it is a storefront widget, not an inventory system.",
   "best": "Retailers with physical locations who want shoppers to see per-store stock and find the nearest branch on the product page itself."
  },
@@ -3266,6 +3290,20 @@
   "verified": "2026-09-04",
   "catch": "The first-year price is a teaser and the renewal is the price — IDrive says so itself under the plan table, and on the current numbers the step from discounted to standard is about 43% (Personal 5 TB goes from $6.99 to $9.99 a month).",
   "best": "Individuals and small businesses that want cheap multi-device cloud backup with versioning, snapshots and physical seed/restore shipping."
+ },
+ "Imgify": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$2.99",
+  "price_note": "from · per month",
+  "verified": "2026-09-20",
+  "catch": "Start with the word 'free' on the listing card, because it does not mean what it looks like.",
+  "best": "Shopify stores that want their own logo falling down the page, or a marquee of partner, payment and press logos, rather than generic snow."
  },
  "InboxAlly": {
   "price": "$149",
@@ -4796,7 +4834,7 @@
  "Plesk": {
   "price": "$16.99",
   "price_note": "Web Admin Edition (VPS) · per server per month billed monthly for 10 domains, or 15.57 a month on…",
-  "verified": "2026-08-30",
+  "verified": "2026-09-20",
   "catch": "Two honest notes.",
   "best": "Agencies and hosters managing multiple sites on their own servers who want a mature control panel with per-domain management, security and one-click stacks."
  },
@@ -5565,7 +5603,7 @@
   ],
   "price": "$5.99",
   "price_note": "Pro · per month, or $49.99 a year (30% less)",
-  "verified": "2026-09-13",
+  "verified": "2026-09-20",
   "catch": "Blocking by country and IP is a blunt instrument and it cuts both ways: every rule that keeps out a fraudster also keeps out a customer travelling, using a corporate VPN, or living behind a carrier NAT.",
   "best": "Stores seeing real fraud or bot traffic that want country, IP, VPN and email-risk rules plus automatic holds on suspicious orders."
  },
@@ -5961,9 +5999,14 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
-  "verified": "2026-09-11",
+  "verified": "2026-09-20",
   "catch": "The plan ladder is set by bookings per month and by how many custom features you may switch on, and those two ceilings move independently — so you can outgrow a plan on features while nowhere near the booking cap, or the reverse.",
   "best": "Service businesses that take appointments and want a booking page, reminders and online payment without building one."
  },
@@ -7151,7 +7194,7 @@
   ],
   "price": "$12",
   "price_note": "from · per month",
-  "verified": "2026-09-01",
+  "verified": "2026-09-20",
   "catch": "Credits don't carry over month to month, and a few users report slow support/account responses — so run the free plan through a full create-and-publish loop before you pay.",
   "coupon": {
    "code": "AIBUILDERMARKETPLACE",
@@ -7203,7 +7246,7 @@
   "best": "Companies with regularly traveling teams that want one pooled global data contract, per-user controls and an end to roaming bill surprises."
  },
  "VWO": {
-  "verified": "2026-09-10",
+  "verified": "2026-09-20",
   "catch": "The jump from Growth to Pro is steep — small businesses get priced out of MVT and complex targeting — and the UI is dense with options.",
   "best": "Teams that want an all-in-one experience-optimisation platform (A/B testing + heatmaps + personalisation) with friendlier Bayesian stats and transparent pricing."
  },
