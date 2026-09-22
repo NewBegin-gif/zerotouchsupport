@@ -3488,5 +3488,13 @@
   "domain": "gushwork.ai",
   "desc": "AI marketing agents for small and mid-sized businesses, sold as one done-for-you system rather than a seat: it publishes pages built for AI search and Google, keeps a brand-memory source of truth, tracks every visitor, filters spam out of the leads dashboard and runs paid campaigns alongside. Setup, writing, publishing and optimisation are handled for you; pricing starts at $900 a month and the rest is quoted.",
   "link": "https://try.gushwork.ai/8h4qdc30ztgm"
+ },
+ {
+  "name": "Loyalino",
+  "category": "E-commerce",
+  "domain": "loyalino.io",
+  "link": "https://platform.shoffi.app/r/rl_y7BckG2O",
+  "desc": "Shopify loyalty app from OkayScale: points on orders and actions, VIP tiers by points or spend, referrals with dual-sided rewards, shown in a floating widget, the cart, product pages, customer accounts, a standalone storefront page and Shopify POS. Metered by monthly loyalty orders - free to 200, then $29, $129, $499 and $999 a month for 500, 2,000, 7,000 and unlimited - and at the cap the program pauses for the rest of the month rather than charging overage. Runs in the EU, ships in eight languages. Launched June 2026, no reviews yet. Read 22 Sep 2026.",
+  "platform": "shopify"
  }
 ]
