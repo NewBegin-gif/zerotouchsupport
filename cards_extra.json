@@ -104,6 +104,11 @@
  "AfterSell": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -111,7 +116,7 @@
   ],
   "price": "$34.99",
   "price_note": "from · per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-22",
   "catch": "Post-purchase upsells only move the needle with steady order volume and a sensible complementary-offer strategy — bolt it onto a store with little traffic and there's nothing to upsell.",
   "best": "Shopify stores with steady order volume that want to lift average order value with one-click post-purchase and checkout upsells."
  },
@@ -2022,7 +2027,7 @@
   ],
   "price": "$75",
   "price_note": "from · per month",
-  "verified": "2026-08-21",
+  "verified": "2026-09-22",
   "catch": "All-in-one marketing dashboards live or die on data depth per module.",
   "best": "Lean teams and agencies that want PPC, SEO and lead intelligence consolidated in one affordable dashboard instead of five subscriptions."
  },
@@ -3500,7 +3505,7 @@
   ],
   "price": "$995",
   "price_note": "Jubilee 36 · per YEAR for up to 36 filings",
-  "verified": "2026-08-26",
+  "verified": "2026-09-22",
   "catch": "It's a focused vertical tool — bankruptcy petition preparation and case management — so its whole value is bounded by that practice area; a general legal practice won't get much from it.",
   "best": "Bankruptcy attorneys and legal professionals who want streamlined petition preparation, document automation and case management for filings."
  },
@@ -5063,7 +5068,7 @@
  "Pythago": {
   "price": "$39",
   "price_note": "from · per month",
-  "verified": "2026-08-23",
+  "verified": "2026-09-22",
   "catch": "The $39 headline is the per-store price once you run three-plus stores — a single store is actually $59 a month.",
   "best": "Dropshippers running multiple Shopify stores who want real-time ROAS and ROI tracking plus AI product research in one dashboard."
  },
@@ -6628,11 +6633,6 @@
     "usage_metered"
    ],
    [
-    "📅",
-    "Annual commit",
-    "annual_lock"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -6640,7 +6640,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month",
-  "verified": "2026-08-23",
+  "verified": "2026-09-22",
   "catch": "The tiers gate on TWO axes at once — member count and project/pipeline count — so you can hit a wall on either.",
   "best": "Solo operators and small teams who want projects, tasks, chat AND a lightweight CRM pipeline with AI in one simple tool, and value the real free tier to start."
  },
