@@ -4257,6 +4257,10 @@
  "Mycroft": {
   "verified": "2026-09-04",
   "catch": "The pricing page is a feature list with the prices taken out, and that is a choice rather than an oversight — Mycroft publishes what is in each package down to the individual capability, then stops short of the one line you came for.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: 20% off any Mycroft purchase"
+  },
   "best": "Companies chasing an attestation they cannot staff for."
  },
  "Navan": {
