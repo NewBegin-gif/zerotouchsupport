@@ -209,8 +209,8 @@
     "annual_lock"
    ]
   ],
-  "price": "$40",
-  "price_note": "Essentials, per licence · billed monthly",
+  "price": "$30",
+  "price_note": "Essentials, per licence · per licence per month on annual billing ($40 billed monthly)",
   "verified": "2026-08-29",
   "catch": "Two structural catches: the 3-seat minimum makes the real starting price triple the sticker, and the annual-vs-monthly gap is steep (Professional: $50 vs $70).",
   "best": "Sales and support teams (3+ seats) that want a polished cloud phone system embedded in their CRM/helpdesk, with call routing, analytics and 250+ integrations."
@@ -691,8 +691,8 @@
     "per_seat"
    ]
   ],
-  "price": "$45",
-  "price_note": "Pro, per user · billed monthly",
+  "price": "$14.50",
+  "price_note": "Pro · per month billed annually",
   "verified": "2026-09-02",
   "catch": "The smart-template engine is the feature and the fence: decks look polished with zero design skill precisely because the system constrains you, so pixel-perfect custom layouts and heavy brand exceptions fight the tool.",
   "best": "Founders, sales and small teams that want consistently good-looking decks fast, where design consistency matters more than pixel-level control.",
@@ -1405,8 +1405,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$129",
-  "price_note": "Professional · billed monthly",
+  "price": "$89",
+  "price_note": "Professional · per month billed annually ($129 billed monthly)",
   "verified": "2026-09-05",
   "catch": "The sticker is only the entry: Circle keeps a commission on every sale on top of Stripe's processing fees, and email marketing is a separate add-on — so a monetized community's real bill runs meaningfully past the plan price.",
   "best": "Creators and brands running a paid community — courses, memberships, events and discussions in one branded home."
@@ -1958,8 +1958,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$18",
-  "price_note": "Personal, per seat · billed monthly",
+  "price": "$15",
+  "price_note": "Personal, per seat · per seat per month billed annually ($18 billed monthly)",
   "verified": "2026-08-26",
   "catch": "The seat price is the smaller half of the bill.",
   "best": "Teams that want to prototype and ship AI agents and apps across multiple models without engineering overhead."
@@ -2236,8 +2236,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$49",
-  "price_note": "Essential, per agent · billed monthly",
+  "price": "$39",
+  "price_note": "Essential, per agent · per agent per month billed annually ($49 billed monthly)",
   "verified": "2026-08-17",
   "catch": "There are two meters, and the second one is easy to miss.",
   "best": "E-commerce and marketplace sellers who want one unified inbox across Amazon, eBay, Shopify and email."
@@ -3245,8 +3245,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$10",
-  "price_note": "Team · per seat per month billed annually ($12 billed monthly)",
+  "price": "$4.99",
+  "price_note": "Starter, per seat · per seat per month billed annually ($7 billed monthly)",
   "verified": "2026-09-19",
   "catch": "The seat definition is the whole story and they state it plainly, which deserves credit: you pay for every seat you have created, not every person actually being tracked.",
   "best": "Agencies and distributed teams that bill clients for hours and need defensible time records."
@@ -3264,8 +3264,8 @@
     "usage_metered"
    ]
   ],
-  "price": "€39",
-  "price_note": "Launch (1 user, 5… · billed monthly",
+  "price": "€9",
+  "price_note": "Starter (1 user, 3… · per month billed yearly (EUR 11 month to month) for 3 profiles, 1 user…",
   "verified": "2026-09-15",
   "catch": "Its depth is strongest on Instagram and the core networks; if your priority platform sits outside its best-supported set, coverage thins.",
   "best": "Agencies and brands that want deep social analytics, reporting and competitor benchmarking alongside scheduling, especially Instagram-first teams."
@@ -3767,8 +3767,8 @@
     "free_tier"
    ]
   ],
-  "price": "€113",
-  "price_note": "Discover · per month, month-to-month",
+  "price": "$79",
+  "price_note": "Discover · per month billed annually",
   "verified": "2026-09-05",
   "catch": "The words doing the work are 'starting at'.",
   "best": "B2B teams with real website traffic and a sales team that will actually work the list.",
@@ -4094,8 +4094,8 @@
     "free_tier"
    ]
   ],
-  "price": "$10",
-  "price_note": "Starter, per member · billed monthly",
+  "price": "$8",
+  "price_note": "Starter, per member · per member per month billed yearly ($10 billed monthly)",
   "verified": "2026-09-02",
   "catch": "Per-member pricing charges for every member added to the workspace, so an org-wide rollout multiplies at full headcount — and the free plan's 3-board cap is workspace-wide, not per person, so real teams outgrow it in days.",
   "best": "Teams that think visually — brainstorms, flowcharts, retros, workshops and planning on an infinite shared canvas with strong templates and facilitation tools."
@@ -4806,8 +4806,8 @@
     "usage_metered"
    ]
   ],
-  "price": "€8",
-  "price_note": "Starter · on monthly billing, against a €13 list price",
+  "price": "€87",
+  "price_note": "Starter · per year on the yearly tab (list price EUR 145)",
   "verified": "2026-09-19",
   "catch": "The meter is credits per attempt, not per usable result — and buyer reviews centre on exactly that.",
   "best": "Solo founders and small teams that want a steady stream of product-marketing videos and posters generated from a product link, without filming anything."
@@ -5014,8 +5014,8 @@
   "best": "Shopify stores with a known parcel-loss rate that are willing to come in through the vendor rather than the App Store."
  },
  "Proton": {
-  "price": "€7.99",
-  "price_note": "Proton for Business… · billed monthly with no commitment",
+  "price": "$3.99",
+  "price_note": "Mail Plus · per month billed yearly ($47.88 a year",
   "verified": "2026-08-26",
   "catch": "Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all: you go from 200 GB to 500 GB, but you also start paying for Mail, Calendar, Pass and VPN whether or not you wanted them.",
   "best": "Teams and individuals for whom encryption is an actual requirement rather than a preference."
@@ -5360,8 +5360,8 @@
     "annual_lock"
    ]
   ],
-  "price": "$99",
-  "price_note": "Multichannel… · billed monthly",
+  "price": "$49",
+  "price_note": "Email Volume, 1,000… · per month, pay-as-you-go by active contacts",
   "verified": "2026-08-17",
   "catch": "The $89 is the Multichannel track on annual billing, and it does include LinkedIn, calls, SMS and WhatsApp — $99 month to month.",
   "best": "Sales teams running structured multichannel outbound (email + LinkedIn + calls) who want sequences, warmup and a B2B database in one platform."
@@ -5563,8 +5563,8 @@
   "pw_soort": "restructure"
  },
  "SaneBox": {
-  "price": "$9.49",
-  "price_note": "Snack, the entry plan… · per month, billed month to month with no commitment",
+  "price": "$4.54",
+  "price_note": "Snack (1 email account… · per month on a two-year prepay ($109 every 2 years)",
   "verified": "2026-09-05",
   "catch": "It works with any email provider, which is a genuine advantage over the built-in tools in Gmail and Outlook.",
   "best": "Heavy-email professionals drowning in a cluttered inbox who want AI triage that works across any mail client."
@@ -5876,8 +5876,8 @@
     "annual_lock"
    ]
   ],
-  "price": "$14.99",
-  "price_note": "Basic · per month, the cheapest tier that prints shipping labels",
+  "price": "$9.99",
+  "price_note": "Lite · per month for Lite, which exports CSV only ($107.88 a year)",
   "verified": "2026-09-18",
   "catch": "Read the carrier list against your own country before anything else.",
   "best": "Shopify merchants shipping in Central and Eastern Europe who want pickup points."
@@ -6085,8 +6085,8 @@
     "usage_metered"
    ]
   ],
-  "price": "$20",
-  "price_note": "Team, per seat · billed monthly",
+  "price": "$15",
+  "price_note": "Team, per seat · per seat per month billed annually ($20 billed monthly), with a minimum…",
   "verified": "2026-09-14",
   "catch": "It's a broad, do-everything work-management platform, so the power comes with a learning curve and a per-seat cost that adds up for bigger teams — a single source of truth if you commit, overkill if you just need a task list.",
   "best": "Teams consolidating projects, CRM and operations into one flexible, database-driven work-management platform."
@@ -6365,8 +6365,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$59",
-  "price_note": "Pro, per user · billed monthly",
+  "price": "$49",
+  "price_note": "Pro, per user · per user per month billed annually ($59 billed monthly)",
   "verified": "2026-08-31",
   "catch": "The pitch — CRM living inside Gmail — is also the ceiling: everything happens in the inbox, which power users love and growing teams outgrow (reporting, permissions, cross-team process).",
   "best": "Solo founders and small Gmail-native teams whose pipeline genuinely lives in email threads and who want zero context-switching."
@@ -6694,8 +6694,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$179",
-  "price_note": "Essentials, up to $10K… · billed monthly",
+  "price": "$149",
+  "price_note": "Essentials, up to $10K… · per month billed annually",
   "verified": "2026-09-19",
   "catch": "Read the Advanced tier carefully, because it is not a subscription — it is a subscription plus a percentage.",
   "best": "Amazon and Walmart sellers spending enough on ads that a few points of efficiency covers the fee — under $10K a month the flat $149 is straightforward."
@@ -6928,8 +6928,8 @@
     "annual_lock"
    ]
   ],
-  "price": "$95",
-  "price_note": "TE Recruit Standard… · per month, billed month to month",
+  "price": "$79",
+  "price_note": "TE Recruit Standard… · per seat per month billed annually",
   "verified": "2026-09-10",
   "catch": "Almost everything people shop for sits in Professional, not Standard: Smart-TE AI, automations, sequences, inbound email sync and API access are all one tier up, so Standard is a competent but plain ATS.",
   "best": "Recruiting agencies and SMB staffing firms that want an applicant tracking system and CRM in one place."
