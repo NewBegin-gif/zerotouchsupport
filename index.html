@@ -130,7 +130,7 @@
             flex-wrap: wrap;
         }
 
-        .hero-content { flex: 1; min-width: 320px; }
+        .hero-content { flex: 1; min-width: min(320px, 100%); } /* 22 sep 2026 (audit R23-04): 320px + 24px hero-padding gaf 344px op een 320px-scherm */
 
         .hero-badge {
             display: inline-flex;
