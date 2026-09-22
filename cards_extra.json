@@ -3855,7 +3855,7 @@
   ],
   "price": "$55",
   "price_note": "from · per month",
-  "verified": "2026-08-17",
+  "verified": "2026-09-21",
   "catch": "The per-seat plus per-email-account model makes total cost unpredictable as you scale, and reviews flag support response times and the LinkedIn Chrome-extension's reliability.",
   "coupon": {
    "code": "OFFSUMMERLEMAGENT",
@@ -7972,5 +7972,19 @@
   "verified": "2026-09-20",
   "catch": "The app is called Warn: Warnings Checkout Blocks, and blocking checkout is the one thing most readers of this listing cannot buy at the advertised price.",
   "best": "Shopify merchants who know exactly which notice they need — a Prop 65 label, a shipping-delay alert, an age-verification disclaimer, a we-no-longer-ship-here message."
+ },
+ "Gushwork": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$900",
+  "price_note": "from · per month",
+  "verified": "2026-09-21",
+  "catch": "One published number, and it is the floor.",
+  "best": "Sales-led B2B businesses with no marketer and no agency, that win work through quote requests and consultation calls, and want the research, writing."
  }
 }
