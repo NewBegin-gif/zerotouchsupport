@@ -1853,7 +1853,7 @@
  "CrowdStrike": {
   "price": "$7.99",
   "price_note": "Falcon Go · per device per month, or $59.99 per device a year",
-  "verified": "2026-08-28",
+  "verified": "2026-09-22",
   "catch": "Two numbers decide whether this is for you, and neither is the headline.",
   "best": "Small and mid-size companies that want a serious endpoint agent without running a security team — Falcon Go is genuinely priced for businesses under 100 devices."
  },
@@ -2414,8 +2414,7 @@
   "best": "Shopify stores that sell tickets alongside products and want attendees."
  },
  "Evolve": {
-  "verified": "2026-08-31",
-  "catch": "It's built for large organizations — the site lists 100+ deployed enterprises like Carlsberg and Danone — and the sales-led, quote-only motion reflects that: there is no self-serve tier to trial quietly, so smaller teams can't just kick the tires before procurement gets involved.",
+  "verified": "2026-09-22",
   "best": "Enterprises and scale-ups that need structured, measurable training rolled out across hundreds of employees."
  },
  "Expandi": {
@@ -2627,7 +2626,7 @@
  "FlexiQuiz": {
   "price": "$17",
   "price_note": "from · per month",
-  "verified": "2026-08-31",
+  "verified": "2026-09-22",
   "catch": "The monthly response caps are the business model: 20 on free, 500 on Essentials, 2,000 on Premium and 25,000 on Enterprise -- one viral quiz or one big exam cohort and you're shopping a tier up.",
   "best": "Educators, trainers and small teams that want professional graded quizzes, exams and simple courses — with certificates, timed tests, question banks and analytics."
  },
@@ -6109,9 +6108,9 @@
     "addons_extra"
    ]
   ],
-  "price": "$29",
+  "price": "$49",
   "price_note": "from · per month",
-  "verified": "2026-08-30",
+  "verified": "2026-09-22",
   "catch": "You are billed per social profile, not per person, and a profile is one brand account on one network.",
   "best": "Solo marketers and small agencies who post to several networks on a schedule and want evergreen recycling rather than a queue that empties."
  },
@@ -7628,7 +7627,7 @@
   ],
   "price": "$5",
   "price_note": "from · per month",
-  "verified": "2026-08-27",
+  "verified": "2026-09-22",
   "catch": "The $0 is real for the filing service and it is also the whole commercial idea: what you sign up for at zero has an annual carry that is not shown next to it.",
   "best": "First-time founders who want the paperwork handled and are willing to pay a yearly fee to keep it handled."
  },
@@ -7986,5 +7985,29 @@
   "verified": "2026-09-21",
   "catch": "One published number, and it is the floor.",
   "best": "Sales-led B2B businesses with no marketer and no agency, that win work through quote requests and consultation calls, and want the research, writing."
+ },
+ "Loyalino": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$29",
+  "price_note": "from · per month",
+  "verified": "2026-09-22",
+  "catch": "Reach your plan's order limit and the program does not cost more, it stops.",
+  "best": "Shopify stores whose loyalty orders sit comfortably below a plan ceiling and who want the whole program - points, VIP tiers, referrals, the widget."
  }
 }
