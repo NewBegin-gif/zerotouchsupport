@@ -3496,5 +3496,13 @@
     "link": "https://platform.shoffi.app/r/rl_y7BckG2O",
     "desc": "Shopify loyalty app from OkayScale: points on orders and actions, VIP tiers by points or spend, referrals with dual-sided rewards, shown in a floating widget, the cart, product pages, customer accounts, a standalone storefront page and Shopify POS. Metered by monthly loyalty orders - free to 200, then $29, $129, $499 and $999 a month for 500, 2,000, 7,000 and unlimited - and at the cap the program pauses for the rest of the month rather than charging overage. Runs in the EU, ships in eight languages. Launched June 2026, no reviews yet. Read 22 Sep 2026.",
     "platform": "shopify"
+  },
+  {
+    "name": "LumenCart",
+    "category": "Design & Content",
+    "domain": "lumencart.fleeta.co.uk",
+    "desc": "Shopify app from Fleeta that turns the product photos you already have into AI studio and lifestyle images, one at a time or in bulk, and publishes them to the product in one click. Metered in credits rather than images: free for 25 lifetime generations per store, then $9, $29, $79 and $199 a month for 75, 300, 1,000 and 2,500 credits refreshed monthly, annual billing 15% off, and an image costs 1 credit at standard quality or 2 at the highest. The per-credit rate stops improving at Pro. One-off packs run $22 for 25 credits to $749 for 1,000 and keep for 12 months. Launched August 2026, no reviews yet. Read 22 Sep 2026.",
+    "link": "https://platform.shoffi.app/r/rl_giIMR76Q",
+    "platform": "shopify"
   }
 ]
