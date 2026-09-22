@@ -1947,7 +1947,7 @@
     "name": "Outgrow",
     "category": "Growth & Revenue",
     "domain": "outgrow.co",
-    "desc": "Interactive content builder for quizzes, calculators, polls and assessments. Generate and qualify leads with engaging, no-code experiences, then sync them straight into Klaviyo via OAuth for email/SMS follow-up, or into Attio for CRM handoff.",
+    "desc": "Interactive content builder for quizzes, calculators, polls and assessments. Generate and qualify leads with engaging, no-code experiences, then sync them straight into Klaviyo via OAuth for email/SMS follow-up, into Attio for CRM handoff, or into CleverTap, where each answer maps to a field you choose and the lead lands as a contact or in a segment. CleverTap connection read on outgrow.co, 22 Sep 2026.",
     "link": "https://share.outgrow.biz/qgj4ctjituaf",
     "replaces": "Typeform"
   },
