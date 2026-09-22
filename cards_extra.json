@@ -4559,7 +4559,19 @@
   "best": "Marketers who want quizzes, calculators and assessments that earn the lead by giving genuine value — with logic, integrations and templates handled."
  },
  "Ownr": {
-  "verified": "2026-08-23",
+  "flags": [
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "verified": "2026-09-22",
   "catch": "Two honest limits.",
   "best": "Canadian founders who want a straightforward sole proprietorship or single-shareholder incorporation done fast, without paying lawyer rates."
  },
