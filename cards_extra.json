@@ -8042,5 +8042,27 @@
   "verified": "2026-09-22",
   "catch": "Reach your plan's order limit and the program does not cost more, it stops.",
   "best": "Shopify stores whose loyalty orders sit comfortably below a plan ceiling and who want the whole program - points, VIP tiers, referrals, the widget."
+ },
+ "LumenCart": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "verified": "2026-09-22",
+  "catch": "Two things decide whether this is cheap, and neither is the plan price.",
+  "best": "Small Shopify merchants who want studio and lifestyle product shots out of the photos they already have, without hiring a photographer or a studio."
  }
 }
