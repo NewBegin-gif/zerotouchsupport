@@ -19,8 +19,8 @@
   "best": "Teams that want the most polished, secure password manager with solid admin controls and integrations."
  },
  "800.com": {
-  "price": "$23",
-  "price_note": "Startup (1,000 minutes… · per month, billed month to month",
+  "price": "$19",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "It does one thing cleanly: toll-free and vanity numbers with call tracking and routing.",
   "best": "Businesses that want a professional toll-free or vanity number with call tracking, routing and analytics to look bigger and measure inbound calls."
@@ -128,10 +128,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$20",
-  "price_note": "Everything your agency n · USD per client/mo, billed annually",
   "verified": "2026-09-11",
-  "catch": "Two honest snags.",
+  "catch": "Two honest snags. Cost scales linearly with clients — great at 5, pricey at 50+. And the most-cited complaint is connector reliability: data sources disconnect and the platform doesn't always flag the failure clearly.",
   "best": "Marketing agencies that need white-label client reports from 85+ integrations — automated, on-brand and hands-off."
  },
  "AgentNest": {
@@ -166,8 +164,6 @@
     "free_tier"
    ]
   ],
-  "price": "€7.25",
-  "price_note": "from · per month",
   "verified": "2026-09-06",
   "catch": "AhaSlides runs regional pricing: the number on the pricing page depends on where you browse from — so any review quoting one price (including ours) may not match yours.",
   "best": "Educators, trainers and event hosts running interactive sessions — polls, quizzes, word clouds and live Q&A — with audiences up to 50 free."
@@ -186,7 +182,7 @@
    ]
   ],
   "price": "€149",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-08-26",
   "catch": "Young product, sharp focus: European B2B prospecting on a 65-million-company database with meeting notes flowing into records automatically.",
   "best": "European B2B sales teams that want AI-assisted prospecting and automatic meeting/CRM hygiene from a Europe-native database."
@@ -223,6 +219,8 @@
     "free_tier"
    ]
   ],
+  "price": "$50",
+  "price_note": "from · per month",
   "verified": "2026-09-10",
   "catch": "Airia used to publish part of its ladder, which was refreshingly rare for enterprise AI.",
   "best": "Enterprises that need to find the AI already running across their organisation, enforce policy on it at runtime, and build and govern their own agents."
@@ -323,7 +321,7 @@
     "addons_extra"
    ]
   ],
-  "price": "$4.99",
+  "price": "$6.99",
   "price_note": "from · per month",
   "verified": "2026-09-10",
   "catch": "The honest catch is that Alohi is a suite of separate products — Fax.Plus, Sign.Plus, Scan.Plus — each with its own subscription, so \"one ecosystem\" can mean several line items if you want e-signatures and faxing and scanning.",
@@ -338,7 +336,7 @@
    ]
   ],
   "price": "$5",
-  "price_note": "Bronze · /mo",
+  "price_note": "from · per month",
   "verified": "2026-08-26",
   "catch": "The headline ‘5¢ per image’ only holds for a plain JPG in one language.",
   "best": "Image-heavy sites that need alt text written back into the CMS automatically: e-commerce catalogues, publishers and long-running blogs on WordPress, Shopify."
@@ -351,8 +349,10 @@
     "addons_extra"
    ]
   ],
+  "price": "$100",
+  "price_note": "from · per month",
   "verified": "2026-09-20",
-  "catch": "Two honest boundaries.",
+  "catch": "Two honest boundaries. Implementation runs to weeks — the vendor's own pricing FAQ says most operations are live in under two to four weeks — and real-time support is the top tier's: self-serve on Foundations, chat and email on Growth, phone and a dedicated success manager only on Scale.",
   "best": "FTL trucking carriers and asset-based (hybrid) brokers with roughly 5–300 trucks — especially compliance-heavy freight like hazmat, reefer and cross-border."
  },
  "Amplemarket": {
@@ -453,7 +453,7 @@
    ]
   ],
   "price": "$49",
-  "price_note": "Basic · per user/mo billed annually",
+  "price_note": "from · per month",
   "verified": "2026-09-11",
   "catch": "The credit and export caps are the catch — real usage on enrichment and dialing often runs well above the sticker, and data accuracy is hit-or-miss, so verify before you outreach at scale.",
   "best": "Sales teams that want prospecting data, enrichment and sequencing in one affordable all-in-one platform."
@@ -474,7 +474,7 @@
   "price": "$4.99",
   "price_note": "Starter · per month for 500 AI replies with automatic shopper-language detection…",
   "verified": "2026-08-19",
-  "catch": "One review.",
+  "catch": "One review. The app launched on 8 May 2026, and in three and a half months exactly one merchant has written about it.",
   "best": "Small stores with repetitive product, shipping and returns questions who want a cheap multilingual FAQ widget and can test the answer quality on their own policy pages for free first."
  },
  "Aspire": {
@@ -505,9 +505,9 @@
    ]
   ],
   "price": "$3",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-08-17",
-  "catch": "Two meters run at once and they move at different speeds.",
+  "catch": "Two meters run at once and they move at different speeds. Clients is the one that bites first: Starter stops at 50, and the step to 500 costs $70 more a month.",
   "best": "Agencies and professional services firms who want one branded place for clients to message, sign, pay and share files instead of four tools and an email thread."
  },
  "Atlas AI Store Builder": {
@@ -540,7 +540,7 @@
   "price": "$129",
   "price_note": "from · per month",
   "verified": "2026-08-17",
-  "catch": "Two honest notes.",
+  "catch": "Two honest notes. It's credit-metered — AI credits and brand-tracking slots cap what you can generate and monitor, so a heavy user burns through Core's allowance and steps up to Plus.",
   "best": "Performance marketers and creative teams that want competitor ad research and AI ad-creative generation for Meta and TikTok in one platform."
  },
  "Atto": {
@@ -556,6 +556,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$5.65",
+  "price_note": "from · per user per month",
   "verified": "2026-09-05",
   "catch": "Simple and honest pricing — the real conversation with any field-team tracker is the human one: GPS tracking of employees needs transparency and often consent (rules differ by country), and adoption dies the day the crew feels surveilled rather than served.",
   "best": "Hourly and mobile crews (construction, cleaning, field service) that want dead-simple clock-in/out, GPS-verified timesheets and payroll-ready exports."
@@ -634,6 +636,8 @@
     "usage_metered"
    ]
   ],
+  "price": "$29",
+  "price_note": "from · per month",
   "verified": "2026-08-28",
   "catch": "The monthly price is a minutes allowance, not a flat fee — every minute past the bucket bills at $0.07 to $0.10, so a busy support line can cost far more than the headline.",
   "best": "Shopify DTC and cash-on-delivery stores with real inbound call volume that want 24/7 phone support and outbound cart-recovery automated."
@@ -651,15 +655,15 @@
     "free_tier"
    ]
   ],
-  "price": "$12.50",
-  "price_note": "Lite · /mo at 500 subscribers",
+  "price": "$12.49",
+  "price_note": "from · per month",
   "verified": "2026-09-11",
   "catch": "The free and low tiers are generous, but Lite and Plus prices climb with your subscriber count, so budget for growth.",
   "best": "Small businesses and creators who want reliable, simple email marketing with a genuinely usable free tier."
  },
  "BabyLoveGrowth": {
   "price": "€99",
-  "price_note": "Grow · /mo billed monthly, €75/mo billed yearly",
+  "price_note": "from · per month",
   "verified": "2026-09-19",
   "catch": "The honest concern here isn't the price — it's the model, and the guarantee that is supposed to cover you if the model fails.",
   "best": "Solo founders and lean startups who want hands-off SEO content velocity fast, are comfortable with AI-generated articles at scale."
@@ -720,7 +724,7 @@
   "price": "$25",
   "price_note": "from · per month",
   "verified": "2026-09-10",
-  "catch": "Read the seat row before the price row.",
+  "catch": "Read the seat row before the price row. Professional and Business both cap at two full editing seats, so a \"mid-sized team\" plan at $134/mo annual still buys two people who can actually build.",
   "best": "Agencies and in-house teams shipping email at volume across brands or ESPs."
  },
  "Beehiiv": {
@@ -780,7 +784,7 @@
    ]
   ],
   "price": "$49",
-  "price_note": "from · per month",
+  "price_note": "from · per user per month",
   "verified": "2026-09-15",
   "catch": "Per-user pricing plus per-transaction fees means the real cost depends on team size and payment volume — it's built for finance teams with genuine AP workflows and is overkill if you pay a handful of bills a month.",
   "best": "Growing companies with real accounts-payable volume and approval chains that want to automate bill pay and sync to accounting."
@@ -793,7 +797,7 @@
     "usage_metered"
    ]
   ],
-  "price": "$8.33",
+  "price": "$9.99",
   "price_note": "from · per month",
   "verified": "2026-08-20",
   "catch": "The pricing is genuinely refreshing — two plans, same features on both, unlimited users, no per-seat maths.",
@@ -812,6 +816,8 @@
     "annual_lock"
    ]
   ],
+  "price": "$49",
+  "price_note": "from · per month",
   "verified": "2026-09-11",
   "catch": "The honest catch is that pricing tracks your ad spend, so a scaling advertiser's bill rises with their budget: Pro alone ladders from $99 to $1,799 a month between a $10,000 and a $500,000 ceiling, and past $500,000 only Enterprise is left.",
   "best": "Performance marketers and agencies running real ad budgets who want rule-based automation, scaling and creative insights across Meta, Google, TikTok and Snapchat."
@@ -824,6 +830,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$32.50",
+  "price_note": "from · per year",
   "verified": "2026-09-06",
   "catch": "The price you see is already discounted: the configurator applies 30% off list by default on all three GravityZone tiers, so compare on the discounted figure and ask what applies at renewal rather than assuming the same 30% comes back.",
   "best": "Small businesses that want top-tier, independently-validated endpoint protection managed from one console."
@@ -899,7 +907,7 @@
   "price": "$9.99",
   "price_note": "Basic Plan · per month for country blocking only",
   "verified": "2026-09-18",
-  "catch": "Read the plan text before you read the badge.",
+  "catch": "Read the plan text before you read the badge. The App Store header says a free plan is available; that free plan is Development Stores, for development and partner stores only, and it starts charging the moment the store goes live.",
   "best": "Shopify stores below Plus that are losing time to bot traffic, repeat fraudsters or orders from regions they do not ship to."
  },
  "Bokun": {
@@ -982,7 +990,7 @@
    ]
   ],
   "verified": "2026-09-17",
-  "catch": "Two things about this price list.",
+  "catch": "Two things about this price list. It is per location, so the arithmetic for a second salon is not a volume discount, it is double — and the add-ons are per location too, which compounds it.",
   "best": "Salons, spas and clinics with staff to schedule and a front desk to run — the per-location pricing works out fine for one busy site."
  },
  "Bouncer": {
@@ -993,8 +1001,6 @@
     "usage_metered"
    ]
   ],
-  "price": "$25",
-  "price_note": "from · per month",
   "verified": "2026-09-11",
   "catch": "Not charging for unknowns and duplicates is genuinely fair — many rivals do.",
   "coupon": {
@@ -1040,7 +1046,7 @@
     "free_tier"
    ]
   ],
-  "price": "$157",
+  "price": "$49",
   "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "The jump from free (one position) to the first paid tier is steep if you only hire occasionally — the free plan is genuinely usable, so live in it until you're filling several roles at once.",
@@ -1064,8 +1070,6 @@
     "free_tier"
    ]
   ],
-  "price": "€26.08",
-  "price_note": "from · per user per month",
   "verified": "2026-09-19",
   "catch": "Charging by sends looks cheaper for a big list you email rarely, but the send tiers cap stored contacts too: 5,000 sends a month stores only 500 contacts, and a 20,000-contact list needs the 20,000-send tier whatever you send.",
   "best": "Businesses with large contact lists who email selectively and want to pay by send volume, not list size."
@@ -1108,7 +1112,7 @@
   "price": "$19",
   "price_note": "from · per month",
   "verified": "2026-09-21",
-  "catch": "Two honest realities of no-code scraping.",
+  "catch": "Two honest realities of no-code scraping. Credits burn faster than expected: row counts, screenshots and 'premium' sites all multiply the meter, so monitor a big site daily and do the math first.",
   "best": "Ops, research and growth teams that want to monitor competitors, prices or listings and pipe structured web data into sheets without writing scrapers."
  },
  "BrowserAct": {
@@ -1143,6 +1147,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$5.99",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "That flat $19 base fee makes it pricey for very small teams — at three or four users the base fee dominates the bill, so it's better value once you're past a handful of employees.",
   "best": "Small-to-mid teams that need straightforward employee time tracking with GPS and payroll-ready exports.",
@@ -1162,8 +1168,8 @@
     "annual_lock"
    ]
   ],
-  "price": "$6.60",
-  "price_note": "from · per user per month",
+  "price": "$42",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "The per-team-member tiers are the thing to size honestly: your clients report for free as guests, but everyone on your side who works the feedback needs a seat, so a growing agency steps up tiers.",
   "best": "Web agencies and site teams that want clients to point-and-click feedback directly on the page."
@@ -1186,6 +1192,8 @@
     "free_tier"
    ]
   ],
+  "price": "$79",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "Two meters run at once: seats AND credits — the seat price includes a credit allowance (500 a month on Core, 5,000 on AI Employee, read 5 September 2026), and real outbound volume means credit packages on top, so budget past the sticker.",
   "best": "GTM teams that want AI to run outbound end-to-end — prompt-driven prospecting of intent-ready buyers.",
@@ -1215,6 +1223,8 @@
     "annual_lock"
    ]
   ],
+  "price": "$15",
+  "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "The subscription is the platform, not the talking: numbers, minutes and SMS meter separately from a credit balance, so an active calling team's real bill sits meaningfully above the per-seat sticker — model a month of your actual call volume before comparing vendors.",
   "best": "Startups and small teams that want a modern, affordable cloud phone system with international numbers and clean dashboards.",
@@ -1240,7 +1250,7 @@
    ]
   ],
   "price": "$19",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-09-15",
   "catch": "'Unlimited calling' is unlimited to the US and Canada — international minutes meter separately, so teams calling Europe or Asia should price their real destinations first.",
   "best": "Budget-conscious sales/support teams wanting virtual numbers in 50+ countries with a free entry point and CRM integrations.",
@@ -1260,7 +1270,7 @@
     "addons_extra"
    ]
   ],
-  "price": "$50",
+  "price": "$55",
   "price_note": "from · per month",
   "verified": "2026-09-06",
   "catch": "The headline price is a floor, not a ceiling — the included minutes, numbers and SMS are modest, so an active campaign quickly hits metered overages that meaningfully lift the bill.",
@@ -1279,6 +1289,8 @@
     "annual_lock"
    ]
   ],
+  "price": "€9",
+  "price_note": "from · per month",
   "verified": "2026-09-14",
   "catch": "You pay for contacts, not sends — so a large, quiet list costs the same as a large, active one, and dormant subscribers are literally a line item.",
   "best": "Brands and agencies that want beautiful, reliable email campaigns with strong templates and client-friendly management, priced per contact."
@@ -1299,7 +1311,7 @@
   "price": "$14",
   "price_note": "from · per month",
   "verified": "2026-09-05",
-  "catch": "Two paragraphs of fine print worth reading.",
+  "catch": "Automation workflows and conversion tracking only arrive on Advanced (from $35 a month at 1,000 contacts) — Essentials is a sending tool with an API, not a marketing-automation platform — and the trial auto-converts to paid if you do not actively cancel, which tells you something about the retention strategy.",
   "best": "Mid-market senders with larger lists that want mature email plus SMS workflows and are comfortable at the Essential tier and up."
  },
  "Capsule": {
@@ -1320,15 +1332,13 @@
     "annual_lock"
    ]
   ],
-  "price": "$18",
-  "price_note": "Starter · per user/mo billed annually",
   "verified": "2026-09-07",
   "catch": "Capsule's simplicity is the product: it deliberately does less than the CRM giants, which is why small teams actually use it.",
   "best": "Small businesses that want a clean, genuinely simple CRM for contacts, pipeline and tasks — one the team will actually keep updated."
  },
  "Carbon6": {
-  "price": "$70",
-  "price_note": "ScanUnlimited Unlimited · /mo",
+  "price": "$97",
+  "price_note": "from · per month",
   "verified": "2026-08-26",
   "catch": "The honest headline here is not pricing but ownership — and it has moved again, this time in the reader's favour.",
   "best": "Amazon sellers who want reimbursements, advertising, inventory and sourcing tools from one vendor and are content to buy them tool by tool."
@@ -1363,7 +1373,7 @@
   "price": "$19",
   "price_note": "Basic · per month for 2,000 credits, billed in USD every 30 days",
   "verified": "2026-09-20",
-  "catch": "First, the name is not a name.",
+  "catch": "First, the name is not a name. 'ChatGPT AI Product Description' describes a category, the app's own listing copy now calls itself Descrii AI Product Descriptions, and Shopify shows a different app by a different developer under a nearly identical name on the same page.",
   "best": "Shopify stores with catalogues in the thousands that need descriptions, titles, meta tags and alt text written in bulk and in several languages."
  },
  "Checkr": {
@@ -1386,7 +1396,7 @@
     "renewal_jump"
    ]
   ],
-  "price": "$1",
+  "price": "$1.95",
   "price_note": "from · per month",
   "verified": "2026-09-02",
   "catch": "The honest catch is the one every budget host shares: the headline price is an introductory rate, and renewals land roughly three times higher, so judge it on the renewal cost, not the sign-up teaser.",
@@ -1491,8 +1501,8 @@
     "free_tier"
    ]
   ],
-  "price": "$10",
-  "price_note": "Unlimited, per user · billed monthly",
+  "price": "$7",
+  "price_note": "from · per user per month",
   "verified": "2026-09-05",
   "catch": "The everything-app breadth is also the downside — it's feature-dense with a real learning curve, and teams can drown in options.",
   "best": "Teams that want one highly customizable app for tasks, docs, goals and reporting and will invest in setting it up."
@@ -1501,7 +1511,7 @@
   "price": "€25",
   "price_note": "from · per month",
   "verified": "2026-09-21",
-  "catch": "Two honest caveats.",
+  "catch": "Two honest caveats. First, it's a continuous subscription, not a one-time translation — you pay ongoing to keep the translated clone synced with your site.",
   "best": "Businesses that want a fast, continuously-updated translated version of an existing website without rebuilding it as a multilingual site."
  },
  "Cloro": {
@@ -1620,7 +1630,7 @@
   "price": "$49",
   "price_note": "Starter · per month for 250 AI conversations on the App Store listing, plus $0.10…",
   "verified": "2026-09-04",
-  "catch": "Two things to weigh, and the first is the price itself.",
+  "catch": "Two things to weigh, and the first is the price itself. On the same day, the App Store listing sold this at $49, $99 and $199 a month for 250, 750 and 2,000 conversations.",
   "best": "Shopify stores with a catalogue big enough that shoppers ask which item to buy, who want a chat assistant that reads live inventory and hands off to a person."
  },
  "Clutch": {
@@ -1701,8 +1711,8 @@
     "annual_lock"
    ]
   ],
-  "price": "$19.95",
-  "price_note": "Essential 25 (25 TIN… · on the monthly toggle",
+  "price": "$16.95",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "The pricing page prices one product and the marketing sells about a dozen.",
   "best": "Finance, tax and HR teams with a steady monthly volume of US identity and business checks, who would rather buy TIN matching, KYB."
@@ -1720,8 +1730,6 @@
     "free_tier"
    ]
   ],
-  "price": "$29",
-  "price_note": "from · per month",
   "verified": "2026-09-14",
   "catch": "The free-for-10 plan is one of the most generous in the category, but the three-hub structure means costs can stack if you need all of them — price the specific hubs you'll actually use, not the full bundle.",
   "best": "Deskless and frontline teams (shift work, field crews) that need scheduling, a time clock and comms in one app, on the free-for-10 plan."
@@ -1734,7 +1742,7 @@
     "free_tier"
    ]
   ],
-  "price": "$10",
+  "price": "$15",
   "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "It searches peer-reviewed literature, which is its strength and its boundary: it can tell you what published studies found, not whether those studies are good.",
@@ -1774,7 +1782,7 @@
     "addons_extra"
    ]
   ],
-  "price": "$299",
+  "price": "$399",
   "price_note": "from · per month",
   "verified": "2026-09-20",
   "catch": "The meter is tested users, and it keeps running: blow past your monthly allowance and overuse blocks land at $399-699 unless you hard-cap them — and every extra custom domain is $1,000 a year.",
@@ -1826,6 +1834,8 @@
     "annual_lock"
    ]
   ],
+  "price": "$49",
+  "price_note": "from · per month",
   "verified": "2026-08-21",
   "catch": "This is business-in-a-box software for starting a credit-repair company, not a tool that repairs your own credit — the price only makes sense if you're actually building a client business on it.",
   "best": "Entrepreneurs building or running a credit-repair business who need client management, dispute automation and done-for-you letter workflows."
@@ -1834,7 +1844,7 @@
   "price": "$7.99",
   "price_note": "Falcon Go · per device per month, or $59.99 per device a year",
   "verified": "2026-09-22",
-  "catch": "Two numbers decide whether this is for you, and neither is the headline.",
+  "catch": "Two numbers decide whether this is for you, and neither is the headline. The first is the 100-device ceiling on Falcon Go: it is not a soft limit you grow through, it is the point where you change product.",
   "best": "Small and mid-size companies that want a serious endpoint agent without running a security team — Falcon Go is genuinely priced for businesses under 100 devices."
  },
  "Databox": {
@@ -1934,8 +1944,8 @@
     "free_tier"
    ]
   ],
-  "price": "$24",
-  "price_note": "Hobbyist · per person per month billed monthly",
+  "price": "$16",
+  "price_note": "from · per user per month",
   "verified": "2026-09-07",
   "catch": "It's per-editor pricing with two meters running underneath: media hours AND monthly AI credits.",
   "best": "Podcasters and video creators who want to edit by editing the transcript, cutting."
@@ -1991,6 +2001,8 @@
     "usage_metered"
    ]
   ],
+  "price": "$59",
+  "price_note": "from · per month",
   "verified": "2026-08-21",
   "catch": "'Free' self-hosting isn't free — you own the servers, updates and reliability, and model usage bills separately once the included message credits run out.",
   "best": "Technical teams that want to build and ship LLM apps and agents on a source-available platform they can self-host and control."
@@ -2067,6 +2079,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$297",
+  "price_note": "from · per year",
   "verified": "2026-09-21",
   "catch": "Formation is the cheap part; the recurring bookkeeping and tax tiers are where the real cost sits, and state fees are extra on top of doola's price.",
   "coupon": {
@@ -2124,7 +2138,7 @@
   "price": "$30",
   "price_note": "Starter · per month, or $240 a year which works out at $20 a month",
   "verified": "2026-09-17",
-  "catch": "Read the ladder before you climb it.",
+  "catch": "Read the ladder before you climb it. Starter already carries unlimited orders, unlimited products and automatic fulfilment — the whole product, in other words.",
   "best": "Someone who wants a turnkey private-label coffee or tea brand on Shopify — their roasting and packaging, your label on the bag."
  },
  "DropGenius": {
@@ -2200,6 +2214,8 @@
     "annual_lock"
    ]
   ],
+  "price": "$35.99",
+  "price_note": "from · per month",
   "verified": "2026-09-17",
   "catch": "You are buying domains and history, not features.",
   "best": "Anyone who sends email from their own domain and has not yet got DMARC to enforcement — the reporting is the part that makes that safe rather than guesswork."
@@ -2303,7 +2319,7 @@
     "free_tier"
    ]
   ],
-  "price": "$17",
+  "price": "$20",
   "price_note": "from · per month",
   "verified": "2026-08-31",
   "catch": "The real cost is credit consumption, not the flat sticker -- a genuinely complex app burns 10-20+ credits per big change, so serious builders move up tiers faster than the price list implies.",
@@ -2391,10 +2407,12 @@
   "price": "$10",
   "price_note": "Starter · per month for up to 500 loyalty-influenced orders",
   "verified": "2026-09-18",
-  "catch": "Two things to read closely before you pay.",
+  "catch": "Two things to read closely before you pay. The meter is honest — loyalty-influenced orders, not all orders — and that is genuinely in your favour, but it also means you cannot work out your tier from your order count.",
   "best": "Shopify stores with genuine repeat business that want a loyalty programme priced on the orders it influences rather than on total volume."
  },
  "Evey Events": {
+  "price": "$19",
+  "price_note": "from · per month",
   "verified": "2026-09-08",
   "catch": "Nobody gets caught by the monthly fee here; they get caught by the per-ticket one.",
   "best": "Shopify stores that sell tickets alongside products and want attendees."
@@ -2430,6 +2448,8 @@
     "usage_metered"
    ]
   ],
+  "price": "$10",
+  "price_note": "from · per month",
   "verified": "2026-08-22",
   "catch": "The plan cards and the calculator on the same page do not agree, and the gap is large enough to pick the wrong tier.",
   "best": "Online stores that need a steady stream of product photos and short video ads and would otherwise pay a studio or a freelancer per shoot."
@@ -2595,8 +2615,8 @@
     "free_tier"
    ]
   ],
-  "price": "$10",
-  "price_note": "from · per user per month",
+  "price": "$18",
+  "price_note": "from · per month",
   "verified": "2026-08-31",
   "catch": "The advertised $10 and $19 are annual-billing rates; month-to-month is $18 and $29.",
   "best": "Teams that want every meeting transcribed and searchable automatically — the free unlimited-transcription tier is genuinely rare."
@@ -2615,7 +2635,7 @@
   "best": "A physical shop, café or bar with steady card turnover above £995 a month that wants one predictable rate on every card type instead of a pricing table full of card categories. The on-site installation and 24/7 support suit an owner who would rather not configure hardware, and daily payouts help if cash flow is tight."
  },
  "FlexiQuiz": {
-  "price": "$17",
+  "price": "$25",
   "price_note": "from · per month",
   "verified": "2026-09-22",
   "catch": "The monthly response caps are the business model: 20 on free, 500 on Essentials, 2,000 on Premium and 25,000 on Enterprise -- one viral quiz or one big exam cohort and you're shopping a tier up.",
@@ -2629,6 +2649,8 @@
     "usage_metered"
    ]
   ],
+  "price": "$49",
+  "price_note": "from · per month",
   "verified": "2026-09-03",
   "catch": "The real cost is the success fee, and it's a flat bracket rate on the whole sale price, not marginal — a mid-five-figure sale can hand over a four- to five-figure commission.",
   "best": "Buyers and sellers of small-to-mid online businesses, SaaS, apps and domains who want the largest marketplace and are comfortable doing their own due diligence.",
@@ -2686,8 +2708,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$10.99",
-  "price_note": "from · per user per month",
+  "price": "$129.99",
+  "price_note": "from · per year",
   "verified": "2026-09-22",
   "catch": "Foxit's pitch is being the honest fraction of Acrobat's price, and on the headline numbers it delivers.",
   "coupon": {
@@ -2733,10 +2755,10 @@
     "addons_extra"
    ]
   ],
-  "price": "$23",
-  "price_note": "Lite · per month at the REGULAR rate",
+  "price": "$2.30",
+  "price_note": "from · per month",
   "verified": "2026-09-07",
-  "catch": "Two things multiply the number you first see.",
+  "catch": "Two things multiply the number you first see. The promotional rate is 90% off for three months, so Lite is $23 rather than $2.30 from month four.",
   "best": "Freelancers and small service firms who bill time and want invoicing that chases payment for them."
  },
  "Freshchat": {
@@ -2757,7 +2779,7 @@
     "free_tier"
    ]
   ],
-  "price": "$19",
+  "price": "$23",
   "price_note": "from · per month",
   "verified": "2026-09-01",
   "catch": "The free tier is genuinely useful for small teams, but AI features and higher-tier routing sit behind paid plans and add-ons — and being part of the wider Freshworks suite means you'll be nudged toward the full platform.",
@@ -2820,7 +2842,7 @@
    ]
   ],
   "price": "$55",
-  "price_note": "Pro · /mo",
+  "price_note": "from · per month",
   "verified": "2026-09-01",
   "catch": "The pay-on-success model is refreshingly honest, but note the 10x: phone numbers eat credits ten times faster than emails, so a calling-heavy motion consumes budget quickly — model your email/phone mix.",
   "best": "Outbound teams that need maximum find-rates on emails and especially mobile numbers, and prefer paying only for verified hits."
@@ -2844,7 +2866,7 @@
    ]
   ],
   "price": "€8",
-  "price_note": "Plus · per seat/mo billed annually",
+  "price_note": "from · per user per month",
   "verified": "2026-08-26",
   "catch": "The credit model means heavy generation eats your monthly allowance, and outputs still need a human polish for high-stakes decks — it's a brilliant first-draft engine, not a finished-deck button.",
   "best": "Anyone who wants to turn a prompt or notes into a good-looking presentation, doc or webpage draft in minutes."
@@ -2857,7 +2879,7 @@
     "free_tier"
    ]
   ],
-  "price": "$19.99",
+  "price": "$29.99",
   "price_note": "from · per month",
   "verified": "2026-09-03",
   "catch": "The free plan is genuinely usable, so the honest question is only whether Gelato+ earns its fee — and that depends entirely on volume: below ~10 orders a month the discounts won't cover the subscription.",
@@ -2897,8 +2919,6 @@
     "free_tier"
    ]
   ],
-  "price": "€13.12",
-  "price_note": "from · per month",
   "verified": "2026-09-14",
   "catch": "Priced by contact count, so the entry number climbs as your list grows, and the best value only shows on long (annual/24-month) commitments.",
   "best": "Small businesses that want email plus landing pages, automation and webinars in one affordable suite."
@@ -2912,7 +2932,7 @@
    ]
   ],
   "price": "$4.17",
-  "price_note": "Standard · per technician/mo",
+  "price_note": "from · per month",
   "verified": "2026-09-02",
   "catch": "AnyDesk tends to feel faster and lower-latency, and TeamViewer carries the heavier security/compliance certifications (HIPAA, SOC 2).",
   "best": "IT and support people who want browser-based remote access without installing software on the other person's machine — at a fair price or a one-time fee."
@@ -2921,7 +2941,7 @@
   "price": "$10",
   "price_note": "Quill, Lumen or Prism… · per month, the lowest published floor across seven separately sold products",
   "verified": "2026-09-17",
-  "catch": "Two things about this pricing are worth reading twice.",
+  "catch": "Two things about this pricing are worth reading twice. The first is that seven products means seven subscriptions. Gixo is priced per deliverable, not per company.",
   "best": "Teams that want one dedicated, source-grounded tool per deliverable — a deck tool, a content tool, a proposal tool."
  },
  "Glide": {
@@ -2942,8 +2962,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$25",
-  "price_note": "Classic Explorer (one… · billed monthly",
+  "price": "$19",
+  "price_note": "from · per month",
   "verified": "2026-09-07",
   "catch": "Glide meters updates, not just seats.",
   "best": "Teams that already run operations out of spreadsheets and want a real app on top — internal tools, field data capture, client portals — without hiring a developer."
@@ -3013,8 +3033,10 @@
     "addons_extra"
    ]
   ],
+  "price": "$59",
+  "price_note": "from · per year",
   "verified": "2026-09-01",
-  "catch": "Two honest notes.",
+  "catch": "Two honest notes. It's a WordPress-only plugin — no WordPress, no Gravity Forms — and its real power often lives in paid add-ons and third-party extensions, so a genuinely advanced setup can cost more than the base license suggests.",
   "best": "WordPress site owners and developers who want powerful, self-hosted forms with conditional logic, payments and deep integrations they fully control."
  },
  "Guesty": {
@@ -3030,8 +3052,6 @@
     "addons_extra"
    ]
   ],
-  "price": "$9",
-  "price_note": "from · per month",
   "verified": "2026-09-22",
   "catch": "Pricing runs higher than leaner rivals, onboarding has a learning curve, and some users flag support — it earns its keep at scale, but it's heavy for a single listing.",
   "best": "Hosts with 1-3 listings starting on Guesty Lite (~$9/mo + ~1% per reservation) who may grow into the full property-management platform."
@@ -3044,6 +3064,8 @@
     "per_seat"
    ]
   ],
+  "price": "$49",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "The base-plus-per-employee model is transparent but adds up, and Gusto is US-only — excellent for straightforward US payroll and benefits, but not the pick for international teams or complex multi-entity HR.",
   "best": "US small businesses that want genuinely easy full-service payroll, benefits and tax compliance in one place."
@@ -3092,6 +3114,8 @@
     "free_tier"
    ]
   ],
+  "price": "$39",
+  "price_note": "from · per month",
   "verified": "2026-09-03",
   "catch": "The meter is views, not results: every visitor who sees a popup counts against your quota, so a traffic spike raises the bill regardless of how many emails you actually captured — a busy site outgrows the entry tier fast.",
   "best": "Content sites, blogs and stores that already have traffic and a genuinely worthwhile offer, and want sticky bars."
@@ -3153,7 +3177,7 @@
    ]
   ],
   "price": "$5",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-09-03",
   "catch": "The seat price is honest bait, the add-on grid is the business model: switch on three add-ons and your $12 seat becomes $27 — a la carte flexibility that punishes teams who need the full toolkit.",
   "best": "Project teams that want flexible PM (Gantt, Kanban, forms, chat) and only pay for the modules they actually use."
@@ -3197,7 +3221,7 @@
     "addons_extra"
    ]
   ],
-  "price": "$20",
+  "price": "$59",
   "price_note": "from · per month",
   "verified": "2026-09-04",
   "catch": "The Basic tier is a trap for real field teams — it omits GPS tracking and QuickBooks sync, so most businesses need Essentials or up.",
@@ -3224,7 +3248,7 @@
   "price": "$20",
   "price_note": "Starter, per seat · the list price per seat per month",
   "verified": "2026-08-18",
-  "catch": "Three numbers on this pricing page are not what they look like, and they compound.",
+  "catch": "Three numbers on this pricing page are not what they look like, and they compound. The first is the $7. It is the number in large black type on the Starter card, and the $20 beside it in small grey type is the list price.",
   "best": "Teams that want marketing, sales, service and content on one contact database and will actually use more than one hub."
  },
  "Hubstaff": {
@@ -3290,8 +3314,8 @@
     "annual_lock"
    ]
   ],
-  "price": "$9.99",
-  "price_note": "Personal 5 TB · per month at the STANDARD annual-billing rate",
+  "price": "$0.25",
+  "price_note": "from · per month",
   "verified": "2026-09-04",
   "catch": "The first-year price is a teaser and the renewal is the price — IDrive says so itself under the plan table, and on the current numbers the step from discounted to standard is about 43% (Personal 5 TB goes from $6.99 to $9.99 a month).",
   "best": "Individuals and small businesses that want cheap multi-device cloud backup with versioning, snapshots and physical seed/restore shipping."
@@ -3337,7 +3361,7 @@
    ]
   ],
   "price": "$8",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-09-09",
   "best": "COOs, CFOs and operations leaders who want a work intelligence platform rather than a time clock: workforce analytics plus AI process capture."
  },
@@ -3354,7 +3378,7 @@
     "annual_lock"
    ]
   ],
-  "price": "$159",
+  "price": "$79",
   "price_note": "from · per month",
   "verified": "2026-09-04",
   "catch": "It's premium-priced and only justified by serious ad spend — Create is $79 a month billed annually for 15,000 unique monthly visitors, and the price per thousand barely improves as you climb, so the higher tiers buy features rather than cheaper traffic.",
@@ -3416,8 +3440,8 @@
     "free_tier"
    ]
   ],
-  "price": "$49",
-  "price_note": "Start (3 live funnels… · per month, month-to-month",
+  "price": "$29",
+  "price_note": "from · per user per month",
   "verified": "2026-09-19",
   "catch": "The tier pages sell live funnels, but the meter that empties first is contacts.",
   "best": "Marketers building interactive lead-gen — quizzes, calculators, assessments and payment funnels with built-in email sequences."
@@ -3457,6 +3481,8 @@
     "annual_lock"
    ]
   ],
+  "price": "$336",
+  "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "The $23 headline covers a single company on annual billing — but consolidation is the whole point of Joiin, and a real group of 10-20 entities lands at $92-139 a month.",
   "best": "Finance teams and accountants consolidating multi-entity, multi-currency group reporting from Xero, QuickBooks or Sage without hand-built spreadsheets."
@@ -3470,7 +3496,7 @@
    ]
   ],
   "price": "$34",
-  "price_note": "Bronze · /mo billed annually",
+  "price_note": "from · per month",
   "verified": "2026-09-04",
   "catch": "The gating detail is conversations, not features — Starter's 100 a month is a few days on a live site, and an agent that actually gets used will push you up a tier.",
   "best": "Teams already using Jotform (or wanting no-code) that need AI chatbots and service agents to handle leads, support and bookings tied to their forms."
@@ -3495,6 +3521,8 @@
   "best": "Bankruptcy attorneys and legal professionals who want streamlined petition preparation, document automation and case management for filings."
  },
  "Kartra": {
+  "price": "$10,000",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "If your core need is polished course delivery, Kajabi's creator features are stronger; Kartra wins on all-in-one breadth, not course depth.",
   "best": "Creators and coaches who want funnels, email, checkout, memberships and scheduling under one roof instead of five subscriptions."
@@ -3517,7 +3545,8 @@
     "addons_extra"
    ]
   ],
-  "price_state": "quote-only",
+  "price": "$299",
+  "price_note": "from · per month",
   "verified": "2026-09-23",
   "catch": "The $299 headline is the floor.",
   "best": "Product makers and small manufacturers who need live inventory, production scheduling and multi-channel order sync in one cloud platform."
@@ -3559,6 +3588,8 @@
     "annual_lock"
    ]
   ],
+  "price": "$2",
+  "price_note": "from · per user per month",
   "verified": "2026-09-17",
   "catch": "The per-user price is the smallest part of the bill.",
   "best": "Teams that need shared credentials with real admin control and audit."
@@ -3576,7 +3607,7 @@
     "addons_extra"
    ]
   ],
-  "price": "$30",
+  "price": "$35",
   "price_note": "from · per month",
   "verified": "2026-09-14",
   "catch": "You're paying a premium for managed speed, Google Cloud infrastructure and expert support — worth it if performance and hands-off management matter, wasteful on a low-traffic hobby site a $5 shared host would carry fine.",
@@ -3593,7 +3624,7 @@
   "price": "$39",
   "price_note": "Creator · billed monthly",
   "verified": "2026-09-02",
-  "catch": "Three honest notes.",
+  "catch": "Three honest notes. Subscriber-based pricing counts everyone on your list — cold subscribers cost the same as fans, so prune before you price.",
   "best": "Creators, writers and coaches building an audience-first business who want email, landing pages, digital products and a creator network in one."
  },
  "Kite": {
@@ -3653,7 +3684,7 @@
    ]
   ],
   "price": "$30",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-09-10",
   "catch": "Plan for 30-60% above the sticker: minutes, the multi-line dialer and AI human-voice-detection all bill separately, and the quarterly auto-renewing contract only allows downgrades in its final 30 days — read that clause before signing.",
   "best": "Outbound sales teams living in their CRM that want a serious power dialer with local presence, SMS and automation."
@@ -3691,7 +3722,7 @@
    ]
   ],
   "price": "$12",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "Same honest math as most budget VoIP: the plan buys the platform, the meter buys the conversations — per-minute and per-SMS charges land on top of every seat, so the comparison that matters is call-rate-per-country at your volume.",
   "best": "Sales and support teams that need virtual numbers across many countries with a shared dashboard, dialer and CRM hooks at a budget seat price."
@@ -3736,7 +3767,7 @@
   "price": "$10",
   "price_note": "from · per month",
   "verified": "2026-09-10",
-  "catch": "Two things sit awkwardly next to each other in the plan table.",
+  "catch": "Two things sit awkwardly next to each other in the plan table. The headline promise is 'unlimited words', but every tier caps how many products you may translate and how many languages you may run, so the meter you actually pay is catalogue size.",
   "best": "Shopify merchants selling into several language markets who want machine translation they can correct by hand — glossary rules, brand terms, bulk editing."
  },
  "Later": {
@@ -3792,6 +3823,8 @@
     "annual_lock"
    ]
   ],
+  "price": "$10",
+  "price_note": "from · per month",
   "verified": "2026-09-14",
   "catch": "It's the value pick, not the optimisation pick — if you're spending big on ads, Unbounce's Smart Traffic and Instapage's 1:1 personalisation go deeper.",
   "best": "Small businesses building landing pages and simple funnels who want unmetered traffic — no per-visitor anxiety, unlike metered rivals."
@@ -3814,8 +3847,8 @@
     "annual_lock"
    ]
   ],
-  "price": "$24",
-  "price_note": "Starter · /mo billed annually",
+  "price": "$29",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "The detail most people miss is Starter's $5-per-paid-enrollment fee — at any real sales volume it quietly makes Starter more expensive than the flat Pro Trainer plan, so the \"cheap\" tier often isn't.",
   "coupon": {
@@ -3838,7 +3871,7 @@
    ]
   ],
   "price": "$2.49",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "The tidy per-user numbers are annual-billed, and it's priced per seat — every employee you track adds to the bill, with no volume break shown.",
   "best": "Teams that want straightforward time-tracking, attendance and overtime banking with transparent per-user pricing."
@@ -3856,7 +3889,7 @@
     "usage_metered"
    ]
   ],
-  "price": "$55",
+  "price": "$69",
   "price_note": "from · per month",
   "verified": "2026-09-21",
   "catch": "The per-seat plus per-email-account model makes total cost unpredictable as you scale, and reviews flag support response times and the LinkedIn Chrome-extension's reliability.",
@@ -3906,7 +3939,7 @@
    ]
   ],
   "price": "$29.99",
-  "price_note": "Plus · per user/mo",
+  "price_note": "from · per user per month",
   "verified": "2026-09-12",
   "catch": "Cost tracks headcount rather than output: every colleague who so much as @mentions Lindy in Slack takes a paid seat, and a seat you remove runs to the end of the cycle with no mid-cycle proration.",
   "best": "Teams that live in Slack and want one shared teammate that sits in their meetings, runs scheduled routines and drafts replies inside the tools they already use.",
@@ -3956,13 +3989,15 @@
     "free_tier"
    ]
   ],
-  "price": "$14",
-  "price_note": "250 active contacts · per month",
+  "price": "$17",
+  "price_note": "from · per month",
   "verified": "2026-09-06",
   "catch": "Flows are button-and-script based, not natural language — type something unexpected and the bot falls back.",
   "best": "Creators and brands running comment-to-DM and multi-channel (Instagram, Messenger, WhatsApp) marketing funnels — its killer feature works reliably."
  },
  "MarketerHire": {
+  "price": "$5,000",
+  "price_note": "from · per month",
   "verified": "2026-09-01",
   "catch": "This is expert freelance talent at expert prices — the value is speed and vetting (their pricing page promises a match within 24-48 hours, against a months-long hire), but it is a real five-figure-a-month commitment for serious engagements, not a cheap gig marketplace.",
   "best": "Companies that need a vetted senior marketer (growth, paid ads, email, more) matched quickly, without the time and risk of a full-time hire."
@@ -3983,7 +4018,7 @@
   "price": "$395",
   "price_note": "from · per month",
   "verified": "2026-09-06",
-  "catch": "Two honest cautions.",
+  "catch": "Two honest cautions. Pricing is hidden and quote-driven, and reviewers repeatedly flag that the real cost — software plus design plus managed services — climbs well above the headline, sometimes with recurring fees for features you don't use.",
   "best": "Small businesses that want one vendor handling website, CRM, ads, email and reputation with real humans to help, and prefer done-for-you over DIY."
  },
  "Meeri": {
@@ -4042,6 +4077,8 @@
     "free_tier"
    ]
   ],
+  "price": "$25",
+  "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "The free plan is genuinely useful for low bill volume, but the value case narrows as you scale into paid tiers — and the 2.9% card fee only makes sense when you're deliberately floating cash on a card for rewards or timing.",
   "best": "Small businesses that want to pay bills by bank transfer or card and get paid, starting free with no subscription."
@@ -4083,7 +4120,7 @@
     "usage_metered"
    ]
   ],
-  "price": "$16",
+  "price": "$20",
   "price_note": "from · per month",
   "verified": "2026-09-18",
   "catch": "The no-markup model pass-through is genuinely fair — but it also means your real cost is subscription PLUS model spend, and an agent that loops or processes big documents burns provider credits invisibly until you set limits.",
@@ -4122,7 +4159,7 @@
    ]
   ],
   "verified": "2026-09-06",
-  "catch": "Two honest cautions.",
+  "catch": "First, the price is still hidden — a 404 where the pricing page should be, and no pricing item in the navigation — which for a tool that promises spend transparency is an irony worth noticing, and the FAQ makes it sharper: its own introduction says it covers what the platform costs, and then no answer in it names a figure.",
   "best": "Marketing teams with real media spend across channels who want an always-on AI analyst."
  },
  "Modelize": {
@@ -4186,6 +4223,8 @@
     "free_tier"
    ]
   ],
+  "price": "$60",
+  "price_note": "from · per month",
   "verified": "2026-09-06",
   "catch": "The 'free' plan is the most expensive one once you have real volume: a 5% commission on every sale overtakes Pro's $60 flat fee around $29k a year in processed revenue, and Pro in turn loses to the $199 Custom plan above about $67k a year.",
   "best": "Class-based businesses — studios, gyms, salons, schools — that want scheduling, memberships, payments and marketing in one system with a member app."
@@ -4208,6 +4247,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$9",
+  "price_note": "from · per month",
   "verified": "2026-08-26",
   "catch": "The seat price is not the product price.",
   "best": "Teams who want one visual system for projects and work, and who will actually use the automations and views that justify the per-seat price at Standard or above."
@@ -4225,8 +4266,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$9",
-  "price_note": "Pro at 500 contacts · billed monthly",
+  "price": "$7",
+  "price_note": "from · per month",
   "verified": "2026-09-06",
   "catch": "The friendly $7-9 headline is the entry rate at the smallest list size (500 contacts), and the ladder above it does not fall smoothly: paid annually, 8,000 contacts costs $51 a month while 10,000 costs $70, so a list of 9,000 sits on the wrong side of the sharpest jump on the slider.",
   "best": "Small businesses and marketers who want affordable email marketing and automation with a low entry price, a real free trial and a clean drag-and-drop builder."
@@ -4244,6 +4285,8 @@
     "per_seat"
    ]
   ],
+  "price": "$49",
+  "price_note": "from · per user per month",
   "verified": "2026-08-24",
   "catch": "Paying ~$50 per user just so a shop-floor worker can clock in and out feels steep when they'll touch a fraction of the features.",
   "best": "Small manufacturers, wholesalers and distributors who want dependable production planning and inventory control without a heavy ERP or a dedicated IT team."
@@ -4344,8 +4387,6 @@
     "annual_lock"
    ]
   ],
-  "price": "$23.20",
-  "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "The sticker price buys a credit allowance, not finished video, and the two are easy to confuse.",
   "coupon": {
@@ -4453,6 +4494,8 @@
     "annual_lock"
    ]
   ],
+  "price": "$19.99",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "Their own site does not agree with itself about what this costs, and we have now checked that twice.",
   "coupon": {
@@ -4479,8 +4522,8 @@
     "annual_lock"
    ]
   ],
-  "price": "$6",
-  "price_note": "from · per user per month",
+  "price": "$13",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "Full API access is included on every plan, so integrations are not the cost trap here — the add-ons are.",
   "coupon": {
@@ -4505,7 +4548,7 @@
   "price": "$89",
   "price_note": "from · per month",
   "verified": "2026-08-17",
-  "catch": "Two honest cautions.",
+  "catch": "Two honest cautions. AI search visibility (GEO) is a young, fast-moving category. Tracking how you appear in ChatGPT and other AI answers is genuinely useful signal, but the metrics are far less standardized than classic SEO — and you're paying to monitor a moving target you only partly influence.",
   "best": "Brands and SEO teams that want to measure and improve how they show up in AI-generated answers (ChatGPT, Google AI and more) as AI search grows."
  },
  "Oneflow": {
@@ -4527,7 +4570,7 @@
    ]
   ],
   "price": "€50",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-09-18",
   "catch": "The entry is €250 a month on annual billing — €3,000 a year committed before you've sent your first contract — and the rest of the ladder lives in a sales conversation.",
   "best": "Sales and legal teams with real contract volume who want the full lifecycle — creating, negotiating, e-signing and archiving interactive contracts."
@@ -4569,7 +4612,7 @@
     "free_tier"
    ]
   ],
-  "price": "$225",
+  "price": "$22",
   "price_note": "from · per month",
   "verified": "2026-09-06",
   "catch": "Two meters at once: content types and pieces gate the lower tiers, and monthly LEAD limits gate the upside.",
@@ -4589,7 +4632,7 @@
    ]
   ],
   "verified": "2026-09-22",
-  "catch": "Two honest limits.",
+  "catch": "Two honest limits. It's Canada-only — provincial incorporation covers Ontario, Alberta, BC and Quebec — so it's no use outside Canada.",
   "best": "Canadian founders who want a straightforward sole proprietorship or single-shareholder incorporation done fast, without paying lawyer rates."
  },
  "Oyster": {
@@ -4622,6 +4665,8 @@
     "free_tier"
    ]
   ],
+  "price": "$29",
+  "price_note": "from · per month",
   "verified": "2026-08-23",
   "catch": "The tiers gate on two axes at once — members AND tracked pages — so either one forces the upgrade: Starter buys one person just two pages.",
   "best": "Solos and small teams who want simple per-page analytics — heatmaps, visitor behavior and AI-summarized insights — with a genuinely free single-page tier to start."
@@ -4644,7 +4689,7 @@
     "free_tier"
    ]
   ],
-  "price": "$15",
+  "price": "$20",
   "price_note": "from · per month",
   "verified": "2026-09-06",
   "catch": "The unavoidable honest limit of every AI detector, including accurate ones: it is never infallible.",
@@ -4725,7 +4770,7 @@
     "per_seat"
    ]
   ],
-  "price": "$4.50",
+  "price": "$20",
   "price_note": "from · per user per month",
   "verified": "2026-09-06",
   "catch": "The honest trade-off is maturity, not security.",
@@ -4749,8 +4794,6 @@
     "addons_extra"
    ]
   ],
-  "price": "$50",
-  "price_note": "from · per month",
   "verified": "2026-09-14",
   "catch": "The conversion and cross-currency withdrawal markups are where it quietly costs you — for pure currency conversion a specialist like Wise is often cheaper.",
   "best": "Freelancers and sellers getting paid by international clients and marketplaces (Amazon, Upwork, Fiverr) who need local receiving accounts."
@@ -4783,8 +4826,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$15",
-  "price_note": "Pro, per member · billed monthly",
+  "price": "$10",
+  "price_note": "from · per user per month",
   "verified": "2026-09-19",
   "catch": "The ladder here is not about how much you make, it is about which file you are allowed to hand over.",
   "best": "Individuals and small teams who need infographics, data-heavy reports and posters to look designed without hiring a designer."
@@ -4797,10 +4840,8 @@
     "usage_metered"
    ]
   ],
-  "price": "$199",
-  "price_note": "from · per month",
   "verified": "2026-08-27",
-  "catch": "Two things about this price list will cost you money if you skim it.",
+  "catch": "Two things about this price list will cost you money if you skim it. First, the $199 is a floor rather than a bill. Pingtree describes its model as usage-based and prints “overage billed after month close — no surprise mid-cycle fees” directly under the Self Service price.",
   "best": "Performance marketers, lead brokers and affiliate operations that already move real lead volume and want ping-tree routing, partner management."
  },
  "Pipedrive": {
@@ -4882,6 +4923,8 @@
     "usage_metered"
    ]
   ],
+  "price": "$14.99",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "The thing you cannot check is the price.",
   "best": "Small teams that want AI-assisted planning and are willing to ask for a quote."
@@ -4890,7 +4933,7 @@
   "price": "$16.99",
   "price_note": "Web Admin Edition (VPS) · per server per month billed monthly for 10 domains, or 15.57 a month on…",
   "verified": "2026-09-20",
-  "catch": "Two honest notes.",
+  "catch": "Two honest notes. Plesk has been raising prices steadily (the 2026 round averaged ~26%), so budget for the renewal trajectory, not today's invoice — it's a recurring theme in the ecosystem since the acquisition era.",
   "best": "Agencies and hosters managing multiple sites on their own servers who want a mature control panel with per-domain management, security and one-click stacks."
  },
  "Post Purchase Upsell Hero": {
@@ -4911,8 +4954,6 @@
     "free_tier"
    ]
   ],
-  "price": "$20,000",
-  "price_note": "from · per month",
   "verified": "2026-09-19",
   "catch": "The 2.5% comes off revenue, not margin.",
   "best": "Shopify stores that want post-purchase upsells with no fixed monthly cost, where the bill only exists once the app has already added revenue."
@@ -4930,7 +4971,7 @@
     "free_tier"
    ]
   ],
-  "price": "$750",
+  "price": "$49",
   "price_note": "from · per month",
   "verified": "2026-09-19",
   "catch": "The $0 a month is not free — it carries a $49 monthly minimum spend, which means $49 is your floor whether you send anything or not.",
@@ -4982,7 +5023,7 @@
     "free_tier"
    ]
   ],
-  "price": "$37",
+  "price": "$49",
   "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "Credit where due: the free tier is real.",
@@ -5025,7 +5066,8 @@
     "usage_metered"
    ]
   ],
-  "price_state": "quote-only",
+  "price": "$100",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "Pricing is opaque and jumps steeply from Startup to Pro, with seat minimums that push the real cost above the headline per-member rate — you'll need a sales call to price it.",
   "best": "Operations-driven teams that run recurring, checklist-based processes and want them tracked and auditable.",
@@ -5043,7 +5085,7 @@
   "price": "$20",
   "price_note": "from · per month",
   "verified": "2026-09-18",
-  "catch": "Start with what is no longer there.",
+  "catch": "Start with what is no longer there. Read on 18 September 2026, the Shopify App Store listing for this app is gone: the page says it is not currently available and sends support questions to the vendor.",
   "best": "Shopify stores with a known parcel-loss rate that are willing to come in through the vendor rather than the App Store."
  },
  "Proton": {
@@ -5062,7 +5104,7 @@
    ]
   ],
   "price": "$3.99",
-  "price_note": "Drive Plus · /mo billed yearly",
+  "price_note": "from · per month",
   "verified": "2026-08-26",
   "catch": "End-to-end encryption is the point and the price.",
   "best": "Privacy-conscious individuals and businesses that want genuinely end-to-end-encrypted storage from a Swiss provider, ideally as part of the wider Proton suite."
@@ -5130,7 +5172,7 @@
     "usage_metered"
    ]
   ],
-  "price": "$39",
+  "price": "$59",
   "price_note": "from · per month",
   "verified": "2026-09-22",
   "catch": "Pythago bills per store, so every store you add adds a full subscription and the bill scales linearly: ten stores is $390 a month, twenty is $780, and there is no enterprise step that flattens the curve.",
@@ -5184,6 +5226,8 @@
     "addons_extra"
    ]
   ],
+  "price": "£1",
+  "price_note": "from · per month",
   "verified": "2026-08-28",
   "catch": "The 90% offer is the number to be careful with, because it is the one you will see everywhere and it is not what you will pay.",
   "best": "UK sole traders and small businesses that need Making Tax Digital submissions handled and would rather their accountant worked in the same system they do."
@@ -5202,7 +5246,7 @@
    ]
   ],
   "price": "$5",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "A few users report occasional email-deliverability hiccups — otherwise it does exactly what it says (recipients even sign without an account) for a fraction of enterprise pricing.",
   "best": "Cost-conscious teams that want certified e-signing (ISO 27001, AATL) with unlimited documents from ~$5/mo and a real free tier."
@@ -5215,8 +5259,8 @@
     "free_tier"
    ]
   ],
-  "price": "$8.33",
-  "price_note": "Premium · per month billed annually at $99.95 a year",
+  "price": "$19.95",
+  "price_note": "from · per month",
   "verified": "2026-09-08",
   "catch": "The free tier is deliberately narrow: 125 words per paraphrase and two of the modes.",
   "best": "Students, non-native writers and anyone who wants quick paraphrasing, grammar and summarizing help."
@@ -5281,8 +5325,8 @@
     "free_tier"
    ]
   ],
-  "price": "$39",
-  "price_note": "Starter · a month billed monthly, or $29 a month on annual billing (the page…",
+  "price": "$29",
+  "price_note": "from · per month",
   "verified": "2026-09-19",
   "catch": "The meter is on exporting, not on looking, and that is the number to size before you pick a tier.",
   "best": "Small sales and marketing teams that want a B2B contact database with a published price rather than a quote."
@@ -5295,6 +5339,8 @@
     "per_seat"
    ]
   ],
+  "price": "$239",
+  "price_note": "from · per user per month",
   "verified": "2026-08-17",
   "catch": "The per-seat price is premium, and the model rewards scale — the predictive dialer, compliance tools and supervisor monitoring earn their keep on a 5-plus-agent floor, but for one or two reps it's expensive for what a lighter dialer would do.",
   "best": "High-volume outbound call teams (insurance, real estate, collections) with 5+ agents that need predictive dialing, compliance tools and supervisor monitoring.",
@@ -5319,6 +5365,8 @@
     "free_tier"
    ]
   ],
+  "price": "$10",
+  "price_note": "from · per month",
   "verified": "2026-09-14",
   "catch": "The magic only works on a calendar it can write to.",
   "best": "Google Calendar teams that want AI to auto-schedule tasks, habits and meetings around their priorities."
@@ -5336,6 +5384,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$99",
+  "price_note": "from · per month",
   "verified": "2026-08-17",
   "catch": "The advertised $99 is the annual-commitment rate — month-to-month is $149.",
   "best": "B2B SaaS teams with a product-led motion that want to launch an affiliate program and tap an affiliate-discovery network, and are comfortable committing annually."
@@ -5367,7 +5417,7 @@
     "usage_metered"
    ]
   ],
-  "price": "$20",
+  "price": "$17",
   "price_note": "from · per month",
   "verified": "2026-09-02",
   "catch": "The credit model on AI-heavy building is unpredictable — a complex agent session can burn credits fast, and they expire monthly, so heavy AI users hit surprise costs.",
@@ -5459,7 +5509,7 @@
    ]
   ],
   "price": "$8",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-08-27",
   "catch": "The published '$8 per user a month' is real but it's only the floor, and it's the HR-and-payroll entry — not the price of the platform.",
   "best": "Growing companies that want HR, IT and Finance on one employee record."
@@ -5483,7 +5533,7 @@
    ]
   ],
   "price": "$24",
-  "price_note": "Pro · /mo billed yearly",
+  "price_note": "from · per month",
   "verified": "2026-09-07",
   "catch": "The meter is not recording time, it is separate-track download time — and separate tracks are the entire reason to use this rather than a video call.",
   "best": "Podcasters and interviewers who need broadcast-quality audio and video from guests on bad connections — local recording at each end is genuinely the thing that solves it."
@@ -5543,6 +5593,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$29",
+  "price_note": "from · per month",
   "verified": "2026-09-14",
   "catch": "It's deliberately lean: no built-in dialer, no quoting or invoicing, and reporting feels basic unless you export.",
   "best": "Small B2B teams whose reps hate data entry — Salesflare auto-logs emails, meetings and contact details from your inbox and calendar."
@@ -5565,6 +5617,8 @@
     "annual_lock"
    ]
   ],
+  "price": "$99",
+  "price_note": "from · per month",
   "verified": "2026-09-09",
   "catch": "The per-seat rate falls with team size but the monthly bill does not follow it: 19 seats on Starter is $1,330 while 20 seats on Pro is $799, so a team that stops one seat short of a tier pays $531 a month more for less.",
   "best": "Outbound sales teams and agencies running LinkedIn sequences across several seats, where the per-seat price drops and the admin panel earns its keep."
@@ -5590,7 +5644,7 @@
   "price": "$25",
   "price_note": "Basic (500 message… · on monthly billing, as published",
   "verified": "2026-09-10",
-  "catch": "Two things changed here and both cost money.",
+  "catch": "Two things changed here and both cost money. First, calling now runs on the same meter as texting — 1 credit a minute, 2 a minute when forwarding — so voice minutes eat the allowance you budgeted for messages.",
   "best": "Sales and service teams that want two-way texting and calling in one CRM-linked inbox, and can estimate their monthly credit burn — messages plus call minutes.",
   "pw": "plans rebuilt Sep 2026",
   "pw_soort": "restructure"
@@ -5641,7 +5695,8 @@
     "usage_metered"
    ]
   ],
-  "price_state": "quote-only",
+  "price": "$147",
+  "price_note": "from · per month",
   "verified": "2026-09-07",
   "catch": "Data accuracy is the recurring complaint — independent tests put email deliverability around 74% (20–30% bounce) versus ZoomInfo's ~2–3%, so real cost per usable contact climbs.",
   "best": "Teams that want a huge real-time contact database and AI list-building for less than ZoomInfo, and can tolerate cleaning the data."
@@ -5697,9 +5752,10 @@
     "free_tier"
    ]
   ],
-  "price_state": "quote-only",
+  "price": "$99",
+  "price_note": "from · per month",
   "verified": "2026-09-19",
-  "catch": "Two things to weigh, and neither is the price you pay — because you do not pay one.",
+  "catch": "Two things to weigh, and neither is the price you pay — because you do not pay one. First, you cannot set the fee. Seel's algorithm prices it, so if it lands too high for your niche and shoppers stop opting in, your only lever is switching the feature off entirely.",
   "best": "Stores selling final-sale, high-consideration or hard-to-size products, where return anxiety is the thing killing the order."
  },
  "Selixer": {
@@ -5799,8 +5855,8 @@
     "per_seat"
    ]
   ],
-  "price": "$5.50",
-  "price_note": "from · per user per month",
+  "price": "$6",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "The category claim (AI catches what filters miss) is plausible — Microsoft/Google native filtering misses sophisticated BEC — but any vendor's accuracy percentage is measured on their own test set, not your mail flow.",
   "coupon": {
@@ -5896,7 +5952,8 @@
     "quote_only"
    ]
   ],
-  "price_state": "quote-only",
+  "price": "£2.75",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "It's focused, affordable rota software — which means it does scheduling, clock-ins, leave and swaps well, but it isn't a full HR or payroll platform, so a growing business will still bolt on payroll and HR tools around it.",
   "best": "Shift-based businesses (hospitality, retail, leisure) that want quick rota building, clock-ins and leave management without spreadsheet pain."
@@ -5912,7 +5969,7 @@
   "price": "$9.99",
   "price_note": "Lite · per month for Lite, which exports CSV only ($107.88 a year)",
   "verified": "2026-09-18",
-  "catch": "Read the carrier list against your own country before anything else.",
+  "catch": "The listing slug is 'packeta', the developer is happyapps.cz, and cash-on-delivery tracking is a headline feature — all three point at Central and Eastern Europe, where Packeta and Zásilkovna are everyday carriers and COD is a normal way to pay.",
   "best": "Shopify merchants shipping in Central and Eastern Europe who want pickup points."
  },
  "Shippo": {
@@ -5947,8 +6004,8 @@
     "usage_metered"
    ]
   ],
-  "price": "$9",
-  "price_note": "from · per month",
+  "price": "$97",
+  "price_note": "from · per year",
   "verified": "2026-08-31",
   "catch": "Its unique trick is the Magic Envelope, where you literally mail a stuffed envelope of paper receipts and humans digitize them.",
   "best": "Businesses drowning in PAPER receipts — trades, field crews, owners with shoeboxes of history — who want them humanly digitized, verified and IRS-ready."
@@ -5961,7 +6018,7 @@
     "free_tier"
    ]
   ],
-  "price": "$12",
+  "price": "$15",
   "price_note": "from · per month",
   "verified": "2026-09-06",
   "catch": "In a category where the market leader has a generous free plan, Shorby charges from day one, so it has to earn the gap.",
@@ -5975,6 +6032,8 @@
     "addons_extra"
    ]
   ],
+  "price": "€49.90",
+  "price_note": "from · per month",
   "verified": "2026-09-07",
   "catch": "It's built for local appointment businesses, and that's also the boundary: the integration list is short (calendar, Google, Instagram, Meta), and once you add POS and payments the monthly total climbs well past the entry price.",
   "best": "Salons, barbers, spas, wellness studios, physical therapists, craftspeople and local retailers that want bookings via Google and Instagram, no-show-reducing reminders."
@@ -5988,7 +6047,7 @@
    ]
   ],
   "verified": "2026-09-11",
-  "catch": "Two things are missing from a page that is otherwise unusually specific.",
+  "catch": "Two things are missing from a page that is otherwise unusually specific. The first is voice. The product is sold as an SMS and Voice API and the pricing page publishes no voice rate at all — nor short code pricing.",
   "best": "Teams sending real SMS volume in the US who already know what an A2P 10DLC campaign is and want a cheaper per-segment rate than Twilio’s list without giving up published pricing. The volume ladder is genuinely steep — from $0.0065 down to $0.0030 — so the case gets stronger the more you send, and the number discounts above 500 numbers suit anyone running many local presences.",
   "pw": "price held",
   "pw_soort": "held"
@@ -6026,7 +6085,7 @@
    ]
   ],
   "price": "$8",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-09-07",
   "catch": "It's built for straightforward everyday signing — if you need deep contract-lifecycle (CLM) features, a heavier platform fits better.",
   "best": "Teams that sign at volume and want unlimited users at a flat rate — roughly 60% under DocuSign for the same core job."
@@ -6087,6 +6146,8 @@
     "free_tier"
    ]
   ],
+  "price": "€11.90",
+  "price_note": "from · per month",
   "verified": "2026-09-20",
   "catch": "The plan ladder is set by bookings per month and by how many custom features you may switch on, and those two ceilings move independently — so you can outgrow a plan on features while nowhere near the booking cap, or the reverse.",
   "best": "Service businesses that take appointments and want a booking page, reminders and online payment without building one."
@@ -6163,6 +6224,8 @@
     "usage_metered"
    ]
   ],
+  "price": "$15",
+  "price_note": "from · per month",
   "verified": "2026-09-07",
   "catch": "It's the pragmatic middle of email infrastructure: simpler and better-supported than the hyperscale APIs, cheaper than most, with genuinely useful reporting — but sending reputation is still yours to earn.",
   "best": "Businesses that want dependable transactional/bulk sending via SMTP or API with human support and clear per-volume pricing."
@@ -6199,7 +6262,7 @@
     "free_tier"
    ]
   ],
-  "price": "$19",
+  "price": "$1",
   "price_note": "from · per month",
   "verified": "2026-09-07",
   "catch": "Builder seats are billed on top of the plan, and pricing counts builders and app users separately, so a public-facing app with a lot of end users gets expensive fast.",
@@ -6225,6 +6288,8 @@
     "free_tier"
    ]
   ],
+  "price": "$15",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "The number to check first is the meeting cap, not the price.",
   "best": "Sales and customer-facing teams that already run most conversations on video and want the coaching layer — talk-time, keyword tracking and call review."
@@ -6374,7 +6439,7 @@
     "free_tier"
    ]
   ],
-  "price": "$100",
+  "price": "$50",
   "price_note": "from · per month",
   "verified": "2026-08-29",
   "catch": "The jump from Starter to Growth is $50 to $625 a month — twelve and a half times — and the free tier is capped at one live demo, so the moment you want a second demo published you are on the ladder.",
@@ -6422,8 +6487,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$5",
-  "price_note": "from · per user per month",
+  "price": "$12",
+  "price_note": "from · per month",
   "verified": "2026-09-08",
   "catch": "The ladder rewards size rather than commitment: moving from 25 to 26 users drops the rate a dollar, and the annual discount is worth about the same single dollar per user.",
   "best": "Leadership teams that already run on goals and want one place to set objectives, track KPIs and scorecards, and keep strategy execution on cadence."
@@ -6436,8 +6501,8 @@
     "free_tier"
    ]
   ],
-  "price": "$22",
-  "price_note": "Pro · billed monthly",
+  "price": "$17",
+  "price_note": "from · per month",
   "verified": "2026-09-19",
   "catch": "The pricing page contradicts itself: the plan card says $17 yearly and $22 monthly, the FAQ on the same page says $20 yearly and $25 monthly.",
   "best": "People whose problem is deciding what to do today rather than tracking what exists — it pulls from your existing tools and forces a daily plan, which is the whole product."
@@ -6453,11 +6518,11 @@
   "price": "$49",
   "price_note": "from · per month",
   "verified": "2026-08-28",
-  "catch": "Two things the marketing glosses over.",
+  "catch": "First, the 'free' plan is development-stores only, so any live use is paid, and the AI generator that headlines the app is not in Premium ($49) but in Advanced ($99), possibly plus metered AI credits as an add-on — so the AI promise realistically costs $99+ a month.",
   "best": "Shopify merchants — especially non-Plus stores — who want custom discount, checkout, payment and shipping logic without hiring a developer."
  },
  "Superfiliate": {
-  "price": "$299",
+  "price": "$999",
   "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "The price is the part you cannot check.",
@@ -6521,6 +6586,8 @@
     "free_tier"
    ]
   ],
+  "price": "$468",
+  "price_note": "from · per year",
   "verified": "2026-09-08",
   "catch": "The free tier is a teaser.",
   "best": "Teams that need research-grade survey logic (skip logic, randomisation, quotas) with compliance (HIPAA, GDPR, SOC 2) and 200+ integrations."
@@ -6586,7 +6653,7 @@
     "annual_lock"
    ]
   ],
-  "price": "$55",
+  "price": "$65",
   "price_note": "from · per month",
   "verified": "2026-09-08",
   "catch": "The app runs on Mac and iOS only — Android phones can join as cameras, but there is no Windows version — so the machine doing the switching has to be an Apple one.",
@@ -6624,6 +6691,8 @@
     "free_tier"
    ]
   ],
+  "price": "$9.99",
+  "price_note": "from · per month",
   "verified": "2026-09-19",
   "catch": "Publishing volume is the trap this tool makes cheap.",
   "best": "Shopify stores that want structured, product-linked blog drafts and a publishing schedule, and that will edit what comes out before it goes live."
@@ -6672,6 +6741,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$249",
+  "price_note": "from · per year",
   "verified": "2026-09-08",
   "catch": "Per-form pricing is genuinely cheap for a handful of 1099s, but it's metered: TIN matching, W-9 requests, state filing and corrections can each carry their own charge.",
   "best": "Businesses and accountants who need to e-file 1099s, W-2s and related forms accurately and cheaply, especially seasonal or higher-volume filers."
@@ -6689,8 +6760,6 @@
     "addons_extra"
    ]
   ],
-  "price": "$618",
-  "price_note": "TaxCycle T1 2026 · per year, single user, CAD before tax",
   "verified": "2026-09-22",
   "catch": "This is professional preparer software priced for firms, not a consumer filing app: the cost only makes sense if you're preparing returns for clients at volume.",
   "best": "Canadian accountants and bookkeepers who prepare and e-file client returns and want fast, checked, CRA-integrated professional tax software."
@@ -6708,8 +6777,6 @@
     "free_tier"
    ]
   ],
-  "price": "$29",
-  "price_note": "from · per month",
   "verified": "2026-09-22",
   "catch": "The tiers gate on TWO axes at once — member count and project/pipeline count — so you can hit a wall on either.",
   "best": "Solo operators and small teams who want projects, tasks, chat AND a lightweight CRM pipeline with AI in one simple tool, and value the real free tier to start."
@@ -6758,6 +6825,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$199",
+  "price_note": "from · per year",
   "verified": "2026-09-16",
   "catch": "Note on how we link this one, updated 28 Jul 2026: between 21 and 28 July our partner link was dead — Tenable's shop subdomain stopped resolving, so we pointed the link at Tenable's own product page and earned nothing from it.",
   "coupon": {
@@ -6825,8 +6894,10 @@
     "addons_extra"
    ]
   ],
+  "price": "$15",
+  "price_note": "from · per month",
   "verified": "2026-08-31",
-  "catch": "Two costs are easy to miss and both are monthly.",
+  "catch": "Two costs are easy to miss and both are monthly. The credit system has two rates: $0.03 for credits you buy deliberately and $0.04 for backup credits that fire automatically when you run out — a 33% premium for not noticing.",
   "best": "Support and sales teams that already text customers from personal phones and need a shared, compliant inbox with a record of who said what."
  },
  "TheTop": {
@@ -6938,7 +7009,7 @@
    ]
   ],
   "price": "$9",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-09-09",
   "catch": "Toggl's honesty problem is the good kind: the free tier is so capable that many teams never need to pay — the paid line is drawn exactly at 'do you bill clients' (budgets, rates, profitability).",
   "best": "Freelancers, consultants and agencies that bill by the hour and want frictionless tracking with budgets, rates and profitability per project."
@@ -6980,6 +7051,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$47",
+  "price_note": "from · per month",
   "verified": "2026-09-14",
   "catch": "Per-user pricing is honest and simple, but it means the cost scales linearly with headcount — a ten-person crew is a real monthly number, not the single-seat sticker.",
   "coupon": {
@@ -7058,19 +7131,22 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
-  "price": "$89",
-  "price_note": "from · per month",
-  "verified": "2026-09-05",
+  "price": "$99",
+  "price_note": "Starter · base fee per month with 1 user ($999 a year)",
+  "verified": "2026-09-23",
   "catch": "The bill has two parts and both are published: a base fee from $99 and a resolution rate from $2 (pay as you go) down to $1 with volume packages.",
   "best": "Customer-service teams with real ticket volume that want AI agents to resolve requests end to end and act inside the systems they already run.",
   "pw": "price held",
   "pw_soort": "held"
  },
  "UENI": {
-  "price": "$24.99",
-  "price_note": "Website Launch · per month on the entry tier, on top of a $599 setup fee currently…",
   "verified": "2026-09-09",
   "catch": "It's done-for-you, which is the appeal and the catch.",
   "best": "Small-business owners with no time or tech skills who want a professional site built for them, not another tool to learn.",
@@ -7103,7 +7179,8 @@
     "quote_only"
    ]
   ],
-  "price_state": "quote-only",
+  "price": "$29",
+  "price_note": "from · per month",
   "verified": "2026-09-14",
   "catch": "The entry price is high for a landing-page tool, and the visitor caps bite if a campaign takes off.",
   "best": "PPC specialists and agencies running paid campaigns who want A/B testing and Smart Traffic (AI routing each visitor to the best-converting variant)."
@@ -7206,8 +7283,8 @@
     "free_tier"
    ]
   ],
-  "price": "$15",
-  "price_note": "from · per month",
+  "price": "$144",
+  "price_note": "from · per year",
   "verified": "2026-08-26",
   "catch": "The famous free tier is real — but the paid ladder has quiet extras: extra login seats cost $15-19 per month EACH beyond the included ones, and SMS or voice-call alerts are pay-per-credit on every plan.",
   "best": "Solo builders and small teams monitoring sites, ports and APIs at 60-second resolution with status pages — and honestly, the free 50-monitor tier covers most hobby stacks."
@@ -7231,7 +7308,7 @@
    ]
   ],
   "price": "$24.95",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-09-02",
   "catch": "The pitch is unusually bold: an AI that learns your business the way a great employee would, finds the constraint keeping you stuck, and helps you solve it.",
   "best": "Hands-on entrepreneurs and small-business owners buried in operational detail who want AI that learns their specific business and helps surface what's actually holding it back — explicitly not enterprise software.",
@@ -7239,6 +7316,8 @@
   "pw_soort": "restructure"
  },
  "Velora": {
+  "price": "$134",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "Velora is three acquired products (Keela, Aplos, Raisely) being unified into one platform, and that's the honest watch-out: integration between them is newer than the marketing suggests, so check how deeply the pieces actually connect for your workflow before committing.",
   "best": "Nonprofits that want donor CRM, fund accounting and online fundraising from one vendor, purpose-built for charities rather than adapted business tools."
@@ -7309,8 +7388,10 @@
     "usage_metered"
    ]
   ],
+  "price": "$1,500",
+  "price_note": "from · per year",
   "verified": "2026-09-01",
-  "catch": "Three honest catches.",
+  "catch": "Three honest catches. The entry plan is narrower than the marketing implies: $1,500 a year covers 182 countries and two users, while the 200-country coverage and ten seats start at $4,500.",
   "best": "Import-export businesses and sourcing teams that want global customs-level trade data plus verified buyer/supplier contacts at a fraction of enterprise pricing."
  },
  "Voye": {
@@ -7326,6 +7407,8 @@
   "best": "Companies with regularly traveling teams that want one pooled global data contract, per-user controls and an end to roaming bill surprises."
  },
  "VWO": {
+  "price": "$314",
+  "price_note": "from · per month",
   "verified": "2026-09-20",
   "catch": "The jump from Growth to Pro is steep — small businesses get priced out of MVT and complex targeting — and the UI is dense with options.",
   "best": "Teams that want an all-in-one experience-optimisation platform (A/B testing + heatmaps + personalisation) with friendlier Bayesian stats and transparent pricing."
@@ -7362,8 +7445,8 @@
     "addons_extra"
    ]
   ],
-  "price": "€39",
-  "price_note": "from · per user per month",
+  "price": "€59",
+  "price_note": "from · per month",
   "verified": "2026-09-12",
   "catch": "The plan price is the smallest part of the bill.",
   "best": "Businesses that want to run WhatsApp support and broadcasts at scale with a shared team inbox and automation.",
@@ -7400,7 +7483,7 @@
   "price": "$199",
   "price_note": "from · per month",
   "verified": "2026-09-05",
-  "catch": "Two honest cautions.",
+  "catch": "Two honest cautions. The $199 starting price is a floor, not the bill: add-ons, setup and per-location fees land on top, and the full tier ladder is only shown in a demo, so get everything in writing.",
   "best": "Dental, optometry and small healthcare practices that want phone, texting, payments and reviews unified for the front desk.",
   "pw": "price down Aug 2026",
   "pw_soort": "decrease"
@@ -7419,7 +7502,7 @@
    ]
   ],
   "price": "$5",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "It solves a real annoyance: dozens of web apps and multiple accounts per app as tidy desktop windows.",
   "best": "People juggling many web apps and multiple accounts per service who want them as clean, separate desktop apps with per-profile isolation."
@@ -7442,7 +7525,7 @@
     "annual_lock"
    ]
   ],
-  "price": "$16",
+  "price": "$15",
   "price_note": "from · per month",
   "verified": "2026-08-29",
   "catch": "Three separate bills, and the pricing page shows them on separate tabs.",
@@ -7548,6 +7631,8 @@
     "free_tier"
    ]
   ],
+  "price": "$79",
+  "price_note": "from · per month",
   "verified": "2026-09-19",
   "catch": "Bandwidth is the meter that decides your bill, and it is the one number you cannot predict before you publish.",
   "best": "Marketing teams who want video on their own site with real analytics and lead capture, and who care that the player does not recommend a competitor's video afterwards."
@@ -7579,6 +7664,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$35",
+  "price_note": "from · per month",
   "verified": "2026-09-18",
   "catch": "The $7-per-100-prospects unit reads cheap, but a real outbound motion stacks add-ons fast.",
   "best": "Outbound teams that want usage-priced cold email plus LinkedIn outreach, with unlimited seats and email accounts included instead of per-user fees."
@@ -7601,6 +7688,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$59",
+  "price_note": "from · per year",
   "verified": "2026-09-14",
   "catch": "It's a subscription, not a lifetime license — you keep your settings if you stop paying but lose updates and support, and a technically-minded user can get most of the way there with a free caching plugin.",
   "best": "WordPress owners who want near-instant page-speed gains out of the box without touching cache config."
@@ -7624,7 +7713,7 @@
    ]
   ],
   "price": "$10",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "It's powerful and scales to complex, cross-team portfolios, but that power brings a learning curve and a per-seat cost that climbs — small teams often find it heavier than they need next to a simpler board tool.",
   "best": "Mid-to-large teams running complex, cross-functional projects that need robust reporting, workflows and resource management."
@@ -7642,10 +7731,10 @@
     "addons_extra"
    ]
   ],
-  "price": "$2.50",
+  "price": "$25",
   "price_note": "from · per month",
   "verified": "2026-09-19",
-  "catch": "Read the second number, not the first.",
+  "catch": "Read the second number, not the first. Every plan on that page is 90% off for six months, and the price that governs the rest of your first year is ten times what the button says: $25, $55 and $90.",
   "best": "Small businesses whose bookkeeper or accountant already works in Xero."
  },
  "Zedonk": {
@@ -7687,8 +7776,8 @@
     "free_tier"
    ]
   ],
-  "price": "$5",
-  "price_note": "from · per month",
+  "price": "$199",
+  "price_note": "from · per year",
   "verified": "2026-09-22",
   "catch": "The $0 is real for the filing service and it is also the whole commercial idea: what you sign up for at zero has an annual carry that is not shown next to it.",
   "best": "First-time founders who want the paperwork handled and are willing to pay a yearly fee to keep it handled."
@@ -7712,7 +7801,7 @@
    ]
   ],
   "verified": "2026-09-05",
-  "catch": "Three separate multipliers sit on top of the number you first see.",
+  "catch": "Three separate multipliers sit on top of the number you first see. The prices shown are annual-billed — the page states a 20% annual discount and never prints the monthly rate, so budgeting month-to-month means adding roughly a quarter yourself.",
   "best": "Support teams past the point where a shared inbox works, who need routing, a help centre and reporting in one place and have the volume to justify per-agent pricing."
  },
  "Zendrop": {
@@ -7753,7 +7842,7 @@
    ]
   ],
   "price": "$3",
-  "price_note": "from · per user per month",
+  "price_note": "from · per month",
   "verified": "2026-09-01",
   "catch": "The pricing genuinely undercuts Slack — the honest question is ecosystem: team chat lives or dies on integrations and habit, and ZenZap's app catalog is a fraction of Slack's, so teams glued to hundreds of integrations will feel the gap.",
   "best": "Small teams that run work over messy WhatsApp/personal chat today and want organized, professional chat with tasks — starting free."
@@ -7903,7 +7992,7 @@
     "usage_metered"
    ]
   ],
-  "price": "$12",
+  "price": "$10",
   "price_note": "from · per month",
   "verified": "2026-09-16",
   "catch": "The plan cards and the comparison table on the same page disagree about what Pro costs.",
@@ -7934,6 +8023,8 @@
     "usage_metered"
    ]
   ],
+  "price": "$20",
+  "price_note": "from · per month",
   "verified": "2026-09-18",
   "catch": "You do not control your own seat count.",
   "best": "Teams already living inside GitHub pull requests who want end-to-end tests to exist at all."
@@ -7968,7 +8059,7 @@
     "addons_extra"
    ]
   ],
-  "price": "$59",
+  "price": "$100",
   "price_note": "from · per month",
   "verified": "2026-09-19",
   "catch": "Every tier says Book a demo.",
@@ -8049,7 +8140,7 @@
   "price": "$900",
   "price_note": "from · per month",
   "verified": "2026-09-21",
-  "catch": "One published number, and it is the floor.",
+  "catch": "One published number, and it is the floor. $900 a month is where Gushwork starts and the pricing page never says where it stops — the FAQ puts the final figure down to page volume, growth speed and paid support, confirmed on a call.",
   "best": "Sales-led B2B businesses with no marketer and no agency, that win work through quote requests and consultation calls, and want the research, writing."
  },
  "Loyalino": {
@@ -8094,8 +8185,10 @@
     "free_tier"
    ]
   ],
+  "price": "$9",
+  "price_note": "from · per month",
   "verified": "2026-09-22",
-  "catch": "Two things decide whether this is cheap, and neither is the plan price.",
+  "catch": "Two things decide whether this is cheap, and neither is the plan price. The first is that you buy credits, not images: highest quality costs 2 credits against 1 for standard, so the better setting halves every allowance on the page — Starter's 75 credits is 37 images a month, not 75.",
   "best": "Small Shopify merchants who want studio and lifestyle product shots out of the photos they already have, without hiring a photographer or a studio."
  }
 }
