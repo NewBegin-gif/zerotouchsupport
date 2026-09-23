@@ -2688,7 +2688,7 @@
   ],
   "price": "$10.99",
   "price_note": "from · per user per month",
-  "verified": "2026-09-01",
+  "verified": "2026-09-22",
   "catch": "Foxit's pitch is being the honest fraction of Acrobat's price, and on the headline numbers it delivers.",
   "coupon": {
    "code": "CP366-B4dCXGN5",
@@ -3032,7 +3032,7 @@
   ],
   "price": "$9",
   "price_note": "from · per month",
-  "verified": "2026-08-31",
+  "verified": "2026-09-22",
   "catch": "Pricing runs higher than leaner rivals, onboarding has a learning curve, and some users flag support — it earns its keep at scale, but it's heavy for a single listing.",
   "best": "Hosts with 1-3 listings starting on Guesty Lite (~$9/mo + ~1% per reservation) who may grow into the full property-management platform."
  },
@@ -3517,9 +3517,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$23",
-  "price_note": "from · per month",
-  "verified": "2026-09-14",
+  "price_state": "quote-only",
+  "verified": "2026-09-23",
   "catch": "The $299 headline is the floor.",
   "best": "Product makers and small manufacturers who need live inventory, production scheduling and multi-channel order sync in one cloud platform."
  },
@@ -3819,6 +3818,10 @@
   "price_note": "Starter · /mo billed annually",
   "verified": "2026-09-05",
   "catch": "The detail most people miss is Starter's $5-per-paid-enrollment fee — at any real sales volume it quietly makes Starter more expensive than the flat Pro Trainer plan, so the \"cheap\" tier often isn't.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: 15% off your first six months"
+  },
   "best": "Course creators and training businesses that want a branded school with interactive video, assessments, certificates and a built-in checkout."
  },
  "Leavo": {
@@ -3866,14 +3869,24 @@
  "LettrLabs": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "$399",
   "price_note": "from · per month",
-  "verified": "2026-08-31",
+  "verified": "2026-09-22",
   "catch": "Direct mail only pays off with a tight list and a real offer — it's a leverage channel, not a cheap thing to test blindly.",
   "best": "Local businesses and e-commerce brands using robotically handwritten mail (~$0.49/piece incl. postage) to stand out where email gets ignored.",
   "pw": "price up Aug 2026",
@@ -4826,6 +4839,10 @@
   "price_note": "Starter · per year on the yearly tab (list price EUR 145)",
   "verified": "2026-09-19",
   "catch": "The meter is credits per attempt, not per usable result — and buyer reviews centre on exactly that.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: pippit's own limited-time promotion on the Seedance 2"
+  },
   "best": "Solo founders and small teams that want a steady stream of product-marketing videos and posters generated from a product link, without filming anything."
  },
  "Pixel Union": {
@@ -5765,7 +5782,7 @@
   ],
   "price": "€28",
   "price_note": "Lite · billed monthly",
-  "verified": "2026-08-31",
+  "verified": "2026-09-22",
   "catch": "The pricing has layers — a per-label fee on top of the subscription, plus carrier surcharges that can land on invoices weeks later.",
   "best": "European e-commerce stores that want easy multi-carrier shipping (DHL, PostNL, Colissimo, GLS, DPD), branded tracking and a returns portal live in under 30 minutes."
  },
@@ -6383,7 +6400,7 @@
   ],
   "price": "$49",
   "price_note": "Pro, per user · per user per month billed annually ($59 billed monthly)",
-  "verified": "2026-08-31",
+  "verified": "2026-09-22",
   "catch": "The pitch — CRM living inside Gmail — is also the ceiling: everything happens in the inbox, which power users love and growing teams outgrow (reporting, permissions, cross-team process).",
   "best": "Solo founders and small Gmail-native teams whose pipeline genuinely lives in email threads and who want zero context-switching."
  },
