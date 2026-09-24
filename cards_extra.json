@@ -2285,7 +2285,7 @@
   ],
   "price": "$6",
   "price_note": "Starter · per month, billed monthly",
-  "verified": "2026-09-03",
+  "verified": "2026-09-23",
   "catch": "Credits are the meter and retakes are the tax — you are charged per generation request, and a regeneration is only free while the content and settings are unchanged, so real usage lands well above the calculator estimate.",
   "best": "Creators, developers and product teams that want the most realistic AI voices available — voiceovers, audiobooks, dubbing, conversational agents and a well-documented API."
  },
@@ -2667,7 +2667,7 @@
   ],
   "price": "$1,199",
   "price_note": "2 hours a day · per month billed annually",
-  "verified": "2026-09-03",
+  "verified": "2026-09-23",
   "catch": "'Unlimited' means unlimited queue, not unlimited throughput: work happens at your plan's daily capacity, so a big launch week still needs planning, and turnaround expectations are where subscription-design relationships sour.",
   "best": "Marketing teams and agencies with steady, recurring creative volume (ads, social, video edits) that want predictable flat-fee capacity instead of freelancer wrangling."
  },
@@ -2803,9 +2803,9 @@
     "addons_extra"
    ]
   ],
-  "price": "$29",
-  "price_note": "Starter, per agent · billed monthly",
-  "verified": "2026-09-01",
+  "price": "$19",
+  "price_note": "from · per month",
+  "verified": "2026-09-23",
   "catch": "The $19 headline rarely survives contact with a real deployment: the ITSM features most IT teams buy for (change/problem management, deeper analytics) live at Pro, and the modern extras — AI agent sessions, orchestration runs, asset counts — meter separately.",
   "best": "IT teams that want proper ITSM (incidents, assets, changes, service catalog) running in weeks, without enterprise-suite implementation pain."
  },
@@ -2836,14 +2836,19 @@
  "FullEnrich": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
    ]
   ],
-  "price": "$55",
+  "price": "$26",
   "price_note": "from · per month",
-  "verified": "2026-09-01",
+  "verified": "2026-09-23",
   "catch": "The pay-on-success model is refreshingly honest, but note the 10x: phone numbers eat credits ten times faster than emails, so a calling-heavy motion consumes budget quickly — model your email/phone mix.",
   "best": "Outbound teams that need maximum find-rates on emails and especially mobile numbers, and prefer paying only for verified hits."
  },
@@ -2881,7 +2886,7 @@
   ],
   "price": "$29.99",
   "price_note": "from · per month",
-  "verified": "2026-09-03",
+  "verified": "2026-09-23",
   "catch": "The free plan is genuinely usable, so the honest question is only whether Gelato+ earns its fee — and that depends entirely on volume: below ~10 orders a month the discounts won't cover the subscription.",
   "best": "Creators and stores selling custom products internationally who want local production in many countries to cut shipping time and cost, with no inventory."
  },
@@ -2933,7 +2938,7 @@
   ],
   "price": "$4.17",
   "price_note": "from · per month",
-  "verified": "2026-09-02",
+  "verified": "2026-09-23",
   "catch": "AnyDesk tends to feel faster and lower-latency, and TeamViewer carries the heavier security/compliance certifications (HIPAA, SOC 2).",
   "best": "IT and support people who want browser-based remote access without installing software on the other person's machine — at a fair price or a one-time fee."
  },
@@ -2976,20 +2981,15 @@
     "usage_metered"
    ],
    [
-    "📅",
-    "Annual commit",
-    "annual_lock"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
   "price": "$499",
-  "price_note": "Launch · per month for 750 orders",
-  "verified": "2026-09-03",
-  "catch": "Every tier ships the whole platform — you pay for volume, not unlocks — and Core really is free forever, so 500 orders a month costs $0.",
+  "price_note": "entry plan (750 orders) · per month for 750 orders, month-to-month",
+  "verified": "2026-09-23",
+  "catch": "Core is free forever but no longer the whole platform: it connects only Amazon, eBay, Shopify, TikTok and Walmart, has no API or App Store, syncs with QuickBooks Online only, and stops importing at 500 orders until the 1st of the next month.",
   "best": "Multichannel e-commerce operations with serious order volume that want orders, inventory, purchasing, listings and shipping unified — including EDI retail."
  },
  "Gorgias": {
@@ -3035,7 +3035,7 @@
   ],
   "price": "$59",
   "price_note": "from · per year",
-  "verified": "2026-09-01",
+  "verified": "2026-09-23",
   "catch": "Two honest notes. It's a WordPress-only plugin — no WordPress, no Gravity Forms — and its real power often lives in paid add-ons and third-party extensions, so a genuinely advanced setup can cost more than the base license suggests.",
   "best": "WordPress site owners and developers who want powerful, self-hosted forms with conditional logic, payments and deep integrations they fully control."
  },
@@ -3190,7 +3190,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-02",
+  "verified": "2026-09-23",
   "catch": "The honest note is that the platform is free and the rides are not.",
   "best": "Teams that already travel by ride-hailing and want the spend on one invoice with per-person limits instead of expense claims."
  },
@@ -3996,10 +3996,8 @@
   "best": "Creators and brands running comment-to-DM and multi-channel (Instagram, Messenger, WhatsApp) marketing funnels — its killer feature works reliably."
  },
  "MarketerHire": {
-  "price": "$5,000",
-  "price_note": "from · per month",
-  "verified": "2026-09-01",
-  "catch": "This is expert freelance talent at expert prices — the value is speed and vetting (their pricing page promises a match within 24-48 hours, against a months-long hire), but it is a real five-figure-a-month commitment for serious engagements, not a cheap gig marketplace.",
+  "verified": "2026-09-23",
+  "catch": "This is vetted senior freelance talent on a monthly retainer with no published rates — the value is speed and vetting (the pricing page promises a match within 24-48 hours, against a months-long hire), and the budget is whatever you agree on the call.",
   "best": "Companies that need a vetted senior marketer (growth, paid ads, email, more) matched quickly, without the time and risk of a full-time hire."
  },
  "Marketing 360": {
@@ -4146,7 +4144,7 @@
   ],
   "price": "$8",
   "price_note": "Starter, per member · per member per month billed yearly ($10 billed monthly)",
-  "verified": "2026-09-02",
+  "verified": "2026-09-23",
   "catch": "Per-member pricing charges for every member added to the workspace, so an org-wide rollout multiplies at full headcount — and the free plan's 3-board cap is workspace-wide, not per person, so real teams outgrow it in days.",
   "best": "Teams that think visually — brainstorms, flowcharts, retros, workshops and planning on an infinite shared canvas with strong templates and facilitation tools."
  },
@@ -4472,7 +4470,7 @@
   ],
   "price": "$9.90",
   "price_note": "from · per month",
-  "verified": "2026-09-02",
+  "verified": "2026-09-23",
   "catch": "It does one job — turning out-of-stock moments into recovered sales via back-in-stock and pre-order alerts — and its value is entirely tied to how often you actually sell out.",
   "best": "Shopify stores that regularly sell out of popular products and want to recover that lost demand with back-in-stock notifications, pre-orders and wishlists."
  },
@@ -6913,7 +6911,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-01",
+  "verified": "2026-09-23",
   "catch": "Everything is a meter — per GB, per IP, per 1K responses — so the bill scales with usage.",
   "best": "Data teams scraping at scale — price intelligence, SERP tracking, AI-training data."
  },
@@ -7372,11 +7370,16 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$79",
   "price_note": "from · per month",
-  "verified": "2026-09-01",
+  "verified": "2026-09-23",
   "catch": "It undercuts the big suites convincingly.",
   "best": "Agencies and multi-brand teams that want scheduling, listening, reviews and reporting across many profiles at a notably lower price than legacy suites."
  },
@@ -7390,7 +7393,7 @@
   ],
   "price": "$1,500",
   "price_note": "from · per year",
-  "verified": "2026-09-01",
+  "verified": "2026-09-23",
   "catch": "Three honest catches. The entry plan is narrower than the marketing implies: $1,500 a year covers 182 countries and two users, while the 200-country coverage and ten seats start at $4,500.",
   "best": "Import-export businesses and sourcing teams that want global customs-level trade data plus verified buyer/supplier contacts at a fraction of enterprise pricing."
  },
@@ -8037,7 +8040,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-19",
+  "verified": "2026-09-24",
   "catch": "The three-month minimum is the real commitment, and there is no free trial to soften it.",
   "best": "Brands running influencer marketing as a continuous programme rather than a campaign, with enough volume to use 1,000 reach-outs a month from the first month."
  },
