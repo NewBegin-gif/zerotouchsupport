@@ -3512,5 +3512,13 @@
     "desc": "Shopify app that turns Instagram and TikTok reels or your own UGC into shoppable carousels, stories, grids and a watch-and-buy viewer, with AI product tagging on every plan. Free for 500 clicks and 5 videos a month; Basic $19, Growth $49, Pro $79, metered on storefront clicks and uploads. Read 24 Sep 2026.",
     "link": "https://platform.shoffi.app/r/rl_eNg93emv",
     "platform": "shopify"
+  },
+  {
+    "name": "Bot It AI",
+    "category": "E-commerce",
+    "domain": "botitai.com",
+    "desc": "Shopify app that audits every product for the data AI shopping agents rank on (categories, attributes, barcodes, alt text, variants, policies), maintains llms.txt and agents.md, and on Pro writes the missing fields with one-click revert and tracks placement in AI shopping results. Free audit forever; Pro $29 a month with a 30-day trial. Launched May 2026, no reviews yet. Read 24 Sep 2026.",
+    "link": "https://platform.shoffi.app/r/rl_LG3QX4P7",
+    "platform": "shopify"
   }
 ]
