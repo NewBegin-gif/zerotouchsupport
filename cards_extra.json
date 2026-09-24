@@ -4330,9 +4330,11 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-08-17",
-  "catch": "'Free' is real but has a mechanism: Navan earns commission on bookings made through its inventory, so the platform's incentive is that your travel flows through Navan — pricing on specific routes/hotels deserves an occasional spot-check against direct booking.",
-  "best": "Companies that want self-serve travel booking with built-in policy control — genuinely free — and optionally unified expense management on top."
+  "price": "$15",
+  "price_note": "from · per month",
+  "verified": "2026-09-24",
+  "catch": "'Free' is real but has a mechanism: Navan earns commission on bookings made through its inventory, so the platform's incentive is that your travel flows through Navan, and pricing on specific routes/hotels deserves an occasional spot-check against direct booking.",
+  "best": "Companies of up to 300 employees that want self-serve travel booking with built-in policy control, free on Navan Business."
  },
  "NeuroAds": {
   "flags": [
