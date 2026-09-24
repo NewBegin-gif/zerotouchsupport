@@ -8217,5 +8217,19 @@
   "verified": "2026-09-24",
   "catch": "The meter is clicks, and nobody says what happens when you run out.",
   "best": "Shopify stores that already publish short-form video on Instagram or TikTok and want it on the storefront as shoppable reels, stories and grids."
+ },
+ "Bot It AI": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$29",
+  "price_note": "Pro · per month for the automated AI fixes, rank tracking and the enrichment…",
+  "verified": "2026-09-24",
+  "catch": "The budget behind the AI fixes is not published.",
+  "best": "Shopify merchants who want to know how complete their catalogue data is for AI shopping agents and are willing to test an early tool."
  }
 }
