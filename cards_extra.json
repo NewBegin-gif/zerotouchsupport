@@ -8193,5 +8193,29 @@
   "verified": "2026-09-22",
   "catch": "Two things decide whether this is cheap, and neither is the plan price. The first is that you buy credits, not images: highest quality costs 2 credits against 1 for standard, so the better setting halves every allowance on the page — Starter's 75 credits is 37 images a month, not 75.",
   "best": "Small Shopify merchants who want studio and lifestyle product shots out of the photos they already have, without hiring a photographer or a studio."
+ },
+ "VyReel": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$19",
+  "price_note": "Basic · per month for 10,000 storefront clicks and 50 videos, billed through…",
+  "verified": "2026-09-24",
+  "catch": "The meter is clicks, and nobody says what happens when you run out.",
+  "best": "Shopify stores that already publish short-form video on Instagram or TikTok and want it on the storefront as shoppable reels, stories and grids."
  }
 }
