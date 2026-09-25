@@ -174,15 +174,10 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
    ]
   ],
   "price": "€149",
-  "price_note": "from · per month",
+  "price_note": "from · per user a month, billed monthly",
   "verified": "2026-08-26",
   "catch": "Young product, sharp focus: European B2B prospecting on a 65-million-company database with meeting notes flowing into records automatically.",
   "best": "European B2B sales teams that want AI-assisted prospecting and automatic meeting/CRM hygiene from a Europe-native database."
@@ -212,8 +207,6 @@
   "best": "Sales and support teams (3+ seats) that want a polished cloud phone system embedded in their CRM/helpdesk, with call routing, analytics and 250+ integrations."
  },
  "Airia": {
-  "price": "$50",
-  "price_note": "from · per month",
   "verified": "2026-09-10",
   "catch": "Airia used to publish part of its ladder, which was refreshingly rare for enterprise AI.",
   "best": "Enterprises that need to find the AI already running across their organisation, enforce policy on it at runtime, and build and govern their own agents."
@@ -243,11 +236,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "📈",
-    "Renewal jump",
-    "renewal_jump"
    ],
    [
     "🆓",
@@ -342,8 +330,6 @@
     "addons_extra"
    ]
   ],
-  "price": "$100",
-  "price_note": "from · per month",
   "verified": "2026-09-20",
   "catch": "Two honest boundaries. Implementation runs to weeks — the vendor's own pricing FAQ says most operations are live in under two to four weeks — and real-time support is the top tier's: self-serve on Foundations, chat and email on Growth, phone and a dedicated success manager only on Scale.",
   "best": "FTL trucking carriers and asset-based (hybrid) brokers with roughly 5–300 trucks — especially compliance-heavy freight like hazmat, reefer and cross-border."
@@ -414,11 +400,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
    ]
   ],
   "price": "$79",
@@ -462,6 +443,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$4.99",
@@ -478,8 +464,8 @@
     "free_tier"
    ]
   ],
-  "price": "$15",
-  "price_note": "from · per month",
+  "price": "S$15",
+  "price_note": "from · a month (SGD)",
   "verified": "2026-09-11",
   "catch": "It's a fintech account (strongest in Southeast Asia), not a full bank — great for keeping fixed costs near zero on mostly-domestic activity, but confirm it supports your country and currencies before you build your finances around it.",
   "best": "Startups and SMBs that want an all-in-one business account with $0 monthly fees and built-in spend management."
@@ -544,14 +530,14 @@
     "per_seat"
    ],
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$5.65",
@@ -611,6 +597,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$9",
@@ -859,13 +850,6 @@
   "best": "Sales and RevOps teams that already run enrichment across several vendors and want the waterfall, the signals and the CRM sync in one place."
  },
  "Bitvavo": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "verified": "2026-08-18",
   "catch": "The honest caveats are crypto-wide, not Bitvavo-specific: fees are only part of the cost (spread matters on small orders), and no exchange removes market risk — the platform being cheap and MiCA-regulated doesn't make the assets safe.",
   "best": "EU-based traders and builders who want a MiCA-regulated, euro-native exchange with low tiered fees, deep EUR pairs and a solid API for automation."
@@ -933,13 +917,6 @@
   "best": "Tour, activity and experience operators who want booking management plus wide OTA distribution (Viator, GetYourGuide and more) from one dashboard."
  },
  "Bolt Business": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "verified": "2026-08-20",
   "catch": "The honest boundary is geography: Bolt's network is Europe/Africa-centric across 600+ cities, so US-only operations should look elsewhere, and ride availability varies by city — pilot it on your team's actual routes.",
   "coupon": {
@@ -1340,8 +1317,6 @@
   "best": "Small businesses that want a clean, genuinely simple CRM for contacts, pipeline and tasks — one the team will actually keep updated."
  },
  "Carbon6": {
-  "price": "$97",
-  "price_note": "from · per month",
   "verified": "2026-08-26",
   "catch": "The honest headline here is not pricing but ownership — and it has moved again, this time in the reader's favour.",
   "best": "Amazon sellers who want reimbursements, advertising, inventory and sourcing tools from one vendor and are content to buy them tool by tool."
@@ -1597,11 +1572,6 @@
  "Cloudways": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -1695,6 +1665,8 @@
     "free_tier"
    ]
   ],
+  "price": "$239",
+  "price_note": "from · a month at 1,000 MAU billed yearly ($298.75 monthly)",
   "verified": "2026-08-17",
   "catch": "The pricing cliff is the honest headline: from a 100-MAU free tier straight to ~$239/mo is a brutal jump for an early-stage app, and users report plan structures changing under them.",
   "best": "Product teams that want proven in-app text/voice/video chat with SDKs for every major framework, without building messaging infrastructure themselves.",
@@ -1899,8 +1871,6 @@
     "addons_extra"
    ]
   ],
-  "price": "$14",
-  "price_note": "from · per month",
   "verified": "2026-08-21",
   "catch": "Every price is a ‘starting at’ and every button says ‘book a demo’ — the real bill depends on countries, benefits and add-ons, and only firms up in a sales conversation.",
   "best": "Companies hiring internationally without local entities — contractors paid compliantly in 150+ countries, or full EOR employment where you need someone on the ground fast."
@@ -2346,7 +2316,7 @@
     "addons_extra"
    ]
   ],
-  "price": "$10",
+  "price": "A$10",
   "price_note": "HR Essentials · per employee per month excluding GST on the Australian pricing page…",
   "verified": "2026-08-28",
   "catch": "There is no such thing as the Employment Hero price, and the first thing to fix is the currency: the pricing page is the Australian one, its disclaimer says every figure is AUD excluding GST, and there is no US page.",
@@ -2539,8 +2509,6 @@
     "usage_metered"
    ]
   ],
-  "price": "$100",
-  "price_note": "from · per month",
   "verified": "2026-09-03",
   "catch": "The honest structure: the $100 tier is a limited on-ramp, and most of what Feedvisor is famous for (the algorithmic Buy-Box strategy that holds prices UP, ad management, analysts) lives behind the $1,500+ top tier — this is enterprise software for serious catalogs, priced accordingly.",
   "best": "Mid-market and enterprise Amazon sellers with large catalogs where algorithmic repricing and ad optimization move real revenue."
@@ -2565,13 +2533,6 @@
   "best": "Shopify merchants who need several feeds at once, in formats they control — custom XML, CSV, TXT or JSON built from their own template."
  },
  "Filevine": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "verified": "2026-09-16",
   "catch": "Nothing is priced, so everything is negotiable — which cuts both ways.",
   "best": "Law firms past the point where a general project tool works, with enough matters that case-specific workflows and intake tracking pay back a negotiated annual contract."
@@ -2633,6 +2594,13 @@
   "best": "A physical shop, café or bar with steady card turnover above £995 a month that wants one predictable rate on every card type instead of a pricing table full of card categories. The on-site installation and 24/7 support suit an owner who would rather not configure hardware, and daily payouts help if cash flow is tight."
  },
  "FlexiQuiz": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
   "price": "$25",
   "price_note": "from · per month",
   "verified": "2026-09-22",
@@ -2647,8 +2615,6 @@
     "usage_metered"
    ]
   ],
-  "price": "$49",
-  "price_note": "from · per month",
   "verified": "2026-09-03",
   "catch": "The real cost is the success fee, and it's a flat bracket rate on the whole sale price, not marginal — a mid-five-figure sale can hand over a four- to five-figure commission.",
   "best": "Buyers and sellers of small-to-mid online businesses, SaaS, apps and domains who want the largest marketplace and are comfortable doing their own due diligence.",
@@ -2675,11 +2641,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
    ]
   ],
   "price": "$30",
@@ -2777,8 +2738,8 @@
     "free_tier"
    ]
   ],
-  "price": "$23",
-  "price_note": "from · per month",
+  "price": "$19",
+  "price_note": "from · per agent a month billed annually ($23 monthly)",
   "verified": "2026-09-01",
   "catch": "The free tier is genuinely useful for small teams, but AI features and higher-tier routing sit behind paid plans and add-ons — and being part of the wider Freshworks suite means you'll be nudged toward the full platform.",
   "best": "Small-to-mid support teams that want live chat and messaging with a real free tier to start."
@@ -3035,11 +2996,6 @@
  "Guesty": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -3171,13 +3127,6 @@
   "best": "Project teams that want flexible PM (Gantt, Kanban, forms, chat) and only pay for the modules they actually use."
  },
  "Hopp": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "verified": "2026-09-23",
   "catch": "The honest note is that the platform is free and the rides are not.",
   "best": "Teams that already travel by ride-hailing and want the spend on one invoice with per-person limits instead of expense claims."
@@ -3198,11 +3147,6 @@
  },
  "Housecall Pro": {
   "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
    [
     "🧩",
     "Add-ons extra",
@@ -3269,11 +3213,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
    ]
   ],
   "price": "€9",
@@ -3456,18 +3395,13 @@
  "Joiin": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "📅",
     "Annual commit",
     "annual_lock"
    ]
   ],
-  "price": "$336",
-  "price_note": "from · per month",
+  "price": "$23",
+  "price_note": "from · a month for one company billed annually ($28 monthly), unlimited users",
   "verified": "2026-08-17",
   "catch": "The $23 headline covers a single company on annual billing — but consolidation is the whole point of Joiin, and a real group of 10-20 entities lands at $92-139 a month.",
   "best": "Finance teams and accountants consolidating multi-entity, multi-currency group reporting from Xero, QuickBooks or Sage without hand-built spreadsheets."
@@ -3516,8 +3450,8 @@
   "best": "Bankruptcy attorneys and legal professionals who want streamlined petition preparation, document automation and case management for filings."
  },
  "Kartra": {
-  "price": "$10,000",
-  "price_note": "from · per month",
+  "price": "$59",
+  "price_note": "from · a month, or $52 a month billed yearly",
   "verified": "2026-09-05",
   "catch": "If your core need is polished course delivery, Kajabi's creator features are stronger; Kartra wins on all-in-one breadth, not course depth.",
   "best": "Creators and coaches who want funnels, email, checkout, memberships and scheduling under one roof instead of five subscriptions."
@@ -3668,18 +3602,11 @@
     "per_seat"
    ],
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
    ]
   ],
-  "price": "$30",
-  "price_note": "from · per month",
   "verified": "2026-09-10",
   "catch": "Plan for 30-60% above the sticker: minutes, the multi-line dialer and AI human-voice-detection all bill separately, and the quarterly auto-renewing contract only allows downgrades in its final 30 days — read that clause before signing.",
   "best": "Outbound sales teams living in their CRM that want a serious power dialer with local presence, SMS and automation."
@@ -4003,8 +3930,7 @@
     "quote_only"
    ]
   ],
-  "price": "$395",
-  "price_note": "from · per month",
+  "price_state": "quote-only",
   "verified": "2026-09-06",
   "catch": "Two honest cautions. Pricing is hidden and quote-driven, and reviewers repeatedly flag that the real cost — software plus design plus managed services — climbs well above the headline, sometimes with recurring fees for features you don't use.",
   "best": "Small businesses that want one vendor handling website, CRM, ads, email and reputation with real humans to help, and prefer done-for-you over DIY."
@@ -4332,6 +4258,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$19",
@@ -4388,11 +4319,6 @@
  "NiceJob": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -4410,11 +4336,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
    ],
    [
     "📅",
@@ -4524,11 +4445,6 @@
  },
  "Omniseo": {
   "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
    [
     "📅",
     "Annual commit",
@@ -4729,11 +4645,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
    ]
   ],
   "price": "£47",
@@ -4767,11 +4678,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
    ],
    [
     "🧩",
@@ -4837,14 +4743,14 @@
     "per_seat"
    ],
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$14",
@@ -4882,11 +4788,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
    ],
    [
     "🧩",
@@ -5044,15 +4945,9 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
    ]
   ],
-  "price": "$100",
-  "price_note": "from · per month",
+  "price_state": "quote-only",
   "verified": "2026-09-05",
   "catch": "Pricing is opaque and jumps steeply from Startup to Pro, with seat minimums that push the real cost above the headline per-member rate — you'll need a sales call to price it.",
   "best": "Operations-driven teams that run recurring, checklist-based processes and want them tracked and auditable.",
@@ -5067,8 +4962,6 @@
     "usage_metered"
    ]
   ],
-  "price": "$20",
-  "price_note": "from · per month",
   "verified": "2026-09-18",
   "catch": "Start with what is no longer there. Read on 18 September 2026, the Shopify App Store listing for this app is gone: the page says it is not currently available and sends support questions to the vendor.",
   "best": "Shopify stores with a known parcel-loss rate that are willing to come in through the vendor rather than the App Store."
@@ -5228,6 +5121,11 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$5",
@@ -5359,11 +5257,6 @@
  "Reditus": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -5456,6 +5349,11 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$19",
@@ -5470,6 +5368,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "verified": "2026-09-08",
@@ -5493,8 +5396,7 @@
     "per_seat"
    ]
   ],
-  "price": "$8",
-  "price_note": "from · per month",
+  "price_state": "quote-only",
   "verified": "2026-08-27",
   "catch": "The published '$8 per user a month' is real but it's only the floor, and it's the HR-and-payroll entry — not the price of the platform.",
   "best": "Growing companies that want HR, IT and Finance on one employee record."
@@ -5519,13 +5421,6 @@
   "best": "Podcasters and interviewers who need broadcast-quality audio and video from guests on bad connections — local recording at each end is genuinely the thing that solves it."
  },
  "RocketReach": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "price": "$19",
   "price_note": "Essentials · per month on an annual term, billed $229 USD annually",
   "verified": "2026-09-19",
@@ -5766,11 +5661,6 @@
  },
  "Seller Snap": {
   "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
    [
     "📅",
     "Annual commit",
@@ -6035,14 +5925,14 @@
     "per_seat"
    ],
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$8",
@@ -6133,11 +6023,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
    ]
   ],
   "price": "$15",
@@ -6183,6 +6068,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$15",
@@ -6315,11 +6205,6 @@
  "Stampezee": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -6438,14 +6323,14 @@
     "per_seat"
    ],
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$12",
@@ -6476,8 +6361,6 @@
   "best": "Shopify merchants — especially non-Plus stores — who want custom discount, checkout, payment and shipping logic without hiring a developer."
  },
  "Superfiliate": {
-  "price": "$999",
-  "price_note": "from · per month",
   "verified": "2026-09-24",
   "catch": "The price is the part you cannot check.",
   "best": "E-commerce brands turning customers and creators into affiliates with branded co-branded storefronts — if the volume justifies a demo-quoted platform fee."
@@ -6645,8 +6528,6 @@
     "free_tier"
    ]
   ],
-  "price": "$9.99",
-  "price_note": "from · per month",
   "verified": "2026-09-19",
   "catch": "Publishing volume is the trap this tool makes cheap.",
   "best": "Shopify stores that want structured, product-linked blog drafts and a publishing schedule, and that will edit what comes out before it goes live."
@@ -6714,6 +6595,8 @@
     "addons_extra"
    ]
   ],
+  "price": "C$618",
+  "price_note": "from · a year",
   "verified": "2026-09-22",
   "catch": "This is professional preparer software priced for firms, not a consumer filing app: the cost only makes sense if you're preparing returns for clients at volume.",
   "best": "Canadian accountants and bookkeepers who prepare and e-file client returns and want fast, checked, CRA-integrated professional tax software."
@@ -6821,14 +6704,14 @@
     "per_seat"
    ],
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "verified": "2026-08-18",
@@ -6848,8 +6731,6 @@
     "addons_extra"
    ]
   ],
-  "price": "$15",
-  "price_note": "from · per month",
   "verified": "2026-08-31",
   "catch": "Two costs are easy to miss and both are monthly. The credit system has two rates: $0.03 for credits you buy deliberately and $0.04 for backup credits that fire automatically when you run out — a 33% premium for not noticing.",
   "best": "Support and sales teams that already text customers from personal phones and need a shared, compliant inbox with a record of who said what."
@@ -6873,7 +6754,7 @@
  },
  "Thryv": {
   "price": "$99",
-  "price_note": "from · per month",
+  "price_note": "from · a month, or $85 a month billed annually",
   "verified": "2026-09-19",
   "catch": "Two published tiers, $85 and $340, and nothing between them.",
   "best": "Small service businesses — trades, salons, clinics — that currently run on a diary, a spreadsheet and a separate invoicing tool, and would genuinely retire all three."
@@ -7108,13 +6989,6 @@
   "pw_soort": "restructure"
  },
  "UltaHost": {
-  "flags": [
-   [
-    "📈",
-    "Renewal jump",
-    "renewal_jump"
-   ]
-  ],
   "price": "$3.44",
   "price_note": "from · per month",
   "verified": "2026-09-09",
@@ -7202,6 +7076,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$9.99",
@@ -7251,11 +7130,6 @@
     "per_seat"
    ],
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "📅",
     "Annual commit",
     "annual_lock"
@@ -7270,8 +7144,6 @@
   "pw_soort": "restructure"
  },
  "Velora": {
-  "price": "$134",
-  "price_note": "from · per month",
   "verified": "2026-09-05",
   "catch": "Velora is three acquired products (Keela, Aplos, Raisely) being unified into one platform, and that's the honest watch-out: integration between them is newer than the marketing suggests, so check how deeply the pieces actually connect for your workflow before committing.",
   "best": "Nonprofits that want donor CRM, fund accounting and online fundraising from one vendor, purpose-built for charities rather than adapted business tools."
@@ -7354,32 +7226,16 @@
   "best": "Import-export businesses and sourcing teams that want global customs-level trade data plus verified buyer/supplier contacts at a fraction of enterprise pricing."
  },
  "Voye": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "verified": "2026-09-06",
   "catch": "eSIM data pooling genuinely beats classic roaming for traveling teams, but the honest homework is coverage-and-speed on YOUR corridors: quality varies by country and local carrier partner, so pilot with two or three of your heaviest travelers before migrating everyone.",
   "best": "Companies with regularly traveling teams that want one pooled global data contract, per-user controls and an end to roaming bill surprises."
  },
  "VWO": {
-  "price": "$314",
-  "price_note": "from · per month",
   "verified": "2026-09-20",
   "catch": "The jump from Growth to Pro is steep — small businesses get priced out of MVT and complex targeting — and the UI is dense with options.",
   "best": "Teams that want an all-in-one experience-optimisation platform (A/B testing + heatmaps + personalisation) with friendlier Bayesian stats and transparent pricing."
  },
  "Warmup Inbox": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "price": "$19",
   "price_note": "from · per month",
   "verified": "2026-09-05",
