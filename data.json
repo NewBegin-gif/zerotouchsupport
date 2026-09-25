@@ -2296,7 +2296,7 @@
     "name": "Replit",
     "category": "IT & Productivity",
     "domain": "replit.com",
-    "desc": "Browser-based coding environment with instant deploys and an AI agent. Billing is effort-based: Core is $20/month including $25 of credits, Pro $95/month billed annually including $100. Credits expire monthly and a complex agent session burns them fast, which makes production costs hard to budget.",
+    "desc": "Browser-based coding environment with instant deploys and an AI agent. Billing is effort-based: each plan includes monthly credits that the Agent draws down at a rate you do not set, the credits expire monthly, and a complex agent session burns them fast, which makes production costs hard to budget.",
     "link": "https://replit.com/signup?referral=dglhaket",
     "replaces": "GitHub Codespaces"
   },
