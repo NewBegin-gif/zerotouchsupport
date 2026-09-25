@@ -3520,5 +3520,12 @@
     "desc": "Shopify app that audits every product for the data AI shopping agents rank on (categories, attributes, barcodes, alt text, variants, policies), maintains llms.txt and agents.md, and on Pro writes the missing fields with one-click revert and tracks placement in AI shopping results. Free audit forever; Pro $29 a month with a 30-day trial. Launched May 2026, no reviews yet. Read 24 Sep 2026.",
     "link": "https://platform.shoffi.app/r/rl_LG3QX4P7",
     "platform": "shopify"
+  },
+  {
+    "name": "DocSend",
+    "category": "IT & Productivity",
+    "domain": "docsend.com",
+    "desc": "Dropbox's secure document sharing and data room tool: send a deck or a data room as a tracked link, see page-by-page who read what, and gate access with email authentication, NDAs and watermarks. Personal $10/user/mo yearly, Standard $45/user with data rooms, Advanced $150/mo for 3 users, Advanced Data Rooms $180; monthly billing costs up to 67% more. Read 25 Sep 2026.",
+    "link": "https://experience.docsend.com/xw94912hj2by"
   }
 ]
