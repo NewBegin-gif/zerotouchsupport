@@ -551,6 +551,11 @@
     "per_seat"
    ],
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -558,7 +563,7 @@
   ],
   "price": "$5.65",
   "price_note": "from · per user per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-24",
   "catch": "Simple and honest pricing — the real conversation with any field-team tracker is the human one: GPS tracking of employees needs transparency and often consent (rules differ by country), and adoption dies the day the crew feels surveilled rather than served.",
   "best": "Hourly and mobile crews (construction, cleaning, field service) that want dead-simple clock-in/out, GPS-verified timesheets and payroll-ready exports."
  },
@@ -1145,11 +1150,16 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$5.99",
   "price_note": "from · per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-24",
   "catch": "That flat $19 base fee makes it pricey for very small teams — at three or four users the base fee dominates the bill, so it's better value once you're past a handful of employees.",
   "best": "Small-to-mid teams that need straightforward employee time tracking with GPS and payroll-ready exports.",
   "pw": "price up Aug 2026",
@@ -3116,8 +3126,8 @@
   ],
   "price": "$39",
   "price_note": "from · per month",
-  "verified": "2026-09-03",
-  "catch": "The meter is views, not results: every visitor who sees a popup counts against your quota, so a traffic spike raises the bill regardless of how many emails you actually captured — a busy site outgrows the entry tier fast.",
+  "verified": "2026-09-24",
+  "catch": "The meter is views, not results: every visitor who sees a popup counts against your quota, so a traffic spike eats the allowance regardless of how many emails you actually captured, and at the limit the campaigns pause until the next billing cycle — a busy site outgrows the entry tier fast.",
   "best": "Content sites, blogs and stores that already have traffic and a genuinely worthwhile offer, and want sticky bars."
  },
  "HelpCenter": {
@@ -3316,7 +3326,7 @@
   ],
   "price": "$0.25",
   "price_note": "from · per month",
-  "verified": "2026-09-04",
+  "verified": "2026-09-24",
   "catch": "The first-year price is a teaser and the renewal is the price — IDrive says so itself under the plan table, and on the current numbers the step from discounted to standard is about 43% (Personal 5 TB goes from $6.99 to $9.99 a month).",
   "best": "Individuals and small businesses that want cheap multi-device cloud backup with versioning, snapshots and physical seed/restore shipping."
  },
@@ -3380,7 +3390,7 @@
   ],
   "price": "$79",
   "price_note": "from · per month",
-  "verified": "2026-09-04",
+  "verified": "2026-09-24",
   "catch": "It's premium-priced and only justified by serious ad spend — Create is $79 a month billed annually for 15,000 unique monthly visitors, and the price per thousand barely improves as you climb, so the higher tiers buy features rather than cheaper traffic.",
   "best": "Marketing teams running significant paid ad campaigns who need post-click optimisation — AdMap ad-to-page personalisation, A/B testing and heatmaps."
  },
@@ -3401,24 +3411,19 @@
  "InVideo": {
   "flags": [
    [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "📅",
-    "Annual commit",
-    "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
-  "price": "$17",
+  "price": "$20",
   "price_note": "from · per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-24",
   "catch": "The honest catch is the credit model — each plan is a fixed monthly credit allowance that different models consume at different rates, and unused credits do not roll over, so a heavy month can exhaust an allowance long before it renews while a slow month simply wastes what you paid for.",
   "best": "Marketing teams and creators who want to turn a prompt or script into a publish-ready first-draft video fast, using templates, AI voiceover and stock."
  },
@@ -3493,11 +3498,21 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "$34",
   "price_note": "from · per month",
-  "verified": "2026-09-04",
+  "verified": "2026-09-24",
   "catch": "The gating detail is conversations, not features — Starter's 100 a month is a few days on a live site, and an agent that actually gets used will push you up a tier.",
   "best": "Teams already using Jotform (or wanting no-code) that need AI chatbots and service agents to handle leads, support and bookings tied to their forms."
  },
@@ -3566,7 +3581,7 @@
   ],
   "price": "$299",
   "price_note": "the whole platform · billed monthly",
-  "verified": "2026-09-05",
+  "verified": "2026-09-24",
   "catch": "Cost is the big one (56% of reviewers flag it), the interface feels dated, and there's a real 2–4 week learning curve on the automation builder.",
   "best": "Service-based small businesses, coaches and solopreneurs who want CRM, email, payments and automation in one tool — and will invest the time to learn it."
  },
@@ -4925,7 +4940,7 @@
   ],
   "price": "$14.99",
   "price_note": "from · per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-24",
   "catch": "The thing you cannot check is the price.",
   "best": "Small teams that want AI-assisted planning and are willing to ask for a quote."
  },
@@ -5571,7 +5586,7 @@
  "Runpod": {
   "price": "$0.27",
   "price_note": "RTX A5000 pod, Secure… · per hour, billed per second",
-  "verified": "2026-09-05",
+  "verified": "2026-09-24",
   "catch": "The honest math is utilization.",
   "best": "Developers and ML teams that want cheap, per-second GPU compute for inference and experiments without committing to hyperscaler contracts."
  },
@@ -5652,7 +5667,7 @@
  "SaneBox": {
   "price": "$4.54",
   "price_note": "Snack (1 email account… · per month on a two-year prepay ($109 every 2 years)",
-  "verified": "2026-09-05",
+  "verified": "2026-09-24",
   "catch": "It works with any email provider, which is a genuine advantage over the built-in tools in Gmail and Outlook.",
   "best": "Heavy-email professionals drowning in a cluttered inbox who want AI triage that works across any mail client."
  },
@@ -5843,21 +5858,9 @@
   "best": "European e-commerce stores that want easy multi-carrier shipping (DHL, PostNL, Colissimo, GLS, DPD), branded tracking and a returns portal live in under 30 minutes."
  },
  "Sentaro": {
-  "flags": [
-   [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
-   [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ]
-  ],
   "price": "$6",
   "price_note": "from · per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-24",
   "catch": "The category claim (AI catches what filters miss) is plausible — Microsoft/Google native filtering misses sophisticated BEC — but any vendor's accuracy percentage is measured on their own test set, not your mail flow.",
   "coupon": {
    "code": "SUMMER",
@@ -5954,7 +5957,7 @@
   ],
   "price": "£2.75",
   "price_note": "from · per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-24",
   "catch": "It's focused, affordable rota software — which means it does scheduling, clock-ins, leave and swaps well, but it isn't a full HR or payroll platform, so a growing business will still bolt on payroll and HR tools around it.",
   "best": "Shift-based businesses (hospitality, retail, leisure) that want quick rota building, clock-ins and leave management without spreadsheet pain."
  },
@@ -6212,7 +6215,7 @@
     "addons_extra"
    ]
   ],
-  "verified": "2026-09-05",
+  "verified": "2026-09-24",
   "catch": "It's a veteran, reliable relay, but two honest notes.",
   "best": "Businesses and developers needing dependable high-deliverability transactional or bulk email via SMTP relay and API, with dedicated IPs at scale."
  },
@@ -6524,7 +6527,7 @@
  "Superfiliate": {
   "price": "$999",
   "price_note": "from · per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-24",
   "catch": "The price is the part you cannot check.",
   "best": "E-commerce brands turning customers and creators into affiliates with branded co-branded storefronts — if the volume justifies a demo-quoted platform fee."
  },
@@ -7379,9 +7382,9 @@
     "annual_lock"
    ]
   ],
-  "price": "$79",
+  "price": "$99",
   "price_note": "from · per month",
-  "verified": "2026-09-23",
+  "verified": "2026-09-25",
   "catch": "It undercuts the big suites convincingly.",
   "best": "Agencies and multi-brand teams that want scheduling, listening, reviews and reporting across many profiles at a notably lower price than legacy suites."
  },
@@ -8233,5 +8236,24 @@
   "verified": "2026-09-24",
   "catch": "The budget behind the AI fixes is not published.",
   "best": "Shopify merchants who want to know how complete their catalogue data is for AI shopping agents and are willing to test an early tool."
+ },
+ "DocSend": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$10",
+  "price_note": "Personal · per user per month billed yearly ($15 billed monthly), one user, no…",
+  "verified": "2026-09-25",
+  "catch": "The cheap plan is not the product people buy DocSend for.",
+  "best": "Founders sharing a pitch deck or running a fundraise, and small deal teams that want a data room with page-level analytics."
  }
 }
