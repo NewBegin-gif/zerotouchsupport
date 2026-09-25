@@ -8032,7 +8032,7 @@
    ]
   ],
   "price": "$20",
-  "price_note": "from · per month",
+  "price_note": "Pro · per seat a month, plus $0.14 per testing minute beyond the 120 included",
   "verified": "2026-09-18",
   "catch": "You do not control your own seat count.",
   "best": "Teams already living inside GitHub pull requests who want end-to-end tests to exist at all."
@@ -8255,5 +8255,29 @@
   "verified": "2026-09-25",
   "catch": "The cheap plan is not the product people buy DocSend for.",
   "best": "Founders sharing a pitch deck or running a fundraise, and small deal teams that want a data room with page-level analytics."
+ },
+ "Timesact Preorder": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$5",
+  "price_note": "from · per month",
+  "verified": "2026-09-25",
+  "catch": "The Fixed price depends on your Shopify plan, not on what you use.",
+  "best": "Shopify stores that take pre-orders, deposits or back-in-stock sign-ups on a modest or seasonal volume and want to start free."
  }
 }
