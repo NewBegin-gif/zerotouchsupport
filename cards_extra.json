@@ -6826,7 +6826,7 @@
   ],
   "price": "$5",
   "price_note": "from · per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-25",
   "catch": "The free plan's 5-project cap, and reminders that fire only at the moment a task comes due, push most serious users to Pro quickly — but Pro is genuinely cheap.",
   "best": "Individuals and small teams who want a fast, elegant task manager that gets out of the way."
  },
@@ -7144,7 +7144,7 @@
   "pw_soort": "restructure"
  },
  "Velora": {
-  "verified": "2026-09-05",
+  "verified": "2026-09-25",
   "catch": "Velora is three acquired products (Keela, Aplos, Raisely) being unified into one platform, and that's the honest watch-out: integration between them is newer than the marketing suggests, so check how deeply the pieces actually connect for your workflow before committing.",
   "best": "Nonprofits that want donor CRM, fund accounting and online fundraising from one vendor, purpose-built for charities rather than adapted business tools."
  },
@@ -7238,7 +7238,7 @@
  "Warmup Inbox": {
   "price": "$19",
   "price_note": "from · per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-25",
   "catch": "The pricing is published and readable — three tiers, per inbox, with both billing toggles printing a rate: $19, $59 and $99 monthly, or $15, $49 and $79 on the yearly plan.",
   "best": "Outbound teams warming new sending domains and inboxes before campaigns, with integrations across Google, Outlook, Zoho and SendGrid."
  },
@@ -7318,7 +7318,7 @@
   ],
   "price": "$5",
   "price_note": "from · per month",
-  "verified": "2026-09-05",
+  "verified": "2026-09-25",
   "catch": "It solves a real annoyance: dozens of web apps and multiple accounts per app as tidy desktop windows.",
   "best": "People juggling many web apps and multiple accounts per service who want them as clean, separate desktop apps with per-profile isolation."
  },
@@ -7399,17 +7399,12 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "price": "$30",
   "price_note": "from · per month",
-  "verified": "2026-09-05",
-  "catch": "The meter is honest and the unit rate is invisible: every phone number, call minute, text, form, chat, appointment, email, event and transaction is charged against a monthly credit, and past that credit WhatConverts publishes no unit price anywhere on its site — the billing FAQ points to a Rates page inside the account.",
+  "verified": "2026-09-25",
+  "catch": "The meter is honest and only half of it is printed: every phone number, call minute, text, form, chat, appointment, email, event and transaction is charged against a monthly credit.",
   "best": "Agencies and lead-gen businesses that want every lead — calls, forms, chats — attributed to its source and campaign without enterprise-suite prices."
  },
  "Wholesale Gorilla": {
