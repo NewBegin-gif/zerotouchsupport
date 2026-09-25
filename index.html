@@ -619,6 +619,8 @@
 .tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
 .tc-coupon .lb{min-width:0;flex:1 1 auto;overflow-wrap:anywhere}
 
+/* R25-04 (25 sep 2026, gemeten): kaarten buiten beeld niet renderen; HTML en links blijven gewoon in de pagina */
+.tool-card{content-visibility:auto;contain-intrinsic-size:auto 260px}
 /* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
 #marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
 .lg-kop{display:grid;grid-template-columns:200px 150px minmax(0,1fr) 190px 150px;gap:0 22px;position:sticky;top:60px;z-index:5;background:var(--bg);padding:10px 18px 10px 15px;border-bottom:1px solid var(--border);font-size:.66rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--text-3);margin:0}
@@ -1114,7 +1116,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Customer Support</span></div></div>
  <div class="lg-acties tool-cta-row">
-  <a href="https://partner.gorgias.com/53p147fye0wv" target="_blank" rel="nofollow noopener noreferrer" class="tool-cta-primary">Visit Gorgias <span aria-hidden="true">&rarr;</span></a>
+  <a href="https://partner.gorgias.com/53p147fye0wv" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Gorgias <span aria-hidden="true">&rarr;</span></a>
   <a href="gorgias-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
@@ -1317,7 +1319,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
  <div class="lg-acties tool-cta-row">
-  <a href="https://get.ruby.com/wlngs0yc8d9c" target="_blank" rel="nofollow noopener noreferrer" class="tool-cta-primary">Visit Ruby <span aria-hidden="true">&rarr;</span></a>
+  <a href="https://get.ruby.com/wlngs0yc8d9c" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Ruby <span aria-hidden="true">&rarr;</span></a>
   <a href="ruby-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
@@ -1437,7 +1439,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Communication</span><span class="tool-tag">Voice</span></div></div>
  <div class="lg-acties tool-cta-row">
-  <a href="https://get.textline.com/dz7hjpbvfkue" target="_blank" rel="nofollow noopener noreferrer" class="tool-cta-primary">Visit Textline <span aria-hidden="true">&rarr;</span></a>
+  <a href="https://get.textline.com/dz7hjpbvfkue" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Textline <span aria-hidden="true">&rarr;</span></a>
   <a href="textline-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
@@ -1596,7 +1598,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Customer Support</span></div></div>
  <div class="lg-acties tool-cta-row">
-  <a href="https://try.zendesk.com/16u21xk7thhq" target="_blank" rel="nofollow noopener noreferrer" class="tool-cta-primary">Visit Zendesk <span aria-hidden="true">&rarr;</span></a>
+  <a href="https://try.zendesk.com/16u21xk7thhq" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Zendesk <span aria-hidden="true">&rarr;</span></a>
   <a href="zendesk-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
