@@ -165,10 +165,15 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
     b.addEventListener('click',function(){
       type=b.getAttribute('data-type')||'';
       btns.forEach(function(x){x.setAttribute('aria-pressed',x===b?'true':'false');});
-      apply();
+      apply(); meet('deal_filter',{filter_type:type||'all'});
     });
   });
-  if(sel)sel.addEventListener('change',function(){cat=sel.value;apply();});
+  // meten welke filters en voorwaarden gebruikt worden (deals-audit: selectie verbeteren op gedrag)
+  function meet(ev,p){try{if(window.gtag)gtag('event',ev,p);}catch(e){}}
+  document.querySelectorAll('.dc-terms').forEach(function(d){
+    d.addEventListener('toggle',function(){if(d.open)meet('deal_terms_open',{tool:d.closest('.deal-card').querySelector('.dc-name').textContent});});
+  });
+  if(sel)sel.addEventListener('change',function(){cat=sel.value;apply();meet('deal_filter',{filter_category:cat||'all'});});
   search.addEventListener('input',function(){q=search.value.trim().toLowerCase();apply();});
   reset.addEventListener('click',function(){
     q='';type='';cat='';search.value='';if(sel)sel.value='';
@@ -178,6 +183,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   document.querySelectorAll('.dc-copy').forEach(function(b){
     b.addEventListener('click',function(){
       var code=b.getAttribute('data-code'),oud=b.textContent;
+      meet('deal_copy_code',{tool:b.closest('.deal-card').querySelector('.dc-name').textContent});
       function klaar(){b.textContent='Copied';setTimeout(function(){b.textContent=oud;},1600);}
       if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(code).then(klaar,function(){});}
       else{var t=document.createElement('textarea');t.value=code;document.body.appendChild(t);t.select();try{document.execCommand('copy');klaar();}catch(e){}document.body.removeChild(t);}
