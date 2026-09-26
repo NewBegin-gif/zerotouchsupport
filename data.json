@@ -3551,5 +3551,13 @@
     "desc": "Shopify app that replaces the search icon with an always-visible AI search bar (typo tolerance, synonyms, instant results, SKU search) and adds product and collection filters on tags and metafields, hand-set pins and boosts, and search analytics.",
     "link": "https://platform.shoffi.app/r/rl_Q9pJWoF6",
     "platform": "shopify"
+  },
+  {
+    "name": "Lovable",
+    "category": "IT & Productivity",
+    "domain": "lovable.dev",
+    "desc": "AI app builder that turns a written description into a web app with a database and hosting, published to a lovable.app address in one click. Billing is in credits whose cost per message depends on the work, and a published app's backend runs on a separate monthly Cloud allowance.",
+    "link": "https://lovable.dev/",
+    "replaces": "Bubble"
   }
 ]
