@@ -442,30 +442,68 @@ h1{font-size:1.5rem}
 </head>
 <body>
 
-    <nav class="znav" id="zuster-nav" aria-label="Site"><style>
-nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;top:0;z-index:120;background:rgba(2,6,23,.82);backdrop-filter:blur(12px);
- -webkit-backdrop-filter:blur(12px);border-bottom:1px solid rgba(148,163,184,.14);
- font:500 .86rem/1 Inter,system-ui,-apple-system,"Segoe UI",sans-serif;text-align:left}
-.znav *{box-sizing:border-box}
-.znav .in{max-width:1180px;margin:0 auto;padding:0 24px;height:60px;display:flex;align-items:center;
- justify-content:space-between;gap:24px}
-.znav .merk{display:flex;align-items:center;gap:9px;color:#f8fafc;text-decoration:none;font-weight:800;
- font-size:1.12rem;letter-spacing:-.01em;white-space:nowrap}
-.znav .merk i{width:10px;height:10px;border-radius:3px;background:linear-gradient(135deg,#818cf8,#34d399);
- box-shadow:0 0 12px rgba(129,140,248,.6)}
-.znav .merk em{font-style:normal;color:#a5b4fc}
-.znav .links{display:flex;align-items:center;gap:4px;overflow-x:auto;scrollbar-width:none;
- -webkit-overflow-scrolling:touch;padding-right:4px}
-.znav .links::-webkit-scrollbar{display:none}
-.znav .links a{color:#cbd5e1;text-decoration:none;padding:8px 11px;border-radius:8px;white-space:nowrap;
- transition:color .15s,background .15s}
-.znav .links a:hover{color:#fff;background:rgba(255,255,255,.06)}
-.znav .links a.nu{color:#fff;background:rgba(129,140,248,.14)}
-.znav .links a.cta{margin-left:6px;background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;font-weight:700}
-.znav .links a.cta:hover{filter:brightness(1.08)}
-@media(max-width:720px){.znav .in{height:54px;padding:0 14px;gap:12px}.znav .merk{font-size:1rem}
- .znav .links a{padding:7px 8px;font-size:.8rem}.znav .links a.cta{display:none}}
-</style><div class="in"><a class="merk" href="/"><i></i>ZeroTouch <em>Support</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/build-customer-support-system.html">Build a support system</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html" class="nu">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
+    <nav class="snav" id="zuster-nav" aria-label="Main"><style>
+:root{--snav-h:56px}
+nav.snav{display:block;position:sticky;top:0;left:auto;right:auto;z-index:1000;margin:0;padding:0;height:auto;border:0;width:auto;
+ max-width:none;transform:none;box-shadow:none;
+ background:rgba(2,6,23,.9);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+ border-bottom:1px solid rgba(148,163,184,.16);font:500 .9rem/1.2 Inter,system-ui,-apple-system,"Segoe UI",sans-serif;
+ text-align:left;color:#e2e8f0}
+nav.snav *{box-sizing:border-box}
+nav.snav .snav-in{max-width:1180px;margin:0 auto;padding:0 20px;height:var(--snav-h);display:flex;align-items:center;gap:12px}
+nav.snav a{text-decoration:none}
+nav.snav button,nav.snav a{margin:0;line-height:1.2;height:auto;min-height:0;box-shadow:none;text-transform:none;
+ letter-spacing:normal;vertical-align:middle;width:auto}
+nav.snav li{margin:0;padding:0;list-style:none}
+nav.snav .snav-merk{display:flex;align-items:center;gap:9px;color:#f8fafc;font-weight:800;font-size:1.05rem;
+ letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0;flex:0 1 auto}
+nav.snav .snav-merk i{width:10px;height:10px;border-radius:3px;flex:0 0 10px;background:linear-gradient(135deg,#818cf8,#34d399)}
+nav.snav .snav-merk em{font-style:normal;color:#a5b4fc}
+nav.snav .snav-links{display:flex;align-items:center;gap:2px;margin-left:auto;list-style:none;padding:0;margin-top:0;margin-bottom:0}
+nav.snav .snav-links a,nav.snav .snav-meer>button{color:#cbd5e1;padding:8px 11px;border-radius:8px;white-space:nowrap;
+ background:none;border:0;font:inherit;cursor:pointer;display:block}
+nav.snav .snav-links a:hover,nav.snav .snav-meer>button:hover{color:#fff;background:rgba(255,255,255,.07)}
+nav.snav .nu>a,nav.snav a.nu,nav.snav .snav-meer.nu>button{color:#fff;background:rgba(129,140,248,.16)}
+nav.snav .snav-meer{position:relative}
+nav.snav .snav-meer>button::after{content:"";display:inline-block;margin-left:6px;border:4px solid transparent;
+ border-top-color:currentColor;vertical-align:-2px}
+nav.snav .snav-meer-lijst{position:absolute;right:0;top:calc(100% + 6px);min-width:220px;list-style:none;margin:0;padding:6px;
+ background:#0f172a;border:1px solid rgba(148,163,184,.2);border-radius:12px;box-shadow:0 12px 32px rgba(0,0,0,.45)}
+nav.snav .snav-meer-lijst[hidden]{display:none}
+nav.snav .snav-meer-lijst a{padding:9px 12px}
+nav.snav .snav-cta{flex:0 0 auto;background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;font-weight:700;
+ padding:8px 14px;border-radius:9px;white-space:nowrap}
+nav.snav .snav-cta:hover{filter:brightness(1.08)}
+nav.snav .snav-menu{display:none;flex:0 0 auto;background:none;border:1px solid rgba(148,163,184,.3);color:#e2e8f0;
+ border-radius:9px;padding:7px 11px;font:inherit;font-weight:600;cursor:pointer}
+nav.snav a:focus-visible,nav.snav button:focus-visible{outline:2px solid #a5b4fc;outline-offset:2px}
+@media(max-width:900px){
+ nav.snav .snav-in{padding:0 12px;gap:8px}
+ nav.snav .snav-merk{font-size:.98rem}
+ nav.snav .snav-menu{display:block}
+ nav.snav .snav-cta{margin-left:auto;padding:7px 11px;font-size:.84rem}
+ nav.snav .snav-links{display:none;position:absolute;left:0;right:0;top:var(--snav-h);flex-direction:column;align-items:stretch;
+  gap:0;margin:0;padding:8px 12px 14px;background:#0b1224;border-bottom:1px solid rgba(148,163,184,.2);
+  max-height:calc(100vh - var(--snav-h));overflow-y:auto;box-shadow:0 16px 32px rgba(0,0,0,.5)}
+ nav.snav.open .snav-links{display:flex}
+ nav.snav .snav-links a,nav.snav .snav-meer>button{padding:12px 10px;font-size:1rem;width:100%;text-align:left}
+ nav.snav .snav-meer>button{display:none}
+ nav.snav .snav-meer-lijst,nav.snav .snav-meer-lijst[hidden]{display:block;position:static;box-shadow:none;border:0;
+  border-top:1px solid rgba(148,163,184,.16);border-radius:0;padding:6px 0 0;margin-top:6px;background:none;min-width:0}
+}
+@media(max-width:480px){nav.snav .snav-merk em{display:none}}
+/* audit P1-2: de marketplace-subnav (vorige/volgende) plakt direct onder deze balk, op elke breedte */
+.subnav{top:calc(var(--snav-h) + 1px)!important}
+</style><div class="snav-in"><a class="snav-merk" href="/"><i aria-hidden="true"></i><span>ZeroTouch <em>Support</em></span></a><ul class="snav-links" id="zuster-nav-links"><li><a href="/guides.html">Guides</a></li><li><a href="/build-customer-support-system.html">Build a support system</a></li><li><a href="/tools/">Free tools</a></li><li><a href="/atlas.html">Atlas</a></li><li><a href="/deals.html">Deals</a></li><li class="snav-meer nu"><button type="button" aria-expanded="false" aria-controls="zuster-nav-meer">More</button><ul class="snav-meer-lijst" id="zuster-nav-meer" hidden><li class=nu><a href="/price-watch.html" aria-current="page">Price Watch</a></li><li><a href="/about.html">About</a></li></ul></li></ul><a class="snav-cta" href="/finder.html">Find software</a><button type="button" class="snav-menu" aria-expanded="false" aria-controls="zuster-nav-links">Menu</button></div><script>(function(){var n=document.currentScript&&document.currentScript.closest('nav.snav');if(!n)return;
+var m=n.querySelector('.snav-menu'),w=n.querySelector('.snav-meer>button'),l=n.querySelector('.snav-meer-lijst');
+function zetMenu(o){n.classList.toggle('open',o);m.setAttribute('aria-expanded',o?'true':'false');}
+function zetMeer(o){if(!w)return;w.setAttribute('aria-expanded',o?'true':'false');l.hidden=!o;}
+m.addEventListener('click',function(){zetMenu(!n.classList.contains('open'));});
+if(w)w.addEventListener('click',function(e){e.stopPropagation();zetMeer(l.hidden);});
+document.addEventListener('keydown',function(e){if(e.key!=='Escape')return;
+ if(w&&!l.hidden){zetMeer(false);w.focus();}else if(n.classList.contains('open')){zetMenu(false);m.focus();}});
+document.addEventListener('click',function(e){if(!n.contains(e.target)){zetMeer(false);zetMenu(false);}});
+})();</script></nav>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Price Watch: what these vendors quietly changed", "url": "https://zerotouchsupport.com/price-watch.html", "mainEntityOfPage": "https://zerotouchsupport.com/price-watch.html", "datePublished": "2026-09-01", "dateModified": "2026-09-02", "description": "Every month we archive the pricing page of the tools we cover and compare the new capture with the last. 5 documented changes for the tools on ZeroTouch Support.", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "ZeroTouch Support"}}</script>
 <div class="pw">
 <div class="bc"><a href="/">ZeroTouch Support</a> &rsaquo; Price Watch</div>
