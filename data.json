@@ -3535,5 +3535,13 @@
     "desc": "Shopify pre-orders, deposits and split payments, back-in-stock and coming-soon sign-ups.",
     "link": "https://platform.shoffi.app/r/rl_2PYuHv5l",
     "platform": "shopify"
+  },
+  {
+    "name": "SoftSync",
+    "category": "Growth & Revenue",
+    "domain": "softsync.ai",
+    "desc": "Flexible B2B CRM for small sales teams: records and custom objects, table, pipeline and calendar views, email sync and campaigns, meeting notes and summaries, Autopilot follow-up workflows, and API and MCP access so Claude, ChatGPT or Gemini can work with the CRM directly.",
+    "link": "https://affiliate.softsync.ai/axfyphmly1wj",
+    "replaces": "HubSpot"
   }
 ]
