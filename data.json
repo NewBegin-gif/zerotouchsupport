@@ -3543,5 +3543,13 @@
     "desc": "Flexible B2B CRM for small sales teams: records and custom objects, table, pipeline and calendar views, email sync and campaigns, meeting notes and summaries, Autopilot follow-up workflows, and API and MCP access so Claude, ChatGPT or Gemini can work with the CRM directly.",
     "link": "https://affiliate.softsync.ai/axfyphmly1wj",
     "replaces": "HubSpot"
+  },
+  {
+    "name": "Rapid Search",
+    "category": "E-commerce",
+    "domain": "rapidsearch.app",
+    "desc": "Shopify app that replaces the search icon with an always-visible AI search bar (typo tolerance, synonyms, instant results, SKU search) and adds product and collection filters on tags and metafields, hand-set pins and boosts, and search analytics.",
+    "link": "https://platform.shoffi.app/r/rl_Q9pJWoF6",
+    "platform": "shopify"
   }
 ]
