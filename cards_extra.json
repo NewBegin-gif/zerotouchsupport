@@ -4136,11 +4136,6 @@
  "Momence": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -4152,9 +4147,9 @@
    ]
   ],
   "price": "$60",
-  "price_note": "from · per month (fee halved to 2.5%)",
-  "verified": "2026-09-06",
-  "catch": "The 'free' plan is the most expensive one once you have real volume: a 5% commission on every sale overtakes Pro's $60 flat fee around $29k a year in processed revenue, and Pro in turn loses to the $199 Custom plan above about $67k a year.",
+  "price_note": "from · per month at 2.5%)",
+  "verified": "2026-09-25",
+  "catch": "Momence stopped publishing prices in September 2026: on the 25th its pricing page was a 'Let's talk pricing' form with no figure on it.",
   "best": "Class-based businesses — studios, gyms, salons, schools — that want scheduling, memberships, payments and marketing in one system with a member app."
  },
  "monday.com": {
@@ -4706,7 +4701,7 @@
   "best": "Freelancers and sellers getting paid by international clients and marketplaces (Amazon, Upwork, Fiverr) who need local receiving accounts."
  },
  "PDWare": {
-  "verified": "2026-09-06",
+  "verified": "2026-09-25",
   "catch": "This is genuine enterprise software with enterprise buying: opaque pricing, demo-first sales and implementation effort — appropriate for portfolio offices planning hundreds of resources, overkill below that.",
   "best": "Enterprise PMOs that plan portfolios around named-resource capacity and need feasibility answers before committing to projects."
  },
@@ -4901,7 +4896,7 @@
   ],
   "price": "€5",
   "price_note": "from · a month, billed annually",
-  "verified": "2026-09-07",
+  "verified": "2026-09-25",
   "catch": "It exports to PDF only — no editable .pptx — and the zooming format is polarising: some audiences find it engaging, others find it disorienting.",
   "best": "Presenters who want motion and zooming-canvas storytelling that stands out from slide decks — especially for talks, pitches and teaching."
  },
@@ -5864,7 +5859,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month for 1-200 labels, or $205/yr",
-  "verified": "2026-09-06",
+  "verified": "2026-09-25",
   "catch": "The pricing is honest but layered.",
   "best": "E-commerce sellers shipping across multiple carriers who want rate comparison, label printing and tracking in one place with genuine rate discounts."
  },
@@ -5885,7 +5880,7 @@
  "Shorby": {
   "price": "$15",
   "price_note": "from · per month, or $12/mo billed annually",
-  "verified": "2026-09-06",
+  "verified": "2026-09-25",
   "catch": "In a category where the market leader has a generous free plan, Shorby charges from day one, so it has to earn the gap.",
   "best": "Creators and businesses that sell via messenger conversations or retarget link-in-bio traffic with ad pixels."
  },
@@ -8103,5 +8098,28 @@
   "verified": "2026-09-25",
   "catch": "The Fixed price depends on your Shopify plan, not on what you use.",
   "best": "Shopify stores that take pre-orders, deposits or back-in-stock sign-ups on a modest or seasonal volume and want to start free."
+ },
+ "SoftSync": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$29",
+  "price_note": "Pro, per seat · per seat a month billed yearly",
+  "verified": "2026-09-26",
+  "catch": "Pro stops at five team members per workspace.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: 30% off plus a 30-day trial instead of the standard 14 days"
+  },
+  "best": "Small B2B sales teams of up to five people who want CRM records, email campaigns, meeting summaries and follow-up automation in one workspace, and who want Claude."
  }
 }
