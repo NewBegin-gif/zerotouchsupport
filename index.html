@@ -538,7 +538,7 @@
  .nav-links .nav-dd-toggle{display:none}
  .nav-links .nav-dd-menu{display:contents !important;position:static;background:none;border:0;box-shadow:none;padding:0;margin:0}
  .nav-links .nav-dd-menu a{padding:0;border-radius:0;font-size:.78rem;margin-left:12px;flex-shrink:0}
- .hero{padding:130px 24px 60px}
+ .hero{padding:40px 5% 40px}
  .stats-inner{grid-template-columns:repeat(2,1fr)}
  .stat-item:nth-child(2){border-right:none}
  .stat-item:nth-child(1),.stat-item:nth-child(2){border-bottom:1px solid var(--border)}
@@ -674,7 +674,26 @@ window.filterTools = function (c) {
   });
 };
 </script>
-</head>
+<style id="software-motion-css">
+/* HERO-ACHTERGROND — Software Motion 2.1 (26 sep 2026). Bron: aibuildermarketplace-main/assets/software-motion.js */
+.zm-stage{position:relative;isolation:isolate;overflow:hidden}
+.zm-motion{position:absolute;inset:0;width:100%;height:100%;z-index:-2;pointer-events:none;display:block}
+.zm-veil{position:absolute;inset:0;z-index:-1;pointer-events:none;background:radial-gradient(ellipse 70% 55% at 50% 42%,rgba(4,8,17,.72),rgba(4,8,17,.3) 70%,rgba(4,8,17,.1)),linear-gradient(0deg,#040811 0%,rgba(4,8,17,0) 26%)}
+.motion-toggle{position:absolute;right:16px;bottom:12px;z-index:2;display:inline-flex;align-items:center;gap:7px;background:rgba(15,23,42,.72);border:1px solid rgba(148,163,184,.22);color:#94a3b8;font:500 .72rem/1 Inter,system-ui,sans-serif;padding:7px 10px;border-radius:8px;cursor:pointer}
+.motion-toggle[hidden]{display:none}
+.motion-toggle:hover{color:#f1f5f9}
+.motion-toggle:focus-visible{outline:2px solid #a5b4fc;outline-offset:3px}
+.motion-toggle-icon{box-sizing:content-box;width:3px;height:9px;border-left:2.5px solid currentColor;border-right:2.5px solid currentColor}
+.motion-toggle[data-state=paused] .motion-toggle-icon{width:0;height:0;border-right:0;border-left:8px solid currentColor;border-top:4.5px solid transparent;border-bottom:4.5px solid transparent}
+@media(min-width:1100px){
+ .zm-veil{background:linear-gradient(90deg,#040811 0%,rgba(4,8,17,.8) 30%,rgba(4,8,17,.25) 55%,rgba(4,8,17,.1) 100%),linear-gradient(0deg,#040811 0%,rgba(4,8,17,0) 22%)}
+}
+/* knoppen boven de vouw op laptops (1280x720): minder bovenruimte, kop 3 in plaats van 4 regels */
+@media(min-width:769px){
+ .zm-stage .hero{padding-top:3rem}
+ .zm-stage .hero h1{font-size:clamp(2.4rem,4vw,3.2rem)}
+}
+</style></head>
 <body>
 
     <div class="top-bar">
@@ -745,7 +764,7 @@ document.addEventListener('click',function(e){if(!n.contains(e.target)){zetMeer(
 })();</script></nav>
 
     <main>
-        <header class="hero">
+        <div class="zm-stage"><!--SOFTWARE-MOTION--><canvas id="hero-motion" class="zm-motion" data-software-motion="support" data-layout="network" data-speed="0.6" data-intensity="0.9" aria-hidden="true"></canvas><div class="zm-veil" aria-hidden="true"></div><header class="hero">
             <div class="hero-content">
                 <div class="hero-badge">
                     🛡️ Independent software reviews
@@ -793,7 +812,7 @@ document.addEventListener('click',function(e){if(!n.contains(e.target)){zetMeer(
                     _ An illustration, not a measured result<span class="cursor-blink">_</span>
                 </div>
             </div>
-        </header>
+        </header><button type="button" class="motion-toggle" data-motion-toggle="hero-motion" aria-pressed="false" hidden><span class="motion-toggle-icon" aria-hidden="true"></span><span data-motion-label>Pause animation</span></button></div><script defer src="/assets/software-motion.js"></script>
 
         <!-- START HERE (decision-first) -->
         <section id="start-here" style="max-width:1100px;margin:0 auto;padding:52px 24px;border-bottom:1px solid var(--border)">
