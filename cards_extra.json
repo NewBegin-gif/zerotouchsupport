@@ -8145,5 +8145,22 @@
   "verified": "2026-09-26",
   "catch": "The meter is your traffic, not your searches.",
   "best": "Shopify stores whose shoppers arrive knowing what they want, with catalogues from a few hundred to 100,000 products, that want typo-tolerant instant search."
+ },
+ "Lovable": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "verified": "2026-09-26",
+  "catch": "You do not know what a change costs until it is done.",
+  "best": "Founders, marketers and small teams who want a working web app with a database from a written description, online the same day without setting up hosting."
  }
 }
