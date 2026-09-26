@@ -4390,6 +4390,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$9.90",
@@ -5304,9 +5309,9 @@
     "usage_metered"
    ]
   ],
-  "price": "$17",
-  "price_note": "from · per month billed annually (struck-through $20), $20 of monthly credits",
-  "verified": "2026-09-02",
+  "price": "$20",
+  "price_note": "from · per month billed annually",
+  "verified": "2026-09-26",
   "catch": "The credit model on AI-heavy building is unpredictable — a complex agent session can burn credits fast, and they expire monthly, so heavy AI users hit surprise costs.",
   "best": "Developers, learners and tinkerers who want a zero-setup, browser-based coding environment with AI assistance.",
   "pw": "price down Sep 2026",
@@ -8121,5 +8126,24 @@
    "label": "via our link: 30% off plus a 30-day trial instead of the standard 14 days"
   },
   "best": "Small B2B sales teams of up to five people who want CRM records, email campaigns, meeting summaries and follow-up automation in one workspace, and who want Claude."
+ },
+ "Rapid Search": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$14",
+  "price_note": "Basic 1 · per month for 5,000 monthly sessions and 100,000 products, unbranded…",
+  "verified": "2026-09-26",
+  "catch": "The meter is your traffic, not your searches.",
+  "best": "Shopify stores whose shoppers arrive knowing what they want, with catalogues from a few hundred to 100,000 products, that want typo-tolerant instant search."
  }
 }
