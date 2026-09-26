@@ -1017,11 +1017,6 @@
  "Breezy HR": {
   "flags": [
    [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -1434,6 +1429,11 @@
  "Claude": {
   "flags": [
    [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -1760,11 +1760,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "price": "$399",
@@ -2080,11 +2075,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "price": "$39",
@@ -2552,11 +2542,6 @@
  "Finale Inventory": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
-   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -2806,11 +2791,6 @@
  },
  "FullEnrich": {
   "flags": [
-   [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
    [
     "🧮",
     "Usage-metered",
@@ -3473,11 +3453,6 @@
  "Katana MRP": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
-   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -3486,6 +3461,11 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$299",
@@ -3838,11 +3818,6 @@
  "LettrLabs": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
-   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -4033,11 +4008,6 @@
  "MindStudio": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
-   [
     "🪑",
     "Per-seat pricing",
     "per_seat"
@@ -4046,6 +4016,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$20",
@@ -4656,13 +4631,6 @@
   "best": "Teams that want the sales, content and support agents in one place and will genuinely use the lead engine."
  },
  "Parim": {
-  "flags": [
-   [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ]
-  ],
   "price": "£47",
   "price_note": "from · a month (published floor)",
   "verified": "2026-09-17",
@@ -4876,20 +4844,6 @@
   "verified": "2026-09-19",
   "catch": "The $0 a month is not free — it carries a $49 monthly minimum spend, which means $49 is your floor whether you send anything or not.",
   "best": "Shopify stores with a list large enough that SMS beats email on response — the per-message economics only work once volume justifies the platform fee."
- },
- "PreOrder Now": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
-  "price": "$19.95",
-  "price_note": "from · a month (tier keyed to Shopify plan size)",
-  "verified": "2026-09-13",
-  "catch": "The free tier is more useful than it first looks: one pre-order product, unlimited time, with the mixed-cart warning included.",
-  "best": "Stores that sell drops, restocks or made-to-order products and want pre-order badges, partial payments and back-in-stock emails without touching the theme."
  },
  "Prezi": {
   "flags": [
@@ -5158,7 +5112,7 @@
   ],
   "price": "$19.95",
   "price_note": "from · a month, or $8.33 a month billed annually ($99.95 a year)",
-  "verified": "2026-09-08",
+  "verified": "2026-09-26",
   "catch": "The free tier is deliberately narrow: 125 words per paraphrase and two of the modes.",
   "best": "Students, non-native writers and anyone who wants quick paraphrasing, grammar and summarizing help."
  },
@@ -5342,13 +5296,6 @@
   "best": "Sales teams running structured multichannel outbound (email + LinkedIn + calls) who want sequences, warmup and a B2B database in one platform."
  },
  "respond.io": {
-  "flags": [
-   [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ]
-  ],
   "price": "$79",
   "price_note": "Starter · per month",
   "verified": "2026-08-29",
@@ -5372,7 +5319,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month ($190/yr billed annually)",
-  "verified": "2026-09-07",
+  "verified": "2026-09-26",
   "catch": "The channel caps are the business model -- each tier buys a few more destinations.",
   "best": "Creators, podcasters and marketing teams who broadcast one show to many platforms at once, without extra encoding hardware."
  },
@@ -5389,7 +5336,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-09-08",
+  "verified": "2026-09-26",
   "catch": "Work out which lane you are in before you pay, because the three lanes price the same photo very differently.",
   "coupon": {
    "code": "AIBuilder20",
@@ -5399,11 +5346,6 @@
  },
  "Rippling": {
   "flags": [
-   [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
    [
     "🪑",
     "Per-seat pricing",
@@ -5431,7 +5373,7 @@
   ],
   "price": "$24",
   "price_note": "from · per month billed yearly ($35 monthly)",
-  "verified": "2026-09-07",
+  "verified": "2026-09-26",
   "catch": "The meter is not recording time, it is separate-track download time — and separate tracks are the entire reason to use this rather than a video call.",
   "best": "Podcasters and interviewers who need broadcast-quality audio and video from guests on bad connections — local recording at each end is genuinely the thing that solves it."
  },
@@ -5626,11 +5568,6 @@
  "Seel": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
-   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -5817,13 +5754,6 @@
   "best": "Trades and service businesses with a crew, where per-user pricing elsewhere punishes you for having enough people."
  },
  "Shiftie": {
-  "flags": [
-   [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ]
-  ],
   "price": "£2.75",
   "price_note": "from · per user per month",
   "verified": "2026-09-24",
@@ -5890,17 +5820,10 @@
   "best": "Creators and businesses that sell via messenger conversations or retarget link-in-bio traffic with ad pixels."
  },
  "Shore": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
   "price": "€49.90",
-  "price_note": "from · per month billed yearly, €59.90 monthly (Starter, 2 employees)",
-  "verified": "2026-09-07",
-  "catch": "It's built for local appointment businesses, and that's also the boundary: the integration list is short (calendar, Google, Instagram, Meta), and once you add POS and payments the monthly total climbs well past the entry price.",
+  "price_note": "from · per month billed yearly, €59.90 monthly (Booking, up to 5 staff)",
+  "verified": "2026-09-26",
+  "catch": "It's built for local appointment businesses in the German-speaking market, and the package split shows it: booking and the till are sold as separate lines, and only All-in-One carries both.",
   "best": "Salons, barbers, spas, wellness studios, physical therapists, craftspeople and local retailers that want bookings via Google and Instagram, no-show-reducing reminders."
  },
  "Signal House": {
@@ -5942,18 +5865,13 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "📅",
-    "Annual commit",
-    "annual_lock"
    ]
   ],
   "price": "$8",
-  "price_note": "from · per user a month, annual billing (month-to-month priced higher)",
-  "verified": "2026-09-07",
+  "price_note": "from · per month billed annually",
+  "verified": "2026-09-26",
   "catch": "It's built for straightforward everyday signing — if you need deep contract-lifecycle (CLM) features, a heavier platform fits better.",
-  "best": "Teams that sign at volume and want unlimited users at a flat rate — roughly 60% under DocuSign for the same core job."
+  "best": "Teams where many people sign occasionally and want unlimited users on one plan - size it against the 100 invites a year, not the headcount."
  },
  "Similarweb": {
   "flags": [
@@ -6093,7 +6011,7 @@
   ],
   "price": "$15",
   "price_note": "from · per month or $150/yr for 10,000 emails",
-  "verified": "2026-09-07",
+  "verified": "2026-09-26",
   "catch": "It's the pragmatic middle of email infrastructure: simpler and better-supported than the hyperscale APIs, cheaper than most, with genuinely useful reporting — but sending reputation is still yours to earn.",
   "best": "Businesses that want dependable transactional/bulk sending via SMTP or API with human support and clear per-volume pricing."
  },
@@ -6350,9 +6268,9 @@
    ]
   ],
   "price": "$12",
-  "price_note": "from · per user a month for 1-25 users on monthly billing ($11 annual)",
-  "verified": "2026-09-08",
-  "catch": "The ladder rewards size rather than commitment: moving from 25 to 26 users drops the rate a dollar, and the annual discount is worth about the same single dollar per user.",
+  "price_note": "from · per user per month on monthly billing ($11 annual)",
+  "verified": "2026-09-26",
+  "catch": "The ladder rewards size rather than commitment: each band's rate applies only to the seats inside it, so the 26th user costs a dollar less than the 25th, and the annual discount is worth about the same single dollar per user.",
   "best": "Leadership teams that already run on goals and want one place to set objectives, track KPIs and scorecards, and keep strategy execution on cadence."
  },
  "Sunsama": {
@@ -6448,11 +6366,6 @@
  "SurveySparrow": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
-   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -6489,17 +6402,12 @@
   ],
   "price": "$56",
   "price_note": "Growth (100 responses) · per month, billed annually",
-  "verified": "2026-09-08",
+  "verified": "2026-09-26",
   "catch": "The plan is metered by response volume, not by surveys — a viral NPS month can push you a tier up, and the free plan's 30-day retention quietly deletes your history.",
   "best": "Product and CX teams running always-on feedback — NPS, CSAT and in-app surveys — piped into the CRM and analytics stack they already use."
  },
  "Switcher Studio": {
   "flags": [
-   [
-    "📈",
-    "Renewal jump",
-    "renewal_jump"
-   ],
    [
     "📅",
     "Annual commit",
@@ -6508,7 +6416,7 @@
   ],
   "price": "$65",
   "price_note": "from · a month month-to-month, or $45 a month billed annually",
-  "verified": "2026-09-08",
+  "verified": "2026-09-26",
   "catch": "The app runs on Mac and iOS only — Android phones can join as cameras, but there is no Windows version — so the machine doing the switching has to be an Apple one.",
   "best": "Creators, churches, events and small businesses that want multi-camera live production and streaming using iPhones and iPads they already own — no broadcast hardware."
  },
@@ -7018,13 +6926,6 @@
   "best": "Budget-conscious owners, developers and small businesses that want cheap, fast NVMe hosting (shared or VPS) with free migration and DDoS protection."
  },
  "Unbounce": {
-  "flags": [
-   [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ]
-  ],
   "price": "$29",
   "price_note": "from · a month, or $22 billed yearly at 25% off",
   "verified": "2026-09-14",
@@ -7509,11 +7410,6 @@
     "📈",
     "Renewal jump",
     "renewal_jump"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "price": "$59",
@@ -7528,11 +7424,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ],
    [
     "🆓",
