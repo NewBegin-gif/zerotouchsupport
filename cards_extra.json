@@ -3276,6 +3276,11 @@
     "per_seat"
    ],
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -3283,7 +3288,7 @@
   ],
   "price": "$8",
   "price_note": "from · per seat a month, billed annually",
-  "verified": "2026-09-09",
+  "verified": "2026-09-26",
   "best": "COOs, CFOs and operations leaders who want a work intelligence platform rather than a time clock: workforce analytics plus AI process capture."
  },
  "Instapage": {
@@ -6574,9 +6579,14 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
-  "verified": "2026-09-09",
+  "verified": "2026-09-26",
   "catch": "Tellent's modular shape is genuinely useful — you can buy just the ATS, or just the HRIS — but nothing is priced in public: every tier on tellent.com/pricing ends in 'Get a demo' (read in a browser on 9 September 2026), and recruitee.com/pricing carries no figures either.",
   "best": "European scale-ups hiring continuously that want a collaborative ATS they can extend with HRIS and performance modules, and can put a sales call in the buying process."
  },
@@ -6693,7 +6703,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-09",
+  "verified": "2026-09-26",
   "catch": "The fee honesty is the product — flat cents per ticket instead of percentage skims makes it dramatically cheaper than the big platforms on higher-priced tickets (a $0.30-0.85 fee on a $50 ticket vs a percentage is no contest).",
   "best": "Event organizers with their own audience (venues, communities, creators) who want flat low per-ticket fees, full branding and no subscription."
  },
@@ -6828,12 +6838,17 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$9",
-  "price_note": "from · per month (2 clients)",
-  "verified": "2026-09-09",
-  "catch": "The client-count ladder looks gentle, but the add-ons are flat and they land hardest on the smallest coach: at five seats a $23 Pro plan dressed with nutrition, payments and video is $88, while the same three turn the $275 two-hundred-client row into $340.",
+  "price_note": "from · per month billed annually (2 clients)",
+  "verified": "2026-09-27",
+  "catch": "The client-count ladder looks gentle, but most add-ons are flat and they land hardest on the smallest coach: at five seats a $23 Pro plan dressed with nutrition, payments and video is $63, while the same three turn the $225 two-hundred-client row into $290.",
   "best": "Personal trainers and studios delivering structured workout/nutrition coaching through a polished client app, scaling by client count."
  },
  "Trainual": {
@@ -6908,7 +6923,7 @@
   "pw_soort": "held"
  },
  "UENI": {
-  "verified": "2026-09-09",
+  "verified": "2026-09-26",
   "catch": "It's done-for-you, which is the appeal and the catch.",
   "best": "Small-business owners with no time or tech skills who want a professional site built for them, not another tool to learn.",
   "pw": "plans rebuilt Aug 2026",
