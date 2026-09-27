@@ -3552,5 +3552,21 @@
     "desc": "AI app builder that turns a written description into a web app with a database and hosting, published to a lovable.app address in one click. Billing is in credits whose cost per message depends on the work, and a published app's backend runs on a separate monthly Cloud allowance.",
     "link": "https://lovable.dev/",
     "replaces": "Bubble"
+  },
+  {
+    "name": "Track123",
+    "category": "E-commerce",
+    "domain": "track123.com",
+    "desc": "Shopify order-tracking app: a branded tracking page and order lookup on your own store, synced from 1,500+ carriers, with Shopify shipping emails pointed at that page, a dropshipping mode that hides origin details, and PayPal and Stripe tracking sync. Priced on synced orders a month, with a free tier; estimated delivery dates and branding removal sit on the higher Advanced plan.",
+    "link": "https://platform.shoffi.app/r/rl_cmz7XgpB",
+    "platform": "shopify"
+  },
+  {
+    "name": "Pickeasy",
+    "category": "E-commerce",
+    "domain": "logbase.io",
+    "desc": "Shopify local pickup and delivery scheduler (by Logbase): customers pick a date and time slot, with cut-off and preparation times, blackout dates, per-slot order limits and zip-code checks, across one to twenty locations. Tiers are gated on locations and rate rules, and the app's own delivery rates need Shopify's carrier-calculated shipping.",
+    "link": "https://platform.shoffi.app/r/rl_ghBEvFHp",
+    "platform": "shopify"
   }
 ]
