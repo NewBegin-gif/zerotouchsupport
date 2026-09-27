@@ -26,13 +26,6 @@
   "best": "Businesses that want a professional toll-free or vanity number with call tracking, routing and analytics to look bigger and measure inbound calls."
  },
  "accessiBe": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
   "price": "$59",
   "price_note": "Micro · per month for up to 5,000 monthly visits",
   "verified": "2026-09-10",
@@ -90,16 +83,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "price": "$49",
   "price_note": "from · per month minimum on Self-Serve",
-  "verified": "2026-09-10",
+  "verified": "2026-09-27",
   "catch": "The honest math is the 10%-of-ad-spend fee on top of the minimum.",
   "best": "E-commerce stores (Shopify, WooCommerce, BigCommerce) that want automated, largely hands-off retargeting and prospecting ads on Meta and Google."
  },
@@ -310,7 +298,7 @@
   ],
   "price": "$6.99",
   "price_note": "from · a month billed annually ($83.99/yr)",
-  "verified": "2026-09-10",
+  "verified": "2026-09-27",
   "catch": "The honest catch is that Alohi is a suite of separate products — Fax.Plus, Sign.Plus, Scan.Plus — each with its own subscription, so \"one ecosystem\" can mean several line items if you want e-signatures and faxing and scanning.",
   "best": "Businesses that need secure online faxing, e-signatures or scanning — especially regulated ones needing HIPAA-compliant fax on the Enterprise tier."
  },
@@ -482,11 +470,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "price": "$3",
@@ -577,16 +560,9 @@
   "best": "Stores already running Klaviyo at volume, where a few percent more recovered carts is worth $450 a month and the identity-resolution layer has enough traffic to work with."
  },
  "Audiorista": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
   "price": "$29",
   "price_note": "from · per month (preview tier, no publishing or monetization)",
-  "verified": "2026-09-14",
+  "verified": "2026-09-27",
   "catch": "The $29 Demo tier cannot actually publish to the App Store or Google Play — real branded apps start at $240 a month.",
   "best": "Creators and media brands with a real audio catalog — podcasts, audiobooks, meditations, courses — ready to monetize subscriptions in their own branded apps."
  },
@@ -704,11 +680,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ],
    [
     "🆓",
@@ -906,11 +877,6 @@
     "usage_metered"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -970,6 +936,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$143",
+  "price_note": "from · per location per month on annual billing",
   "verified": "2026-09-17",
   "catch": "Two things about this price list. It is per location, so the arithmetic for a second salon is not a volume discount, it is double — and the add-ons are per location too, which compounds it.",
   "best": "Salons, spas and clinics with staff to schedule and a front desk to run — the per-location pricing works out fine for one busy site."
@@ -1508,11 +1476,6 @@
     "usage_metered"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -1943,9 +1906,9 @@
     "usage_metered"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$15",
@@ -2052,11 +2015,6 @@
     "📈",
     "Renewal jump",
     "renewal_jump"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "price": "$297",
@@ -2103,13 +2061,6 @@
   "best": "Sales teams that already run LinkedIn outreach, understand that automation breaches LinkedIn's terms, and accept that risk with their eyes open."
  },
  "Dripshipper": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
   "price": "$30",
   "price_note": "Starter · per month, or $240 a year which works out at $20 a month",
   "verified": "2026-09-17",
@@ -2141,11 +2092,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "verified": "2026-08-28",
@@ -2665,7 +2611,7 @@
    ]
   ],
   "price": "$129.99",
-  "price_note": "from · per user per month (same 12-month term)",
+  "price_note": "from · per user per year or $10.99 per user a month",
   "verified": "2026-09-22",
   "catch": "Foxit's pitch is being the honest fraction of Acrobat's price, and on the headline numbers it delivers.",
   "coupon": {
@@ -3338,7 +3284,7 @@
    ]
   ],
   "price": "$20",
-  "price_note": "from · per user per month (400 credits/seat/mo, up to 5 seats)",
+  "price_note": "from · per seat per month (400 credits/seat/mo, up to 5 seats)",
   "verified": "2026-09-24",
   "catch": "The honest catch is the credit model — each plan is a fixed monthly credit allowance that different models consume at different rates, and unused credits do not roll over, so a heavy month can exhaust an allowance long before it renews while a slow month simply wastes what you paid for.",
   "best": "Marketing teams and creators who want to turn a prompt or script into a publish-ready first-draft video fast, using templates, AI voiceover and stock."
@@ -3635,11 +3581,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "price": "$12",
@@ -4059,13 +4000,6 @@
   "best": "Teams that think visually — brainstorms, flowcharts, retros, workshops and planning on an infinite shared canvas with strong templates and facilitation tools."
  },
  "Mktg.ai": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
   "verified": "2026-09-25",
   "catch": "First, the price is still hidden — a 404 where the pricing page should be, and no pricing item in the navigation — which for a tool that promises spend transparency is an irony worth noticing, and the FAQ makes it sharper: its own introduction says it covers what the platform costs, and then no answer in it names a figure.",
   "best": "Marketing teams with real media spend across channels who want an always-on AI analyst."
@@ -4485,11 +4419,6 @@
     "usage_metered"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -4545,6 +4474,8 @@
     "per_seat"
    ]
   ],
+  "price": "$699",
+  "price_note": "from · per employee a month",
   "verified": "2026-08-29",
   "catch": "The two numbers that decide your bill are not on the price card.",
   "best": "Companies hiring their first employees in countries where they have no legal entity."
@@ -4667,11 +4598,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "verified": "2026-09-14",
@@ -4701,9 +4627,9 @@
     "usage_metered"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$10",
@@ -4767,7 +4693,7 @@
   "best": "Solo founders and small teams that want a steady stream of product-marketing videos and posters generated from a product link, without filming anything."
  },
  "Pixel Union": {
-  "verified": "2026-09-12",
+  "verified": "2026-09-27",
   "catch": "A premium theme is a strong starting point, not a finished store.",
   "best": "Online retailers and larger-catalog stores that want a professionally designed, conversion-focused Shopify storefront without paying for custom development."
  },
@@ -4777,11 +4703,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "price": "€2.99",
@@ -5228,13 +5149,6 @@
   "best": "Google Calendar teams that want AI to auto-schedule tasks, habits and meetings around their priorities."
  },
  "Reditus": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
   "price": "$99",
   "price_note": "from · per month billed annually ($1,188/yr), up to $60K tracked ARR",
   "verified": "2026-08-17",
@@ -5432,7 +5346,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month billed yearly ($39 monthly)",
-  "verified": "2026-09-14",
+  "verified": "2026-09-27",
   "catch": "It's deliberately lean: no built-in dialer, no quoting or invoicing, and reporting feels basic unless you export.",
   "best": "Small B2B teams whose reps hate data entry — Salesflare auto-logs emails, meetings and contact details from your inbox and calendar."
  },
@@ -5442,11 +5356,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ],
    [
     "📅",
@@ -5652,11 +5561,6 @@
  "Sendcloud": {
   "flags": [
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -5760,7 +5664,7 @@
  },
  "Shiftie": {
   "price": "£2.75",
-  "price_note": "from · per user per month",
+  "price_note": "from · per employee per month",
   "verified": "2026-09-24",
   "catch": "It's focused, affordable rota software — which means it does scheduling, clock-ins, leave and swaps well, but it isn't a full HR or payroll platform, so a growing business will still bolt on payroll and HR tools around it.",
   "best": "Shift-based businesses (hospitality, retail, leisure) that want quick rota building, clock-ins and leave management without spreadsheet pain."
@@ -5950,7 +5854,7 @@
   ],
   "price": "$39",
   "price_note": "from · per month, monthly only (drops on annual billing)",
-  "verified": "2026-09-11",
+  "verified": "2026-09-27",
   "catch": "Smartli bundles nine AI tools — copy, SEO, images, logos — into one suite, and that breadth is also the honest catch: each individual tool is competent rather than best-in-class, so a team that leans hard on one job may outgrow it toward a specialist.",
   "best": "E-commerce sellers who want an affordable all-in-one AI suite to draft product listings, ad copy, SEO text and basic brand assets in one place."
  },
@@ -6114,11 +6018,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "price": "$19.99",
@@ -7307,11 +7206,6 @@
     "usage_metered"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -7382,13 +7276,6 @@
   "best": "Marketing teams who want video on their own site with real analytics and lead capture, and who care that the player does not recommend a competitor's video afterwards."
  },
  "Wiz Checkout Upsell": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
   "price": "$49",
   "price_note": "Essential · per month",
   "verified": "2026-09-19",
@@ -7481,7 +7368,7 @@
   ],
   "price": "£166",
   "price_note": "from · per month, billed annually",
-  "verified": "2026-09-09",
+  "verified": "2026-09-27",
   "catch": "The 'starting from' wording is doing real work: £166/mo is the floor of the cheapest module, billed annually, so a working setup for a brand that sells wholesale quickly stacks toward £332/mo and beyond — about £4,000 a year before add-ons.",
   "best": "Small and mid-size fashion brands that need sales, production, inventory and wholesale in one system built around size curves, seasons and linesheets."
  },
@@ -7498,7 +7385,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-09-09",
+  "verified": "2026-09-27",
   "catch": "The honest scrutiny of 'free': the tip prompt is shown to YOUR donors, with suggested percentages.",
   "best": "Small and mid-size nonprofits that want donations, ticketing, memberships and payments without any fee eating the mission's money."
  },
@@ -7546,11 +7433,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ],
    [
     "🆓",
@@ -7854,13 +7736,6 @@
   "best": "Shopify stores that want bundles, add-ons, cart funnels and post-purchase offers out of one app and would rather be billed on order volume than hand over a share of the upsell revenue — and small stores in particular, since under 50 orders a month the full strategy set costs nothing."
  },
  "Warn": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
   "price": "$6.99",
   "price_note": "from · per month for unlimited (non-Plus stores), $12.99/mo Plus Plan",
   "verified": "2026-09-20",
@@ -7889,14 +7764,14 @@
     "usage_metered"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
-   [
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$29",
@@ -7925,7 +7800,7 @@
   ],
   "price": "$9",
   "price_note": "from · per month (75 credits/mo)",
-  "verified": "2026-09-22",
+  "verified": "2026-09-27",
   "catch": "Two things decide whether this is cheap, and neither is the plan price. The first is that you buy credits, not images: highest quality costs 2 credits against 1 for standard, so the better setting halves every allowance on the page — Starter's 75 credits is 37 images a month, not 75.",
   "best": "Small Shopify merchants who want studio and lifestyle product shots out of the photos they already have, without hiring a photographer or a studio."
  },
@@ -8094,13 +7969,6 @@
   "best": "Shopify stores shipping from a few dozen to tens of thousands of orders a month, dropshippers included."
  },
  "Pickeasy": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
   "price": "$9.99",
   "price_note": "Starter · a month for one location with delivery, pickup and shipping slots…",
   "verified": "2026-09-27",
