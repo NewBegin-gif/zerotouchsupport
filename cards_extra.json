@@ -101,7 +101,7 @@
   ],
   "price": "$34.99",
   "price_note": "from · a month at 200 monthly orders, capped at $999.99",
-  "verified": "2026-09-22",
+  "verified": "2026-09-27",
   "catch": "Post-purchase upsells only move the needle with steady order volume and a sensible complementary-offer strategy — bolt it onto a store with little traffic and there's nothing to upsell.",
   "best": "Shopify stores with steady order volume that want to lift average order value with one-click post-purchase and checkout upsells."
  },
@@ -560,6 +560,13 @@
   "best": "Stores already running Klaviyo at volume, where a few percent more recovered carts is worth $450 a month and the identity-resolution layer has enough traffic to work with."
  },
  "Audiorista": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$29",
   "price_note": "from · per month (preview tier, no publishing or monetization)",
   "verified": "2026-09-27",
@@ -985,6 +992,11 @@
  "Breezy HR": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -992,7 +1004,7 @@
   ],
   "price": "$157",
   "price_note": "from · per month billed annually ($189 monthly)",
-  "verified": "2026-08-17",
+  "verified": "2026-09-27",
   "catch": "The jump from free (one position) to the first paid tier is steep if you only hire occasionally — the free plan is genuinely usable, so live in it until you're filling several roles at once.",
   "best": "Small teams hiring for a few roles at once that want a visual, drag-and-drop pipeline without enterprise-ATS pricing."
  },
@@ -4595,9 +4607,9 @@
  "Payoneer": {
   "flags": [
    [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
    ]
   ],
   "verified": "2026-09-14",
@@ -5012,19 +5024,19 @@
     "per_seat"
    ],
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "📅",
     "Annual commit",
     "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$5",
   "price_note": "from · per user a month ($48/yr), unlimited documents",
-  "verified": "2026-08-17",
+  "verified": "2026-09-27",
   "catch": "A few users report occasional email-deliverability hiccups — otherwise it does exactly what it says (recipients even sign without an account) for a fraction of enterprise pricing.",
   "best": "Cost-conscious teams that want certified e-signing (ISO 27001, AATL) with unlimited documents from ~$5/mo and a real free tier."
  },
@@ -5149,6 +5161,13 @@
   "best": "Google Calendar teams that want AI to auto-schedule tasks, habits and meetings around their priorities."
  },
  "Reditus": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$99",
   "price_note": "from · per month billed annually ($1,188/yr), up to $60K tracked ARR",
   "verified": "2026-08-17",
@@ -5560,6 +5579,11 @@
  },
  "Sendcloud": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "🆓",
     "Free tier",
@@ -6425,7 +6449,7 @@
   ],
   "price": "C$618",
   "price_note": "from · a year",
-  "verified": "2026-09-22",
+  "verified": "2026-09-27",
   "catch": "This is professional preparer software priced for firms, not a consumer filing app: the cost only makes sense if you're preparing returns for clients at volume.",
   "best": "Canadian accountants and bookkeepers who prepare and e-file client returns and want fast, checked, CRA-integrated professional tax software."
  },
@@ -6815,7 +6839,7 @@
   ],
   "price": "$99",
   "price_note": "Starter · base fee per month with 1 user ($999 a year)",
-  "verified": "2026-09-23",
+  "verified": "2026-09-27",
   "catch": "The bill has two parts and both are published: a base fee from $99 and a resolution rate from $2 (pay as you go) down to $1 with volume packages.",
   "best": "Customer-service teams with real ticket volume that want AI agents to resolve requests end to end and act inside the systems they already run.",
   "pw": "price held",
