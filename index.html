@@ -693,6 +693,19 @@ window.filterTools = function (c) {
   });
 };
 </script>
+<style id="hero-mobiel">/* 28 sep 2026 (algemene audit N9): op 390x844 begon de hoofdknop op 814px. Minder witruimte,
+   geen extra siteregel boven de nav, een toelichting in plaats van twee. Animatie en pauzeknop ongemoeid. */
+@media (max-width: 600px) {
+  .top-bar { display: none; }
+  .hero { padding-top: 1.5rem; padding-bottom: 2.5rem; gap: 1.5rem; }
+  .zm-stage .hero { padding-top: 1.5rem; }
+  .hero-badge { margin-bottom: 1rem; font-size: .8rem; }
+  .hero h1 { font-size: clamp(2rem, 8.6vw, 2.4rem); margin-bottom: 1rem; line-height: 1.12; }
+  .hero p { font-size: 1.02rem; line-height: 1.6; margin-bottom: 1rem; }
+  .hero p.hero-extra { display: none; }
+  .hero-cta { margin-top: 16px !important; }
+}
+</style>
 </head>
 <body>
 
@@ -771,7 +784,7 @@ document.addEventListener('click',function(e){if(!n.contains(e.target)){zetMeer(
                 </div>
                 <h1>Find software for customer questions, <span class="gradient-text">tickets and calls.</span></h1>
                 <p>Compare help desks, chat tools and phone systems. Our reviews explain pricing, automation options and the limits to check before you choose.</p>
-                <p>Every review says whether it is a researched assessment or one we used hands-on, and who should skip the tool.</p>
+                <p class="hero-extra">Every review says whether it is a researched assessment or one we used hands-on, and who should skip the tool.</p>
                 
                 <div class="hero-cta" style="margin-top:28px;display:flex;flex-wrap:wrap;gap:12px">
                     <a href="finder.html" class="btn" onclick="if(window.gtag)gtag('event','finder_cta_click',{location:'hero',site:'zts'})">Find support software →</a>
