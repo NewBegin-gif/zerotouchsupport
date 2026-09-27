@@ -8053,5 +8053,43 @@
   "verified": "2026-09-26",
   "catch": "You do not know what a change costs until it is done.",
   "best": "Founders, marketers and small teams who want a working web app with a database from a written description, online the same day without setting up hosting."
+ },
+ "Track123": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "Growth · per month for 300 synced orders, $0.05 per extra order on monthly…",
+  "verified": "2026-09-27",
+  "catch": "The overage is the most expensive order on the ladder.",
+  "best": "Shopify stores shipping from a few dozen to tens of thousands of orders a month, dropshippers included."
+ },
+ "Pickeasy": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$9.99",
+  "price_note": "Starter · a month for one location with delivery, pickup and shipping slots…",
+  "verified": "2026-09-27",
+  "catch": "The rate features depend on something Pickeasy does not sell.",
+  "best": "Florists, bakeries, butchers, grocers and restaurants on Shopify that sell for local pickup or delivery and need customers to choose a date and time slot."
  }
 }
