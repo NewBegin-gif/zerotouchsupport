@@ -2816,7 +2816,7 @@
   ],
   "price": "$9",
   "price_note": "Dev · per month billed yearly ($12 monthly)",
-  "verified": "2026-09-20",
+  "verified": "2026-09-28",
   "catch": "The meter is pageviews, not visitors, and each product consumes its own pageview on the same page visit — so a redirect plus a popup bills twice.",
   "best": "Marketers personalizing redirects, content blocks and popups by visitor location — country to city level — without engineering work."
  },
