@@ -7998,5 +7998,38 @@
   "verified": "2026-09-27",
   "catch": "The rate features depend on something Pickeasy does not sell.",
   "best": "Florists, bakeries, butchers, grocers and restaurants on Shopify that sell for local pickup or delivery and need customers to choose a date and time slot."
+ },
+ "FBtrack": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$10",
+  "price_note": "Basic · per month for one active pixel",
+  "verified": "2026-09-28",
+  "catch": "A pixel app earns its fee by being dull: it has to fire every event, every day, and you only notice it when it stops.",
+  "best": "Shopify stores that advertise on Meta plus TikTok, Snapchat or Pinterest and want several pixels, for example one per collection or a backup pixel."
+ },
+ "Essential Countdown Timer Bar": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$6.99",
+  "price_note": "Starter · per month for up to 10,000 timer views, or $67.08 a year",
+  "verified": "2026-09-28",
+  "catch": "The free plan is smaller than it looks, because of what counts as a view.",
+  "best": "Shopify merchants who run real, dated promotions, launches or shipping cut-offs and want a top-bar, product-page or cart countdown without code, starting on a free plan."
  }
 }
