@@ -3302,7 +3302,7 @@
     "category": "Customer Support",
     "desc": "Customer service suite: ticketing, messaging, voice, help centre and AI agents.",
     "domain": "zendesk.com",
-    "link": "https://try.zendesk.com/16u21xk7thhq",
+    "link": "https://www.zendesk.com/",
     "name": "Zendesk"
   },
   {
@@ -3567,6 +3567,22 @@
     "domain": "logbase.io",
     "desc": "Shopify local pickup and delivery scheduler (by Logbase): customers pick a date and time slot, with cut-off and preparation times, blackout dates, per-slot order limits and zip-code checks, across one to twenty locations. Tiers are gated on locations and rate rules, and the app's own delivery rates need Shopify's carrier-calculated shipping.",
     "link": "https://platform.shoffi.app/r/rl_ghBEvFHp",
+    "platform": "shopify"
+  },
+  {
+    "name": "FBtrack",
+    "category": "Marketing",
+    "domain": "optiapps.xyz",
+    "desc": "Shopify app that installs several Meta, TikTok, Snapchat and Pinterest pixels at once, with Conversions API and server-side event tracking for each; plans differ only in how many pixels are active.",
+    "link": "https://platform.shoffi.app/r/rl_32p13yyK",
+    "platform": "shopify"
+  },
+  {
+    "name": "Essential Countdown Timer Bar",
+    "category": "E-commerce",
+    "domain": "essential-apps.com",
+    "desc": "Shopify countdown timer app for announcement bars, product pages, landing pages, carts and emails, with dated, recurring and evergreen timers, geo-targeting and a free plan; priced on how many times the timers load each month.",
+    "link": "https://platform.shoffi.app/r/rl_Z6OmBW0q",
     "platform": "shopify"
   }
 ]
