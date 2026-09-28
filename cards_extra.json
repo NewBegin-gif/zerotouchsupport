@@ -4786,15 +4786,20 @@
  "Prezi": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "€5",
   "price_note": "from · a month, billed annually",
-  "verified": "2026-09-25",
-  "catch": "It exports to PDF only — no editable .pptx — and the zooming format is polarising: some audiences find it engaging, others find it disorienting.",
+  "verified": "2026-09-28",
+  "catch": "The pricing table puts PDF export and portable presentations at Plus, not Standard, and our free account's AI editor locked PDF, PowerPoint and SCORM downloads to Plus.",
   "best": "Presenters who want motion and zooming-canvas storytelling that stands out from slide decks — especially for talks, pitches and teaching."
  },
  "Pricefy": {
