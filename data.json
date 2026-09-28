@@ -997,7 +997,7 @@
     "name": "ElevenLabs",
     "category": "Content & Media",
     "domain": "elevenlabs.io",
-    "desc": "Market-leading AI voice platform: hyper-realistic text-to-speech, voice cloning, dubbing, sound effects and conversational agents — plus a developer API and, since August 2026, a hosted MCP connector that runs inside Claude, ChatGPT and Cursor. Free tier to test voices before you pay.",
+    "desc": "Market-leading AI voice platform: hyper-realistic text-to-speech (Eleven v4 and the low-latency v4 Turbo since September 2026), voice cloning, dubbing, sound effects and conversational agents — plus a developer API and, since August 2026, a hosted MCP connector that runs inside Claude, ChatGPT and Cursor. Free tier to test voices before you pay.",
     "link": "https://try.elevenlabs.io/zwowb7xj774d"
   },
   {
