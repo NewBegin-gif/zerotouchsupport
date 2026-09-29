@@ -8078,5 +8078,43 @@
   "verified": "2026-09-29",
   "catch": "The pricing page reads like self-serve and is not.",
   "best": "US employers running a steady number of hires, especially in healthcare, nonprofits, education and staffing."
+ },
+ "Essential Announcement Bar": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$6.99",
+  "price_note": "Starter · per month for up to 20,000 bar views, or $67.08 a year",
+  "verified": "2026-09-29",
+  "catch": "The bar the listing leads with is not on the free plan.",
+  "best": "Shopify merchants who want a free, no-code top bar or rotating bar for shipping terms, offers and store notices."
+ },
+ "Essential Free Shipping Bar": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9.99",
+  "price_note": "Starter · per month for up to 10,000 booster views",
+  "verified": "2026-09-29",
+  "catch": "The cart page, where a free-shipping progress bar does most of its work, is not on the free plan and not on Starter either.",
+  "best": "Shopify stores that already offer free shipping above a threshold and want a no-code progress bar on the top bar or product pages."
  }
 }
