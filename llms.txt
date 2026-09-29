@@ -60,8 +60,9 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Zendesk Review (2026): Copilot Needs the $115 Tier](https://zerotouchsupport.com/zendesk-review.html): Zendesk — Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. The prices shown are annual
 - [ZenZap Review (2026): Integrations Start at Business+](https://zerotouchsupport.com/zenzap-review.html): ZenZap: Pro $3/user/mo billed yearly ($4 monthly); Business+ $8/user yearly ($10 monthly); Enterprise custom. The pricing genuinely undercuts Slack.
 
-## Free calculators (2)
+## Free calculators (3)
 - [Free NPS Calculator (Net Promoter Score, 2026)](https://zerotouchsupport.com/tools/nps-calculator/)
+- [Before your support tools renew: free renewal check](https://zerotouchsupport.com/tools/renewal-check/)
 - [Test a helpdesk before you buy](https://zerotouchsupport.com/tools/software-test-drive/)
 
 ## Machine-readable
