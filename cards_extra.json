@@ -2741,8 +2741,8 @@
   ],
   "price": "$19",
   "price_note": "from · per agent a month, billed annually ($29 billed monthly)",
-  "verified": "2026-09-23",
-  "catch": "The $19 headline rarely survives contact with a real deployment: the ITSM features most IT teams buy for (change/problem management, deeper analytics) live at Pro, and the modern extras — AI agent sessions, orchestration runs, asset counts — meter separately.",
+  "verified": "2026-09-29",
+  "catch": "The $19 headline rarely survives contact with a real deployment: the ITSM features most IT teams buy for (change/problem management, deeper analytics) live at Pro, and so does Freddy AI Copilot, a $29-an-agent add-on offered only on Pro and Enterprise.",
   "best": "IT teams that want proper ITSM (incidents, assets, changes, service catalog) running in weeks, without enterprise-suite implementation pain."
  },
  "Freshworks": {
@@ -5244,7 +5244,7 @@
   "price": "$18",
   "price_note": "from · a month, billed annually ($20 billed monthly)",
   "verified": "2026-09-26",
-  "catch": "The credit model on AI-heavy building is unpredictable — a complex agent session can burn credits fast, and they expire monthly, so heavy AI users hit surprise costs.",
+  "catch": "The subscription price is fixed; the paid Agent work is not.",
   "best": "Developers, learners and tinkerers who want a zero-setup, browser-based coding environment with AI assistance.",
   "pw": "price down Sep 2026",
   "pw_soort": "decrease"
