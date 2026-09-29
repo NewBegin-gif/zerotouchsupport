@@ -446,7 +446,7 @@
   ],
   "price": "$4.99",
   "price_note": "Starter · per month for 500 AI replies with automatic shopper-language detection…",
-  "verified": "2026-08-19",
+  "verified": "2026-09-28",
   "catch": "One review. The app launched on 8 May 2026, and in three and a half months exactly one merchant has written about it.",
   "best": "Small stores with repetitive product, shipping and returns questions who want a cheap multilingual FAQ widget and can test the answer quality on their own policy pages for free first."
  },
@@ -470,12 +470,22 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
-  "price": "$3",
-  "price_note": "from · per user a month billed yearly",
-  "verified": "2026-08-17",
-  "catch": "Two meters run at once and they move at different speeds. Clients is the one that bites first: Starter stops at 50, and the step to 500 costs $70 more a month.",
+  "price": "$29",
+  "price_note": "from · a month, billed annually ($49 billed monthly)",
+  "verified": "2026-09-28",
+  "catch": "Two meters run at once. Active contacts bite first: Starter stops at 50, and the step to 500 costs $70 more a month on yearly billing ($90 monthly).",
   "best": "Agencies and professional services firms who want one branded place for clients to message, sign, pay and share files instead of four tools and an email thread."
  },
  "Atlas AI Store Builder": {
@@ -600,9 +610,16 @@
   "best": "Shopify stores that want to test AI-written blog posts with SEO scoring at no cost, and who treat the output as a first draft rather than as publishable copy."
  },
  "Auware": {
-  "price": "$99",
-  "price_note": "from · a month, 30-day free trial, billed through the Shopify app",
-  "verified": "2026-08-17",
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$199",
+  "price_note": "from · a month, billed monthly",
+  "verified": "2026-09-28",
   "catch": "It's deliberately narrow — Shopify-only and built around segmented paid traffic.",
   "best": "Shopify stores running segmented paid campaigns (different personas, interests, offers) who are currently sending all that traffic to one generic page."
  },
@@ -931,7 +948,7 @@
     "addons_extra"
    ]
   ],
-  "verified": "2026-08-26",
+  "verified": "2026-09-28",
   "catch": "The model is honest — no subscription, credits keep, bad data refunded — so the real scrutiny belongs on usage.",
   "best": "Sporadic, project-based prospecting where a subscription would idle — buy exactly the verified contacts you need, when you need them."
  },
@@ -1697,14 +1714,19 @@
  "Consensus": {
   "flags": [
    [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
-  "price": "$15",
-  "price_note": "from · per month billed annually (unlimited Pro searches, 15 Deep searches)",
-  "verified": "2026-08-17",
+  "price": "$12",
+  "price_note": "from · a month, billed annually ($20 billed monthly)",
+  "verified": "2026-09-28",
   "catch": "It searches peer-reviewed literature, which is its strength and its boundary: it can tell you what published studies found, not whether those studies are good.",
   "best": "Researchers, clinicians, students and writers who want evidence-backed answers drawn from peer-reviewed papers instead of the open web."
  },
@@ -2194,7 +2216,7 @@
  "ElevateForward": {
   "price": "$250",
   "price_note": "from · a month (page markup also shows an unlabeled alternate $8 figure)",
-  "verified": "2026-08-21",
+  "verified": "2026-09-28",
   "catch": "It's a strategy-to-execution layer, not a task app or a dashboard — so the value only lands if leadership actually adopts the framework.",
   "best": "Scaling companies where growth is outpacing alignment — leadership lacks execution visibility and strategic initiatives keep stalling halfway."
  },
@@ -2972,9 +2994,16 @@
   "best": "US small businesses that want genuinely easy full-service payroll, benefits and tax compliance in one place."
  },
  "Healthie": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
   "price": "$19.99",
   "price_note": "Core · billed monthly — $18 is the yearly rate",
-  "verified": "2026-08-17",
+  "verified": "2026-09-28",
   "catch": "Two honest limits: it's pricier than alternatives with thin mid-tier options, and several users report slow customer service (sometimes a week or more to reply).",
   "best": "Growing group practices (10+ clinicians) in health, wellness and nutrition that need multi-provider scheduling, telehealth and a real API to automate operations."
  },
@@ -3040,6 +3069,11 @@
  "HiBob": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🪑",
     "Per-seat pricing",
     "per_seat"
@@ -3050,7 +3084,8 @@
     "annual_lock"
    ]
   ],
-  "verified": "2026-08-17",
+  "price_state": "quote-only",
+  "verified": "2026-09-28",
   "catch": "Opaque pricing and an implementation fee mean the real cost only surfaces in a sales call — and it's built for scaling mid-size companies, so it's heavy and expensive for a small team.",
   "best": "Growing mid-size companies (roughly 50-500 staff) that have outgrown spreadsheets and want a modern, culture-focused HRIS."
  },
@@ -3621,7 +3656,7 @@
   ],
   "price": "$24",
   "price_note": "from · per month, billed annually",
-  "verified": "2026-08-17",
+  "verified": "2026-09-28",
   "catch": "You trade away the high-end optimisation: no AI traffic routing like Unbounce's Smart Traffic, no real-time collaboration, and thinner technical control (script containers).",
   "best": "Budget-conscious teams, international businesses and anyone needing bulk or programmatic page generation across 29 languages."
  },
@@ -4136,7 +4171,7 @@
   ],
   "price": "$49",
   "price_note": "from · per user a month (Starter)",
-  "verified": "2026-08-24",
+  "verified": "2026-09-28",
   "catch": "Paying ~$50 per user just so a shop-floor worker can clock in and out feels steep when they'll touch a fraction of the features.",
   "best": "Small manufacturers, wholesalers and distributors who want dependable production planning and inventory control without a heavy ERP or a dedicated IT team."
  },
@@ -4395,7 +4430,7 @@
   ],
   "price": "$89",
   "price_note": "from · per month (4 AI channels, 50 prompts, 5 seats)",
-  "verified": "2026-08-17",
+  "verified": "2026-09-28",
   "catch": "Two honest cautions. AI search visibility (GEO) is a young, fast-moving category. Tracking how you appear in ChatGPT and other AI answers is genuinely useful signal, but the metrics are far less standardized than classic SEO — and you're paying to monitor a moving target you only partly influence.",
   "best": "Brands and SEO teams that want to measure and improve how they show up in AI-generated answers (ChatGPT, Google AI and more) as AI search grows."
  },
@@ -4822,7 +4857,7 @@
   ],
   "price": "$49",
   "price_note": "from · per month ($37 annually)",
-  "verified": "2026-08-17",
+  "verified": "2026-09-28",
   "catch": "Credit where due: the free tier is real.",
   "best": "E-commerce sellers monitoring competitor prices and repricing catalogs up to ~25,000 SKUs on rules or autopilot."
  },
@@ -5651,8 +5686,8 @@
   ],
   "price": "$15",
   "price_note": "Starter · per month for up to 500 products, billed in USD every 30 days",
-  "verified": "2026-08-19",
-  "catch": "This app is eleven years old and has 114 reviews.",
+  "verified": "2026-09-28",
+  "catch": "This app is eleven years old and has 151 reviews (28 September 2026; it was 114 in August).",
   "best": "Shopify stores under 5,000 products that want image compression, alt text, auto-generated meta tags, schema and sitemaps from one app on a flat monthly fee."
  },
  "Serpstat": {
@@ -6121,7 +6156,7 @@
   ],
   "price": "$14.99",
   "price_note": "Lite · per month for 100 products",
-  "verified": "2026-08-19",
+  "verified": "2026-09-28",
   "catch": "Know what an SEO app can and cannot do before you buy any tier.",
   "best": "Shopify stores with a few hundred products and no in-house SEO help, who want metadata, schema, alt text and indexing handled in bulk and reported against Search Console."
  },
@@ -6669,9 +6704,9 @@
   "best": "Shopify merchants running Meta and TikTok ads who need more than the free channel apps give them."
  },
  "TnC": {
-  "price": "$7.99",
-  "price_note": "Basic Plan · per month on the App Store listing, or $47.94 a year, for the checkbox…",
-  "verified": "2026-09-09",
+  "price": "$6.99",
+  "price_note": "Basic Plan · per month on the App Store listing, or $67.10 a year, for the checkbox…",
+  "verified": "2026-09-29",
   "catch": "Start with the badge at the top of the listing, because it is the one thing on this page that misleads.",
   "best": "Shopify merchants on a standard plan who need a recorded “I agree” gate before payment — for GDPR, an age gate, digital-goods withdrawal rules or chargeback defence."
  },
@@ -7272,16 +7307,9 @@
   "best": "Shopify merchants who already have wholesale buyers and want them ordering from the same store as retail customers."
  },
  "Wing Assistant": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
   "price": "$699",
   "price_note": "General Virtual… · per month as published",
-  "verified": "2026-08-17",
+  "verified": "2026-09-28",
   "catch": "You're renting a person, not automating a task — a good VA is real leverage, but only if you already have documented, delegatable work.",
   "best": "Founders drowning in delegatable admin who have processes to hand off and want a managed VA without recruiting one themselves."
  },

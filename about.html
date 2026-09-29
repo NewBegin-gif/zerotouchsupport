@@ -153,7 +153,7 @@ nav.snav .snav-meer-lijst{position:absolute;right:0;top:calc(100% + 6px);min-wid
  background:#0f172a;border:1px solid rgba(148,163,184,.2);border-radius:12px;box-shadow:0 12px 32px rgba(0,0,0,.45)}
 nav.snav .snav-meer-lijst[hidden]{display:none}
 nav.snav .snav-meer-lijst a{padding:9px 12px}
-nav.snav .snav-cta{flex:0 0 auto;background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;font-weight:700;
+nav.snav .snav-cta{flex:0 0 auto;background:linear-gradient(135deg,#4f46e5,#7c3aed);color:#fff;font-weight:700;
  padding:8px 14px;border-radius:9px;white-space:nowrap}
 nav.snav .snav-cta:hover{filter:brightness(1.08)}
 nav.snav .snav-menu{display:none;flex:0 0 auto;background:none;border:1px solid rgba(148,163,184,.3);color:#e2e8f0;
@@ -176,7 +176,7 @@ nav.snav a:focus-visible,nav.snav button:focus-visible{outline:2px solid #a5b4fc
 @media(max-width:480px){nav.snav .snav-merk em{display:none}}
 /* audit P1-2: de marketplace-subnav (vorige/volgende) plakt direct onder deze balk, op elke breedte */
 .subnav{top:calc(var(--snav-h) + 1px)!important}
-</style><div class="snav-in"><a class="snav-merk" href="/"><i aria-hidden="true"></i><span>ZeroTouch <em>Support</em></span></a><ul class="snav-links" id="zuster-nav-links"><li><a href="/guides.html">Guides</a></li><li><a href="/build-customer-support-system.html">Build a support system</a></li><li><a href="/tools/">Free tools</a></li><li><a href="/atlas.html">Atlas</a></li><li><a href="/deals.html">Deals</a></li><li class="snav-meer nu"><button type="button" aria-expanded="false" aria-controls="zuster-nav-meer">More</button><ul class="snav-meer-lijst" id="zuster-nav-meer" hidden><li><a href="/price-watch.html">Price Watch</a></li><li class=nu><a href="/about.html" aria-current="page">About</a></li></ul></li></ul><a class="snav-cta" href="/finder.html">Find software</a><button type="button" class="snav-menu" aria-expanded="false" aria-controls="zuster-nav-links">Menu</button></div><script>(function(){var n=document.currentScript&&document.currentScript.closest('nav.snav');if(!n)return;
+</style><div class="snav-in"><a class="snav-merk" href="/"><i aria-hidden="true"></i><span>ZeroTouch <em>Support</em></span></a><ul class="snav-links" id="zuster-nav-links"><li><a href="/guides.html">Guides</a></li><li><a href="/build-customer-support-system.html">Build a support system</a></li><li><a href="/tools/">Free tools</a></li><li><a href="/atlas.html">Atlas</a></li><li><a href="/deals.html">Deals</a></li><li class="snav-meer"><button type="button" aria-expanded="false" aria-controls="zuster-nav-meer">More</button><ul class="snav-meer-lijst" id="zuster-nav-meer" hidden><li><a href="/price-watch.html">Price Watch</a></li><li><a href="/about.html">About</a></li></ul></li></ul><a class="snav-cta" href="/finder.html">Find software</a><button type="button" class="snav-menu" aria-expanded="false" aria-controls="zuster-nav-links">Menu</button></div><script>(function(){var n=document.currentScript&&document.currentScript.closest('nav.snav');if(!n)return;
 var m=n.querySelector('.snav-menu'),w=n.querySelector('.snav-meer>button'),l=n.querySelector('.snav-meer-lijst');
 function zetMenu(o){n.classList.toggle('open',o);m.setAttribute('aria-expanded',o?'true':'false');}
 function zetMeer(o){if(!w)return;w.setAttribute('aria-expanded',o?'true':'false');l.hidden=!o;}
@@ -210,11 +210,11 @@ document.addEventListener('click',function(e){if(!n.contains(e.target)){zetMeer(
 .zfoot .pitch{margin:0;max-width:46ch;color:#94a3b8}
 .zfoot .net{font-size:.78rem;color:#94a3b8;max-width:40ch;line-height:1.9}
 .zfoot .net b{display:block;font-size:.66rem;letter-spacing:.12em;text-transform:uppercase;
- color:#64748b;font-weight:700;margin-bottom:2px}
+ color:#7a879c;font-weight:700;margin-bottom:2px}
 .zfoot .net a{color:#cbd5e1;text-decoration:none;white-space:nowrap}
 .zfoot .net a:hover{color:#a5b4fc}
 .zfoot .kol{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:26px 30px}
-.zfoot h3{font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:#64748b;
+.zfoot h3{font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:#7a879c;
  font-weight:700;margin:0 0 10px;text-align:left}
 .zfoot ul{list-style:none;padding:0;margin:0}
 .zfoot li{margin:0 0 7px;line-height:1.45}
@@ -222,7 +222,7 @@ document.addEventListener('click',function(e){if(!n.contains(e.target)){zetMeer(
 .zfoot li a:hover{color:#a5b4fc;text-decoration:underline}
 .zfoot li a.meer{color:#818cf8;font-weight:600}
 .zfoot .staart{margin-top:30px;padding-top:16px;border-top:1px solid rgba(148,163,184,.14);
- display:flex;flex-wrap:wrap;gap:8px 20px;justify-content:space-between;font-size:.76rem;color:#64748b}
+ display:flex;flex-wrap:wrap;gap:8px 20px;justify-content:space-between;font-size:.76rem;color:#7a879c}
 .zfoot .staart a{color:#94a3b8;text-decoration:none}
 .zfoot .staart a:hover{color:#a5b4fc}
 @media(max-width:640px){.zfoot{padding:36px 18px 22px}.zfoot .kol{grid-template-columns:1fr 1fr}}
