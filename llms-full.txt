@@ -53,8 +53,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## eDesk
 - Review: https://zerotouchsupport.com/edesk-review.html
-- Verdict: eDesk: Free plan to start; Essential $39 per agent/mo, Growth $89 (recommended), Professional $119, Enterprise custom.
-- Price: (re-verified 2026-08-17) Free plan to start; Essential $39 per agent/mo, Growth $89 (recommended), Professional $119, Enterprise custom — all billed annually, with monthly billing 20% higher ($49 against $39 on Essential). The AI Agent is included on every paid tier, but its automated resolutions bill separately at $0.99 per outcome: you pay when it actually resolves a query, not per attempt.
+- Verdict: eDesk — No free plan: 'Start for free' opens a 14-day full-feature trial with no credit card. The per-agent price is the entry ticket.
+- Price: (re-verified 2026-09-29) No free plan: 'Start for free' opens a 14-day full-feature trial with no credit card. Essential $39 per agent/mo, Growth $89, Professional $119 (the plan eDesk marks Most Popular), Enterprise custom — all billed annually.
 
 ## Fireflies.ai
 - Review: https://zerotouchsupport.com/fireflies-ai-review.html
