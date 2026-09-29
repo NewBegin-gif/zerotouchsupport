@@ -1,6 +1,6 @@
 # ZeroTouch Support
 
-> Independent, hands-researched reviews of customer support, business phone and AI voice software. 38 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-29.
+> Independent, hands-researched reviews of customer support, business phone and AI voice software. 41 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-29.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -17,10 +17,11 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best Shopify Customer Support Apps (2026)](https://zerotouchsupport.com/best-shopify-support-apps.html): Shopify support apps compared on what they actually meter — replies, conversations, page views, minutes or resolved tickets — with prices we
 - [How to Build a Customer Support System: Chat, Phone, AI and a Help Desk](https://zerotouchsupport.com/build-customer-support-system.html): A blueprint for support as volume grows: live chat, phone, AI answers for repeat questions and a help desk — what each part does and what to
 
-## Reviews (38) — canonical versions
+## Reviews (41) — canonical versions
 - [800.com Review (2026): From $19/mo, Checked Aug 2026](https://zerotouchsupport.com/800-com-review.html): 800.com — On yearly billing: Startup $19/mo, Small Business $49/mo and Complete $99/mo. The 1,000-minute cap on Startup matters for higher call volume
 - [Aircall Review (2026): From $30/mo, Checked Sep 2026](https://zerotouchsupport.com/aircall-review.html): Aircall: Essentials is $30 per license a month and Professional $50, both on annual billing. 'Unlimited calling' covers listed regions — check yours.
 - [Answering Service Care Review (2026): Price & Limits](https://zerotouchsupport.com/answering-service-care-review.html): Answering Service Care: $161, $296 and $575 for the three larger plans. Do the arithmetic before you pick a tier, because their own page does not.
+- [AskNest Review (2026): 50 Free AI Replies, Then $4.99/mo](https://zerotouchsupport.com/asknest-review.html): AskNest: All charges are billed in USD and recur every 30 days, and no paid tier shows a free trial — the free plan is the trial.
 - [Calilio Review (2026): $12 a Seat, Calls Meter Apart](https://zerotouchsupport.com/calilio-review.html): Calilio: Standard $15 per user/mo, or $12 billed annually ($144 a year). The subscription is the platform, not the talking.
 - [CallHippo Review (2026): Part Published, Part on Quote](https://zerotouchsupport.com/callhippo-review.html): CallHippo: Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55.
 - [CloudTalk Review (2026): From €19/mo, Checked Aug 2026](https://zerotouchsupport.com/cloudtalk-review.html): CloudTalk: Lite €19, Starter €25, Essential €29 and Expert €49 per user/mo on annual billing. The per-seat price is only part of it.
@@ -33,6 +34,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Freshworks Review (2026): The Pricing Page Has No Prices](https://zerotouchsupport.com/freshworks-review.html): Freshworks — On Freshdesk the annual rates are unchanged since 1 August 2026: Growth $19 per agent per month, Pro $55, Enterprise $89, billed annually
 - [Gorgias Review (2026): Never Priced Per Agent](https://zerotouchsupport.com/gorgias-review.html): Gorgias: Not priced per agent -- their own line -- but the seats are capped. Never priced per agent is a real advantage, but it starts one tier up.
 - [HelpCenter Review (2026): From $5.99/mo, Checked Sep 2026](https://zerotouchsupport.com/helpcenter-review.html): HelpCenter: Free covers 10 tickets a month and charges $0.25 for each one after that. The free tier is the hook and the FAQ builder is the reason peop
+- [Jotform AI Agents Review (2026): Conversations Are the Cap](https://zerotouchsupport.com/jotform-ai-agents-review.html): Jotform AI Agents: Bronze is $34 a month, Silver $39 and Gold $99, each billed annually, with 'save up to 20%' against monthly billing; Enterprise is 
 - [Kixie Review (2026): No Seat Price, and Minutes Bill Apart](https://zerotouchsupport.com/kixie-review.html): Kixie: No seat price is published. Plan for 30-60% above the sticker: minutes, the multi-line dialer and AI human-voice-detection all bill separately.
 - [KrispCall Review (2026): $12/mo Seats Yearly + Pay-Per-Call](https://zerotouchsupport.com/krispcall-review.html): KrispCall: Essential $12 per user/mo billed annually or $15 monthly, for solo agents and teams up to 5 people. Same honest math as most budget VoIP.
 - [Lucrovox Review (2026): $199 Buys 100 AI Calls a Month](https://zerotouchsupport.com/lucrovox-review.html): Lucrovox: The phone agent has three published tiers and the plan table is back on the page. The ‘callers can’t tell it’s AI’ claim is the vendor’s own
@@ -49,6 +51,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Textline Review (2026): Backup Credits Cost 33% More](https://zerotouchsupport.com/textline-review.html): Textline: Add-on message credits $0.03 each, bought in advance; backup message credits $0.04 each. Two costs are easy to miss and both are monthly.
 - [Tidio Review (2026): Free Tier, Then $29/mo](https://zerotouchsupport.com/tidio-review.html): Tidio: The free plan carries 50 billable conversations, 100 Flows visitors reached and 50 Lyro AI conversations.
 - [Trackr Review (2026): From $10/mo, Checked Sep 2026](https://zerotouchsupport.com/trackr-review.html): Trackr: Four tiers and no free plan, billed in USD every 30 days through Shopify. The rating is 4.1 over 56 reviews on 12 September 2026.
+- [Typewise Review (2026): From $99/mo Plus $1-2 a Resolution](https://zerotouchsupport.com/typewise-review.html): Typewise: Starter is $99 a month or $999 a year with 1 user, email and chat. The bill has two parts and both are published.
 - [UniTel Voice Review (2026): Extra Users Cost $9.99](https://zerotouchsupport.com/unitel-voice-review.html): UniTel Voice — Three plans, no contracts: Solo $9.99/mo, Team $19.99/mo and Office $29.99/mo, each with one phone number and unlimited minutes.
 - [Vida AI Review (2026): Priced by Pilot, From $1,500](https://zerotouchsupport.com/vida-ai-review.html): Vida AI: Vida publishes no public pricing. Every deployment starts with a scoped pilot from $1,500, credited toward your first month.
 - [Voye Review (2026): The Yearly Plans Cost More Per GB](https://zerotouchsupport.com/voye-review.html): Voye: $2.00 down to $1.20 per gigabyte. ESIM data pooling genuinely beats classic roaming for traveling teams.
@@ -57,8 +60,9 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Zendesk Review (2026): Copilot Needs the $115 Tier](https://zerotouchsupport.com/zendesk-review.html): Zendesk — Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. The prices shown are annual
 - [ZenZap Review (2026): Integrations Start at Business+](https://zerotouchsupport.com/zenzap-review.html): ZenZap: Pro $3/user/mo billed yearly ($4 monthly); Business+ $8/user yearly ($10 monthly); Enterprise custom. The pricing genuinely undercuts Slack.
 
-## Free calculators (1)
+## Free calculators (2)
 - [Free NPS Calculator (Net Promoter Score, 2026)](https://zerotouchsupport.com/tools/nps-calculator/)
+- [Test a helpdesk before you buy](https://zerotouchsupport.com/tools/software-test-drive/)
 
 ## Machine-readable
 - [Full review catalog with prices (plain text)](https://zerotouchsupport.com/llms-full.txt)
