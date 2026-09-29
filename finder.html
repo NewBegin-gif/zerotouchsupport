@@ -289,7 +289,20 @@ document.addEventListener('click',function(e){if(!n.contains(e.target)){zetMeer(
     nodes.forEach(function(n){ wrap.appendChild(n); });
     root.appendChild(wrap);
   }
-  step1();
+  /* 29 sep 2026: deeplink vanaf de reviews (#c=<categorie>&s=<taak>) opent de finder op die vraag */
+  (function(){
+    var p = null;
+    try { p = new URLSearchParams(location.hash.slice(1)); } catch(e) {}
+    var c = p && p.get('c'), s = p && p.get('s');
+    if (c && CATS[c]) {
+      state.cat = c;
+      var ok = !!s && CATS[c].subs.some(function(x){ return x[0] === s; });
+      track('finder_deeplink', {cat: c, sub: ok ? s : ''});
+      if (ok) { state.sub = s; step3(); } else { step2(); }
+      return;
+    }
+    step1();
+  })();
 })();
 
   </script>
