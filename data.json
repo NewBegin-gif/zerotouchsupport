@@ -3591,5 +3591,21 @@
     "domain": "gcheck.com",
     "desc": "US employment background screening sold per check: criminal, identity, sanctions and driving records, verifications, drug testing and I-9/E-Verify, with FCRA workflows and ATS and HRIS integrations for hiring teams.",
     "link": "https://get.gcheck.com/6h8ivvjx37bv"
+  },
+  {
+    "name": "Essential Announcement Bar",
+    "category": "E-commerce",
+    "domain": "essential-apps.com",
+    "desc": "Shopify announcement bar app for static, rotating and scrolling top, bottom and cart-page bars with links, icons, scheduling, geo-targeting and translations; priced on how many times the bars load each month.",
+    "link": "https://platform.shoffi.app/r/rl_yW8NibYD",
+    "platform": "shopify"
+  },
+  {
+    "name": "Essential Free Shipping Bar",
+    "category": "E-commerce",
+    "domain": "essential-apps.com",
+    "desc": "Shopify free-shipping progress bar for the top bar, product pages and cart, with cart goals, upsell products, geo-targeting and product exclusions; the free-shipping rate itself is set in Shopify.",
+    "link": "https://platform.shoffi.app/r/rl_OMLSVeCd",
+    "platform": "shopify"
   }
 ]
