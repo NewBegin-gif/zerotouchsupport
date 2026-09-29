@@ -8064,5 +8064,19 @@
   "verified": "2026-09-28",
   "catch": "The free plan is smaller than it looks, because of what counts as a view.",
   "best": "Shopify merchants who run real, dated promotions, launches or shipping cut-offs and want a top-bar, product-page or cart countdown without code, starting on a free plan."
+ },
+ "GCheck": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$19.95",
+  "price_note": "Basic · per year, per background check, current county of residence only",
+  "verified": "2026-09-29",
+  "catch": "The pricing page reads like self-serve and is not.",
+  "best": "US employers running a steady number of hires, especially in healthcare, nonprofits, education and staffing."
  }
 }
