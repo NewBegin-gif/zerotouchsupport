@@ -8107,5 +8107,19 @@
   "verified": "2026-09-29",
   "catch": "The cart page, where a free-shipping progress bar does most of its work, is not on the free plan and not on Starter either.",
   "best": "Shopify stores that already offer free shipping above a threshold and want a no-code progress bar on the top bar or product pages."
+ },
+ "Mera Work": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ]
+  ],
+  "price": "$4",
+  "price_note": "from · per month",
+  "verified": "2026-09-30",
+  "catch": "The price is low and the feature list is long; the catch sits in the data rather than the bill.",
+  "best": "Small and mid-sized teams, especially remote or hybrid ones doing computer-based work such as support, BPO, IT services or back office, that want time tracking."
  }
 }
