@@ -8121,5 +8121,38 @@
   "verified": "2026-09-30",
   "catch": "The price is low and the feature list is long; the catch sits in the data rather than the bill.",
   "best": "Small and mid-sized teams, especially remote or hybrid ones doing computer-based work such as support, BPO, IT services or back office, that want time tracking."
+ },
+ "Koala Bundles": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$12.99",
+  "price_note": "Kickstart · per month for up to $1,000 of bundle offer revenue, or $131.88 a year",
+  "verified": "2026-09-30",
+  "catch": "The meter is revenue, and it counts more of it than you might expect.",
+  "best": "Shopify merchants who want quantity breaks, multi-product bundles, cart volume discounts, BOGO offers and one-click post-purchase upsells in one app."
+ },
+ "Essential Trust Badges": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$6.99",
+  "price_note": "Starter · per month for up to 20,000 widget views, or $67.08 a year",
+  "verified": "2026-09-30",
+  "catch": "The free plan is generous on views and tight on badges.",
+  "best": "Shopify merchants who want payment icons, feature icons and guarantee or shipping badges under the add-to-cart button without code, starting free."
  }
 }
