@@ -3166,7 +3166,7 @@
     "name": "Way",
     "domain": "effectify.io",
     "category": "E-commerce",
-    "desc": "Shopify store locator on Google Maps with no API key needed, priced by location count rather than by feature.",
+    "desc": "Shopify store locator on Google Maps with no API key needed, priced by location count rather than by feature: the paid tiers add locations and nothing else, and it also works with Apple Maps and Mapbox.",
     "link": "https://platform.shoffi.app/r/rl_h7orAJ1n",
     "platform": "shopify"
   },
