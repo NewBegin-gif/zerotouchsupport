@@ -3614,5 +3614,21 @@
     "link": "https://mera.work/?red=aibuil",
     "category": "HR & People",
     "desc": "Employee monitoring and time tracking for remote, hybrid and office teams: automatic timesheets, attendance and shifts, app and website usage, screenshots and live screen view, all in one per-user plan."
+  },
+  {
+    "name": "Koala Bundles",
+    "category": "E-commerce",
+    "domain": "profitkoala.com",
+    "desc": "Shopify app (by ProfitKoala) for quantity breaks, multi-product bundles, cart volume discounts, BOGO offers and one-click post-purchase upsells, with an announcement bar and countdown timer; every plan has the same features and is metered on the bundle revenue the offers bring in.",
+    "link": "https://platform.shoffi.app/r/rl_Jkv1kGVT",
+    "platform": "shopify"
+  },
+  {
+    "name": "Essential Trust Badges",
+    "category": "E-commerce",
+    "domain": "essential-apps.com",
+    "desc": "Shopify app (by Essential Apps) that adds payment icons, feature icons, guarantee badges and promo banners to product pages, the cart or any theme position, with your own icons, country targeting and translations; plans are metered on widget views.",
+    "link": "https://platform.shoffi.app/r/rl_H5naZJcS",
+    "platform": "shopify"
   }
 ]
