@@ -47,7 +47,7 @@
   ],
   "price": "$15",
   "price_note": "from · per month billed annually (1 user)",
-  "verified": "2026-09-05",
+  "verified": "2026-09-29",
   "catch": "Pricing climbs with contact count and the add-ons (CRM, SMS, extra seats) stack up fast — the sticker Starter price is not what a serious automation setup actually costs.",
   "best": "Businesses that want deep marketing automation and lifecycle email tied to a light CRM, and will actually use the automation depth."
  },
@@ -692,7 +692,7 @@
   ],
   "price": "$14.50",
   "price_note": "Pro · per month billed annually",
-  "verified": "2026-09-02",
+  "verified": "2026-09-29",
   "catch": "The smart-template engine is the feature and the fence: decks look polished with zero design skill precisely because the system constrains you, so pixel-perfect custom layouts and heavy brand exceptions fight the tool.",
   "best": "Founders, sales and small teams that want consistently good-looking decks fast, where design consistency matters more than pixel-level control.",
   "pw": "price up Sep 2026",
@@ -2479,7 +2479,7 @@
  "Fastmail": {
   "price": "$5",
   "price_note": "Individual · per month, or $60 for twelve months, with 60 GB for one person",
-  "verified": "2026-08-26",
+  "verified": "2026-09-29",
   "catch": "You're paying for what the free giants monetize differently: no ads, no profiling, real support and standards-first email (JMAP/IMAP everywhere).",
   "best": "Individuals and small businesses that want fast, private, ad-free email on their own domain with proper support and masked-email aliases."
  },
@@ -2491,7 +2491,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-03",
+  "verified": "2026-09-29",
   "catch": "The honest structure: the $100 tier is a limited on-ramp, and most of what Feedvisor is famous for (the algorithmic Buy-Box strategy that holds prices UP, ad management, analysts) lives behind the $1,500+ top tier — this is enterprise software for serious catalogs, priced accordingly.",
   "best": "Mid-market and enterprise Amazon sellers with large catalogs where algorithmic repricing and ad optimization move real revenue."
  },
@@ -2592,7 +2592,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-03",
+  "verified": "2026-09-29",
   "catch": "The real cost is the success fee, and it's a flat bracket rate on the whole sale price, not marginal — a mid-five-figure sale can hand over a four- to five-figure commission.",
   "best": "Buyers and sellers of small-to-mid online businesses, SaaS, apps and domains who want the largest marketplace and are comfortable doing their own due diligence.",
   "pw": "price up Sep 2026",
@@ -2803,7 +2803,7 @@
   ],
   "price": "€8",
   "price_note": "from · per seat a month billed annually (€10 monthly)",
-  "verified": "2026-08-26",
+  "verified": "2026-09-29",
   "catch": "The credit model means heavy generation eats your monthly allowance, and outputs still need a human polish for high-stakes decks — it's a brilliant first-draft engine, not a finished-deck button.",
   "best": "Anyone who wants to turn a prompt or notes into a good-looking presentation, doc or webpage draft in minutes."
  },
@@ -3133,16 +3133,9 @@
   "best": "Budget-conscious owners and side projects that want cheap, decent hosting and will prepay a multi-year term."
  },
  "Housecall Pro": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
   "price": "$59",
   "price_note": "from · per month billed annually ($79 month-to-month), 1 user",
-  "verified": "2026-09-04",
+  "verified": "2026-09-29",
   "catch": "The Basic tier is a trap for real field teams — it omits GPS tracking and QuickBooks sync, so most businesses need Essentials or up.",
   "best": "Home-service businesses (HVAC, plumbing, cleaning) that want scheduling, dispatch, invoicing and payments in one app."
  },
@@ -3211,7 +3204,7 @@
  "iContact": {
   "price": "$9",
   "price_note": "from · per month at 500 contacts",
-  "verified": "2026-08-17",
+  "verified": "2026-09-29",
   "catch": "Pricing feels a touch high for what you get, and the Standard plan's hard caps on automations and landing pages push growing teams to upgrade sooner than expected.",
   "best": "Small businesses and nonprofits who want a simple, reliable email tool with strong deliverability and a real marketing advisor included on every paid plan."
  },
@@ -3244,7 +3237,7 @@
  "InboxAlly": {
   "price": "$149",
   "price_note": "from · per month (100 seed emails/day, 1 sender profile)",
-  "verified": "2026-08-31",
+  "verified": "2026-09-29",
   "catch": "This is a premium, seed-list-based deliverability tool, and the price reflects it — Starter alone is well above casual warm-up apps, so it only makes sense if inbox placement is genuinely costing you real revenue.",
   "best": "Serious senders — email marketers and cold-outreach teams — whose deliverability problems are costing measurable revenue and who need active reputation repair."
  },
@@ -4133,7 +4126,7 @@
   ],
   "price": "$9",
   "price_note": "from · per seat a month",
-  "verified": "2026-08-26",
+  "verified": "2026-09-29",
   "catch": "The seat price is not the product price.",
   "best": "Teams who want one visual system for projects and work, and who will actually use the automations and views that justify the per-seat price at Standard or above."
  },
@@ -4657,7 +4650,7 @@
   "best": "Enterprise PMOs that plan portfolios around named-resource capacity and need feasibility answers before committing to projects."
  },
  "Pecan AI": {
-  "verified": "2026-08-27",
+  "verified": "2026-09-29",
   "catch": "The pricing page argues instead of quoting.",
   "best": "Data and marketing teams that want churn, LTV or demand predictions running against their own warehouse without hiring data scientists."
  },
@@ -6182,6 +6175,11 @@
  "Storylane": {
   "flags": [
    [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -6189,7 +6187,7 @@
   ],
   "price": "$50",
   "price_note": "from · per month ($40 yearly), then nothing until Growth at $625/mo",
-  "verified": "2026-08-29",
+  "verified": "2026-09-29",
   "catch": "The jump from Starter to Growth is $50 to $625 a month — twelve and a half times — and the free tier is capped at one live demo, so the moment you want a second demo published you are on the ladder.",
   "best": "Sales and marketing teams who show a product before a call and want to know which prospects clicked what — the free tier is genuinely usable for one demo."
  },
@@ -6249,17 +6247,10 @@
   "best": "People whose problem is deciding what to do today rather than tracking what exists — it pulls from your existing tools and forces a daily plan, which is the whole product."
  },
  "SupaEasy": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
   "price": "$49",
   "price_note": "from · per month ($470/yr)",
-  "verified": "2026-08-28",
-  "catch": "First, the 'free' plan is development-stores only, so any live use is paid, and the AI generator that headlines the app is not in Premium ($49) but in Advanced ($99), possibly plus metered AI credits as an add-on — so the AI promise realistically costs $99+ a month.",
+  "verified": "2026-09-29",
+  "catch": "First, the 'free' plan is development-stores only, so any live use is paid, and the AI generator that headlines the app is not in Premium ($49) but in Advanced ($99), plus AI credits bought separately ($25 per 50) — so the AI promise realistically costs $99+ a month.",
   "best": "Shopify merchants — especially non-Plus stores — who want custom discount, checkout, payment and shipping logic without hiring a developer."
  },
  "Superfiliate": {
@@ -7015,7 +7006,7 @@
   ],
   "price": "$144",
   "price_note": "from · a year",
-  "verified": "2026-08-26",
+  "verified": "2026-09-29",
   "catch": "The famous free tier is real — but the paid ladder has quiet extras: extra login seats cost $15-19 per month EACH beyond the included ones, and SMS or voice-call alerts are pay-per-credit on every plan.",
   "best": "Solo builders and small teams monitoring sites, ports and APIs at 60-second resolution with status pages — and honestly, the free 50-monitor tier covers most hobby stacks."
  },
@@ -7033,8 +7024,8 @@
    ]
   ],
   "price": "$30",
-  "price_note": "from · per user per month billed annually",
-  "verified": "2026-09-02",
+  "price_note": "from · per user a month, or $25 billed annually",
+  "verified": "2026-09-29",
   "catch": "The pitch is unusually bold: an AI that learns your business the way a great employee would, finds the constraint keeping you stuck, and helps you solve it.",
   "best": "Hands-on entrepreneurs and small-business owners buried in operational detail who want AI that learns their specific business and helps surface what's actually holding it back — explicitly not enterprise software.",
   "pw": "plans rebuilt Sep 2026",
@@ -7239,7 +7230,7 @@
   ],
   "price": "$15",
   "price_note": "from · per month billed yearly ($25 with CMS)",
-  "verified": "2026-08-29",
+  "verified": "2026-09-29",
   "catch": "Three separate bills, and the pricing page shows them on separate tabs.",
   "best": "Designers and marketing teams who want to ship a real, fast site without a developer in the loop for every change."
  },
