@@ -156,7 +156,7 @@
   ],
   "price": "€7.25",
   "price_note": "from · a month billed yearly (NL price - varies by country)",
-  "verified": "2026-09-06",
+  "verified": "2026-09-30",
   "catch": "AhaSlides runs regional pricing: the number on the pricing page depends on where you browse from — so any review quoting one price (including ours) may not match yours.",
   "best": "Educators, trainers and event hosts running interactive sessions — polls, quizzes, word clouds and live Q&A — with audiences up to 50 free."
  },
@@ -1174,7 +1174,7 @@
   ],
   "price": "$79",
   "price_note": "from · per seat a month (500 credits/mo, billed monthly)",
-  "verified": "2026-09-05",
+  "verified": "2026-09-30",
   "catch": "Two meters run at once: seats AND credits — the seat price includes a credit allowance (500 a month on Core, 5,000 on AI Employee, read 5 September 2026), and real outbound volume means credit packages on top, so budget past the sticker.",
   "best": "GTM teams that want AI to run outbound end-to-end — prompt-driven prospecting of intent-ready buyers.",
   "pw": "plans rebuilt Sep 2026",
@@ -1362,7 +1362,7 @@
     "addons_extra"
    ]
   ],
-  "verified": "2026-09-05",
+  "verified": "2026-09-30",
   "catch": "The headline per-check price is rarely what you actually pay — passthrough fees vary wildly by county and search type, so budget for the effective cost, not the advertised one.",
   "best": "Companies hiring hourly or gig workers at volume that need fast, API-driven, compliant background checks."
  },
@@ -1474,19 +1474,19 @@
     "per_seat"
    ],
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$7",
   "price_note": "from · per user per month billed yearly ($10 monthly)",
-  "verified": "2026-09-05",
+  "verified": "2026-09-30",
   "catch": "The everything-app breadth is also the downside — it's feature-dense with a real learning curve, and teams can drown in options.",
   "best": "Teams that want one highly customizable app for tasks, docs, goals and reporting and will invest in setting it up."
  },
@@ -3437,7 +3437,7 @@
  "Kartra": {
   "price": "$59",
   "price_note": "from · a month, or $52 a month billed yearly",
-  "verified": "2026-09-05",
+  "verified": "2026-09-30",
   "catch": "If your core need is polished course delivery, Kajabi's creator features are stronger; Kartra wins on all-in-one breadth, not course depth.",
   "best": "Creators and coaches who want funnels, email, checkout, memberships and scheduling under one roof instead of five subscriptions."
  },
@@ -3751,7 +3751,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month (or $24 annually) but with a $5 fee per paid enrollment",
-  "verified": "2026-09-05",
+  "verified": "2026-09-30",
   "catch": "The detail most people miss is Starter's $5-per-paid-enrollment fee — at any real sales volume it quietly makes Starter more expensive than the flat Pro Trainer plan, so the \"cheap\" tier often isn't.",
   "coupon": {
    "code": "",
@@ -3851,7 +3851,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-05",
+  "verified": "2026-09-30",
   "catch": "This is a bet on attendance that you place a year in advance.",
   "best": "Teams running a predictable programme of webinars to a known audience size, where buying a year of attendance up front is cheaper than a per-seat platform."
  },
@@ -4145,7 +4145,7 @@
   ],
   "price": "$7",
   "price_note": "from · per month billed yearly ($9 monthly)",
-  "verified": "2026-09-06",
+  "verified": "2026-09-30",
   "catch": "The friendly $7-9 headline is the entry rate at the smallest list size (500 contacts), and the ladder above it does not fall smoothly: paid annually, 8,000 contacts costs $51 a month while 10,000 costs $70, so a list of 9,000 sits on the wrong side of the sharpest jump on the slider.",
   "best": "Small businesses and marketers who want affordable email marketing and automation with a low entry price, a real free trial and a clean drag-and-drop builder."
  },
@@ -4887,7 +4887,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-05",
+  "verified": "2026-09-30",
   "catch": "Pricing is opaque and jumps steeply from Startup to Pro, with seat minimums that push the real cost above the headline per-member rate — you'll need a sales call to price it.",
   "best": "Operations-driven teams that run recurring, checklist-based processes and want them tracked and auditable.",
   "pw": "price held",
