@@ -3607,5 +3607,12 @@
     "desc": "Shopify free-shipping progress bar for the top bar, product pages and cart, with cart goals, upsell products, geo-targeting and product exclusions; the free-shipping rate itself is set in Shopify.",
     "link": "https://platform.shoffi.app/r/rl_OMLSVeCd",
     "platform": "shopify"
+  },
+  {
+    "name": "Mera Work",
+    "domain": "mera.work",
+    "link": "https://mera.work/?red=aibuil",
+    "category": "HR & People",
+    "desc": "Employee monitoring and time tracking for remote, hybrid and office teams: automatic timesheets, attendance and shifts, app and website usage, screenshots and live screen view, all in one per-user plan."
   }
 ]
