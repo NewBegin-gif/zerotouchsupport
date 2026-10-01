@@ -1923,7 +1923,7 @@
   ],
   "price": "$16",
   "price_note": "from · per person a month billed annually, $24 billed monthly",
-  "verified": "2026-09-07",
+  "verified": "2026-10-01",
   "catch": "It's per-editor pricing with two meters running underneath: media hours AND monthly AI credits.",
   "best": "Podcasters and video creators who want to edit by editing the transcript, cutting."
  },
@@ -2368,7 +2368,7 @@
  "Evey Events": {
   "price": "$19",
   "price_note": "from · per month plus $0.75 per ticket, 7-day trial",
-  "verified": "2026-09-08",
+  "verified": "2026-10-01",
   "catch": "Nobody gets caught by the monthly fee here; they get caught by the per-ticket one.",
   "best": "Shopify stores that sell tickets alongside products and want attendees."
  },
@@ -3306,7 +3306,7 @@
   ],
   "price": "$49",
   "price_note": "Basic · per month for up to 100 products or variants, or $490 a year, a 17%…",
-  "verified": "2026-09-08",
+  "verified": "2026-10-01",
   "catch": "The ladder counts variants, not products, and that is where stores get caught.",
   "best": "Shopify stores with hundreds to a few thousand variants that genuinely compete on price on Google Shopping and want competitor monitoring and repricing handled automatically."
  },
@@ -4865,7 +4865,7 @@
   ],
   "price": "$39",
   "price_note": "from · per month, or from $24.99/mo billed yearly",
-  "verified": "2026-09-07",
+  "verified": "2026-10-01",
   "catch": "Printify makes nothing until you sell — the Premium fee only pays off past a break-even order volume, and because it's a middleman marketplace, print quality and shipping vary by the provider you pick.",
   "best": "Creators and stores testing print-on-demand with no upfront cost, upgrading to Premium once volume justifies it."
  },
@@ -6000,7 +6000,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month billed annually (page opens on the Yearly tab, two months off)",
-  "verified": "2026-09-07",
+  "verified": "2026-10-01",
   "catch": "Builder seats are billed on top of the plan, and pricing counts builders and app users separately, so a public-facing app with a lot of end users gets expensive fast.",
   "best": "Teams building internal tools, client portals or member apps on top of Airtable or Google Sheets without code.",
   "pw": "plans rebuilt Sep 2026",
@@ -6050,7 +6050,7 @@
   ],
   "price": "$39.99",
   "price_note": "from · per month (25 products)",
-  "verified": "2026-09-07",
+  "verified": "2026-10-01",
   "catch": "Spocket's pitch is faster-shipping US and EU suppliers, and that's real — but you still pay twice: the monthly subscription and the wholesale product cost, so margins depend on picking items with room to mark up.",
   "best": "Dropshippers who want vetted US and EU suppliers with faster shipping and one-click store integration, prioritizing delivery speed over raw catalog size."
  },
@@ -6286,11 +6286,6 @@
  "SurveyMonkey": {
   "flags": [
    [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ],
-   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -6301,9 +6296,9 @@
     "free_tier"
    ]
   ],
-  "price": "$468",
-  "price_note": "from · a year for the first seat plus $360 for every seat after it (US)",
-  "verified": "2026-09-08",
+  "price": "$30",
+  "price_note": "from · per user a month, billed annually",
+  "verified": "2026-10-01",
   "catch": "The free tier is a teaser.",
   "best": "Teams that need research-grade survey logic (skip logic, randomisation, quotas) with compliance (HIPAA, GDPR, SOC 2) and 200+ integrations."
  },
@@ -6451,7 +6446,7 @@
   ],
   "price": "$249",
   "price_note": "from · a year (multi-user access, 250 free TIN matches)",
-  "verified": "2026-09-08",
+  "verified": "2026-10-01",
   "catch": "Per-form pricing is genuinely cheap for a handful of 1099s, but it's metered: TIN matching, W-9 requests, state filing and corrections can each carry their own charge.",
   "best": "Businesses and accountants who need to e-file 1099s, W-2s and related forms accurately and cheaply, especially seasonal or higher-volume filers."
  },
@@ -6725,7 +6720,7 @@
   ],
   "price": "$9",
   "price_note": "from · per user a month billed annually, or $12 monthly",
-  "verified": "2026-09-09",
+  "verified": "2026-10-01",
   "catch": "Toggl's honesty problem is the good kind: the free tier is so capable that many teams never need to pay — the paid line is drawn exactly at 'do you bill clients' (budgets, rates, profitability).",
   "best": "Freelancers, consultants and agencies that bill by the hour and want frictionless tracking with budgets, rates and profitability per project."
  },
@@ -6874,9 +6869,16 @@
   "pw_soort": "restructure"
  },
  "UltaHost": {
+  "flags": [
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ]
+  ],
   "price": "$3.44",
   "price_note": "from · per month (list $6.89) on the 2-year term, 1 domain, ~10,000 visits/mo",
-  "verified": "2026-09-09",
+  "verified": "2026-10-01",
   "catch": "It's the classic budget-host trade-off, with one thing in its favour.",
   "coupon": {
    "code": "ultaad2RiM",
