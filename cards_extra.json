@@ -3753,10 +3753,6 @@
   "price_note": "from · per month (or $24 annually) but with a $5 fee per paid enrollment",
   "verified": "2026-09-30",
   "catch": "The detail most people miss is Starter's $5-per-paid-enrollment fee — at any real sales volume it quietly makes Starter more expensive than the flat Pro Trainer plan, so the \"cheap\" tier often isn't.",
-  "coupon": {
-   "code": "",
-   "label": "via our link: 15% off your first six months"
-  },
   "best": "Course creators and training businesses that want a branded school with interactive video, assessments, certificates and a built-in checkout."
  },
  "Leavo": {
@@ -4485,7 +4481,7 @@
   ],
   "price": "$22",
   "price_note": "from · per month or $14/mo billed annually",
-  "verified": "2026-09-06",
+  "verified": "2026-09-30",
   "catch": "Two meters at once: content types and pieces gate the lower tiers, and monthly LEAD limits gate the upside.",
   "best": "Marketers who want quizzes, calculators and assessments that earn the lead by giving genuine value — with logic, integrations and templates handled."
  },
@@ -4564,7 +4560,7 @@
   ],
   "price": "$20",
   "price_note": "from · per month ($15 billed yearly)",
-  "verified": "2026-09-06",
+  "verified": "2026-09-30",
   "catch": "The unavoidable honest limit of every AI detector, including accurate ones: it is never infallible.",
   "best": "Educators, publishers and platforms that need a low-false-positive signal on whether text is AI-generated, at web-app or API scale."
  },
@@ -4628,7 +4624,7 @@
   ],
   "price": "$20",
   "price_note": "from · per user per year up to 20 people",
-  "verified": "2026-09-06",
+  "verified": "2026-09-30",
   "catch": "The honest trade-off is maturity, not security.",
   "best": "Teams under twenty people who want zero-knowledge encryption and shared vaults at about $1.67 a seat a month."
  },
@@ -5478,23 +5474,12 @@
  "Seamless.ai": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
-   [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ],
-   [
     "🧮",
     "Usage-metered",
     "usage_metered"
    ]
   ],
-  "price_state": "quote-only",
-  "verified": "2026-09-07",
+  "verified": "2026-09-30",
   "catch": "Data accuracy is the recurring complaint — independent tests put email deliverability around 74% (20–30% bounce) versus ZoomInfo's ~2–3%, so real cost per usable contact climbs.",
   "best": "Teams that want a huge real-time contact database and AI list-building for less than ZoomInfo, and can tolerate cleaning the data."
  },
@@ -5604,7 +5589,7 @@
   ],
   "price": "$29",
   "price_note": "Starter, up to $10k in… · billed monthly",
-  "verified": "2026-09-07",
+  "verified": "2026-09-30",
   "catch": "The honest mechanic is the revenue ladder: plans cap by your ANNUAL SALES, so success moves you up.",
   "best": "Creators selling digital products, subscriptions and print-on-demand who want a simple store with zero platform commission.",
   "pw": "price down Sep 2026",
@@ -8154,5 +8139,19 @@
   "verified": "2026-09-30",
   "catch": "The free plan is generous on views and tight on badges.",
   "best": "Shopify merchants who want payment icons, feature icons and guarantee or shipping badges under the add-to-cart button without code, starting free."
+ },
+ "SalesTarget.ai": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$169",
+  "price_note": "from · per month",
+  "verified": "2026-10-01",
+  "catch": "The credit numbers on the plan cards shrink once you read the help centre's price list.",
+  "best": "Small sales teams and agencies that want a B2B lead database, cold email with unlimited inboxes and warm-up, LinkedIn automation and a basic CRM under one login."
  }
 }
