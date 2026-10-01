@@ -3637,5 +3637,13 @@
     "domain": "salestarget.ai",
     "desc": "All-in-one B2B outbound platform: a lead database of 840M+ professional profiles with credit-based enrichment, cold email with unlimited inboxes and warm-up, LinkedIn automation, and a built-in CRM and dialer, sold as separate modules or one bundle per team.",
     "link": "https://salestarget.ai/?red=aibuil"
+  },
+  {
+    "name": "StoreLock",
+    "category": "Security",
+    "domain": "storelock.app",
+    "desc": "Shopify app (by Williams Web Services) that finds cloned storefronts, lookalike domains and stolen product photos, packages the evidence and sends DMCA and abuse reports from the app, with on-site copy protection and country blocking.",
+    "link": "https://platform.shoffi.app/r/rl_ZbVMtulz",
+    "platform": "shopify"
   }
 ]
