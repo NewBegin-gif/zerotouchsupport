@@ -8153,5 +8153,12 @@
   "verified": "2026-10-01",
   "catch": "The credit numbers on the plan cards shrink once you read the help centre's price list.",
   "best": "Small sales teams and agencies that want a B2B lead database, cold email with unlimited inboxes and warm-up, LinkedIn automation and a basic CRM under one login."
+ },
+ "StoreLock": {
+  "price": "$19",
+  "price_note": "Premium · per month, 3-day free trial",
+  "verified": "2026-10-01",
+  "catch": "Be clear about which half of the app you are paying for.",
+  "best": "Shopify merchants with their own product photography and a brand worth copying, especially those whose store has already been cloned."
  }
 }
