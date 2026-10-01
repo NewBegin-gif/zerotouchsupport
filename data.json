@@ -3630,5 +3630,12 @@
     "desc": "Shopify app (by Essential Apps) that adds payment icons, feature icons, guarantee badges and promo banners to product pages, the cart or any theme position, with your own icons, country targeting and translations; plans are metered on widget views.",
     "link": "https://platform.shoffi.app/r/rl_H5naZJcS",
     "platform": "shopify"
+  },
+  {
+    "name": "SalesTarget.ai",
+    "category": "Sales & CRM",
+    "domain": "salestarget.ai",
+    "desc": "All-in-one B2B outbound platform: a lead database of 840M+ professional profiles with credit-based enrichment, cold email with unlimited inboxes and warm-up, LinkedIn automation, and a built-in CRM and dialer, sold as separate modules or one bundle per team.",
+    "link": "https://salestarget.ai/?red=aibuil"
   }
 ]
