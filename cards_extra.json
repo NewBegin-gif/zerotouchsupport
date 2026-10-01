@@ -6375,12 +6375,17 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$29",
   "price_note": "Starter · billed monthly",
-  "verified": "2026-09-14",
-  "catch": "The video-minute caps are tight — 10 min/mo on Starter goes fast when you iterate, and re-generating edits burns minutes.",
+  "verified": "2026-10-01",
+  "catch": "The minute caps are tight: Starter's 1,250 credits a month is roughly 10 to 12 minutes of finished video, and the meter counts seconds.",
   "best": "Teams making talking-head training, explainer and onboarding videos without cameras, actors or editing."
  },
  "Tapita AI SEO Blog Builder": {
@@ -8160,5 +8165,19 @@
   "verified": "2026-10-01",
   "catch": "Be clear about which half of the app you are paying for.",
   "best": "Shopify merchants with their own product photography and a brand worth copying, especially those whose store has already been cloned."
+ },
+ "Jane": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$59",
+  "price_note": "from · per month",
+  "verified": "2026-10-01",
+  "catch": "Work out your price from your practitioner count, not from the plan headline.",
+  "best": "Allied health practices (physio, chiropractic, massage, counselling and similar) with a handful of practitioners who want online booking, charting, telehealth."
  }
 }
