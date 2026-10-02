@@ -22,14 +22,14 @@
   "price": "$19",
   "price_note": "from · per month on yearly billing ($23 month to month)",
   "verified": "2026-09-05",
-  "catch": "It does one thing cleanly: toll-free and vanity numbers with call tracking and routing.",
+  "catch": "It's a phone-number layer, not a full business-comms platform, so you won't get team chat, video or a contact center here.",
   "best": "Businesses that want a professional toll-free or vanity number with call tracking, routing and analytics to look bigger and measure inbound calls."
  },
  "accessiBe": {
   "price": "$59",
   "price_note": "Micro · per month for up to 5,000 monthly visits",
   "verified": "2026-09-10",
-  "catch": "The thing you most need to know about this product is not on its pricing page, it is on the FTC’s.",
+  "catch": "In January 2025 the FTC ordered accessiBe to pay $1 million to settle allegations that it misrepresented what accessWidget does, including that its AI plug-in could make any website WCAG-compliant.",
   "best": "Small and medium sites on ordinary CMS templates whose owners want a visible, cheap first step — contrast, text sizing, keyboard hints and an accessibility statement."
  },
  "ActiveCampaign": {
@@ -68,11 +68,17 @@
  "ADP": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🪑",
     "Per-seat pricing",
     "per_seat"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-08-29",
   "catch": "The quote-only posture is normal in payroll, so the honest complaint is not that ADP hides its price — it is what that does to you as a buyer.",
   "best": "Small and mid-sized employers who want payroll, tax filing and compliance handled by the largest and oldest provider in the category: over 75 years."
@@ -199,8 +205,16 @@
   "best": "Sales and support teams (3+ seats) that want a polished cloud phone system embedded in their CRM/helpdesk, with call routing, analytics and 250+ integrations."
  },
  "Airia": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-09-10",
-  "catch": "Airia used to publish part of its ladder, which was refreshingly rare for enterprise AI.",
+  "catch": "Airia no longer publishes a price: since 20 August 2026 the pricing page redirects into developer documentation, so you cannot budget before a sales conversation.",
   "best": "Enterprises that need to find the AI already running across their organisation, enforce policy on it at runtime, and build and govern their own agents."
  },
  "Airwallex": {
@@ -261,7 +275,7 @@
   "price": "$39",
   "price_note": "from · per month (50 unique/25 premium products)",
   "verified": "2026-09-13",
-  "catch": "Alidrop's pitch includes faster-shipping (including US/EU) suppliers, but the core dropshipping economics still apply: you pay the subscription plus wholesale product cost, and margins live or die on product selection and ad efficiency, not the tool.",
+  "catch": "You pay the subscription plus wholesale product cost, and the low Starter product cap nudges serious stores up to Pro quickly.",
   "best": "Dropshippers who want automated product sourcing, fulfillment and inventory sync with access to faster-shipping suppliers and one-click store integration."
  },
  "Alli AI": {
@@ -319,11 +333,17 @@
  "Alvys": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-09-20",
   "catch": "Two honest boundaries. Implementation runs to weeks — the vendor's own pricing FAQ says most operations are live in under two to four weeks — and real-time support is the top tier's: self-serve on Foundations, chat and email on Growth, phone and a dedicated success manager only on Scale.",
   "best": "FTL trucking carriers and asset-based (hybrid) brokers with roughly 5–300 trucks — especially compliance-heavy freight like hazmat, reefer and cross-border."
@@ -349,11 +369,16 @@
   "price": "$600",
   "price_note": "from · per month billed annually (2 users)",
   "verified": "2026-09-14",
-  "catch": "It's premium and built for teams that will use the whole all-in-one stack.",
+  "catch": "Data accuracy and email deliverability are the most-cited complaints, clustering on European contacts, and under about 10 reps you pay for features you never touch.",
   "best": "Mid-market sales teams (20+ reps) who'll actually adopt the full AI-prospecting, multichannel and deliverability stack in one vendor."
  },
  "Amplitude": {
   "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
    [
     "🧮",
     "Usage-metered",
@@ -363,15 +388,11 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-09-17",
-  "catch": "Unlimited seats is genuinely unusual and worth the credit — you are not taxed for letting the whole team look.",
+  "catch": "The cost lands on events instead of seats, and events are the thing you control least: an instrumentation change or a growth spurt moves your bill without anyone choosing to upgrade.",
   "best": "Product teams who want everyone looking at the same behavioural data — the free 2 million events a month is a real working tier, not a demo."
  },
  "Answering Service Care": {
@@ -385,7 +406,7 @@
   "price": "$40",
   "price_note": "Starter · billed monthly",
   "verified": "2026-09-10",
-  "catch": "Do the arithmetic before you pick a tier, because their own page does not.",
+  "catch": "Starter buys the line and nothing else: at $40 plus $1.75 a minute it stays the cheapest option only up to roughly 79 minutes a month, and there is a $50 start-up fee on top.",
   "best": "A small business that loses money when a call goes to voicemail — trades, clinics, law and property firms."
  },
  "Aplos": {
@@ -399,7 +420,7 @@
   "price": "$79",
   "price_note": "Lite · billed monthly, as published for all three tiers",
   "verified": "2026-09-10",
-  "catch": "The headline you will see first is not the price you will pay.",
+  "catch": "The $39.50 headline is a three-month rate against a $79 list price, so the bill doubles in month four, and Lite includes only two users.",
   "best": "Small nonprofits and faith-based organisations that need true fund accounting rather than general small-business bookkeeping."
  },
  "Apollo": {
@@ -460,7 +481,7 @@
   ],
   "price": "S$15",
   "price_note": "from · a month (SGD)",
-  "verified": "2026-09-11",
+  "verified": "2026-10-02",
   "catch": "It's a fintech account (strongest in Southeast Asia), not a full bank — great for keeping fixed costs near zero on mostly-domestic activity, but confirm it supports your country and currencies before you build your finances around it.",
   "best": "Startups and SMBs that want an all-in-one business account with $0 monthly fees and built-in spend management."
  },
@@ -542,7 +563,7 @@
   "price": "$5.65",
   "price_note": "from · per user a month billed annually (Starter)",
   "verified": "2026-09-24",
-  "catch": "Simple and honest pricing — the real conversation with any field-team tracker is the human one: GPS tracking of employees needs transparency and often consent (rules differ by country), and adoption dies the day the crew feels surveilled rather than served.",
+  "catch": "GPS tracking of employees needs transparency and often consent (rules differ by country), and adoption dies the day the crew feels surveilled rather than served.",
   "best": "Hourly and mobile crews (construction, cleaning, field service) that want dead-simple clock-in/out, GPS-verified timesheets and payroll-ready exports."
  },
  "Attribuly": {
@@ -679,7 +700,7 @@
  },
  "Barcodes Talk": {
   "verified": "2026-09-19",
-  "catch": "The honest caveat is about fit, not the codes.",
+  "catch": "Some large retailers and brand registries, notably certain Amazon Brand Registry and big-box requirements, ask for a GS1-issued prefix, and a third-party barcode may not satisfy that.",
   "best": "Sellers and small brands listing on marketplaces or in independent retail who want authentic, one-time-cost UPC/EAN barcodes without an annual GS1 membership."
  },
  "Beautiful.ai": {
@@ -752,7 +773,7 @@
   "price": "€495",
   "price_note": "Self Service Platform · per month PLUS an unpublished percentage of connected ad spend, net of…",
   "verified": "2026-09-11",
-  "catch": "The number that decides your bill is the one number the page does not print.",
+  "catch": "Every Amazon PPC and DSP tier adds a percentage of connected ad spend that appears nowhere on the page, so €495 is a floor, not a price, and the commitment is annual.",
   "best": "Brands and agencies already spending well past €10,000 a month on Amazon ads, who want bid, budget and campaign automation."
  },
  "Bill.com": {
@@ -790,7 +811,7 @@
   "price": "$9.99",
   "price_note": "from · a month, or $99.90 a year ($8.33/mo), 3-day trial, no card required",
   "verified": "2026-08-20",
-  "catch": "The pricing is genuinely refreshing — two plans, same features on both, unlimited users, no per-seat maths.",
+  "catch": "The trial is three days and there is no import path: the help centre documents CSV and Excel export but no import, so an existing client list has to be retyped.",
   "best": "Freelancers and small teams that want unlimited invoicing, expenses and client management with zero per-user maths."
  },
  "Birch": {
@@ -847,7 +868,7 @@
   "price": "$349",
   "price_note": "from · per month for 15,000 (Booster $799 for 50,000)",
   "verified": "2026-09-13",
-  "catch": "The free tier is real and needs no card, which makes Bitscale unusually easy to judge for yourself before paying.",
+  "catch": "Every email or phone the waterfall finds costs one to twelve credits depending on how many providers you let it try, so the same 15,000 credits are 15,000 enriched contacts or 1,250.",
   "best": "Sales and RevOps teams that already run enrichment across several vendors and want the waterfall, the signals and the CRM sync in one place."
  },
  "Bitvavo": {
@@ -949,7 +970,7 @@
    ]
   ],
   "verified": "2026-09-28",
-  "catch": "The model is honest — no subscription, credits keep, bad data refunded — so the real scrutiny belongs on usage.",
+  "catch": "Bought lists are only as good as your targeting, and cold-emailing purchased contacts has legal boundaries that vary by country, GDPR territory especially.",
   "best": "Sporadic, project-based prospecting where a subscription would idle — buy exactly the verified contacts you need, when you need them."
  },
  "Boulevard": {
@@ -975,7 +996,7 @@
    ]
   ],
   "verified": "2026-09-11",
-  "catch": "Not charging for unknowns and duplicates is genuinely fair — many rivals do.",
+  "catch": "It removes invalid addresses, which protects deliverability, but it can't make a cold list warm or a purchased list legitimate, and 'accept-all' results are a gamble, not verified.",
   "coupon": {
    "code": "",
    "label": "via our link: 10% off pay-as-you-go verification credits"
@@ -1062,8 +1083,8 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-09-11",
-  "catch": "This is enterprise-grade web data infrastructure at enterprise-grade prices — the per-GB meter looks small until you multiply by real scraping volume, and the committed tiers only pay off if your usage is steady.",
+  "verified": "2026-10-02",
+  "catch": "The per-GB meter looks small until you multiply by real scraping volume, and the committed tiers only pay off if your usage is steady.",
   "best": "Data teams and enterprises with real, ongoing web-data needs (pricing intelligence, market research) that justify committed volume and pass use-case vetting."
  },
  "Browse.ai": {
@@ -1106,7 +1127,7 @@
   "price": "$13",
   "price_note": "Basic · per month, annual",
   "verified": "2026-09-20",
-  "catch": "Those list prices are the discount's anchor, not a rate anyone is currently offered.",
+  "catch": "The yearly toggle wears a -20% badge and the crossed-out prices suggest much more, but read what you would actually be charged on 13 September 2026: monthly is $16, $70 and $120, and yearly is $13, $56 and $96, so paying month to month costs roughly 20 to 25 percent more.",
   "best": "Teams that need a reusable web scraper or browser bot without writing selectors, want the browsers, residential proxies and CAPTCHA handling managed for them."
  },
  "BuddyPunch": {
@@ -1318,7 +1339,7 @@
  },
  "Carbon6": {
   "verified": "2026-08-26",
-  "catch": "The honest headline here is not pricing but ownership — and it has moved again, this time in the reader's favour.",
+  "catch": "Ownership has moved twice: SPS Commerce bought Carbon6 in February 2025, then on 30 June 2026 sold the 3P revenue-recovery business, which now runs under the Carbon6 name again.",
   "best": "Amazon sellers who want reimbursements, advertising, inventory and sourcing tools from one vendor and are content to buy them tool by tool."
  },
  "Castmagic": {
@@ -1362,6 +1383,8 @@
     "addons_extra"
    ]
   ],
+  "price": "$29.99",
+  "price_note": "from · per report",
   "verified": "2026-09-30",
   "catch": "The headline per-check price is rarely what you actually pay — passthrough fees vary wildly by county and search type, so budget for the effective cost, not the advertised one.",
   "best": "Companies hiring hourly or gig workers at volume that need fast, API-driven, compliant background checks."
@@ -1607,7 +1630,7 @@
   "best": "Shopify stores with a catalogue big enough that shoppers ask which item to buy, who want a chat assistant that reads live inventory and hands off to a person."
  },
  "Clutch": {
-  "verified": "2026-09-12",
+  "verified": "2026-10-02",
   "catch": "It's genuinely free to submit a brief — but be clear on what it is: a lead-generation marketplace, not a neutral directory.",
   "best": "Businesses that want to skip manual agency research and get matched quickly with vetted, best-fit service providers for a specific project."
  },
@@ -1628,6 +1651,11 @@
  "Cognism": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🪑",
     "Per-seat pricing",
     "per_seat"
@@ -1636,13 +1664,9 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-09-17",
   "catch": "No price, no credit allowance, and a five-seat minimum on both named plans.",
   "best": "Outbound sales teams in Europe who need mobile numbers that are actually verified and care about GDPR provenance — that is the specific thing this is better at."
@@ -1780,18 +1804,6 @@
   "best": "Sales reps, insurance agents and consultants who need prospects to view a screen instantly with no download or install, on any device."
  },
  "Crazy Egg": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$29",
   "price_note": "from · per month billed annually (5,000 pageviews, 50 recordings)",
   "verified": "2026-08-21",
@@ -1845,17 +1857,23 @@
   "price": "$71",
   "price_note": "from · a month billed annually (1 user, 5 sources, 150 AI credits)",
   "verified": "2026-09-12",
-  "catch": "The pricing model bites, just not where it used to.",
+  "catch": "Each plan includes a fixed number of data sources and going over means moving up a whole tier, so one extra integration can mean the $199 Team Core to $319 Team Scale step.",
   "best": "SMBs and agencies that want clean KPI dashboards from 130+ one-click integrations without building them by hand."
  },
  "Datarails": {
   "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
    [
     "🧩",
     "Add-ons extra",
     "addons_extra"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-08-25",
   "catch": "You cannot find out what it costs without talking to sales, and the entry plan is smaller than it looks: Professional covers 2 users and 1 integration, so a finance team of three, or one that needs both the ERP and the CRM connected, is priced into the next tier before the conversation starts.",
   "best": "Excel-bound finance teams that have outgrown the spreadsheet plumbing but not the spreadsheets."
@@ -1995,7 +2013,7 @@
   "price": "$75",
   "price_note": "from · per month (USD)",
   "verified": "2026-09-22",
-  "catch": "All-in-one marketing dashboards live or die on data depth per module.",
+  "catch": "It bundles PPC, SEO, lead intelligence and reporting, but a dedicated SEO suite or PPC optimizer goes deeper, so it is consolidation for a lean team, not expert-grade tooling.",
   "best": "Lean teams and agencies that want PPC, SEO and lead intelligence consolidated in one affordable dashboard instead of five subscriptions."
  },
  "Digit": {
@@ -2021,7 +2039,7 @@
    ]
   ],
   "verified": "2026-09-17",
-  "catch": "Free to install is doing a lot of work here.",
+  "catch": "All four services bill per event — a fifth of each recovery, $17 to $27.50 an alert, five cents an order twice over — so the cost scales with exactly the thing you are trying to reduce.",
   "best": "Shopify stores with a chargeback problem big enough to cost real money and nobody in-house to fight disputes."
  },
  "Dondy": {
@@ -2044,13 +2062,6 @@
   "best": "Shopify stores whose customers already live in WhatsApp — much of Europe, Latin America, the Middle East and Asia."
  },
  "doola": {
-  "flags": [
-   [
-    "📈",
-    "Renewal jump",
-    "renewal_jump"
-   ]
-  ],
   "price": "$297",
   "price_note": "from · per year",
   "verified": "2026-10-01",
@@ -2072,7 +2083,7 @@
   "price": "$39",
   "price_note": "2,500 contacts · per month",
   "verified": "2026-09-17",
-  "catch": "The word “unlimited” quietly expires.",
+  "catch": "Unlimited sends hold only to 30,000 people; from 30,001 the allowance becomes twelve sends per contact per month, and Drip never flags the switch.",
   "best": "An online store on Shopify, WooCommerce or BigCommerce that already has order data worth segmenting and wants ecommerce playbooks."
  },
  "Dripify": {
@@ -2116,6 +2127,14 @@
   "best": "Absolute beginners who want a pre-built Shopify dropshipping store scaffold in minutes and understand it's a starting point, not a business."
  },
  "Dryground AI": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-08-21",
   "catch": "This is consulting, not a tool you log into: best when you want AI designed and built for you, not when you'd rather DIY with software.",
   "best": "Businesses that want AI solutions built for them as a services engagement rather than assembling tools themselves."
@@ -2210,7 +2229,7 @@
   "price": "$39",
   "price_note": "Essential, per agent · per agent per month billed annually ($49 billed monthly)",
   "verified": "2026-09-29",
-  "catch": "There are two meters, and the second one is easy to miss.",
+  "catch": "The per-agent price is the entry ticket, but the AI Agent charges $0.99 for every automated resolution on top, a variable line that scales with your ticket volume.",
   "best": "E-commerce and marketplace sellers who want one unified inbox across Amazon, eBay, Shopify and email."
  },
  "ElevateForward": {
@@ -2301,7 +2320,7 @@
   "price": "A$10",
   "price_note": "HR Essentials · per employee per month excluding GST on the Australian pricing page…",
   "verified": "2026-08-28",
-  "catch": "There is no such thing as the Employment Hero price, and the first thing to fix is the currency: the pricing page is the Australian one, its disclaimer says every figure is AUD excluding GST, and there is no US page.",
+  "catch": "Every figure on the pricing page is AUD excluding GST with no US page, and HR, recruitment, chat and payroll are separate subscriptions with a minimum of ten users.",
   "best": "Australian and New Zealand employers who want HR and payroll from one vendor and will genuinely use both, where the per-employee rate beats separate systems."
  },
  "EngageBay": {
@@ -2373,7 +2392,16 @@
   "best": "Shopify stores that sell tickets alongside products and want attendees."
  },
  "Evolve": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-09-22",
+  "catch": "It's built for large organizations — the site claims 100+ enterprises deployed globally and 2.9M+ learners trained, with Danone among the named references — and the sales-led, quote-only motion reflects that: there is no self-serve tier to trial quietly.",
   "best": "Enterprises and scale-ups that need structured, measurable training rolled out across hundreds of employees."
  },
  "Expandi": {
@@ -2430,20 +2458,12 @@
   "price": "$2,000",
   "price_note": "Business · per month on both monthly and yearly billing -- there is no annual…",
   "verified": "2026-09-03",
-  "catch": "The honest catch is that there is no middle any more.",
+  "catch": "The $500/mo Growth tier has been withdrawn, so the ladder runs straight from a Free Preview capped at 10 conversations to Business at $2,000/mo.",
   "best": "B2B software teams (especially HubSpot-first) that want a live AI sales agent to qualify website visitors, hold buying conversations and route leads to reps.",
   "pw": "price up Sep 2026",
   "pw_soort": "increase"
  },
  "ExpertSender": {
-  "flags": [
-   [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ]
-  ],
-  "price_state": "quote-only",
   "verified": "2026-08-17",
   "catch": "The $450/mo floor and the 30k-monthly-visits target make this an established-store tool, not a starter one: below that traffic the platform can't pay for itself, and there is no self-serve plan to test it cheaply first.",
   "best": "E-commerce stores from 10,000+ monthly visitors (the vendor's own stated ICP) and high-volume senders doing 100k+ emails a month, who want email, SMS."
@@ -2469,7 +2489,7 @@
   "price": "$19",
   "price_note": "Standard (1K) · per month on the App Store listing, or $180 a year, for up to $1,000 of…",
   "verified": "2026-08-24",
-  "catch": "The most important thing about this app is not on its App Store listing.",
+  "catch": "On 17 July 2026, after what its own status page calls a security attack, Shopify removed the app from the App Store and deactivated it on existing stores; it was fully searchable again on 3 August.",
   "coupon": {
    "code": "AIBM25",
    "label": "25% off for three months on the monthly plans"
@@ -2486,11 +2506,17 @@
  "Feedvisor": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-09-29",
   "catch": "The honest structure: Feedvisor publishes no price, so the quote you are given is the only figure that counts — amounts circulating online come from third parties, not from Feedvisor.",
   "best": "Mid-market and enterprise Amazon sellers with large catalogs where algorithmic repricing and ad optimization move real revenue."
@@ -2511,10 +2537,18 @@
   "price": "$9.99",
   "price_note": "from · per month (1,000 products/2,000 variants)",
   "verified": "2026-09-10",
-  "catch": "Two gates decide your bill and neither is about how much value the feeds create.",
+  "catch": "The ladder counts products and variants, and the free tier updates products only once a day: hourly updates start at $9.99 and multi-market feeds at $19.99.",
   "best": "Shopify merchants who need several feeds at once, in formats they control — custom XML, CSV, TXT or JSON built from their own template."
  },
  "Filevine": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-09-16",
   "catch": "Nothing is priced, so everything is negotiable — which cuts both ways.",
   "best": "Law firms past the point where a general project tool works, with enough matters that case-specific workflows and intake tracking pay back a negotiated annual contract."
@@ -2558,16 +2592,8 @@
   "best": "Teams that want every meeting transcribed and searchable automatically — the free unlimited-transcription tier is genuinely rare."
  },
  "Flatpay": {
-  "flags": [
-   [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ]
-  ],
-  "price_state": "quote-only",
   "verified": "2026-09-13",
-  "catch": "“Zero monthly fees” is the headline, and there genuinely is no subscription — but there is a floor.",
+  "catch": "There is no subscription, but miss £995 of card turnover in a month and you are charged £39, which for a quiet month is a monthly fee wearing a different hat.",
   "best": "A physical shop, café or bar with steady card turnover above £995 a month that wants one predictable rate on every card type instead of a pricing table full of card categories. The on-site installation and 24/7 support suit an owner who would rather not configure hardware, and daily payouts help if cash flow is tight."
  },
  "FlexiQuiz": {
@@ -2623,7 +2649,7 @@
   "price": "$30",
   "price_note": "Standard, per member · billed monthly",
   "verified": "2026-09-19",
-  "catch": "One gap has closed and one has narrowed.",
+  "catch": "Zapier, Make and the REST API stay on Premium and Enterprise, enrichment is capped at 500 a month on Standard, and email sequences need at least Premium.",
   "best": "Small sales teams, agencies and VC/partnership teams who want a clean, fast-to-set-up CRM with a great LinkedIn enrichment extension."
  },
  "Foxit": {
@@ -2647,7 +2673,7 @@
   "price": "$129.99",
   "price_note": "from · per user per year or $10.99 per user a month",
   "verified": "2026-09-22",
-  "catch": "Foxit's pitch is being the honest fraction of Acrobat's price, and on the headline numbers it delivers.",
+  "catch": "Buy the $129.99 Editor and then need signatures, and Editor plus standalone eSign Essentials is $249.99 a year against $159.99 for the Editor+ that bundles it.",
   "coupon": {
    "code": "CP366-B4dCXGN5",
    "label": "20% off"
@@ -2742,7 +2768,7 @@
   "price": "$19",
   "price_note": "from · per agent a month, billed annually ($29 billed monthly)",
   "verified": "2026-09-29",
-  "catch": "The $19 headline rarely survives contact with a real deployment: the ITSM features most IT teams buy for (change/problem management, deeper analytics) live at Pro, and so does Freddy AI Copilot, a $29-an-agent add-on offered only on Pro and Enterprise.",
+  "catch": "The ITSM features most IT teams buy for (change/problem management, deeper analytics) live at Pro, and so does Freddy AI Copilot, a $29-an-agent add-on.",
   "best": "IT teams that want proper ITSM (incidents, assets, changes, service catalog) running in weeks, without enterprise-suite implementation pain."
  },
  "Freshworks": {
@@ -2917,7 +2943,7 @@
   "price": "$499",
   "price_note": "entry plan (750 orders) · per month for 750 orders, month-to-month",
   "verified": "2026-09-23",
-  "catch": "Core is free forever but no longer the whole platform: it connects only Amazon, eBay, Shopify, TikTok and Walmart, has no API or App Store, syncs with QuickBooks Online only, and stops importing at 500 orders until the 1st of the next month.",
+  "catch": "Free Core stops importing at 500 orders a month and connects only five channels; the next step is $499/mo for 750 orders, and you cannot move back down once you go paid.",
   "best": "Multichannel e-commerce operations with serious order volume that want orders, inventory, purchasing, listings and shipping unified — including EDI retail."
  },
  "Gorgias": {
@@ -2950,7 +2976,7 @@
   "price": "$25",
   "price_note": "from · a month",
   "verified": "2026-09-10",
-  "catch": "The flat price is the whole pricing page, which cuts both ways.",
+  "catch": "There is no free tier and no small plan, so from day fifteen the app costs $25 a month whether it collects four responses or forty thousand.",
   "best": "Shopify stores running more than one marketing channel that want attribution from customers rather than from cookies."
  },
  "Gravity Forms": {
@@ -3029,11 +3055,6 @@
  "Hello Bar": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -3061,7 +3082,7 @@
   "price": "$5.99",
   "price_note": "Basic · per month, or $59.99 a year",
   "verified": "2026-09-13",
-  "catch": "The free tier is the hook and the FAQ builder is the reason people stay.",
+  "catch": "The meter is tickets, not agents: Basic charges $0.16 for every ticket past fifty, so 300 tickets a month cost $45.99 against $19.99 on Standard.",
   "best": "Small Shopify stores that want ticketing, live chat and a searchable FAQ page from one app rather than bolting three together.",
   "pw": "price held",
   "pw_soort": "held"
@@ -3231,7 +3252,7 @@
   "price": "$2.99",
   "price_note": "from · a month, or $28.70 a year, 7-day trial",
   "verified": "2026-09-20",
-  "catch": "Start with the word 'free' on the listing card, because it does not mean what it looks like.",
+  "catch": "The free plan is development and partner stores only, so a real storefront pays $2.99 from the first day after a 7-day trial, while a free app in the same category has a far deeper public record.",
   "best": "Shopify stores that want their own logo falling down the page, or a marquee of partner, payment and press logos, rather than generic snow."
  },
  "InboxAlly": {
@@ -3275,6 +3296,7 @@
   "price": "$8",
   "price_note": "from · per seat a month, billed annually",
   "verified": "2026-09-26",
+  "catch": "This is employee-monitoring software, so weigh the culture cost, not just the price.",
   "best": "COOs, CFOs and operations leaders who want a work intelligence platform rather than a time clock: workforce analytics plus AI process capture."
  },
  "Instapage": {
@@ -3410,7 +3432,7 @@
    ]
   ],
   "price": "$34",
-  "price_note": "from · a month billed annually (5 agents, 100 conversations/mo)",
+  "price_note": "from · a month billed annually (25 agents, 1,000 conversations/mo)",
   "verified": "2026-09-24",
   "catch": "The gating detail is conversations, not features — Starter's 100 a month is a few days on a live site, and an agent that actually gets used will push you up a tier.",
   "best": "Teams already using Jotform (or wanting no-code) that need AI chatbots and service agents to handle leads, support and bookings tied to their forms."
@@ -3505,7 +3527,7 @@
   "price": "$2",
   "price_note": "from · per user per month billed yearly ($4 and $6 above it), add-ons extra",
   "verified": "2026-09-17",
-  "catch": "The per-user price is the smallest part of the bill.",
+  "catch": "Add-ons are priced per user per year — BreachWatch and KeeperChat $24 each, reporting $12 each — so a Business seat at $4.00 a month can quietly double, and billing is annual only.",
   "best": "Teams that need shared credentials with real admin control and audit."
  },
  "Kinsta": {
@@ -3524,7 +3546,7 @@
   "price": "$35",
   "price_note": "from · a month, or $30 a month billed annually ($350/yr)",
   "verified": "2026-09-14",
-  "catch": "You're paying a premium for managed speed, Google Cloud infrastructure and expert support — worth it if performance and hands-off management matter, wasteful on a low-traffic hobby site a $5 shared host would carry fine.",
+  "catch": "You pay a premium for managed speed and support: worth it if performance matters, wasteful on a low-traffic hobby site a $5 shared host would carry fine.",
   "best": "Business-critical WordPress sites where speed, uptime and expert support directly affect revenue."
  },
  "Kit": {
@@ -3552,7 +3574,7 @@
   "price": "$29",
   "price_note": "from · per month",
   "verified": "2026-09-17",
-  "catch": "'Free to install' is doing a lot of work on this listing.",
+  "catch": "The free plan covers only the first 50 discount orders a month, then $29 a month is billed, and Free and Starter are not for Shopify Advanced and Plus, whose entry tier is $49.",
   "best": "Shopify stores that want the discount mechanics themselves."
  },
  "Kiwi Sizing": {
@@ -3576,11 +3598,16 @@
   "price": "$7.99",
   "price_note": "from · per month (10 charts, no watermark)",
   "verified": "2026-09-19",
-  "catch": "The free plan is not limited by the chart count most people assume.",
+  "catch": "The real limit of the free plan is the Kiwi watermark on your storefront; removing it is what the $7.99 buys, and Plus and Ultimate add order-volume charges the listing never quantifies.",
   "best": "Apparel and accessory stores where sizing drives returns, and that want charts plus an AI fit recommender without building either."
  },
  "Kixie": {
   "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
    [
     "🪑",
     "Per-seat pricing",
@@ -3592,6 +3619,7 @@
     "addons_extra"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-09-10",
   "catch": "Plan for 30-60% above the sticker: minutes, the multi-line dialer and AI human-voice-detection all bill separately, and the quarterly auto-renewing contract only allows downgrades in its final 30 days — read that clause before signing.",
   "best": "Outbound sales teams living in their CRM that want a serious power dialer with local presence, SMS and automation."
@@ -3607,7 +3635,7 @@
   "price": "$39",
   "price_note": "Lite Plan · per month on the App Store listing for 1,000 items, 5 feeds, two…",
   "verified": "2026-08-23",
-  "catch": "The headline price is a base, not a bill.",
+  "catch": "Each paid plan includes 1,000 items, 5 feeds, two marketplace wizards and 100 orders a month, with surcharges for extras on all four, so $39 is a base, not a bill.",
   "best": "Shopify merchants selling across several European marketplaces — Bol, Zalando, Allegro, Cdiscount, Miinto and the rest."
  },
  "KrispCall": {
@@ -3702,7 +3730,7 @@
   "price": "$79",
   "price_note": "Discover · per month billed annually",
   "verified": "2026-09-05",
-  "catch": "The words doing the work are 'starting at'.",
+  "catch": "The price is set by how many companies you identify a month, and the page shows that allowance as 'Tiered' with no figures, so €79 is only the floor of the smallest bucket.",
   "best": "B2B teams with real website traffic and a sales team that will actually work the list.",
   "pw": "price up Aug 2026",
   "pw_soort": "increase"
@@ -3833,7 +3861,7 @@
   ],
   "price": "$29.99",
   "price_note": "from · per month per user for 3,000 credits",
-  "verified": "2026-09-12",
+  "verified": "2026-10-02",
   "catch": "Cost tracks headcount rather than output: every colleague who so much as @mentions Lindy in Slack takes a paid seat, and a seat you remove runs to the end of the cycle with no mid-cycle proration.",
   "best": "Teams that live in Slack and want one shared teammate that sits in their meetings, runs scheduled routines and drafts replies inside the tools they already use.",
   "pw": "plans rebuilt Sep 2026",
@@ -3889,6 +3917,14 @@
   "best": "Creators and brands running comment-to-DM and multi-channel (Instagram, Messenger, WhatsApp) marketing funnels — its killer feature works reliably."
  },
  "MarketerHire": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-09-23",
   "catch": "This is vetted senior freelance talent on a monthly retainer with no published rates — the value is speed and vetting (the pricing page promises a match within 24-48 hours, against a months-long hire), and the budget is whatever you agree on the call.",
   "best": "Companies that need a vetted senior marketer (growth, paid ads, email, more) matched quickly, without the time and risk of a full-time hire."
@@ -3922,7 +3958,7 @@
   "price": "$4.99",
   "price_note": "Pro · per month for up to 3,000 push notification impressions, billed in USD…",
   "verified": "2026-09-19",
-  "catch": "Start with the numbers on the vendor’s own homepage, because they do not match the App Store.",
+  "catch": "Read on 19 September 2026, the vendor's homepage claims a 5.0 rating and 100% five-star reviews, while the App Store listing showed 4.7 from 11 reviews, one of them a single star.",
   "best": "Small Shopify stores that want a cart-recovery channel which costs almost nothing and takes no commission on what it recovers."
  },
  "MeetGeek": {
@@ -3965,7 +4001,7 @@
   "price": "$20",
   "price_note": "from · per month billed annually ($25 monthly)",
   "verified": "2026-08-17",
-  "catch": "The free plan is genuinely useful for low bill volume, but the value case narrows as you scale into paid tiers — and the 2.9% card fee only makes sense when you're deliberately floating cash on a card for rewards or timing.",
+  "catch": "The free plan suits low bill volume, but the value narrows as you scale into paid tiers, and the 2.9% card fee only makes sense when you deliberately float cash on a card.",
   "best": "Small businesses that want to pay bills by bank transfer or card and get paid, starting free with no subscription."
  },
  "MigrationPro": {
@@ -4008,7 +4044,7 @@
   "price": "$20",
   "price_note": "from · a month plus usage ($16 billed yearly)",
   "verified": "2026-09-18",
-  "catch": "The no-markup model pass-through is genuinely fair — but it also means your real cost is subscription PLUS model spend, and an agent that loops or processes big documents burns provider credits invisibly until you set limits.",
+  "catch": "Your real cost is subscription plus model spend, and an agent that loops or processes big documents burns provider credits invisibly until you set limits.",
   "best": "Operators and teams that want to build and deploy real AI agents and workflows visually, across many models, without engineering time."
  },
  "Miro": {
@@ -4036,6 +4072,14 @@
   "best": "Teams that think visually — brainstorms, flowcharts, retros, workshops and planning on an infinite shared canvas with strong templates and facilitation tools."
  },
  "Mktg.ai": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-09-25",
   "catch": "No published price: the pricing page returns a 404, and the FAQ names the tiers but no figure.",
   "best": "Marketing teams with real media spend across channels who want an always-on AI analyst."
@@ -4123,7 +4167,7 @@
   "price": "$9",
   "price_note": "from · per seat a month",
   "verified": "2026-09-29",
-  "catch": "The seat price is not the product price.",
+  "catch": "Each of monday's four products is its own subscription, and Standard allows 250 automation actions a month across the whole account.",
   "best": "Teams who want one visual system for projects and work, and who will actually use the automations and views that justify the per-seat price at Standard or above."
  },
  "Moosend": {
@@ -4146,6 +4190,14 @@
   "best": "Small businesses and marketers who want affordable email marketing and automation with a low entry price, a real free trial and a clean drag-and-drop builder."
  },
  "Motive": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-09-16",
   "catch": "A pricing page with a form where the prices should be.",
   "best": "Fleets large enough that ELD compliance and dash-cam evidence are already costing you money, and who will negotiate a quote rather than accept the first one."
@@ -4184,6 +4236,14 @@
   "best": "Creators, trainers and product teams that need studio-quality voiceovers in many languages without booking voice actors — explainers, courses, product videos."
  },
  "Mycroft": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-09-04",
   "catch": "The pricing page is a feature list with the prices taken out, and that is a choice rather than an oversight — Mycroft publishes what is in each package down to the individual capability, then stops short of the one line you came for.",
   "coupon": {
@@ -4307,7 +4367,7 @@
   "price": "€11",
   "price_note": "Starter · per user per month on annual billing",
   "verified": "2026-09-16",
-  "catch": "The pitch is that salespeople hate CRMs, and the answer is a tool built around the next action rather than the form.",
+  "catch": "Almost everything a sales team needs sits on the top tier: two-way email sync is Dream at €33 a user, and on Starter and Expert email is BCC only.",
   "best": "Solo sellers, small outbound teams and telesales operations that want a list of leads each carrying a next step, rather than a CRM to configure."
  },
  "NordVPN": {
@@ -4488,11 +4548,6 @@
  "Ownr": {
   "flags": [
    [
-    "📈",
-    "Renewal jump",
-    "renewal_jump"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -4513,7 +4568,7 @@
   "price": "$699",
   "price_note": "from · per employee a month",
   "verified": "2026-08-29",
-  "catch": "The two numbers that decide your bill are not on the price card.",
+  "catch": "Oyster holds a refundable deposit per EOR employee and takes an FX fee when currencies differ, and neither has a published figure, so $699 is the floor.",
   "best": "Companies hiring their first employees in countries where they have no legal entity."
  },
  "PagePulse": {
@@ -4610,6 +4665,14 @@
   "best": "Staffing agencies, security firms and event operators with large rosters of shift workers."
  },
  "PartnerStack": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-08-27",
   "catch": "The reporting counts clicks and calls them customers.",
   "best": "B2B SaaS teams that want partner payments, lead and deal registration and a marketplace of active B2B partners in one place."
@@ -4625,7 +4688,7 @@
   "price": "$20",
   "price_note": "from · per user per year up to 20 people",
   "verified": "2026-09-30",
-  "catch": "The honest trade-off is maturity, not security.",
+  "catch": "The mobile side is very new: the iOS app arrived on 10 August 2026, and on 6 September 2026 there was still no Android app.",
   "best": "Teams under twenty people who want zero-knowledge encryption and shared vaults at about $1.67 a seat a month."
  },
  "Payoneer": {
@@ -4641,11 +4704,27 @@
   "best": "Freelancers and sellers getting paid by international clients and marketplaces (Amazon, Upwork, Fiverr) who need local receiving accounts."
  },
  "PDWare": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-09-25",
   "catch": "This is genuine enterprise software with enterprise buying: opaque pricing, demo-first sales and implementation effort — appropriate for portfolio offices planning hundreds of resources, overkill below that.",
   "best": "Enterprise PMOs that plan portfolios around named-resource capacity and need feasibility answers before committing to projects."
  },
  "Pecan AI": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-09-29",
   "catch": "The pricing page argues instead of quoting.",
   "best": "Data and marketing teams that want churn, LTV or demand predictions running against their own warehouse without hiring data scientists."
@@ -4730,7 +4809,7 @@
  },
  "Pixel Union": {
   "verified": "2026-09-27",
-  "catch": "A premium theme is a strong starting point, not a finished store.",
+  "catch": "A $360 theme on a store with weak product pages or slow images still converts weakly, and heavily customized premium themes take more work to keep updated.",
   "best": "Online retailers and larger-catalog stores that want a professionally designed, conversion-focused Shopify storefront without paying for custom development."
  },
  "Planday": {
@@ -4847,7 +4926,7 @@
   "price": "$49",
   "price_note": "from · per month ($37 annually)",
   "verified": "2026-09-28",
-  "catch": "Credit where due: the free tier is real.",
+  "catch": "The paid ladder rises fast: Starter at $49 buys only 100 SKUs, repricing waits for Pro at $99, and price updates run at most twice a day even on Enterprise.",
   "best": "E-commerce sellers monitoring competitor prices and repricing catalogs up to ~25,000 SKUs on rules or autopilot."
  },
  "Printify": {
@@ -4919,7 +4998,7 @@
   "price": "$3.99",
   "price_note": "from · per month for 200GB (20% off $4.99), billed $47.88 a year",
   "verified": "2026-08-26",
-  "catch": "End-to-end encryption is the point and the price.",
+  "catch": "Because Proton can't read your files, there's no server-side search inside documents, previews and integrations are more limited, and lost credentials without recovery mean lost data.",
   "best": "Privacy-conscious individuals and businesses that want genuinely end-to-end-encrypted storage from a Swiss provider, ideally as part of the wider Proton suite."
  },
  "Pumper Bundles": {
@@ -4963,6 +5042,11 @@
  "Pylon": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🪑",
     "Per-seat pricing",
     "per_seat"
@@ -4973,6 +5057,7 @@
     "usage_metered"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-09-01",
   "catch": "The per-seat sticker is the entry ticket; the AI that makes the platform sing is metered separately, so a realistic modern deployment (seats + AI agent + phone) lands well above the tier price — model your full basket.",
   "best": "B2B SaaS teams supporting customers in shared Slack/Teams channels who want tickets, accounts and AI in one B2B-native platform."
@@ -5018,11 +5103,17 @@
  "Quartile": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-09-11",
   "catch": "Everything about the sales motion here is a conversation.",
   "coupon": {
@@ -5160,7 +5251,7 @@
   "price": "$239",
   "price_note": "from · per license a month and iQ $299",
   "verified": "2026-08-17",
-  "catch": "The per-seat price is premium, and the model rewards scale — the predictive dialer, compliance tools and supervisor monitoring earn their keep on a 5-plus-agent floor, but for one or two reps it's expensive for what a lighter dialer would do.",
+  "catch": "The per-seat price is premium: the dialer earns its keep on a 5-plus-agent floor, but for one or two reps it's expensive for what a lighter dialer would do.",
   "best": "High-volume outbound call teams (insurance, real estate, collections) with 5+ agents that need predictive dialing, compliance tools and supervisor monitoring.",
   "pw": "price held",
   "pw_soort": "held"
@@ -5304,7 +5395,7 @@
    ]
   ],
   "verified": "2026-09-26",
-  "catch": "Work out which lane you are in before you pay, because the three lanes price the same photo very differently.",
+  "catch": "A working portrait stack means four plugins at $145-$179 each, $648 in total, and the subscription's credits only roll over while you keep paying.",
   "coupon": {
    "code": "AIBuilder20",
    "label": "20% off Retouch4me plugins"
@@ -5371,7 +5462,7 @@
   "price": "$0.27",
   "price_note": "RTX A5000 pod, Secure… · per hour, billed per second",
   "verified": "2026-09-24",
-  "catch": "The honest math is utilization.",
+  "catch": "Serverless runs roughly 1.7x the pod rate per compute-hour ($4.79 against $2.89 for an H100), and an idle pod you forgot keeps billing.",
   "best": "Developers and ML teams that want cheap, per-second GPU compute for inference and experiments without committing to hyperscaler contracts."
  },
  "Salesflare": {
@@ -5447,7 +5538,7 @@
   "price": "$4.54",
   "price_note": "Snack… · per month on a two-year prepay ($109 every 2 years)",
   "verified": "2026-09-24",
-  "catch": "It works with any email provider, which is a genuine advantage over the built-in tools in Gmail and Outlook.",
+  "catch": "You pay monthly to filter mail that modern clients increasingly sort for free, and the headline rate is a two-year commitment: month to month the Snack plan is $9.49, not $4.54.",
   "best": "Heavy-email professionals drowning in a cluttered inbox who want AI triage that works across any mail client."
  },
  "Scarcity.AI": {
@@ -5474,11 +5565,17 @@
  "Seamless.ai": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-09-30",
   "catch": "Data accuracy is the recurring complaint — independent tests put email deliverability around 74% (20–30% bounce) versus ZoomInfo's ~2–3%, so real cost per usable contact climbs.",
   "best": "Teams that want a huge real-time contact database and AI list-building for less than ZoomInfo, and can tolerate cleaning the data."
@@ -5572,7 +5669,7 @@
   "price": "$250",
   "price_note": "Accelerator… · billed monthly",
   "verified": "2026-08-26",
-  "catch": "Read the caps before you read the prices, because the caps are what you are actually buying.",
+  "catch": "The revenue caps — $15,000 on Starter, $30,000 on Accelerator — are per month, as the vendor confirmed in writing, so a seller clearing $500 a day is already above Starter.",
   "coupon": {
    "code": "",
    "label": "via our link: 10% off the first three months"
@@ -5722,7 +5819,7 @@
   "price": "$9.99",
   "price_note": "Lite · per month for Lite, which exports CSV only ($107.88 a year)",
   "verified": "2026-09-18",
-  "catch": "The listing slug is 'packeta', the developer is happyapps.cz, and cash-on-delivery tracking is a headline feature — all three point at Central and Eastern Europe, where Packeta and Zásilkovna are everyday carriers and COD is a normal way to pay.",
+  "catch": "It is built around Central and Eastern European carriers such as Packeta, so a US or UK merchant should confirm their carrier is supported before the five-day trial starts.",
   "best": "Shopify merchants shipping in Central and Eastern Europe who want pickup points."
  },
  "Shippo": {
@@ -5746,7 +5843,7 @@
   "price": "$19",
   "price_note": "from · per month for 1-200 labels, or $205/yr",
   "verified": "2026-09-25",
-  "catch": "The pricing is honest but layered.",
+  "catch": "The free tier stops at 30 labels a month at 5¢ a label on your own carrier accounts, and Pro bills $0.08 for every label past 10,000 shipments.",
   "best": "E-commerce sellers shipping across multiple carriers who want rate comparison, label printing and tracking in one place with genuine rate discounts."
  },
  "Shoeboxed": {
@@ -5944,7 +6041,7 @@
   "price": "$25",
   "price_note": "from · per month (50,000 emails, shared IP)",
   "verified": "2026-09-24",
-  "catch": "It's a veteran, reliable relay, but two honest notes.",
+  "catch": "Pricing is volume-tiered, so a shared IP on the cheapest plan is fine for low volume while serious senders need the dedicated-IP tiers (and the IP warm-up discipline that comes with them).",
   "best": "Businesses and developers needing dependable high-deliverability transactional or bulk email via SMTP relay and API, with dedicated IPs at scale."
  },
  "SMTP2GO": {
@@ -6027,7 +6124,7 @@
   "price": "$15",
   "price_note": "from · per user a month billed annually, or $18 monthly",
   "verified": "2026-09-05",
-  "catch": "The number to check first is the meeting cap, not the price.",
+  "catch": "Plus and Pro both stop at 30 meetings per user per month, so a rep taking two calls a day is pushed to Premium at $40, nearly triple the entry price.",
   "best": "Sales and customer-facing teams that already run most conversations on video and want the coaching layer — talk-time, keyword tracking and call review."
  },
  "Spocket": {
@@ -6079,7 +6176,7 @@
   "price": "$23",
   "price_note": "from · per month at the 200-order volume step (no free plan)",
   "verified": "2026-09-12",
-  "catch": "So the ladder has a cliff in it rather than a slope.",
+  "catch": "The $798/month figure that circulates for the full suite is real, but it is a floor rather than a ceiling: that is what multi-product access costs from the 5,000-order step, and below that step you cannot buy the bundle at all.",
   "best": "Mid-market Shopify brands that want reviews and loyalty in one platform instead of juggling separate apps."
  },
  "Stampezee": {
@@ -6135,7 +6232,7 @@
   "price": "$14.99",
   "price_note": "Lite · per month for 100 products",
   "verified": "2026-09-28",
-  "catch": "Know what an SEO app can and cannot do before you buy any tier.",
+  "catch": "It fixes the mechanical layer, meta tags, alt text, images and sitemaps, but none of that creates demand, and on 25 products the free tier already does most of it.",
   "best": "Shopify stores with a few hundred products and no in-house SEO help, who want metadata, schema, alt text and indexing handled in bulk and reported against Search Console."
  },
  "Storista": {
@@ -6235,10 +6332,18 @@
   "price": "$49",
   "price_note": "from · per month ($470/yr)",
   "verified": "2026-09-29",
-  "catch": "First, the 'free' plan is development-stores only, so any live use is paid, and the AI generator that headlines the app is not in Premium ($49) but in Advanced ($99), plus AI credits bought separately ($25 per 50) — so the AI promise realistically costs $99+ a month.",
+  "catch": "The 'free' plan is development-stores only, so any live use is paid, and the AI generator that headlines the app is not in Premium ($49) but in Advanced ($99), plus AI credits bought separately ($25 per 50) — so the AI promise realistically costs $99+ a month.",
   "best": "Shopify merchants — especially non-Plus stores — who want custom discount, checkout, payment and shipping logic without hiring a developer."
  },
  "Superfiliate": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-09-24",
   "catch": "The price is the part you cannot check.",
   "best": "E-commerce brands turning customers and creators into affiliates with branded co-branded storefronts — if the volume justifies a demo-quoted platform fee."
@@ -6299,7 +6404,7 @@
   "price": "$30",
   "price_note": "from · per user a month, billed annually",
   "verified": "2026-10-01",
-  "catch": "The free tier is a teaser.",
+  "catch": "Response caps on the self-serve plans trigger $0.15-per-response overages (US rate), and much of the good analytics and logic sits behind higher tiers.",
   "best": "Teams that need research-grade survey logic (skip logic, randomisation, quotas) with compliance (HIPAA, GDPR, SOC 2) and 200+ integrations."
  },
  "SurveySparrow": {
@@ -6510,6 +6615,11 @@
  "Tellent": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -6518,13 +6628,9 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "📅",
-    "Annual commit",
-    "annual_lock"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-09-26",
   "catch": "Tellent's modular shape is genuinely useful — you can buy just the ATS, or just the HRIS — but nothing is priced in public: every tier on tellent.com/pricing ends in 'Get a demo' (read in a browser on 9 September 2026), and recruitee.com/pricing carries no figures either.",
   "best": "European scale-ups hiring continuously that want a collaborative ATS they can extend with HRIS and performance modules, and can put a sales call in the buying process."
@@ -6540,7 +6646,7 @@
   "price": "$4,790",
   "price_note": "from · per year",
   "verified": "2026-09-16",
-  "catch": "Note on how we link this one, updated 28 Jul 2026: between 21 and 28 July our partner link was dead — Tenable's shop subdomain stopped resolving, so we pointed the link at Tenable's own product page and earned nothing from it.",
+  "catch": "This is enterprise-grade security tooling with an enterprise price and a learning curve: you need someone who can act on the findings, or you're paying for reports nobody reads.",
   "coupon": {
    "code": "SAVE10",
    "label": "10% off"
@@ -6596,6 +6702,11 @@
  "Textline": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -6606,11 +6717,20 @@
     "addons_extra"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-08-31",
   "catch": "Two costs are easy to miss and both are monthly. The credit system has two rates: $0.03 for credits you buy deliberately and $0.04 for backup credits that fire automatically when you run out — a 33% premium for not noticing.",
   "best": "Support and sales teams that already text customers from personal phones and need a shared, compliant inbox with a record of who said what."
  },
  "TheTop": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-09-19",
   "catch": "The price is the knock, because there isn't one.",
   "best": "Enterprises running AI across several departments, models and applications that cannot answer what the bill bought."
@@ -6676,14 +6796,14 @@
   "price": "$19.99",
   "price_note": "Unlimited Plan · per month, or $119.94 a year at a stated 50% saving, on a seven-day…",
   "verified": "2026-09-18",
-  "catch": "The rating is the most useful number on this listing, but not for the reason an average usually is.",
+  "catch": "The reviews are binary — 84 five-star and 6 one-star of 93 on 18 September 2026 — and the one-stars describe the same failure: the pixel is set up and no events ever arrive.",
   "best": "Shopify merchants running Meta and TikTok ads who need more than the free channel apps give them."
  },
  "TnC": {
   "price": "$6.99",
   "price_note": "Basic Plan · per month on the App Store listing, or $67.10 a year, for the checkbox…",
   "verified": "2026-09-29",
-  "catch": "Start with the badge at the top of the listing, because it is the one thing on this page that misleads.",
+  "catch": "'Free plan available' means development and partner stores only, so a store that takes real orders has no free tier here.",
   "best": "Shopify merchants on a standard plan who need a recorded “I agree” gate before payment — for GDPR, an age gate, digital-goods withdrawal rules or chargeback defence."
  },
  "Todoist": {
@@ -6793,11 +6913,17 @@
  "Trainual": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-09-18",
   "catch": "You cannot find out what it costs without booking a demo.",
   "best": "Growing teams (roughly 10+ staff) that need to document SOPs and onboard new hires consistently instead of training by osmosis."
@@ -6831,7 +6957,7 @@
   ],
   "price": "$25",
   "price_note": "AI Assistant, per seat… · per seat per month as published",
-  "verified": "2026-09-12",
+  "verified": "2026-10-02",
   "catch": "It's a newer, enterprise-leaning automation platform, so it's less proven with a smaller community than the big names — and the credit-per-execution model means heavy volume needs cost-checking.",
   "best": "Teams that want an AI-assisted way to discover, document and run automations without deep RPA expertise."
  },
@@ -6863,23 +6989,16 @@
  },
  "UENI": {
   "verified": "2026-09-26",
-  "catch": "It's done-for-you, which is the appeal and the catch.",
+  "catch": "DIY editing and customisation are limited, e-commerce and integrations are basic, and the most common complaint is slow design turnaround against the 7-day promise.",
   "best": "Small-business owners with no time or tech skills who want a professional site built for them, not another tool to learn.",
   "pw": "plans rebuilt Aug 2026",
   "pw_soort": "restructure"
  },
  "UltaHost": {
-  "flags": [
-   [
-    "📈",
-    "Renewal jump",
-    "renewal_jump"
-   ]
-  ],
   "price": "$3.44",
   "price_note": "from · per month (list $6.89) on the 2-year term, 1 domain, ~10,000 visits/mo",
   "verified": "2026-10-01",
-  "catch": "It's the classic budget-host trade-off, with one thing in its favour.",
+  "catch": "The sticker price is a term commitment: the page opens on the 2-year prices, and the 30/40/50% badges are measured from a crossed-out list price rather than from what monthly billing actually costs, so the real saving for prepaying two years is about 22% on Starter.",
   "coupon": {
    "code": "ultaad2RiM",
    "label": "10% off"
@@ -7024,6 +7143,14 @@
   "pw_soort": "restructure"
  },
  "Velora": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-09-25",
   "catch": "Velora is three acquired products (Keela, Aplos, Raisely) being unified into one platform, and that's the honest watch-out: integration between them is newer than the marketing suggests, so check how deeply the pieces actually connect for your workflow before committing.",
   "best": "Nonprofits that want donor CRM, fund accounting and online fundraising from one vendor, purpose-built for charities rather than adapted business tools."
@@ -7088,7 +7215,7 @@
   "price": "$80",
   "price_note": "from · per month billed yearly ($99 monthly), 15 profiles, 2 users",
   "verified": "2026-09-25",
-  "catch": "It undercuts the big suites convincingly.",
+  "catch": "Platform APIs change constantly, so verify the networks and features your clients need inside the trial, and white-labeling sits on the Scale tier above Professional.",
   "best": "Agencies and multi-brand teams that want scheduling, listening, reviews and reporting across many profiles at a notably lower price than legacy suites."
  },
  "Volza": {
@@ -7111,6 +7238,14 @@
   "best": "Companies with regularly traveling teams that want one pooled global data contract, per-user controls and an end to roaming bill surprises."
  },
  "VWO": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
   "verified": "2026-09-20",
   "catch": "The jump from Growth to Pro is steep — small businesses get priced out of MVT and complex targeting — and the UI is dense with options.",
   "best": "Teams that want an all-in-one experience-optimisation platform (A/B testing + heatmaps + personalisation) with friendlier Bayesian stats and transparent pricing."
@@ -7143,7 +7278,7 @@
   "price": "€59",
   "price_note": "from · per month billed annually (€69 monthly), 3 users included",
   "verified": "2026-09-12",
-  "catch": "The plan price is the smallest part of the bill.",
+  "catch": "Growth is capped at three users with no way to buy a fourth, and automation, AI credits, extra numbers and Meta's per-conversation fees all bill on top of the plan.",
   "best": "Businesses that want to run WhatsApp support and broadcasts at scale with a shared team inbox and automation.",
   "pw": "price held",
   "pw_soort": "held"
@@ -7199,7 +7334,7 @@
   "price": "$5",
   "price_note": "from · per user a month billed annually, or $6 monthly",
   "verified": "2026-09-25",
-  "catch": "It solves a real annoyance: dozens of web apps and multiple accounts per app as tidy desktop windows.",
+  "catch": "The free plan's 2-app limit is tight, and browser profiles and PWAs solve part of the same problem for free.",
   "best": "People juggling many web apps and multiple accounts per service who want them as clean, separate desktop apps with per-profile isolation."
  },
  "Webflow": {
@@ -7347,13 +7482,6 @@
   "best": "Owners selling established, often brick-and-mortar businesses — restaurants, shops, services, small manufacturers."
  },
  "WP Rocket": {
-  "flags": [
-   [
-    "📈",
-    "Renewal jump",
-    "renewal_jump"
-   ]
-  ],
   "price": "$59",
   "price_note": "from · per year for one site",
   "verified": "2026-09-14",
@@ -7508,6 +7636,11 @@
  "ZoomInfo": {
   "flags": [
    [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -7518,6 +7651,7 @@
     "addons_extra"
    ]
   ],
+  "price_state": "quote-only",
   "verified": "2026-08-17",
   "catch": "The contract is the most-cited frustration: annual lock-in with a strict 60–90 day cancellation window and 10–20% renewal increases.",
   "best": "Enterprise go-to-market teams that need the deepest US database, buyer-intent signals and conversation intelligence — and can absorb the contract."
@@ -7538,7 +7672,7 @@
   "price": "$20",
   "price_note": "from · per month or $216/yr (1,000 products, 100 keywords)",
   "verified": "2026-09-15",
-  "catch": "Every plan, free included, lists free SEO consultancy, and it is worth knowing what sits next to it.",
+  "catch": "The rank tracker checks monthly on Free and weekly on Pro and above, so it is a trend line, not a daily rank check, and more than 100 tracked keywords is a priced step on the vendor's own site.",
   "best": "Shopify or BigCommerce merchants with a few hundred to a few thousand products who want on-page SEO cleaned up in bulk."
  },
  "Super": {
@@ -7571,7 +7705,7 @@
   "price": "$10",
   "price_note": "from · per month or $96/yr (400 shipments/mo)",
   "verified": "2026-09-12",
-  "catch": "The rating is 4.1 over 56 reviews on 12 September 2026, and the shape says more than the average: 45 five-star, three three-star, one two-star and seven one-star, which is a split verdict rather than a soft middle.",
+  "catch": "The reviews are split rather than soft, 45 five-star and seven one-star of 56 on 12 September 2026, and the complaints name downtime on the page customers open when they are already worried about a parcel.",
   "best": "Shopify stores shipping a few hundred to a few thousand parcels a month that want where-is-my-order traffic off the support desk."
  },
  "Nexis CRO": {
@@ -7597,7 +7731,7 @@
   "price": "$99",
   "price_note": "Basic · per month",
   "verified": "2026-09-15",
-  "catch": "Sorting driven by 40+ blended signals is powerful and opaque in the same breath: a recipe that ranks by margin, velocity and stock at once will sometimes bury a product you wanted seen, and there is real trial and error in getting the recipes to match how you actually merchandise.",
+  "catch": "The jump from free to paid is steep at $99 a month and buys capacity without capability: custom attributes, partner integration and product boost all start at $249.",
   "best": "Shopify stores with large or fast-changing catalogues where product order is a merchandising decision — seasonal ranges, frequent stock-outs, wide margin spreads."
  },
  "Signitic": {
@@ -7632,7 +7766,7 @@
   "price": "$2.99",
   "price_note": "Monthly Plan · per month for the whole app, with no usage tier above it",
   "verified": "2026-09-16",
-  "catch": "The strongest argument against paying for this is one App Store search away.",
+  "catch": "A free app from RoarTheme does the core job with the same 4.8 rating, so the $2.99 buys player controls, extra sources and AI-generated seasonal tracks, not the background music itself.",
   "best": "Shopify merchants who want seasonal or ambient audio on the storefront, want a say in how the player looks and behaves."
  },
  "Helm": {
@@ -7898,7 +8032,7 @@
   "price": "$10",
   "price_note": "Personal · per user per month billed yearly ($15 billed monthly), one user, no…",
   "verified": "2026-09-25",
-  "catch": "The cheap plan is not the product people buy DocSend for.",
+  "catch": "Personal at $10 a month has no data rooms at all: sharing several files behind one link starts on Standard at $45 per user a month, and data-room controls on Advanced at $150.",
   "best": "Founders sharing a pitch deck or running a fundraise, and small deal teams that want a data room with page-level analytics."
  },
  "Timesact Preorder": {
@@ -8012,7 +8146,7 @@
   "price": "$9.99",
   "price_note": "Starter · a month for one location with delivery, pickup and shipping slots…",
   "verified": "2026-09-27",
-  "catch": "The rate features depend on something Pickeasy does not sell.",
+  "catch": "Charging your own delivery or shipping rates needs Shopify's Carrier Calculated Shipping API, and Shopify, not the app, decides whether your plan includes it.",
   "best": "Florists, bakeries, butchers, grocers and restaurants on Shopify that sell for local pickup or delivery and need customers to choose a date and time slot."
  },
  "FBtrack": {
@@ -8026,16 +8160,11 @@
   "price": "$10",
   "price_note": "Basic · per month for one active pixel",
   "verified": "2026-09-28",
-  "catch": "A pixel app earns its fee by being dull: it has to fire every event, every day, and you only notice it when it stops.",
+  "catch": "The critical reviews are about tracking that stopped without warning or events that never arrived, and with 22 reviews in eight years there is little else to weigh them against.",
   "best": "Shopify stores that advertise on Meta plus TikTok, Snapchat or Pinterest and want several pixels, for example one per collection or a backup pixel."
  },
  "Essential Countdown Timer Bar": {
   "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
    [
     "🆓",
     "Free tier",
@@ -8045,7 +8174,7 @@
   "price": "$6.99",
   "price_note": "Starter · per month for up to 10,000 timer views, or $67.08 a year",
   "verified": "2026-09-28",
-  "catch": "The free plan is smaller than it looks, because of what counts as a view.",
+  "catch": "A view is every time a timer loads, so the free plan's thousand views a month is a few hundred browsing sessions, and running out switches the timers off.",
   "best": "Shopify merchants who run real, dated promotions, launches or shipping cut-offs and want a top-bar, product-page or cart countdown without code, starting on a free plan."
  },
  "GCheck": {
@@ -8065,11 +8194,6 @@
  "Essential Announcement Bar": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -8083,11 +8207,6 @@
  },
  "Essential Free Shipping Bar": {
   "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
    [
     "🆓",
     "Free tier",
@@ -8111,30 +8230,18 @@
   "price": "$4",
   "price_note": "from · per month",
   "verified": "2026-09-30",
-  "catch": "The price is low and the feature list is long; the catch sits in the data rather than the bill.",
+  "catch": "Mera Work keeps your records for 90 days: unless your order form says otherwise, older data may be deleted automatically, which rules it out for an annual review or a payroll audit.",
   "best": "Small and mid-sized teams, especially remote or hybrid ones doing computer-based work such as support, BPO, IT services or back office, that want time tracking."
  },
  "Koala Bundles": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "price": "$12.99",
   "price_note": "Kickstart · per month for up to $1,000 of bundle offer revenue, or $131.88 a year",
   "verified": "2026-09-30",
-  "catch": "The meter is revenue, and it counts more of it than you might expect.",
+  "catch": "The meter counts the whole value of every bundle sold through a Koala offer, not the uplift, so Kickstart's $1,000 a month is roughly fourteen $70 bundles.",
   "best": "Shopify merchants who want quantity breaks, multi-product bundles, cart volume discounts, BOGO offers and one-click post-purchase upsells in one app."
  },
  "Essential Trust Badges": {
   "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
    [
     "🆓",
     "Free tier",
@@ -8165,7 +8272,7 @@
   "price": "$19",
   "price_note": "Premium · per month, 3-day free trial",
   "verified": "2026-10-01",
-  "catch": "Be clear about which half of the app you are paying for.",
+  "catch": "The copy protection cannot stop screenshots, developer tools or automated scrapers, which is how stores actually get cloned; the real work is detection and takedown.",
   "best": "Shopify merchants with their own product photography and a brand worth copying, especially those whose store has already been cloned."
  },
  "Jane": {
@@ -8179,7 +8286,7 @@
   "price": "$59",
   "price_note": "from · per month",
   "verified": "2026-10-01",
-  "catch": "Work out your price from your practitioner count, not from the plan headline.",
+  "catch": "Practice at $79 covers one full-time practitioner, and every other person who takes bookings adds $35 a month, or $17.50 under 24 booked hours a week.",
   "best": "Allied health practices (physio, chiropractic, massage, counselling and similar) with a handful of practitioners who want online booking, charting, telehealth."
  },
  "Brandye": {
