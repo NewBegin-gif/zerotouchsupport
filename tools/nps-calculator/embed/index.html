@@ -120,13 +120,32 @@ footer{border-top:1px solid var(--border);padding:24px;text-align:center;color:v
 .dg-tool-d{color:var(--text2);font-size:.8rem;line-height:1.4;margin-top:2px}
 .dg-arrow{color:var(--accent);font-weight:800;flex-shrink:0}
 body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div class="wrap"><div class="tool"><div class="row">
-<div><label>Promoters (9–10)</label><input type="number" id="np-p" value="60" min="0"></div>
-<div><label>Passives (7–8)</label><input type="number" id="np-a" value="25" min="0"></div>
-<div><label>Detractors (0–6)</label><input type="number" id="np-d" value="15" min="0"></div></div>
-<div id="np-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://zerotouchsupport.com/tools/nps-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="noopener" style="color:#8b93a7;text-decoration:none">&#9889; NPS Calculator &mdash; free tool by <span style="color:#60a5fa">ZeroTouch Support</span></a></p></div><script>
-function npCalc(){var p=+document.getElementById('np-p').value,a=+document.getElementById('np-a').value,d=+document.getElementById('np-d').value,o=document.getElementById('np-out'),tot=p+a+d;
-if(!(tot>0)){o.innerHTML='<p class="muted">Enter your responses.</p>';return;}
-var nps=Math.round((p/tot-d/tot)*100),v=nps>=50?'Excellent':nps>=30?'Great':nps>=0?'Good':'Needs work';
-o.innerHTML='<p class="big '+(nps>=0?'sig-y':'sig-n')+'">'+nps+'</p><p class="muted">Net Promoter Score \u2014 '+v+' ('+tot+' responses)</p>';
+<div><label for="np-p">Promoters (9–10)</label><input type="number" id="np-p" value="60" min="0" step="1"></div>
+<div><label for="np-a">Passives (7–8)</label><input type="number" id="np-a" value="25" min="0" step="1"></div>
+<div><label for="np-d">Detractors (0–6)</label><input type="number" id="np-d" value="15" min="0" step="1"></div></div>
+<div id="np-out" aria-live="polite" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://zerotouchsupport.com/tools/nps-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; NPS Calculator &mdash; free tool by <span style="color:#60a5fa">ZeroTouch Support</span></a></p></div><script>function veldPoort(outId,ids,wis){
+var o=document.getElementById(outId),fout=[],leeg=[],w={};
+ids.forEach(function(id){var e=document.getElementById(id);if(!e)return;
+var lb=document.querySelector('label[for="'+id+'"]')||(e.previousElementSibling&&e.previousElementSibling.tagName==='LABEL'?e.previousElementSibling:null);
+var naam=(lb?lb.textContent:(e.getAttribute('aria-label')||id)).replace(/\s*\([^)]*\)\s*$/,'').trim();
+if(e.validity&&e.validity.badInput){fout.push(naam+' must be a number.');return;}
+var raw=String(e.value).trim();if(raw===''){if(!e.hasAttribute('data-optional'))leeg.push(naam);return;}
+var n=Number(raw),mn=e.getAttribute('min'),mx=e.getAttribute('max');
+if(!isFinite(n)){fout.push(naam+' must be a number.');return;}
+if(e.getAttribute('step')==='1'&&Math.floor(n)!==n){fout.push(naam+' must be a whole number.');return;}
+if(mn!==null&&mn!==''&&n<Number(mn)){fout.push(Number(mn)===0?naam+' cannot be negative.':naam+' cannot be less than '+Number(mn).toLocaleString('en-US')+'.');return;}
+if(mx!==null&&mx!==''&&n>Number(mx)){fout.push(naam+' cannot be more than '+Number(mx).toLocaleString('en-US')+'.');return;}
+w[id]=n;});
+if(!fout.length&&!leeg.length)return w;
+(wis||[]).forEach(function(x){var e=document.getElementById(x);if(e)e.innerHTML='';});
+o.innerHTML=fout.length?'<p class="sig-n" style="grid-column:1/-1;margin:0">'+fout.join(' ')+'</p>'
+:'<p class="muted" style="grid-column:1/-1;margin:0">Fill in '+leeg.join(', ')+' to see the result. An empty field is not read as zero.</p>';
+return null;}
+
+function npCalc(){var w=veldPoort('np-out',['np-p','np-a','np-d']);if(!w)return;
+var p=w['np-p'],a=w['np-a'],d=w['np-d'],o=document.getElementById('np-out'),tot=p+a+d;
+if(tot===0){o.innerHTML='<p class="muted">All three counts are 0. Enter at least one response to calculate an NPS.</p>';return;}
+var nps=Math.round((p-d)/tot*100);
+o.innerHTML='<p class="big">'+(nps<0?'\u2212'+Math.abs(nps):nps)+'</p><p class="muted">Net Promoter Score from '+tot.toLocaleString('en-US')+' responses: '+(p/tot*100).toFixed(1)+'% promoters ('+p.toLocaleString('en-US')+') minus '+(d/tot*100).toFixed(1)+'% detractors ('+d.toLocaleString('en-US')+'). Passives ('+a.toLocaleString('en-US')+') count only in the total. The score runs from \u2212100 to 100.</p>';
 gtag&&gtag('event','tool_use',{event_label:'nps'});}
 ['np-p','np-a','np-d'].forEach(function(id){document.getElementById(id).addEventListener('input',npCalc);});npCalc();</script></body></html>
