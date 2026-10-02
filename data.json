@@ -3652,5 +3652,20 @@
     "domain": "jane.app",
     "desc": "Practice management for allied health clinics such as physiotherapy, chiropractic, massage and counselling: online booking through a branded site, charting templates, intake forms, 1:1 and group telehealth, reminders, invoicing and integrated payments, with an AI scribe and insurance billing as add-ons.",
     "link": "https://janesoftware.partnerlinks.io/qy6v14286xrg"
+  },
+  {
+    "name": "Brandye",
+    "category": "E-commerce",
+    "domain": "brandye.com",
+    "desc": "Shopify app that adds an AI product-finder quiz, AI-generated questions and answers on product pages and an AI shopping assistant trained on your catalogue, with email capture and sync to Klaviyo and other marketing tools.",
+    "link": "https://platform.shoffi.app/r/rl_91TTvSyp",
+    "platform": "shopify"
+  },
+  {
+    "name": "Seele",
+    "category": "Design & Content",
+    "domain": "seeles.ai",
+    "desc": "AI game-studio agent that turns a text prompt, image or drawing into a playable 2D or 3D game in the browser, with Three.js, Unity and Unreal targets and generated 3D assets, images, video and audio, billed in Koin credits.",
+    "link": "https://www.seeles.ai/workspace?code=CFA941107"
   }
 ]
