@@ -3667,5 +3667,13 @@
     "domain": "seeles.ai",
     "desc": "AI game-studio agent that turns a text prompt, image or drawing into a playable 2D or 3D game in the browser, with Three.js, Unity and Unreal targets and generated 3D assets, images, video and audio, billed in Koin credits.",
     "link": "https://www.seeles.ai/workspace?code=CFA941107"
+  },
+  {
+    "name": "Essential Upsell & Cross Sell",
+    "category": "E-commerce",
+    "domain": "essential-apps.com",
+    "desc": "Shopify upsell and cross-sell app with frequently-bought-together blocks, product-page and cart-drawer offers, one-click post-purchase upsells, bundles, add-ons and automatic discounts, with plans tiered by the extra revenue the app attributes to its offers.",
+    "link": "https://platform.shoffi.app/r/rl_ddg6TsGF",
+    "platform": "shopify"
   }
 ]

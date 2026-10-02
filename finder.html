@@ -267,7 +267,7 @@ document.addEventListener('click',function(e){if(!n.contains(e.target)){zetMeer(
       '<label>Company size<select name="size"><option value="">Choose…</option><option value="solo">Just me</option><option value="2-10">2–10 people</option><option value="11-50">11–50 people</option><option value="51-200">51–200 people</option><option value="200+">200+ people</option></select></label>' +
       '<label>Monthly software budget<select name="budget"><option value="">Choose…</option><option value="free">Free only</option><option value="<50">Under $50</option><option value="50-200">$50–200</option><option value="200-1000">$200–1,000</option><option value="1000+">$1,000+</option></select></label>' +
       '</div>' +
-      '<label>Email <input type="email" name="email" placeholder="you@company.com" required></label>' +
+      '<label>Email <input type="email" name="email" placeholder="you@company.com" required autocomplete="email" inputmode="email"></label>' +
       '<label>What are you trying to fix? <span class="f-match-opt">(optional)</span><textarea name="note" rows="3" maxlength="600" placeholder="One or two sentences is plenty."></textarea></label>' +
       '<input type="text" name="website" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px" aria-hidden="true">' +
       '<div class="f-row"><button type="submit" class="f-cta">Send my shortlist for a second opinion</button><span class="f-match-msg" aria-live="polite"></span></div>' +
