@@ -88,7 +88,7 @@
   "price": "$49",
   "price_note": "from · per month minimum on Self-Serve",
   "verified": "2026-09-27",
-  "catch": "The honest math is the 10%-of-ad-spend fee on top of the minimum.",
+  "catch": "The honest math is 10% of the ad spend Adwisely manages, with the monthly minimum as a floor rather than a fee on top: on Self-Serve you pay $49 below about $490 of spend, $500 at $5,000, and never more than $3,250 a month.",
   "best": "E-commerce stores (Shopify, WooCommerce, BigCommerce) that want automated, largely hands-off retargeting and prospecting ads on Meta and Google."
  },
  "AfterSell": {
@@ -119,7 +119,7 @@
    ]
   ],
   "verified": "2026-09-11",
-  "catch": "Two honest snags. Cost scales linearly with clients — great at 5, pricey at 50+. And the most-cited complaint is connector reliability: data sources disconnect and the platform doesn't always flag the failure clearly.",
+  "catch": "Cost rises with every client you add, and the most-cited complaint is data connectors that disconnect without a clear warning.",
   "best": "Marketing agencies that need white-label client reports from 85+ integrations — automated, on-brand and hands-off."
  },
  "AgentNest": {
@@ -1494,7 +1494,7 @@
   "price": "€49",
   "price_note": "from · per month billed annually (€59 monthly)",
   "verified": "2026-09-21",
-  "catch": "Two honest caveats. First, it's a continuous subscription, not a one-time translation — you pay ongoing to keep the translated clone synced with your site.",
+  "catch": "You pay every month to keep the translated clone in sync, and machine-translation quality varies by language pair.",
   "best": "Businesses that want a fast, continuously-updated translated version of an existing website without rebuilding it as a multilingual site."
  },
  "Cloro": {
@@ -2492,7 +2492,7 @@
    ]
   ],
   "verified": "2026-09-29",
-  "catch": "The honest structure: the $100 tier is a limited on-ramp, and most of what Feedvisor is famous for (the algorithmic Buy-Box strategy that holds prices UP, ad management, analysts) lives behind the $1,500+ top tier — this is enterprise software for serious catalogs, priced accordingly.",
+  "catch": "The honest structure: Feedvisor publishes no price, so the quote you are given is the only figure that counts — amounts circulating online come from third parties, not from Feedvisor.",
   "best": "Mid-market and enterprise Amazon sellers with large catalogs where algorithmic repricing and ad optimization move real revenue."
  },
  "Feedyio": {
@@ -4037,7 +4037,7 @@
  },
  "Mktg.ai": {
   "verified": "2026-09-25",
-  "catch": "First, the price is still hidden — a 404 where the pricing page should be, and no pricing item in the navigation — which for a tool that promises spend transparency is an irony worth noticing, and the FAQ makes it sharper: its own introduction says it covers what the platform costs, and then no answer in it names a figure.",
+  "catch": "No published price: the pricing page returns a 404, and the FAQ names the tiers but no figure.",
   "best": "Marketing teams with real media spend across channels who want an always-on AI analyst."
  },
  "Modelize": {
@@ -5219,7 +5219,7 @@
   "price": "$199",
   "price_note": "EOR Flex, per employee · billed monthly with no commitment, no setup fee and no minimum headcount",
   "verified": "2026-08-22",
-  "catch": "The monthly rates are the cheapest we have on file for this category, and that is worth saying plainly.",
+  "catch": "Every rate is a 'from' price with no country-level figure, and recruitment fees charged as a share of salary can dwarf the subscription.",
   "best": "Small and mid-size teams hiring a handful of people abroad who want to pay monthly, keep the option to stop."
  },
  "Replit": {
