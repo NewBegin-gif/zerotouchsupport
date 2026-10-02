@@ -8181,5 +8181,33 @@
   "verified": "2026-10-01",
   "catch": "Work out your price from your practitioner count, not from the plan headline.",
   "best": "Allied health practices (physio, chiropractic, massage, counselling and similar) with a handful of practitioners who want online booking, charting, telehealth."
+ },
+ "Brandye": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$19",
+  "price_note": "Starter · per month for 200 quiz submissions and 500 chats a month, 30 days of…",
+  "verified": "2026-10-02",
+  "catch": "Read the free plan as a trial, not a tier. Its 100 quiz submissions and 100 chats are lifetime totals, not monthly, so a store with real traffic uses them up in days or weeks and then has to pay.",
+  "best": "Shopify stores with a catalogue where shoppers genuinely need help choosing, such as skincare, supplements or gifts, that want a product-finder quiz."
+ },
+ "Seele": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$20",
+  "price_note": "Standard · per month for 2,000 Koins, $17 a month billed annually",
+  "verified": "2026-10-02",
+  "catch": "You cannot know in advance what a game will cost.",
+  "best": "Hobbyists, students and teachers who want to turn an idea, a drawing or a photo into a playable browser game without writing code."
  }
 }
