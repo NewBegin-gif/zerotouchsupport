@@ -274,7 +274,7 @@
   ],
   "price": "$39",
   "price_note": "from · per month (50 unique/25 premium products)",
-  "verified": "2026-09-13",
+  "verified": "2026-10-02",
   "catch": "You pay the subscription plus wholesale product cost, and the low Starter product cap nudges serious stores up to Pro quickly.",
   "best": "Dropshippers who want automated product sourcing, fulfillment and inventory sync with access to faster-shipping suppliers and one-click store integration."
  },
@@ -1856,7 +1856,7 @@
   ],
   "price": "$71",
   "price_note": "from · a month billed annually (1 user, 5 sources, 150 AI credits)",
-  "verified": "2026-09-12",
+  "verified": "2026-10-02",
   "catch": "Each plan includes a fixed number of data sources and going over means moving up a whole tier, so one extra integration can mean the $199 Team Core to $319 Team Scale step.",
   "best": "SMBs and agencies that want clean KPI dashboards from 130+ one-click integrations without building them by hand."
  },
@@ -2878,7 +2878,7 @@
   ],
   "price": "€13.12",
   "price_note": "from · per month billed annually (€16 monthly), quoted at 1,000 contacts",
-  "verified": "2026-09-14",
+  "verified": "2026-10-02",
   "catch": "Priced by contact count, so the entry number climbs as your list grows, and the best value only shows on long (annual/24-month) commitments.",
   "best": "Small businesses that want email plus landing pages, automation and webinars in one affordable suite."
  },
@@ -3271,7 +3271,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-14",
+  "verified": "2026-10-02",
   "catch": "This is enterprise omnichannel supply-chain software, and the opaque, quote-based pricing signals the target customer: retail brands with real scale, not small stores.",
   "best": "Retail brands and omnichannel sellers at real scale needing warehouse management plus algorithm-driven merchandising and inventory optimization."
  },
@@ -4390,7 +4390,7 @@
   ],
   "price": "€3.49",
   "price_note": "from · per month on the two-year plan (€94.23 for the first 27 months)",
-  "verified": "2026-09-14",
+  "verified": "2026-10-02",
   "catch": "The €3.49 is a two-year introductory rate: Basic renews at €139.08 a year, about €11.59 a month, roughly three times what you signed up at.",
   "best": "Individuals and households who want an easy personal VPN and will set a reminder before the two-year plan renews."
  },
@@ -4699,7 +4699,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-14",
+  "verified": "2026-10-02",
   "catch": "The conversion and cross-currency withdrawal markups are where it quietly costs you — for pure currency conversion a specialist like Wise is often cheaper.",
   "best": "Freelancers and sellers getting paid by international clients and marketplaces (Amazon, Upwork, Fiverr) who need local receiving accounts."
  },
@@ -6007,7 +6007,7 @@
   ],
   "price": "$15",
   "price_note": "Team, per seat · per seat per month billed annually ($20 billed monthly), with a minimum…",
-  "verified": "2026-09-14",
+  "verified": "2026-10-02",
   "catch": "It's a broad, do-everything work-management platform, so the power comes with a learning curve and a per-seat cost that adds up for bigger teams — a single source of truth if you commit, overkill if you just need a task list.",
   "best": "Teams consolidating projects, CRM and operations into one flexible, database-driven work-management platform."
  },
@@ -6532,7 +6532,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-14",
+  "verified": "2026-10-02",
   "catch": "Printify is cheaper, higher-margin and has a far bigger catalogue — if you're optimising for profit per sale or product breadth, that's the real trade-off.",
   "best": "Creators building a real apparel or streetwear brand who care about fabric, fit and how the product feels in hand."
  },
@@ -6883,7 +6883,7 @@
   ],
   "price": "$47",
   "price_note": "from · per user a month",
-  "verified": "2026-09-14",
+  "verified": "2026-10-02",
   "catch": "Per-user pricing is honest and simple, but it means the cost scales linearly with headcount — a ten-person crew is a real monthly number, not the single-seat sticker.",
   "coupon": {
    "code": "",
@@ -7484,7 +7484,7 @@
  "WP Rocket": {
   "price": "$59",
   "price_note": "from · per year for one site",
-  "verified": "2026-09-14",
+  "verified": "2026-10-02",
   "catch": "It's a subscription, not a lifetime license — you keep your settings if you stop paying but lose updates and support, and a technically-minded user can get most of the way there with a free caching plugin.",
   "best": "WordPress owners who want near-instant page-speed gains out of the box without touching cache config."
  },
@@ -8335,5 +8335,26 @@
   "verified": "2026-10-02",
   "catch": "The plans are metered on revenue the app says it generated, and the free plan's $100 a month is a small allowance.",
   "best": "Shopify stores that want product-page, cart and post-purchase upsells, frequently-bought-together blocks and add-ons in one app."
+ },
+ "Koala Gifts": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$9.99",
+  "price_note": "Basic · per month for stores on Shopify's Basic plan, or $95.88 a year",
+  "verified": "2026-10-03",
+  "catch": "The price follows your Shopify plan, not your use: the same feature list costs $9.99 a month on Shopify Basic and $49.99 on Advanced.",
+  "best": "Shopify stores that want free gifts with purchase, BOGO and buy-X-get-Y offers, a gift picker, product add-ons and add-to-cart upsell pop-ups for a flat monthly price."
+ },
+ "Create": {
+  "price": "€9.99",
+  "price_note": "Portfolio · per month billed monthly, excluding VAT (€8.33 a month billed yearly)…",
+  "verified": "2026-10-03",
+  "catch": "Professional's shop stops at 250 products and leaves out digital downloads, basket recovery and Google Shopping; those start on Business at twice the price.",
+  "best": "UK sole traders, makers and small shops that want a hosted website and a modest online shop with an account manager and UK-based support."
  }
 }
