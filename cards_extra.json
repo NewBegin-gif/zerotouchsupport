@@ -1191,11 +1191,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$79",
@@ -8155,13 +8150,6 @@
   "best": "Florists, bakeries, butchers, grocers and restaurants on Shopify that sell for local pickup or delivery and need customers to choose a date and time slot."
  },
  "FBtrack": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$10",
   "price_note": "Basic · per month for one active pixel",
   "verified": "2026-09-28",
@@ -8361,5 +8349,24 @@
   "verified": "2026-10-03",
   "catch": "Professional's shop stops at 250 products and leaves out digital downloads, basket recovery and Google Shopping; those start on Business at twice the price.",
   "best": "UK sole traders, makers and small shops that want a hosted website and a modest online shop with an account manager and UK-based support."
+ },
+ "DigitalOcean": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$4",
+  "price_note": "Basic Droplet · per month, billed per second",
+  "verified": "2026-10-03",
+  "catch": "The $4 Droplet is only the smallest server; backups (20–30% of the Droplet price), a managed database (from $15) and a load balancer (from $12) are separate line items.",
+  "best": "Developers and small teams who want to run an app, API or database on plain cloud infrastructure with published per-second prices."
  }
 }
