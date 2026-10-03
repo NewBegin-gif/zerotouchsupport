@@ -1119,6 +1119,11 @@
     "usage_metered"
    ],
    [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -1126,9 +1131,9 @@
   ],
   "price": "$13",
   "price_note": "Basic · per month, annual",
-  "verified": "2026-09-20",
-  "catch": "The yearly toggle wears a -20% badge and the crossed-out prices suggest much more, but read what you would actually be charged on 13 September 2026: monthly is $16, $70 and $120, and yearly is $13, $56 and $96, so paying month to month costs roughly 20 to 25 percent more.",
-  "best": "Teams that need a reusable web scraper or browser bot without writing selectors, want the browsers, residential proxies and CAPTCHA handling managed for them."
+  "verified": "2026-10-03",
+  "catch": "The yearly toggle wears a -20% badge and the crossed-out prices suggest much more, but read what you would actually be charged on 3 October 2026: monthly is $16, $70 and $120, and yearly is $13, $56 and $96, so paying month to month costs roughly 20 to 25 percent more.",
+  "best": "Teams that need a reusable web scraper or browser bot without writing selectors, want the browsers, proxies and CAPTCHA handling managed for them."
  },
  "BuddyPunch": {
   "flags": [

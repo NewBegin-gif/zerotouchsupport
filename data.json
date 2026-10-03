@@ -3690,5 +3690,12 @@
     "domain": "create.net",
     "desc": "UK-based hosted website builder with templates, a blog, custom forms and an online shop with card and pay-later payments, marketplace shopping feeds and Royal Mail shipping, plus a dedicated account manager on every package.",
     "link": "https://www.awin1.com/cread.php?awinmid=295&awinaffid=2880219"
+  },
+  {
+    "name": "DigitalOcean",
+    "category": "Developer Tools",
+    "domain": "digitalocean.com",
+    "desc": "Developer cloud for running apps, APIs and databases: virtual servers (Droplets), a managed app platform, managed databases, Kubernetes, object storage and on-demand GPUs, billed per second.",
+    "link": "https://www.digitalocean.com/"
   }
 ]
