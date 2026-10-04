@@ -8417,5 +8417,17 @@
   "verified": "2026-10-03",
   "catch": "The $4 Droplet is only the smallest server; backups (20–30% of the Droplet price), a managed database (from $15) and a load balancer (from $12) are separate line items.",
   "best": "Developers and small teams who want to run an app, API or database on plain cloud infrastructure with published per-second prices."
+ },
+ "Harbor Compliance": {
+  "flags": [
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ]
+  ],
+  "verified": "2026-10-04",
+  "catch": "The $99 registered agent price is a first-year rate that renews at $159, and annual report filing adds $199 per state each year.",
+  "best": "Companies registered in several US states, and the accountants or law firms who manage entities for them, that want registered agent addresses."
  }
 }
