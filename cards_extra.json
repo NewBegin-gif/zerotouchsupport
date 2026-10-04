@@ -8429,5 +8429,24 @@
   "verified": "2026-10-04",
   "catch": "The $99 registered agent price is a first-year rate that renews at $159, and annual report filing adds $199 per state each year.",
   "best": "Companies registered in several US states, and the accountants or law firms who manage entities for them, that want registered agent addresses."
+ },
+ "Essent Preorder Back in Stock": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$4.95",
+  "price_note": "Lite · per month for 100 pre-orders and 1,000 back-in-stock notifications…",
+  "verified": "2026-10-04",
+  "catch": "Each paid plan charges per pre-order past its allowance, so a launch that sells 300 on the $4.95 plan adds $50 in overage.",
+  "best": "Shopify stores running pre-orders, presales or made-to-order drops that also want a Notify me waitlist with restock emails in the same app."
  }
 }
