@@ -260,7 +260,7 @@
  "Algomo": {
   "price": "$200",
   "price_note": "from · a month (no per-seat pricing)",
-  "verified": "2026-09-14",
+  "verified": "2026-10-03",
   "catch": "Algomo is a member of the quote-only club: $200/month is the only number on the site, and the real bill for your traffic volume and feature set only emerges in a sales conversation.",
   "best": "B2B teams with real inbound traffic that want an AI agent qualifying visitors, personalizing the site by visitor identity and booking meetings."
  },
@@ -1514,6 +1514,13 @@
   "best": "Teams that want one highly customizable app for tasks, docs, goals and reporting and will invest in setting it up."
  },
  "Clonable": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
   "price": "€49",
   "price_note": "from · per month billed annually (€59 monthly)",
   "verified": "2026-09-21",
@@ -1731,7 +1738,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month billed yearly ($35 monthly), covers first 30 users",
-  "verified": "2026-09-14",
+  "verified": "2026-10-03",
   "catch": "The free-for-10 plan is one of the most generous in the category, but the three-hub structure means costs can stack if you need all of them — price the specific hubs you'll actually use, not the full bundle.",
   "best": "Deskless and frontline teams (shift work, field crews) that need scheduling, a time clock and comms in one app, on the free-for-10 plan."
  },
@@ -2594,7 +2601,7 @@
  "Flatpay": {
   "verified": "2026-09-13",
   "catch": "There is no subscription, but miss £995 of card turnover in a month and you are charged £39, which for a quiet month is a monthly fee wearing a different hat.",
-  "best": "A physical shop, café or bar with steady card turnover above £995 a month that wants one predictable rate on every card type instead of a pricing table full of card categories. The on-site installation and 24/7 support suit an owner who would rather not configure hardware, and daily payouts help if cash flow is tight."
+  "best": "A physical shop, café or bar with steady card turnover above £995 a month that wants one predictable rate on every card type instead of a pricing table full of card categories."
  },
  "FlexiQuiz": {
   "flags": [
@@ -2695,7 +2702,7 @@
   ],
   "price": "$39",
   "price_note": "from · per month billed yearly ($49 monthly), 1 seat, 1 site",
-  "verified": "2026-09-14",
+  "verified": "2026-10-03",
   "catch": "The article quotas pinch if you publish at volume (overage docs bill each), and it's a research-and-optimization tool, not a magic ranking button — it speeds up briefs, it doesn't replace the writing or the backlinks.",
   "best": "Content teams and SEOs who want to speed up research, briefs and SERP-driven optimization in one workflow."
  },
@@ -3214,11 +3221,16 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "€9",
   "price_note": "Starter… · per month billed yearly (EUR 11 month to month) for 3 profiles, 1 user…",
-  "verified": "2026-09-15",
+  "verified": "2026-10-03",
   "catch": "Its depth is strongest on Instagram and the core networks; if your priority platform sits outside its best-supported set, coverage thins.",
   "best": "Agencies and brands that want deep social analytics, reporting and competitor benchmarking alongside scheduling, especially Instagram-first teams."
  },
@@ -3545,7 +3557,7 @@
   ],
   "price": "$35",
   "price_note": "from · a month, or $30 a month billed annually ($350/yr)",
-  "verified": "2026-09-14",
+  "verified": "2026-10-03",
   "catch": "You pay a premium for managed speed and support: worth it if performance matters, wasteful on a low-traffic hobby site a $5 shared host would carry fine.",
   "best": "Business-critical WordPress sites where speed, uptime and expert support directly affect revenue."
  },
@@ -3755,7 +3767,7 @@
   ],
   "price": "$8",
   "price_note": "from · per month billed annually ($10 monthly), 5 pages, 1 site",
-  "verified": "2026-09-14",
+  "verified": "2026-10-03",
   "catch": "It's the value pick, not the optimisation pick — if you're spending big on ads, Unbounce's Smart Traffic and Instapage's 1:1 personalisation go deeper.",
   "best": "Small businesses building landing pages and simple funnels who want unmetered traffic — no per-visitor anxiety, unlike metered rivals."
  },
@@ -4219,6 +4231,11 @@
  "Murf": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "📅",
     "Annual commit",
     "annual_lock"
@@ -4231,7 +4248,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month billed annually ($228/yr), 100 projects",
-  "verified": "2026-09-14",
+  "verified": "2026-10-03",
   "catch": "The meter is generation hours per YEAR, not per month — 24 hours sounds generous until you count retakes, and regenerating a script three times bills three times.",
   "best": "Creators, trainers and product teams that need studio-quality voiceovers in many languages without booking voice actors — explainers, courses, product videos."
  },
@@ -4631,7 +4648,7 @@
   "price_note": "Employer of Record · per employee per month, and a published 'starting from' floor under a…",
   "verified": "2026-10-01",
   "catch": "Every headline price is a 'starting from' that dead-ends at 'book a demo'.",
-  "best": "Finance-led mid-market and enterprises already running legal entities in several countries. They want to consolidate fragmented multi-country payroll and cross-border payments into one platform, with real-time workforce-cost dashboards, automated GL mapping, same-day local payouts and deep ERP/HRIS integration (Workday, SAP, NetSuite, HiBob). And they can absorb premium quote-only pricing for a white-glove managed service."
+  "best": "Finance-led mid-market and enterprises already running legal entities in several countries."
  },
  "Parallel AI": {
   "flags": [
@@ -4795,6 +4812,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "€87",
@@ -4981,6 +5003,13 @@
   "best": "Shopify stores with a known parcel-loss rate that are willing to come in through the vendor rather than the App Store."
  },
  "Proton": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
   "price": "$3.99",
   "price_note": "Mail Plus · per month billed yearly ($47.88 a year; $4.99 month to month)",
   "verified": "2026-08-26",
@@ -4993,6 +5022,11 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$3.99",
@@ -5276,7 +5310,7 @@
   ],
   "price": "$10",
   "price_note": "from · per seat a month billed yearly ($12 monthly)",
-  "verified": "2026-09-14",
+  "verified": "2026-10-03",
   "catch": "The magic only works on a calendar it can write to.",
   "best": "Google Calendar teams that want AI to auto-schedule tasks, habits and meetings around their priorities."
  },
@@ -5573,6 +5607,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price_state": "quote-only",
@@ -5884,7 +5923,7 @@
   ],
   "verified": "2026-09-11",
   "catch": "Two things are missing from a page that is otherwise unusually specific. The first is voice. The product is sold as an SMS and Voice API and the pricing page publishes no voice rate at all — nor short code pricing.",
-  "best": "Teams sending real SMS volume in the US who already know what an A2P 10DLC campaign is and want a cheaper per-segment rate than Twilio’s list without giving up published pricing. The volume ladder is genuinely steep — from $0.0065 down to $0.0030 — so the case gets stronger the more you send, and the number discounts above 500 numbers suit anyone running many local presences.",
+  "best": "Teams sending real SMS volume in the US who already know what an A2P 10DLC campaign is and want a cheaper per-segment rate than Twilio’s list without giving up published pricing.",
   "pw": "price held",
   "pw_soort": "held"
  },
@@ -5960,7 +5999,7 @@
   ],
   "price": "$29",
   "price_note": "500-credit plan… · per month",
-  "verified": "2026-09-14",
+  "verified": "2026-10-03",
   "catch": "The credit model plus US carrier (10DLC) fees and per-number/per-seat add-ons mean the sticker isn't the whole bill — and SMS marketing only works with genuine opt-in and a real offer, not blasting a cold list.",
   "best": "US businesses that want straightforward, compliant SMS marketing and two-way texting with rollover credits."
  },
@@ -7008,7 +7047,7 @@
  "Unbounce": {
   "price": "$29",
   "price_note": "from · a month, or $22 billed yearly at 25% off",
-  "verified": "2026-09-14",
+  "verified": "2026-10-03",
   "catch": "The entry price is high for a landing-page tool, and the visitor caps bite if a campaign takes off.",
   "best": "PPC specialists and agencies running paid campaigns who want A/B testing and Smart Traffic (AI routing each visitor to the best-converting variant)."
  },
@@ -7364,20 +7403,20 @@
  "WebinarGeek": {
   "flags": [
    [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "€69",
-  "price_note": "Basic (50 viewers) · billed monthly",
-  "verified": "2026-09-14",
-  "catch": "The friendly €49 headline is the annual rate for just 50 viewers, and the real cost lives in add-ons: localisation, the AI assistant, CRM integrations, RTMP and branding profiles are each €20-59 a month on top, and only a Premium subscription can buy them.",
+  "price_note": "from · per month",
+  "verified": "2026-10-03",
+  "catch": "The friendly €59 headline is the annual rate for 75 viewers, and the real cost lives in add-ons: localisation, the AI assistant, CRM integrations, RTMP and branding profiles are each €20-59 a month on top, and only a Premium subscription can buy them.",
   "best": "Marketing and sales teams running live and automated webinars in Europe who want a polished, GDPR-friendly platform with viewer-tier pricing."
  },
  "Wegic": {
@@ -7667,6 +7706,11 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$20",
@@ -7723,15 +7767,15 @@
   ],
   "price": "$9",
   "price_note": "Pro · per month, or $99 a year",
-  "verified": "2026-09-15",
+  "verified": "2026-10-03",
   "catch": "It has no track record at all.",
   "best": "Shopify merchants who already care about being cited in ChatGPT, Gemini and Perplexity, and who want the audit, the schema deployment."
  },
  "Dynasort": {
   "price": "$99",
-  "price_note": "Basic · per month",
-  "verified": "2026-09-15",
-  "catch": "The jump from free to paid is steep at $99 a month and buys capacity without capability: custom attributes, partner integration and product boost all start at $249.",
+  "price_note": "Basic · per month for 25 sorted collections and 100,000 serves",
+  "verified": "2026-10-03",
+  "catch": "The jump from free to paid is steep at $99 a month and buys capacity rather than capability: search, recommendations and post-purchase are already in the free tier.",
   "best": "Shopify stores with large or fast-changing catalogues where product order is a merchandising decision — seasonal ranges, frequent stock-outs, wide margin spreads."
  },
  "Signitic": {
@@ -7765,7 +7809,7 @@
  "MX AI": {
   "price": "$2.99",
   "price_note": "Monthly Plan · per month for the whole app, with no usage tier above it",
-  "verified": "2026-09-16",
+  "verified": "2026-10-03",
   "catch": "A free app from RoarTheme does the core job with the same 4.8 rating, so the $2.99 buys player controls, extra sources and AI-generated seasonal tracks, not the background music itself.",
   "best": "Shopify merchants who want seasonal or ambient audio on the storefront, want a say in how the player looks and behaves."
  },
@@ -7786,8 +7830,8 @@
   ],
   "price": "$12",
   "price_note": "from · per month for 360 credits (billed monthly)",
-  "verified": "2026-09-16",
-  "catch": "The plan cards and the comparison table on the same page disagree about what Pro costs.",
+  "verified": "2026-10-03",
+  "catch": "The credit is not a picture, and that is the thing to understand before buying.",
   "best": "People who want several image and video models behind one balance and one interface."
  },
  "Skip To Checkout": {
@@ -8093,6 +8137,11 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$14",
