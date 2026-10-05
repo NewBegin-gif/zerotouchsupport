@@ -910,7 +910,7 @@
   ],
   "price": "$9.99",
   "price_note": "Basic Plan · per month for country blocking only",
-  "verified": "2026-09-18",
+  "verified": "2026-10-05",
   "catch": "Read the plan text before you read the badge. The App Store header says a free plan is available; that free plan is Development Stores, for development and partner stores only, and it starts charging the moment the store goes live.",
   "best": "Shopify stores below Plus that are losing time to bot traffic, repeat fraudsters or orders from regions they do not ship to."
  },
@@ -1352,7 +1352,7 @@
   ],
   "price": "$19",
   "price_note": "Hobby · per month when billed annually at $239 a year, for 30 transcribed hours…",
-  "verified": "2026-09-18",
+  "verified": "2026-10-05",
   "catch": "The prices on the page are the annual prices.",
   "best": "Content teams, agencies and serious podcasters with a steady flow of recorded audio or video who want a transcript plus a stack of derived assets."
  },
@@ -2345,7 +2345,7 @@
   ],
   "price": "$14.99",
   "price_note": "All-in-One Basic, per… · per user per month on monthly billing",
-  "verified": "2026-09-18",
+  "verified": "2026-10-05",
   "catch": "The meter is contacts AND seats at once: prices are per user, and each tier caps contacts — Basic’s 500 contacts fills fast, and the Growth jump is steep ($15 → $65 per user).",
   "coupon": {
    "code": "AIBUILDER20",
@@ -4036,8 +4036,8 @@
   ],
   "price": "$29",
   "price_note": "Automated app · a one-time payment rather than a subscription, and a floor rather than…",
-  "verified": "2026-09-18",
-  "catch": "The listing tells you nothing about what this costs.",
+  "verified": "2026-10-05",
+  "catch": "Start with what is no longer there. Read on 5 October 2026, the Shopify App Store listing says the app is not currently available and sends support questions to the vendor: no install button, no review page.",
   "best": "Merchants moving an existing store into Shopify who want products, customers, orders and — critically."
  },
  "MindStudio": {
@@ -4060,7 +4060,7 @@
   ],
   "price": "$20",
   "price_note": "from · a month plus usage ($16 billed yearly)",
-  "verified": "2026-09-18",
+  "verified": "2026-10-05",
   "catch": "Your real cost is subscription plus model spend, and an agent that loops or processes big documents burns provider credits invisibly until you set limits.",
   "best": "Operators and teams that want to build and deploy real AI agents and workflows visually, across many models, without engineering time."
  },
@@ -4525,7 +4525,7 @@
   ],
   "price": "€50",
   "price_note": "from · per user a month billed annually, 5-user minimum (floor €250/month)",
-  "verified": "2026-09-18",
+  "verified": "2026-10-05",
   "catch": "The entry is €250 a month on annual billing — €3,000 a year committed before you've sent your first contract — and the rest of the ladder lives in a sales conversation.",
   "best": "Sales and legal teams with real contract volume who want the full lifecycle — creating, negotiating, e-signing and archiving interactive contracts."
  },
@@ -4544,7 +4544,7 @@
   ],
   "price": "$9.99",
   "price_note": "Starter · per month, plus $2 per extra AI video credit beyond the 2 included",
-  "verified": "2026-09-17",
+  "verified": "2026-10-05",
   "catch": "AI video is the reason to install this, and it is the one thing the subscription does not cover.",
   "best": "Shopify stores that already own product video and want it working as an upsell at the product page, cart and post-purchase moments."
  },
@@ -4682,7 +4682,7 @@
  "Parim": {
   "price": "£47",
   "price_note": "from · a month (published floor)",
-  "verified": "2026-09-17",
+  "verified": "2026-10-05",
   "catch": "Unlimited users sounds like the generous part, and it is — until you notice what replaces per-seat pricing: a bill that scales with shifts scheduled.",
   "best": "Staffing agencies, security firms and event operators with large rosters of shift workers."
  },
@@ -4849,7 +4849,7 @@
   ],
   "price": "€2.99",
   "price_note": "Starter · per user per month with a 5-user minimum, so the real floor is EUR 14.95",
-  "verified": "2026-09-17",
+  "verified": "2026-10-05",
   "catch": "The €25 monthly platform fee on Plus is the line most comparisons miss.",
   "best": "Shift-based businesses in hospitality and retail with 10 or more staff who need leave management and payroll integration."
  },
@@ -5003,8 +5003,8 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-18",
-  "catch": "Start with what is no longer there. Read on 18 September 2026, the Shopify App Store listing for this app is gone: the page says it is not currently available and sends support questions to the vendor.",
+  "verified": "2026-10-05",
+  "catch": "Start with what is no longer there. Read on 18 September and again on 5 October 2026, the Shopify App Store listing for this app is gone: the page says it is not currently available and sends support questions to the vendor.",
   "best": "Shopify stores with a known parcel-loss rate that are willing to come in through the vendor rather than the App Store."
  },
  "Proton": {
@@ -5135,7 +5135,7 @@
   ],
   "price": "$320",
   "price_note": "Basic · per YEAR (1,200 SAR at the 3.75 peg) for 1 user and 1 location",
-  "verified": "2026-09-18",
+  "verified": "2026-10-05",
   "catch": "The entry tier does not do the thing the product is sold on.",
   "best": "Saudi businesses that need ZATCA-compliant e-invoicing from software built for that regime rather than retrofitted to it, and who have counted their users."
  },
@@ -5639,7 +5639,7 @@
   ],
   "price": "$9",
   "price_note": "Starter · per month for 25 credits and access to the full section library, billed…",
-  "verified": "2026-09-17",
+  "verified": "2026-10-05",
   "catch": "Almost three years on the App Store and one review.",
   "best": "Shopify merchants who want ready-made theme sections and the occasional AI-generated layout inside the native theme editor."
  },
@@ -6968,7 +6968,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-18",
+  "verified": "2026-10-05",
   "catch": "You cannot find out what it costs without booking a demo.",
   "best": "Growing teams (roughly 10+ staff) that need to document SOPs and onboard new hires consistently instead of training by osmosis."
  },
@@ -7516,7 +7516,7 @@
   ],
   "price": "$35",
   "price_note": "from · per month (500-prospect minimum at $7.00 per 100 contacted prospects)",
-  "verified": "2026-09-18",
+  "verified": "2026-10-05",
   "catch": "The $7-per-100-prospects unit reads cheap, but a real outbound motion stacks add-ons fast.",
   "best": "Outbound teams that want usage-priced cold email plus LinkedIn outreach, with unlimited seats and email accounts included instead of per-user fees."
  },
@@ -7654,7 +7654,7 @@
   ],
   "price": "$29",
   "price_note": "Beginner · per month for 1-20 linked products",
-  "verified": "2026-09-18",
+  "verified": "2026-10-05",
   "catch": "The free plan is a catalogue browser rather than a working tier: it allows no linked products, so nothing can actually be sold through it.",
   "best": "Shopify merchants starting or scaling a dropshipping or print-on-demand store who want sourcing, automated fulfilment, tracking and custom branding in one app."
  },
