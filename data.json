@@ -1673,7 +1673,7 @@
     "name": "lemlist",
     "category": "Growth & Revenue",
     "domain": "lemlist.com",
-    "desc": "Cold email outreach and sales engagement. Build personalized multichannel sequences (email, LinkedIn, calls) with built-in deliverability tools, and trigger them off buying-intent signals its agents surface. An MCP server at app.lemlist.com/mcp puts the same actions inside Claude or ChatGPT: create, update, start and pause campaigns and sequences, manage leads, enrich emails and read team analytics in plain language - the enrichment calls spend credits like anywhere else in the product.",
+    "desc": "Sales outreach platform that finds target accounts, spots buying signals and enriches contacts, then runs personalized multichannel sequences (email, LinkedIn, calls) with built-in deliverability tools. An MCP server at app.lemlist.com/mcp puts the same actions inside Claude or ChatGPT: create, update, start and pause campaigns and sequences, manage leads, enrich emails and read team analytics in plain language - the enrichment calls spend credits like anywhere else in the product.",
     "link": "https://get.lemlist.com/ljskyzhjapd2"
   },
   {
