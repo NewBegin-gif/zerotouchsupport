@@ -8479,5 +8479,29 @@
   "verified": "2026-10-05",
   "catch": "Every plan adds a transaction fee on top of the monthly price (2% on Launch, 1% on Grow, 0.9% on Scale), and the higher plans add nothing on the listing except that lower fee.",
   "best": "Shopify stores starting or running subscribe-and-save, replenishment, prepaid or subscription-box offers that want unlimited subscribers."
+ },
+ "Bold Memberships": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$0.13",
+  "price_note": "Scale · per member, per month",
+  "verified": "2026-10-05",
+  "catch": "You pay $0.13 a month for every member beyond the first 10, so a large free loyalty tier can cost more than the paid tiers earn; the listing does not say whether free members count.",
+  "best": "Shopify stores that want a paid or free membership with store credit, member pricing, free shipping, gated products and checkout."
  }
 }
