@@ -3727,5 +3727,13 @@
     "desc": "Shopify subscription app by Bold: subscribe-and-save, replenishment, prepaid and subscription-box offers with a customer portal, dunning for failed payments, cancellation flows, upsells and free migration from other subscription apps.",
     "link": "https://platform.shoffi.app/r/rl_zvm9KyAa",
     "platform": "shopify"
+  },
+  {
+    "name": "Bold Memberships",
+    "category": "E-commerce",
+    "domain": "boldcommerce.com",
+    "desc": "Shopify membership and loyalty app by Bold: free and paid tiers, store credit, loyalty points, member pricing and free shipping, gated products and checkout, Shopify POS sign-ups and Apple and Google Wallet cards.",
+    "link": "https://platform.shoffi.app/r/rl_8PTfnu9R",
+    "platform": "shopify"
   }
 ]
