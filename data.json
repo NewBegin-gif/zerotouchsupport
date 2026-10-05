@@ -3719,5 +3719,13 @@
     "domain": "krystal.io",
     "desc": "UK web hosting company, a certified B Corp running on renewable energy, selling cPanel shared, business and reseller hosting, managed WordPress, configurable VPS and public cloud, with UK-based support by ticket, live chat and phone.",
     "link": "https://www.awin1.com/cread.php?awinmid=117205&awinaffid=2880219"
+  },
+  {
+    "name": "Bold Subscriptions",
+    "category": "E-commerce",
+    "domain": "boldcommerce.com",
+    "desc": "Shopify subscription app by Bold: subscribe-and-save, replenishment, prepaid and subscription-box offers with a customer portal, dunning for failed payments, cancellation flows, upsells and free migration from other subscription apps.",
+    "link": "https://platform.shoffi.app/r/rl_zvm9KyAa",
+    "platform": "shopify"
   }
 ]
