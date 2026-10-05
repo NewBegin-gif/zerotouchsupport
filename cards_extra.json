@@ -8472,5 +8472,12 @@
   "verified": "2026-10-05",
   "catch": "Prices on Krystal's site are shown before VAT, so a UK buyer pays 20% more than the plan cards say, and 'unlimited' storage from Emerald up stops at 2,500,000 inodes.",
   "best": "UK small businesses, freelancers and agencies that want cPanel or managed WordPress hosting with UK-based phone and chat support."
+ },
+ "Bold Subscriptions": {
+  "price": "$24.99",
+  "price_note": "Launch · per month, plus a 2% transaction fee",
+  "verified": "2026-10-05",
+  "catch": "Every plan adds a transaction fee on top of the monthly price (2% on Launch, 1% on Grow, 0.9% on Scale), and the higher plans add nothing on the listing except that lower fee.",
+  "best": "Shopify stores starting or running subscribe-and-save, replenishment, prepaid or subscription-box offers that want unlimited subscribers."
  }
 }
