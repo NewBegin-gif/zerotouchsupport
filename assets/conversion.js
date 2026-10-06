@@ -102,7 +102,7 @@
       // 1) Trust-strip na de eerste H1 (alleen op review-/aanbiedingspagina's, eerlijk)
       try {
         var h1 = document.querySelector('article h1, main h1, h1');
-        if (isReview && h1 && !document.getElementById('trust-strip')) {
+        if (isReview && h1 && !document.getElementById('trust-strip') && !document.querySelector('.rv-kaart')) {  /* 6 okt 2026: de feitenkaart draagt de disclosure al */
           var ts = document.createElement('div');
           ts.id = 'trust-strip';
           ts.style.cssText = 'display:flex;gap:8px 16px;flex-wrap:wrap;margin:14px 0 22px;padding:9px 14px;background:rgba(59,130,246,.08);border:1px solid rgba(59,130,246,.25);border-radius:8px;font-size:12.5px;color:#60a5fa;font-family:system-ui,-apple-system,sans-serif';
@@ -165,7 +165,12 @@
           // Inschuiven nadat de bezoeker iets gelezen heeft (scroll of korte delay)
           var shown = false;
           function reveal(){ if (shown) return; shown = true; bar.style.transform = 'translateY(0)'; }
-          if (isMobile) { setTimeout(reveal, 1200); }
+          /* 6 okt 2026: op reviews met de feitenkaart pas na de kaart, en niet zolang de cookiebanner open staat */
+          var kaartEl = document.querySelector('.rv-kaart');
+          if (kaartEl) {
+            var onScrollK = function(){ var r = kaartEl.getBoundingClientRect(); if (r.bottom < 0 && !document.getElementById('aibm-consent')){ reveal(); window.removeEventListener('scroll', onScrollK); } };
+            window.addEventListener('scroll', onScrollK, {passive:true});
+          } else if (isMobile) { setTimeout(reveal, 1200); }
           else {
             var onScroll = function(){ if ((window.scrollY||0) > 600){ reveal(); window.removeEventListener('scroll', onScroll); } };
             window.addEventListener('scroll', onScroll, {passive:true}); setTimeout(reveal, 6000);
@@ -324,7 +329,7 @@
     if(document.getElementById('aibm-consent')) return;
     var b=document.createElement('div');
     b.id='aibm-consent';
-    var bot=(window.innerWidth<=768)?'92px':'14px';
+    var bot=(window.innerWidth<=768&&!document.querySelector('.rv-kaart'))?'92px':'14px';
     b.style.cssText='position:fixed;left:14px;bottom:'+bot+';z-index:10001;max-width:320px;background:#0b0f17;border:1px solid #2a2f3a;border-radius:12px;padding:14px 16px;font-family:system-ui,-apple-system,sans-serif;box-shadow:0 6px 24px rgba(0,0,0,.45)';
     b.innerHTML='<div style="color:#e5e7eb;font-size:12.5px;line-height:1.5;margin-bottom:10px">We use one analytics cookie to see what helps readers. No ads, no data resale.</div>'+
       '<div style="display:flex;gap:8px"><button id="aibm-c-ok" style="flex:1;background:#10b981;color:#fff;border:none;border-radius:8px;padding:9px 0;font-weight:700;cursor:pointer">OK</button>'+
