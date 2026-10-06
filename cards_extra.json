@@ -21,7 +21,7 @@
  "800.com": {
   "price": "$19",
   "price_note": "from · per month on yearly billing ($23 month to month)",
-  "verified": "2026-09-05",
+  "verified": "2026-10-06",
   "catch": "It's a phone-number layer, not a full business-comms platform, so you won't get team chat, video or a contact center here.",
   "best": "Businesses that want a professional toll-free or vanity number with call tracking, routing and analytics to look bigger and measure inbound calls."
  },
@@ -969,7 +969,7 @@
     "addons_extra"
    ]
   ],
-  "verified": "2026-09-28",
+  "verified": "2026-10-06",
   "catch": "Bought lists are only as good as your targeting, and cold-emailing purchased contacts has legal boundaries that vary by country, GDPR territory especially.",
   "best": "Sporadic, project-based prospecting where a subscription would idle — buy exactly the verified contacts you need, when you need them."
  },
@@ -1637,7 +1637,7 @@
   "best": "Shopify stores with a catalogue big enough that shoppers ask which item to buy, who want a chat assistant that reads live inventory and hands off to a person."
  },
  "Clutch": {
-  "verified": "2026-10-02",
+  "verified": "2026-10-06",
   "catch": "It's genuinely free to submit a brief — but be clear on what it is: a lead-generation marketplace, not a neutral directory.",
   "best": "Businesses that want to skip manual agency research and get matched quickly with vetted, best-fit service providers for a specific project."
  },
@@ -5348,7 +5348,7 @@
   ],
   "price": "$199",
   "price_note": "EOR Flex, per employee · billed monthly with no commitment, no setup fee and no minimum headcount",
-  "verified": "2026-08-22",
+  "verified": "2026-10-06",
   "catch": "Every rate is a 'from' price with no country-level figure, and recruitment fees charged as a share of salary can dwarf the subscription.",
   "best": "Small and mid-size teams hiring a handful of people abroad who want to pay monthly, keep the option to stop."
  },
@@ -5491,7 +5491,7 @@
   ],
   "price": "$250",
   "price_note": "Virtual receptionist… · per month as published",
-  "verified": "2026-09-06",
+  "verified": "2026-10-06",
   "catch": "You're paying premium rates for real human receptionists billed per minute — worth it when a missed call is a lost client, but expensive if your call volume is low or an AI answering service would do the job for a fraction.",
   "best": "Client-driven service businesses (law, home services, clinics) where a live human answering every call directly wins business.",
   "pw": "price held",
@@ -6407,7 +6407,7 @@
   ],
   "price": "$20",
   "price_note": "Startup · per seat per month with no commitment, Enterprise at 25",
-  "verified": "2026-08-27",
+  "verified": "2026-10-06",
   "catch": "It is an email helpdesk and only an email helpdesk.",
   "best": "Small support teams working out of a shared email inbox who want assignment.",
   "pw": "price held",
