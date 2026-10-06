@@ -34,7 +34,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Calilio
 - Review: https://zerotouchsupport.com/calilio-review.html
 - Verdict: Calilio: Standard $15 per user/mo, or $12 billed annually ($144 a year). The subscription is the platform, not the talking.
-- Price: (re-verified 2026-08-17) Standard $15 per user/mo, or $12 billed annually ($144 a year); Premium $35 per user/mo, or $28 annually ($336 a year); Enterprise custom. Annual billing saves 20%.
+- Price: (re-verified 2026-08-17; plan prices unchanged on 2026-10-06, included allowance changed) Standard $15 per user/mo, or $12 billed annually ($144 a year); Premium $35 per user/mo, or $28 annually ($336 a year); Enterprise custom. Annual billing saves 20%.
 
 ## CallHippo
 - Review: https://zerotouchsupport.com/callhippo-review.html
