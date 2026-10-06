@@ -8503,5 +8503,73 @@
   "verified": "2026-10-05",
   "catch": "You pay $0.13 a month for every member beyond the first 10, so a large free loyalty tier can cost more than the paid tiers earn; the listing does not say whether free members count.",
   "best": "Shopify stores that want a paid or free membership with store credit, member pricing, free shipping, gated products and checkout."
+ },
+ "Bold Upsell": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$4.99",
+  "price_note": "Shopify Basic · per month, the price follows your Shopify plan: $24.99 on Grow, $74.99 on…",
+  "verified": "2026-10-06",
+  "catch": "The price follows your Shopify plan, not your use: $4.99 on Basic but $74.99 on Advanced for the same features, and checkout offers only on Plus at $399.99 a month.",
+  "best": "Shopify stores on the Basic or Grow plan that want upsells, cross-sells, free gifts and post-purchase offers across product page."
+ },
+ "Bold Custom Pricing": {
+  "price": "$29",
+  "price_note": "Essential · per month, pricing for 1 customer group",
+  "verified": "2026-10-06",
+  "catch": "Priced by customer group: a second price list moves you from $29 to $69 a month, and POS and bulk CSV pricing need the $129 plan.",
+  "best": "Shopify stores that want to sell wholesale, B2B or VIP prices from their existing storefront without Shopify Plus, with quantity breaks and one or a few customer groups."
+ },
+ "Database Mart": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$2.88",
+  "price_note": "Express Linux VPS · per month, 2 CPU cores, 4GB RAM, 60GB SSD, marked save 51%",
+  "verified": "2026-10-06",
+  "catch": "Older Xeon E3/E5 processors sit under most GPU servers, many with a 100Mbps port, and every server is in Dallas, Texas.",
+  "best": "Developers, trading desks and small AI teams that want a cheap US-hosted VPS, a Windows VPS with the licence included, or a GPU server that runs all month at a flat price."
+ },
+ "bOnline": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "£7",
+  "price_note": "Starter · per user a month plus VAT",
+  "verified": "2026-10-06",
+  "catch": "The pricing page does not state a contract length, Starter includes only 100 outbound minutes a month, and every price is excluding VAT.",
+  "best": "UK sole traders and small businesses of one to a few people who want a business number on their mobile, a desk phone if needed."
+ },
+ "Zoviz": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "€29",
+  "price_note": "Starter · billed monthly",
+  "verified": "2026-10-06",
+  "catch": "Designing is free but downloading is paid, and once you download you lose the refund; there is no one-off logo price.",
+  "best": "Small businesses, solo founders and agencies that want a logo, a matching brand kit and on-brand social posts, bio pages and a simple website from one tool."
  }
 }

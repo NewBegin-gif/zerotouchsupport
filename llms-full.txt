@@ -1,6 +1,6 @@
 # ZeroTouch Support — Full Review Catalog
 
-> All 41 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-06.
+> All 42 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-06.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -25,6 +25,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://zerotouchsupport.com/asknest-review.html
 - Verdict: AskNest: All charges are billed in USD and recur every 30 days, and no paid tier shows a free trial — the free plan is the trial.
 - Price: (read 2026-08-19 on apps.shopify.com/asknest-ai-faq-product-bot, re-verified unchanged 2026-09-28) Four tiers, priced by AI replies per month, and the cheapest ladder in this category. Free: 50 AI replies a month, replies in one language you select, answers drawn from your FAQs, policy pages and product data, translated storefront widget, product finder and usage tracking.
+
+## bOnline
+- Review: https://zerotouchsupport.com/bonline-review.html
+- Verdict: bOnline: AI For Business Calls is £19.95, shown against a struck-through £21.95. BOnline does not put its contract length on the pricing page.
+- Price: (read 2026-10-06 on bonline.com/pricing, prices in GBP excluding VAT) Three plans, priced per user a month. Starter is £7.00 and gives a digital phone line and number, unlimited inbound calls, 100 outbound landline minutes and 40+ VoIP features.
 
 ## Calilio
 - Review: https://zerotouchsupport.com/calilio-review.html
