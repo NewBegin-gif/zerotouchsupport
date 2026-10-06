@@ -119,11 +119,71 @@ footer{border-top:1px solid var(--border);padding:24px;text-align:center;color:v
 .dg-tool-txt b{color:var(--text);font-size:.95rem}
 .dg-tool-d{color:var(--text2);font-size:.8rem;line-height:1.4;margin-top:2px}
 .dg-arrow{color:var(--accent);font-weight:800;flex-shrink:0}
-body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div class="wrap"><div class="tool"><div class="row">
+/* 6 okt 2026: huisstijl voor alle tools (free-tools-upgrade stap 1): panelen, velden en knoppen in de stijl van de planners. */
+.tool{background:linear-gradient(180deg,var(--card2),var(--card));border:1px solid var(--border);border-radius:18px;padding:20px 22px;box-shadow:0 1px 0 rgba(255,255,255,.04) inset,0 24px 50px -30px rgba(0,0,0,.7)}
+.tool label{font-size:.84rem;font-weight:600;color:var(--text);margin:14px 0 6px}
+.tool input[type=text],.tool input[type=number],.tool input[type=date],.tool input[type=email],.tool input[type=url],.tool input[type=search],.tool input[type=tel],.tool input[type=password],.tool textarea,.tool select{min-height:46px;background:var(--bg);border:1px solid var(--border);border-radius:11px;color:var(--text);padding:10px 13px;font-size:.98rem;font-family:inherit;transition:border-color .15s,box-shadow .15s;font-variant-numeric:tabular-nums}
+.tool textarea{line-height:1.55}
+.tool input[type=date]{color-scheme:dark}
+.tool select{appearance:none;background-image:linear-gradient(45deg,transparent 50%,var(--text2) 50%),linear-gradient(135deg,var(--text2) 50%,transparent 50%);background-position:calc(100% - 17px) 20px,calc(100% - 12px) 20px;background-size:5px 5px;background-repeat:no-repeat;padding-right:32px}
+.tool input:focus,.tool textarea:focus,.tool select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 28%,transparent)}
+.tool :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.tool .row{gap:12px}
+.tool .row>div{min-width:min(130px,100%)}
+.tool input[type=file]{max-width:100%;width:100%;font-size:.85rem;color:var(--text2)}
+.btn{min-height:44px;border-radius:11px;padding:0 18px;font-weight:700;box-shadow:0 10px 24px -14px var(--accent);transition:filter .15s,transform .1s}
+.btn:hover{filter:brightness(1.08)}.btn:active{transform:translateY(1px)}
+.btn.ghost{box-shadow:none;background:var(--card);color:var(--text);border:1px solid var(--border)}
+.btn.ghost:hover{border-color:var(--accent);filter:none}
+.tool .out{border-left:3px solid var(--accent);font-weight:700}
+.big{font-size:clamp(1.9rem,4vw,2.6rem);font-weight:800;letter-spacing:-.02em;line-height:1.15;font-variant-numeric:tabular-nums}
+.tool .scv{border-radius:13px;padding:12px 14px;background:color-mix(in srgb,var(--bg) 82%,transparent);border-color:var(--border)}
+.tool .scv-v{font-variant-numeric:tabular-nums}
+.tool .note,.tool .muted{line-height:1.5}
+.ws{width:min(1200px,calc(100vw - 32px));margin:22px 0 26px calc(50% - min(600px,50vw - 16px));font-size:15px}
+.ws *{box-sizing:border-box}
+.ws-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px;align-items:start}
+.ws[data-type=calc] .ws-grid{grid-template-columns:minmax(0,5fr) minmax(0,6fr)}
+.ws[data-type=studio] .ws-grid{grid-template-columns:minmax(0,5fr) minmax(0,6fr)}
+.ws>.tool,.ws .ws-grid>.tool{margin:0}
+.ws-res{position:sticky;top:72px;background:linear-gradient(180deg,var(--card2),var(--card));border:1px solid var(--border);border-radius:18px;padding:20px 22px 22px;box-shadow:0 1px 0 rgba(255,255,255,.04) inset,0 24px 50px -30px rgba(0,0,0,.7);overflow:hidden;min-width:0}
+.ws-res::before{content:"";position:absolute;inset:-40% -20% auto auto;width:70%;height:90%;background:radial-gradient(closest-side,color-mix(in srgb,var(--accent) 20%,transparent),transparent);pointer-events:none}
+.ws-res>*{position:relative}
+.ws-k{font-size:.74rem;font-weight:800;letter-spacing:.09em;text-transform:uppercase;color:var(--text2);margin:0 0 10px;display:flex;align-items:center;gap:8px}
+.ws-k::before{content:"";width:6px;height:6px;border-radius:2px;background:var(--accent)}
+.ws-res>label:first-of-type,.ws-res>.ws-k+label{margin-top:0}
+.ws-res [id$="-out"]{margin-top:0}
+.ws-acts{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px;padding-top:14px;border-top:1px solid var(--border)}
+.ws-b{display:inline-flex;align-items:center;justify-content:center;min-height:42px;padding:0 15px;border-radius:11px;border:1px solid var(--border);background:var(--card);color:var(--text);font:inherit;font-weight:700;font-size:.86rem;cursor:pointer;margin:0;transition:border-color .15s}
+.ws-b:hover{border-color:var(--accent)}
+.ws-b.prim{background:var(--accent);border-color:var(--accent);color:#fff}
+.ws-b[disabled]{opacity:.45;cursor:not-allowed}
+.ws-cmp{margin-top:20px;background:linear-gradient(180deg,var(--card2),var(--card));border:1px solid var(--border);border-radius:18px;padding:18px 20px}
+.ws-cmp[hidden]{display:none}
+.ws-scroll{overflow-x:auto;margin-top:10px}
+.ws-t{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;font-size:.88rem;min-width:420px}
+.ws-t th,.ws-t td{padding:9px 10px;border-bottom:1px solid var(--border);text-align:right;color:var(--text2);vertical-align:top;background:none}
+.ws-t th:first-child,.ws-t td:first-child{text-align:left;color:var(--muted);font-weight:600}
+.ws-t thead th{color:var(--text);font-size:.76rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;border-bottom:1.5px solid var(--text2)}
+.ws-t tr.ws-strong td{color:var(--text);font-weight:700}
+.ws-t button{background:none;border:0;color:var(--accent);font:inherit;font-weight:700;cursor:pointer;padding:2px 4px;margin:0}
+@media (max-width:959px){.ws{width:auto;margin:18px 0 24px}.ws-grid,.ws[data-type] .ws-grid{grid-template-columns:minmax(0,1fr)}.ws-res{position:relative;top:0}}
+@media (max-width:560px){.tool,.ws-res,.ws-cmp{padding:16px}}
+@media (prefers-reduced-motion:reduce){.ws *,.tool *{transition:none !important}}
+.ws-own{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.ws-own .btn{margin:0}
+.ws-res p.ws-leeg{color:var(--muted);font-size:.9rem;margin:2px 0 4px;max-width:none}
+.ws-res p.ws-leeg[hidden]{display:none}
+.mk-box{background:var(--bg);border:1px solid var(--border);border-radius:11px;padding:12px 14px;white-space:pre-wrap;overflow-wrap:anywhere;font-size:.92rem;line-height:1.7;max-height:340px;overflow:auto;color:var(--text2)}
+.ws-res p.mk-key{font-size:.8rem;color:var(--muted);margin:8px 0 0;max-width:none}
+mark.mk-r,mark.mk-o,mark.mk-a,mark.mk-b,mark.mk-c{color:var(--text);border-radius:3px;padding:0 2px}
+mark.mk-r{background:rgba(248,113,113,.28)}mark.mk-o{background:rgba(245,158,11,.30)}
+mark.mk-a{background:color-mix(in srgb,var(--accent) 40%,transparent)}mark.mk-b{background:rgba(34,197,94,.28)}mark.mk-c{background:rgba(168,85,247,.30)}
+body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div class="wrap"><div class="ws" data-type="calc" data-res="#np-out" data-slug="nps-calculator" data-name="NPS Calculator"><div class="tool"><div class="row">
 <div><label for="np-p">Promoters (9–10)</label><input type="number" id="np-p" value="60" min="0" step="1"></div>
 <div><label for="np-a">Passives (7–8)</label><input type="number" id="np-a" value="25" min="0" step="1"></div>
 <div><label for="np-d">Detractors (0–6)</label><input type="number" id="np-d" value="15" min="0" step="1"></div></div>
-<div id="np-out" aria-live="polite" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://zerotouchsupport.com/tools/nps-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; NPS Calculator &mdash; free tool by <span style="color:#60a5fa">ZeroTouch Support</span></a></p></div><script>function veldPoort(outId,ids,wis){
+<div id="np-out" aria-live="polite" style="margin-top:16px"></div></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://zerotouchsupport.com/tools/nps-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; NPS Calculator &mdash; free tool by <span style="color:#60a5fa">ZeroTouch Support</span></a></p></div><script>function veldPoort(outId,ids,wis){
 var o=document.getElementById(outId),fout=[],leeg=[],w={};
 ids.forEach(function(id){var e=document.getElementById(id);if(!e)return;
 var lb=document.querySelector('label[for="'+id+'"]')||(e.previousElementSibling&&e.previousElementSibling.tagName==='LABEL'?e.previousElementSibling:null);
@@ -148,4 +208,181 @@ if(tot===0){o.innerHTML='<p class="muted">All three counts are 0. Enter at least
 var nps=Math.round((p-d)/tot*100);
 o.innerHTML='<p class="big">'+(nps<0?'\u2212'+Math.abs(nps):nps)+'</p><p class="muted">Net Promoter Score from '+tot.toLocaleString('en-US')+' responses: '+(p/tot*100).toFixed(1)+'% promoters ('+p.toLocaleString('en-US')+') minus '+(d/tot*100).toFixed(1)+'% detractors ('+d.toLocaleString('en-US')+'). Passives ('+a.toLocaleString('en-US')+') count only in the total. The score runs from \u2212100 to 100.</p>';
 gtag&&gtag('event','tool_use',{event_label:'nps'});}
-['np-p','np-a','np-d'].forEach(function(id){document.getElementById(id).addEventListener('input',npCalc);});npCalc();</script></body></html>
+['np-p','np-a','np-d'].forEach(function(id){document.getElementById(id).addEventListener('input',npCalc);});npCalc();</script><script>
+// Gedeelde planner-hulpen (6 okt 2026): getallen lezen, opmaak, kopiëren, CSV, PDF-rapport, melding.
+window.PL=window.PL||(function(){
+"use strict";
+var FONT_R='https://cdn.jsdelivr.net/gh/googlefonts/roboto@v2.138/src/hinted/Roboto-Regular.ttf',FONT_B='https://cdn.jsdelivr.net/gh/googlefonts/roboto@v2.138/src/hinted/Roboto-Bold.ttf',fonts=null,timer=null;
+// Leest 1250.5, 1250,5, 1,250.50, 1.250,50 en 1 250,50. Eén scheidingsteken met precies drie cijfers erna is een
+// duizendtal (2.000 en 2,000 = 2000); met één of twee cijfers erna een decimaalteken. Leeg -> null; geen getal -> NaN.
+// De uitkomst toont het gelezen bedrag, zodat een andere lezing direct zichtbaar is.
+function num(v){
+ v=String(v==null?'':v).trim().replace(/[\s'’]/g,'');if(v==='')return null;
+ var c=v.lastIndexOf(','),d=v.lastIndexOf('.');
+ if(c>-1&&d>-1){v=c>d?v.replace(/\./g,'').replace(',','.'):v.replace(/,/g,'');}
+ else if(c>-1||d>-1){var s=c>-1?',':'.',p=v.split(s);v=(p.length===2&&p[1].length!==3)?p.join('.'):p.join('');}
+ if(!/^-?(\d+\.?\d*|\.\d+)(e[+-]?\d+)?$/i.test(v))return NaN;
+ var n=Number(v);return isFinite(n)?n:NaN;
+}
+function fmt(n,dec,sym){if(n==null||isNaN(n))return '–';var neg=n<0,s=Math.abs(n).toLocaleString('en-US',{minimumFractionDigits:dec!=null?dec:(Math.abs(n)%1?2:0),maximumFractionDigits:dec==null?2:dec});return (neg?'-':'')+(sym||'')+s;}
+function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function toast(msg){var t=document.getElementById('pl-toast');if(!t){t=document.createElement('div');t.id='pl-toast';t.className='pl-toast';t.setAttribute('role','status');t.setAttribute('aria-live','polite');document.body.appendChild(t);}
+ t.textContent=msg;t.hidden=false;clearTimeout(timer);timer=setTimeout(function(){t.hidden=true;},2600);}
+function copy(text){
+ function done(){toast('Copied to the clipboard');}
+ if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(text).then(done,fallback);}else fallback();
+ function fallback(){var a=document.createElement('textarea');a.value=text;a.setAttribute('readonly','');a.style.cssText='position:fixed;left:-9999px';document.body.appendChild(a);a.select();try{document.execCommand('copy');done();}catch(e){toast('Copy failed: select the text and copy it yourself');}a.remove();}
+}
+function csv(name,rows){
+ var s=rows.map(function(r){return r.map(function(c){c=String(c==null?'':c);return /[",\n;]/.test(c)?'"'+c.replace(/"/g,'""')+'"':c;}).join(',');}).join('\r\n');
+ var b=new Blob(['﻿'+s],{type:'text/csv;charset=utf-8'}),a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=name;document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},500);
+}
+function b64(buf){var u=new Uint8Array(buf),s='';for(var i=0;i<u.length;i+=32768)s+=String.fromCharCode.apply(null,u.subarray(i,i+32768));return btoa(s);}
+function getFonts(){
+ if(fonts!==null)return Promise.resolve(fonts);
+ function one(u){return fetch(u).then(function(r){if(!r.ok)throw new Error('font');return r.arrayBuffer();}).then(b64);}
+ return Promise.all([one(FONT_R),one(FONT_B)]).then(function(x){fonts={r:x[0],b:x[1]};return fonts;},function(){fonts=false;return false;});
+}
+function loadJsPDF(){
+ if(window.jspdf&&window.jspdf.jsPDF)return Promise.resolve(window.jspdf.jsPDF);
+ return new Promise(function(ok,no){var s=document.createElement('script');s.src='https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js';s.onload=function(){ok(window.jspdf.jsPDF);};s.onerror=function(){no(new Error('The PDF library did not load. Check your connection and try again.'));};document.head.appendChild(s);});
+}
+// Rapport: o={file,title,sub,accent:'#4f46e5',blocks:[{h,table:{head:[],rows:[[...]],strong:[rowIdx]}}|{h,text}|{h,kv:[[k,v]]}],foot}
+function report(o,btn){
+ var lbl=btn&&btn.textContent;if(btn){btn.disabled=true;btn.textContent='Preparing PDF…';}
+ function klaar(){if(btn){btn.disabled=false;btn.textContent=lbl;}}
+ return loadJsPDF().then(function(J){return getFonts().then(function(f){
+  var doc=new J({unit:'mm',format:'a4'}),F='helvetica';
+  if(f){doc.addFileToVFS('Roboto-Regular.ttf',f.r);doc.addFont('Roboto-Regular.ttf','Roboto','normal');doc.addFileToVFS('Roboto-Bold.ttf',f.b);doc.addFont('Roboto-Bold.ttf','Roboto','bold');F='Roboto';}
+  var acc=hex(o.accent||'#4f46e5'),ink=[31,35,40],grey=[100,108,118],soft=[61,68,77],rule=[227,230,234],M=16,X=210-M,BOT=297-18,y=M;
+  function set(sz,b,c){doc.setFont(F,b?'bold':'normal');doc.setFontSize(sz);doc.setTextColor(c[0],c[1],c[2]);}
+  function page(){doc.addPage();y=M+4;}
+  doc.setFillColor(acc[0],acc[1],acc[2]);doc.rect(0,0,210,3.4,'F');
+  set(19,true,ink);doc.text(o.title,M,y+7);y+=12;
+  if(o.sub){set(9.5,false,grey);doc.splitTextToSize(o.sub,X-M).forEach(function(l){doc.text(l,M,y);y+=4.6;});}
+  y+=5;
+  o.blocks.forEach(function(b){
+   if(y+16>BOT)page();
+   set(8,true,acc);doc.text(String(b.h).toUpperCase(),M,y,{charSpace:.35});y+=5.5;
+   if(b.table){var head=b.table.head,n=head.length,first=n>2?62:90,w=(X-M-first)/Math.max(1,n-1);
+    function xr(i){return M+first+w*i;}
+    set(8,true,grey);head.forEach(function(h,i){if(i===0)doc.text(String(h),M,y);else doc.text(String(h),xr(i),y,{align:'right'});});
+    y+=2;doc.setDrawColor(ink[0],ink[1],ink[2]);doc.setLineWidth(.35);doc.line(M,y,X,y);y+=5;
+    b.table.rows.forEach(function(r,ri){
+     var strong=(b.table.strong||[]).indexOf(ri)>-1,lines=doc.splitTextToSize(String(r[0]),first-4);
+     if(y+lines.length*4.4>BOT){page();}
+     set(9.5,strong,strong?ink:soft);doc.text(lines,M,y);
+     set(9.5,strong,ink);for(var i=1;i<n;i++)doc.text(String(r[i]==null?'':r[i]),xr(i),y,{align:'right'});
+     y+=(lines.length-1)*4.4+2.4;doc.setDrawColor(rule[0],rule[1],rule[2]);doc.setLineWidth(.2);doc.line(M,y,X,y);y+=4.6;});
+    y+=4;}
+   if(b.kv){b.kv.forEach(function(p){if(y>BOT)page();set(9.5,false,grey);doc.text(String(p[0]),M,y);set(9.5,false,ink);doc.text(String(p[1]),X,y,{align:'right'});y+=5.2;});y+=3;}
+   if(b.text){set(9.5,false,soft);doc.splitTextToSize(b.text,X-M).forEach(function(l){if(y>BOT)page();doc.text(l,M,y);y+=4.7;});y+=4;}
+  });
+  var pages=doc.getNumberOfPages();for(var i=1;i<=pages;i++){doc.setPage(i);set(7.5,false,grey);doc.text(doc.splitTextToSize(o.foot||'',150)[0],M,297-9);doc.text('Page '+i+' of '+pages,X,297-9,{align:'right'});}
+  doc.save(o.file);
+  if(!f)toast('The PDF font did not load, so a standard font was used.');
+  klaar();
+ });}).catch(function(e){klaar();toast(e&&e.message||'The PDF could not be made.');});
+}
+function hex(h){h=String(h).replace('#','');return [parseInt(h.slice(0,2),16),parseInt(h.slice(2,4),16),parseInt(h.slice(4,6),16)];}
+function today(){var d=new Date(),M=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];return d.getDate()+' '+M[d.getMonth()]+' '+d.getFullYear();}
+function accent(el){var c=getComputedStyle(el).getPropertyValue('--accent').trim();if(/^#[0-9a-f]{6}$/i.test(c))return c;var m=/rgba?\((\d+),\s*(\d+),\s*(\d+)/.exec(c);if(m)return '#'+[m[1],m[2],m[3]].map(function(x){return ('0'+(+x).toString(16)).slice(-2);}).join('');return '#4f46e5';}
+return {num:num,fmt:fmt,esc:esc,toast:toast,copy:copy,csv:csv,report:report,today:today,accent:accent};
+})();
+</script><script>
+// Werkruimte-laag (free-tools-upgrade 6 okt 2026): zet de bestaande invoer links en de uitkomst of het voorbeeld rechts.
+// Rekenkernen blijven onaangeroerd: elementen worden alleen verplaatst (id's en luisteraars blijven). Bij rekentools:
+// kopiëren, PDF-rapport en tot drie bewaarde scenario's naast elkaar. Configuratie per tool in data-attributen.
+(function(){
+"use strict";
+var ws=document.querySelector('.ws[data-res]');if(!ws||ws.getAttribute('data-ready'))return;ws.setAttribute('data-ready','1');
+var tool=ws.querySelector('.tool');if(!tool)return;
+var type=ws.getAttribute('data-type'),naam=ws.getAttribute('data-name')||document.title,res=[];
+ws.getAttribute('data-res').split(',').forEach(function(s){var e=tool.querySelector(s.trim());if(e)res.push(e);});
+if(!res.length)return;
+var grid=document.createElement('div');grid.className='ws-grid';
+var paneel=document.createElement('section');paneel.className='ws-res';paneel.setAttribute('aria-label',type==='studio'?'Preview':'Result');
+var kop=document.createElement('p');kop.className='ws-k';kop.textContent=ws.getAttribute('data-kop')||(type==='studio'?'Preview':'Result');paneel.appendChild(kop);
+ws.insertBefore(grid,tool);grid.appendChild(tool);grid.appendChild(paneel);
+res.forEach(function(e){
+ var lb=e.id?tool.querySelector('label[for="'+e.id+'"]'):null;
+ if(!lb&&e.previousElementSibling&&e.previousElementSibling.tagName==='LABEL'&&!e.previousElementSibling.querySelector('input'))lb=e.previousElementSibling;
+ if(lb)paneel.appendChild(lb);paneel.appendChild(e);
+});
+var eigen=document.createElement('div');eigen.className='ws-own';
+(ws.getAttribute('data-mee')||'').split(',').forEach(function(s){if(!s.trim())return;var e=tool.querySelector(s.trim());if(e)eigen.appendChild(e);});
+if(eigen.children.length)paneel.appendChild(eigen);
+// Lege toestand: een korte hint tot de uitkomst er staat (geen verzonnen voorbeeld).
+var leeg=document.createElement('p');leeg.className='ws-leeg';leeg.textContent=type==='studio'?'The preview appears here as you fill in the fields.':'Your result appears here as soon as there is something to work out.';
+paneel.insertBefore(leeg,kop.nextSibling);
+function heeftInhoud(){return res.some(function(r){if(r.tagName==='INPUT'||r.tagName==='TEXTAREA')return !!r.value.trim();if(/^(CANVAS|SVG|IMG)$/i.test(r.tagName))return true;return !!(r.innerText||'').trim()||!!r.querySelector('canvas,svg,img');});}
+function check(){leeg.hidden=heeftInhoud();}
+check();if(window.MutationObserver)new MutationObserver(check).observe(paneel,{childList:true,subtree:true,characterData:true});ws.addEventListener('input',function(){setTimeout(check,0);});ws.addEventListener('click',function(){setTimeout(check,50);});
+if(type==='studio')return;
+var PL=window.PL;if(!PL)return;
+function velden(){
+ var uit=[];Array.prototype.forEach.call(tool.querySelectorAll('input,select,textarea'),function(e){
+  if(!e.id||e.type==='file'||e.type==='button'||e.type==='hidden'||e.readOnly||e.closest('.ws-res'))return;
+  var lb=tool.querySelector('label[for="'+e.id+'"]'),t=(lb?lb.textContent:(e.getAttribute('aria-label')||e.placeholder||e.id)).replace(/\s+/g,' ').trim();
+  var v=e.type==='checkbox'||e.type==='radio'?(e.checked?'yes':'no'):(e.tagName==='SELECT'?(e.options[e.selectedIndex]||{}).text||e.value:e.value);
+  uit.push([t,String(v==null?'':v).trim(),e.id]);});
+ return uit;
+}
+function uitkomst(){
+ var paren=[];
+ res.forEach(function(r){
+  var kaarten=r.querySelectorAll('.scv');
+  if(kaarten.length){Array.prototype.forEach.call(kaarten,function(k){var n=k.querySelector('.scv-n'),v=k.querySelector('.scv-v');if(n&&v)paren.push([n.textContent.trim(),v.textContent.trim()]);});return;}
+  // tegels: een .big-getal met een .muted-label in hetzelfde blok (lening, ROI, cohort, waardering, prijsniveaus)
+  var bigs=Array.prototype.filter.call(r.querySelectorAll('.big'),function(b){return b.parentElement!==r&&b.parentElement.querySelector('.muted');});
+  if(bigs.length>1){bigs.forEach(function(b){paren.push([b.parentElement.querySelector('.muted').textContent.trim(),b.textContent.trim()]);});return;}
+  if(r.querySelector('svg,canvas')&&!r.querySelector('.big'))return;
+  if(r.tagName==='INPUT'||r.tagName==='TEXTAREA'){if(r.value)paren.push([(paneel.querySelector('label[for="'+r.id+'"]')||{}).textContent||'Result',r.value]);return;}
+  var tekst=(r.innerText||'').split('\n').map(function(x){return x.trim();}).filter(Boolean);
+  if(!tekst.length)return;
+  var big=r.querySelector('.big,.pl-big,.sig-y,.sig-n,b,strong');
+  paren.push(['Result',big&&big.textContent.trim()?big.textContent.trim():tekst[0]]);
+  tekst.slice(big?0:1).forEach(function(x){if(big&&x===big.textContent.trim())return;if(paren.length<9)paren.push(['',x]);});
+ });
+ return paren;
+}
+function tekst(){var t=[naam+', '+PL.today(),''];velden().forEach(function(v){t.push(v[0]+': '+v[1]);});t.push('');uitkomst().forEach(function(p){t.push((p[0]?p[0]+': ':'')+p[1]);});
+ var l=document.querySelector('link[rel=canonical]');t.push('','Calculated with '+((l&&l.href)||location.href).replace(/\/embed\/?$/,'/'));return t.join('\n');}
+var acts=document.createElement('div');acts.className='ws-acts';
+acts.innerHTML=type==='calc'?'<button type="button" class="ws-b prim" data-a="pdf">Download PDF</button><button type="button" class="ws-b" data-a="copy">Copy result</button><button type="button" class="ws-b" data-a="save">Save as scenario</button>'
+ :'<button type="button" class="ws-b" data-a="copy">Copy result</button>';
+paneel.appendChild(acts);
+var cmp=null,S=[];
+if(type==='calc'){cmp=document.createElement('section');cmp.className='ws-cmp';cmp.hidden=true;cmp.setAttribute('aria-label','Saved scenarios');ws.appendChild(cmp);}
+function url(){var l=document.querySelector('link[rel=canonical]');return ((l&&l.href)||location.href).replace(/\/embed\/?$/,'/');}
+function tabel(){
+ var lbl=[];S.forEach(function(s){s.in.forEach(function(v){if(lbl.indexOf(v[0])<0)lbl.push(v[0]);});});
+ var uitl=[];S.forEach(function(s){s.out.forEach(function(p){if(p[0]&&uitl.indexOf(p[0])<0)uitl.push(p[0]);});});
+ function waarde(lijst,k){for(var i=0;i<lijst.length;i++)if(lijst[i][0]===k)return lijst[i][1];return '–';}
+ return {head:['','Scenario 1','Scenario 2','Scenario 3'].slice(0,S.length+1),
+  rows:lbl.map(function(k){return [k].concat(S.map(function(s){return waarde(s.in,k);}));}).concat(uitl.map(function(k){return [k].concat(S.map(function(s){return waarde(s.out,k);}));})),nIn:lbl.length};
+}
+function toonCmp(){
+ if(!cmp)return;if(!S.length){cmp.hidden=true;return;}cmp.hidden=false;var T=tabel();
+ cmp.innerHTML='<p class="ws-k">Saved scenarios</p><p class="muted" style="margin:0;font-size:.85rem">Change the figures and save again to compare up to three versions. Nothing is stored after you leave the page.</p><div class="ws-scroll"><table class="ws-t"><thead><tr>'+T.head.map(function(h){return '<th scope="col">'+PL.esc(h)+'</th>';}).join('')+'</tr></thead><tbody>'+
+  T.rows.map(function(r,i){return '<tr'+(i>=T.nIn?' class="ws-strong"':'')+'><td>'+r.map(PL.esc).join('</td><td>')+'</td></tr>';}).join('')+
+  '<tr><td></td>'+S.map(function(s,i){return '<td><button type="button" data-z="'+i+'">Load</button> <button type="button" data-x="'+i+'">Remove</button></td>';}).join('')+'</tr></tbody></table></div>';
+}
+if(cmp)cmp.addEventListener('click',function(e){var z=e.target.getAttribute('data-z'),x=e.target.getAttribute('data-x');
+ if(z!==null){S[+z].in.forEach(function(v){var el=document.getElementById(v[2]);if(!el)return;if(el.type==='checkbox'||el.type==='radio')el.checked=v[1]==='yes';else if(el.tagName==='SELECT'){for(var i=0;i<el.options.length;i++)if(el.options[i].text===v[1])el.selectedIndex=i;}else el.value=v[1];
+  el.dispatchEvent(new Event('input',{bubbles:true}));el.dispatchEvent(new Event('change',{bubbles:true}));});PL.toast('Scenario '+(+z+1)+' loaded');}
+ if(x!==null){S.splice(+x,1);toonCmp();knop();}});
+function knop(){var b=acts.querySelector('[data-a=save]');if(b){b.disabled=S.length>=3;b.textContent=S.length>=3?'Three scenarios saved':'Save as scenario';}}
+acts.addEventListener('click',function(e){var a=e.target.getAttribute('data-a');if(!a)return;
+ if(a==='copy'){PL.copy(type==='calc'?tekst():res.map(function(r){return (r.tagName==='INPUT'||r.tagName==='TEXTAREA')?r.value:(r.innerText||'').trim();}).filter(Boolean).join('\n\n'));if(typeof gtag==='function')gtag('event','tool_download',{event_label:'copy_'+(ws.getAttribute('data-slug')||'')});}
+ if(a==='save'){if(S.length>=3)return;S.push({in:velden(),out:uitkomst().filter(function(p){return p[0];})});toonCmp();knop();PL.toast('Saved as scenario '+S.length);}
+ if(a==='pdf'){var blocks=[];
+  if(S.length>1){var T=tabel();blocks.push({h:'Scenarios',table:{head:T.head,rows:T.rows,strong:T.rows.map(function(r,i){return i;}).filter(function(i){return i>=T.nIn;})}});}
+  else{blocks.push({h:'Your figures',kv:velden().map(function(v){return [v[0],v[1]||'–'];})});
+   var o=uitkomst();blocks.push({h:'Result',kv:o.filter(function(p){return p[0];})});var rest=o.filter(function(p){return !p[0];}).map(function(p){return p[1];}).join('\n');if(rest)blocks.push({h:'Notes',text:rest});}
+  blocks.push({h:'About this calculation',text:'Calculated in your browser from the figures above on '+PL.today()+'. It is a one-off calculation, not advice, and it does not know about anything you did not enter.'});
+  PL.report({file:(ws.getAttribute('data-slug')||'result')+'.pdf',title:naam,accent:PL.accent(ws),sub:'Calculated on '+PL.today()+'.',blocks:blocks,foot:naam+' · '+url()+' · '+PL.today()},e.target);
+  if(typeof gtag==='function')gtag('event','tool_download',{event_label:'pdf_'+(ws.getAttribute('data-slug')||'')});}
+});
+})();
+</script></body></html>
