@@ -209,7 +209,7 @@
     "name": "Arbor",
     "category": "Financial Operations",
     "domain": "joinarbor.com",
-    "desc": "Free US service that automatically finds and switches you to a cheaper electricity supply rate in the 13 deregulated states (Northeast, Midwest, Texas). Your utility and wiring stay the same, no service interruption, cancel anytime — Arbor is paid a referral fee by the supplier, so households pay nothing.",
+    "desc": "Free US service that automatically finds and switches you to a cheaper electricity supply rate in the 12 states plus Washington DC that its FAQ lists (Northeast and Midwest; Texas is not on the list). Your utility and wiring stay the same, no service interruption, cancel anytime — Arbor is paid a referral fee by the supplier, so households pay nothing.",
     "link": "https://get.joinarbor.com/1br17seg3993",
     "replaces": "Arcadia"
   },
