@@ -1,6 +1,6 @@
 # ZeroTouch Support
 
-> Independent, hands-researched reviews of customer support, business phone and AI voice software. 41 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-06.
+> Independent, hands-researched reviews of customer support, business phone and AI voice software. 42 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-06.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -17,11 +17,12 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [The Best Shopify Customer Support Apps (2026)](https://zerotouchsupport.com/best-shopify-support-apps.html): Shopify support apps compared on what they actually meter — replies, conversations, page views, minutes or resolved tickets — with prices we
 - [How to Build a Customer Support System: Chat, Phone, AI and a Help Desk](https://zerotouchsupport.com/build-customer-support-system.html): A blueprint for support as volume grows: live chat, phone, AI answers for repeat questions and a help desk — what each part does and what to
 
-## Reviews (41) — canonical versions
+## Reviews (42) — canonical versions
 - [800.com Review (2026): From $19/mo, Checked Aug 2026](https://zerotouchsupport.com/800-com-review.html): 800.com — On yearly billing: Startup $19/mo, Small Business $49/mo and Complete $99/mo. The 1,000-minute cap on Startup matters for higher call volume
 - [Aircall Review (2026): From $30/mo, Checked Sep 2026](https://zerotouchsupport.com/aircall-review.html): Aircall: Essentials is $30 per license a month and Professional $50, both on annual billing. 'Unlimited calling' covers listed regions — check yours.
 - [Answering Service Care Review (2026): Price & Limits](https://zerotouchsupport.com/answering-service-care-review.html): Answering Service Care: $161, $296 and $575 for the three larger plans. Do the arithmetic before you pick a tier, because their own page does not.
 - [AskNest Review (2026): 50 Free AI Replies, Then $4.99/mo](https://zerotouchsupport.com/asknest-review.html): AskNest: All charges are billed in USD and recur every 30 days, and no paid tier shows a free trial — the free plan is the trial.
+- [bOnline Review (2026): UK Business VoIP From £7 a User](https://zerotouchsupport.com/bonline-review.html): bOnline: AI For Business Calls is £19.95, shown against a struck-through £21.95. BOnline does not put its contract length on the pricing page.
 - [Calilio Review (2026): $12 a Seat, Calls Meter Apart](https://zerotouchsupport.com/calilio-review.html): Calilio: Standard $15 per user/mo, or $12 billed annually ($144 a year). The subscription is the platform, not the talking.
 - [CallHippo Review (2026): Part Published, Part on Quote](https://zerotouchsupport.com/callhippo-review.html): CallHippo: Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55.
 - [CloudTalk Review (2026): From €19/mo, Checked Aug 2026](https://zerotouchsupport.com/cloudtalk-review.html): CloudTalk: Lite €19, Starter €25, Essential €29 and Expert €49 per user/mo on annual billing. The per-seat price is only part of it.

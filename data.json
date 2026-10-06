@@ -3735,5 +3735,42 @@
     "desc": "Shopify membership and loyalty app by Bold: free and paid tiers, store credit, loyalty points, member pricing and free shipping, gated products and checkout, Shopify POS sign-ups and Apple and Google Wallet cards.",
     "link": "https://platform.shoffi.app/r/rl_8PTfnu9R",
     "platform": "shopify"
+  },
+  {
+    "name": "Bold Upsell",
+    "category": "E-commerce",
+    "domain": "boldcommerce.com",
+    "desc": "Shopify upsell app by Bold: AI-picked and manual upsells, cross-sells, order bumps, free gifts and subscription offers on product pages, cart and drawer and after purchase, with checkout offers for Shopify Plus stores and an AOV dashboard.",
+    "link": "https://platform.shoffi.app/r/rl_KPajHLNv",
+    "platform": "shopify"
+  },
+  {
+    "name": "Bold Custom Pricing",
+    "category": "E-commerce",
+    "domain": "boldcommerce.com",
+    "desc": "Shopify wholesale and B2B pricing app by Bold: separate prices for tagged customer groups, VIP and member tiers, quantity breaks and tiered pricing on one storefront, without Shopify Plus.",
+    "link": "https://platform.shoffi.app/r/rl_nJOQnQk0",
+    "platform": "shopify"
+  },
+  {
+    "name": "Database Mart",
+    "category": "IT & Productivity",
+    "domain": "databasemart.com",
+    "desc": "US hosting company running its own servers in Dallas: Linux and Windows VPS, dedicated servers and NVIDIA GPU servers from entry cards to A100 and H100, with root access, a 24-hour trial on request and round-the-clock human support.",
+    "link": "https://www.awin1.com/cread.php?awinmid=116629&awinaffid=2880219"
+  },
+  {
+    "name": "bOnline",
+    "category": "Communication & Voice",
+    "domain": "bonline.com",
+    "desc": "UK business phone provider for small businesses: a VoIP number on your mobile app or desk phone, unlimited UK calling, call recording, call queues and IVR, and AI transcription and call summaries on its top plan.",
+    "link": "https://www.awin1.com/cread.php?awinmid=125120&awinaffid=2880219"
+  },
+  {
+    "name": "Zoviz",
+    "category": "Design & Content",
+    "domain": "zoviz.com",
+    "desc": "AI logo maker and brand platform: design a logo and brand kit for free, then download it with a subscription that adds 5,000+ on-brand templates, AI marketing content, link-in-bio pages, digital business cards and a website builder.",
+    "link": "https://www.awin1.com/cread.php?awinmid=72043&awinaffid=2880219"
   }
 ]
