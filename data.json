@@ -1515,7 +1515,7 @@
     "domain": "joiin.co",
     "link": "https://joiin.co/?red=aibuil&utm_source=aibuil&utm_medium=revshare&utm_affiliate_network=reditus",
     "category": "Finance & Accounting",
-    "desc": "Financial consolidation and group reporting for multi-entity, multi-currency organisations — connects Xero, QuickBooks, Sage, FreeAgent, Zoho Books, Fortnox, MYOB, Pennylane and Puzzle, with unlimited users and reports on every plan. Forecasting is now part of the product: linked P&L, balance sheet and cash flow up to 60 months out, with an AI assistant that drafts the assumptions. Integration list read on joiin.co/integrations, 15 Sep 2026."
+    "desc": "Financial consolidation and group reporting for multi-entity, multi-currency organisations — connects Xero, QuickBooks, Sage, FreeAgent, Zoho Books, Fortnox, MYOB, Pennylane and Puzzle, with unlimited users and reports on every plan; since October 2026 sold as Core, Pro and Max, with multi-currency and forecasting from Pro. Forecasting gives linked P&L, balance sheet and cash flow up to 60 months out, with an AI assistant that drafts the assumptions. Integration list read on joiin.co/integrations, 15 Sep 2026."
   },
   {
     "name": "Jotform AI Agents",
@@ -3772,5 +3772,40 @@
     "domain": "zoviz.com",
     "desc": "AI logo maker and brand platform: design a logo and brand kit for free, then download it with a subscription that adds 5,000+ on-brand templates, AI marketing content, link-in-bio pages, digital business cards and a website builder.",
     "link": "https://www.awin1.com/cread.php?awinmid=72043&awinaffid=2880219"
+  },
+  {
+    "name": "Positive User",
+    "category": "Marketing",
+    "domain": "user.com",
+    "desc": "Marketing automation platform from the French Positive group, formerly User.com: email, SMS and WhatsApp campaigns, real-time visitor tracking, website personalisation and workflows, hosted in Europe.",
+    "link": "https://user.com/?red=aibuil"
+  },
+  {
+    "name": "UserTrail",
+    "category": "Growth & Revenue",
+    "domain": "usertrail.io",
+    "desc": "Website behaviour analytics: heatmaps, session replays, funnels, form analytics, journeys and on-site surveys from one tracking script, with a free plan to start.",
+    "link": "https://www.awin1.com/cread.php?awinmid=129065&awinaffid=2880219"
+  },
+  {
+    "name": "AccuWeb Hosting",
+    "category": "IT & Productivity",
+    "domain": "accuwebhosting.com",
+    "desc": "Hosting provider for Linux and Windows VPS, Forex VPS, one-click application servers and dedicated servers in more than 20 locations, with 24/7 support.",
+    "link": "https://www.awin1.com/cread.php?awinmid=91919&awinaffid=2880219"
+  },
+  {
+    "name": "Zenind",
+    "category": "Financial Operations",
+    "domain": "zenind.com",
+    "desc": "Online US company formation for LLCs and corporations, with registered agent, EIN and BOI report preparation, compliance reminders and a company dashboard, aimed at founders inside and outside the US.",
+    "link": "https://www.awin1.com/cread.php?awinmid=129003&awinaffid=2880219"
+  },
+  {
+    "name": "NameRobot",
+    "category": "Design & Content",
+    "domain": "namerobot.com",
+    "desc": "Naming tools for companies and products: a toolbox of 100+ name generators, an AI naming assistant, and paid NameScore reports that check availability, trademarks and the sound of a name.",
+    "link": "https://www.awin1.com/cread.php?awinmid=24894&awinaffid=2880219"
   }
 ]
