@@ -59,7 +59,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Wati Review (2026): From €59/mo, Checked Sep 2026](https://zerotouchsupport.com/wati-review.html): Wati: Growth €59/mo, Pro €119/mo and Business €279/mo billed annually, or €69, €149 and €349 billed monthly. The plan price is the smallest part of th
 - [Weave Review (2026): From $199 Per Location, Checked Sep 2026](https://zerotouchsupport.com/weave-review.html): Weave: Practice owners commonly report all-in costs of roughly $400 to $700 a location once phones. The $199 starting price is a floor, not the bill.
 - [Zendesk Review (2026): Copilot Needs the $115 Tier](https://zerotouchsupport.com/zendesk-review.html): Zendesk — Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. The prices shown are annual
-- [ZenZap Review (2026): Integrations Start at Business+](https://zerotouchsupport.com/zenzap-review.html): ZenZap: Pro $3/user/mo billed yearly ($4 monthly); Business+ $8/user yearly ($10 monthly); Enterprise custom. The pricing genuinely undercuts Slack.
+- [ZenZap Review (2026): Flat Packages Replace Seats](https://zerotouchsupport.com/zenzap-review.html): ZenZap: Free at $0 with 'every feature, every integration', unlimited users and 100 AI credits a month. The pricing genuinely undercuts Slack.
 
 ## Free calculators (3)
 - [Free NPS Calculator (Net Promoter Score, 2026)](https://zerotouchsupport.com/tools/nps-calculator/)

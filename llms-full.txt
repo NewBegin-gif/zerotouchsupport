@@ -54,7 +54,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## CometChat
 - Review: https://zerotouchsupport.com/cometchat-review.html
 - Verdict: CometChat — Billed yearly, shown as a monthly equivalent: at 1,000 MAU Basic is $239 and Advanced $359. The pricing cliff is the honest headline.
-- Price: (re-verified 2026-08-17 against CometChat's own machine-readable pricing reference, which they publish for AI agents and last verified themselves on 2026-05-20; USD) Build is free for development: all features, up to 100 users and 25 concurrent connections, no card. Paid Chat plans are priced by monthly active users.
+- Price: (re-verified 2026-08-17 and 2026-10-07 against CometChat's own machine-readable pricing reference, which they publish for AI agents and last verified themselves on 2026-05-20, and on 2026-10-07 also against the live pricing page; USD) Build is free for development: all features, up to 100 users and 25 concurrent connections, no card. Paid Chat plans are priced by monthly active users.
 
 ## CrankWheel
 - Review: https://zerotouchsupport.com/crankwheel-review.html
@@ -213,5 +213,5 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## ZenZap
 - Review: https://zerotouchsupport.com/zenzap-review.html
-- Verdict: ZenZap: Pro $3/user/mo billed yearly ($4 monthly); Business+ $8/user yearly ($10 monthly); Enterprise custom. The pricing genuinely undercuts Slack.
-- Price: (price re-verified 2026-09-01 against the vendor's own pricing page) (2026) Free plan: unlimited group chats, unlimited built-in to-dos, WhatsApp chat migration, AI voice-note transcription and in-chat search, 1 GB storage — the page publishes no user cap for it and no promise of unlimited seats. Pro $3/user/mo billed yearly ($4 monthly); Business+ $8/user yearly ($10 monthly); Enterprise custom.
+- Verdict: ZenZap: Free at $0 with 'every feature, every integration', unlimited users and 100 AI credits a month. The pricing genuinely undercuts Slack.
+- Price: (re-read 2026-10-07 on the vendor's own pricing page) The per-seat prices are gone. On 1 September the page sold Pro at $3 a user a month billed yearly ($4 monthly) and Business+ at $8 ($10 monthly), with flat team bundles beside them; our 1 October capture and the page on 7 October sell flat monthly packages only, in two tabs.

@@ -330,6 +330,11 @@ function velden(){
 }
 function uitkomst(){
  var paren=[];
+ // Contract (zware audit 7 okt 2026, A07-01): een tool die zijn uitkomstvelden benoemt met data-k (en eventueel een
+ // korte waarde in data-v) krijgt precies die velden in scenario's, kopie en PDF. De generieke terugval hieronder
+ // bewaarde bij de A/B-tool alleen 'Result 10.00%' (de controlwaarde) en gooide uplift, p-waarde en conclusie weg.
+ var benoemd=[];res.forEach(function(r){Array.prototype.forEach.call(r.querySelectorAll('[data-k]'),function(e){benoemd.push([e.getAttribute('data-k'),(e.getAttribute('data-v')||e.textContent).replace(/\s+/g,' ').trim()]);});});
+ if(benoemd.length)return benoemd;
  res.forEach(function(r){
   var kaarten=r.querySelectorAll('.scv');
   if(kaarten.length){Array.prototype.forEach.call(kaarten,function(k){var n=k.querySelector('.scv-n'),v=k.querySelector('.scv-v');if(n&&v)paren.push([n.textContent.trim(),v.textContent.trim()]);});return;}
@@ -348,6 +353,7 @@ function uitkomst(){
 }
 function tekst(){var t=[naam+', '+PL.today(),''];velden().forEach(function(v){t.push(v[0]+': '+v[1]);});t.push('');uitkomst().forEach(function(p){t.push((p[0]?p[0]+': ':'')+p[1]);});
  var l=document.querySelector('link[rel=canonical]');t.push('','Calculated with '+((l&&l.href)||location.href).replace(/\/embed\/?$/,'/'));return t.join('\n');}
+window.__wsUitkomst=uitkomst;  // voor de regressiecontrole op scenariovelden (check_tool_scenarios.py)
 var acts=document.createElement('div');acts.className='ws-acts';
 acts.innerHTML=type==='calc'?'<button type="button" class="ws-b prim" data-a="pdf">Download PDF</button><button type="button" class="ws-b" data-a="copy">Copy result</button><button type="button" class="ws-b" data-a="save">Save as scenario</button>'
  :'<button type="button" class="ws-b" data-a="copy">Copy result</button>';
