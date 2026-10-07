@@ -88,6 +88,8 @@
     regels.push('Evidence: ' + r.evidence + ' (' + r.status_label + '). Not tested by us at a checkout.');
     regels.push('How to claim: ' + r.claim_steps + (r.code ? ' Code: ' + r.code : ''));
     if (r.limits && r.limits.length) regels.push('Key limit: ' + r.limits[0]);
+    if (r.test_before_you_pay) regels.push('Test before you pay: ' + r.test_before_you_pay);
+    if (r.kit) regels.push('Test kit: ' + r.kit.title + ' (' + r.kit.label + ') ' + r.kit.url);
     if (r.deadline) regels.push('Ends: ' + r.deadline);
     regels.push('Current offer: ' + deellink());
     regels.push('Recheck before you buy: offers change. This is a snapshot, not a quote or a reservation.');
@@ -118,6 +120,8 @@
       '<p class="df-small"><span class="pill pill-' + esc(r.status_key) + '">' + esc(r.status_label) + '</span>' + esc(r.evidence) + (r.deadline ? ' · Ends ' + esc(r.deadline) : '') + '</p>' +
       '<form class="df-form" novalidate>' + velden(r) + '</form>' +
       '<h3>Does it fit?</h3><div class="df-fit" aria-live="polite"></div><h3>What you pay</h3><div class="df-cost" aria-live="polite"></div>' +
+      (r.test_before_you_pay || r.kit ? '<h3>Test before you pay</h3>' + (r.test_before_you_pay ? '<p class="df-small">' + esc(r.test_before_you_pay) + '</p>' : '') +
+        (r.kit ? '<p class="df-small"><a href="' + esc(r.kit.url) + '">' + esc(r.kit.title) + '</a> &middot; ' + esc(r.kit.label) + '</p>' : '') : '') +
       '<div class="df-acts"><button type="button" class="df-b" data-a="pass">Copy Deal Passport</button><button type="button" class="df-b" data-a="link">Copy link</button>' +
       '<button type="button" class="df-b" data-a="report">Report an issue</button><a class="df-b df-go" href="' + esc(r.handoff_url) + '" target="_blank" rel="sponsored noopener nofollow">' + esc(r.cta) + ' &rarr;</a></div>' +
       '<textarea class="df-out" hidden readonly aria-label="Deal Passport text"></textarea>' +
