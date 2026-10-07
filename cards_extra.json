@@ -3657,11 +3657,16 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "$12",
   "price_note": "from · per user a month billed annually, or $15 monthly (up to 5 users)",
-  "verified": "2026-08-17",
+  "verified": "2026-10-07",
   "catch": "Same honest math as most budget VoIP: the plan buys the platform, the meter buys the conversations — per-minute and per-SMS charges land on top of every seat, so the comparison that matters is call-rate-per-country at your volume.",
   "best": "Sales and support teams that need virtual numbers across many countries with a shared dashboard, dialer and CRM hooks at a budget seat price."
  },
@@ -3723,7 +3728,7 @@
   ],
   "price": "$18.75",
   "price_note": "from · a month billed yearly",
-  "verified": "2026-08-17",
+  "verified": "2026-10-07",
   "catch": "The Starter caps are where the price really lives: 30 posts per profile and 3 months of analytics run out fast for an active brand, pushing real users toward Growth — so compare at the tier you'll actually need, not the entry price.",
   "best": "Creators and visual-first brands (Instagram/TikTok-centric) that want drag-and-drop visual planning, link-in-bio and scheduling in one."
  },
@@ -3802,12 +3807,17 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$2.49",
   "price_note": "from · per user a month billed yearly (~$448/yr for 15 users)",
-  "verified": "2026-08-17",
-  "catch": "The tidy per-user numbers are annual-billed, and it's priced per seat — every employee you track adds to the bill, with no volume break shown.",
+  "verified": "2026-10-07",
+  "catch": "The tidy per-user numbers are annual-billed, and it's priced per seat — every employee you track adds to the bill, with no volume break published (large teams are told to ask sales).",
   "best": "Teams that want straightforward time-tracking, attendance and overtime banking with transparent per-user pricing."
  },
  "lemlist": {
@@ -3832,10 +3842,6 @@
   "price_note": "from · per month ($55 billed yearly) for unlimited users",
   "verified": "2026-10-05",
   "catch": "The per-seat plus per-email-account model makes total cost unpredictable as you scale, and reviews flag support response times and the LinkedIn Chrome-extension's reliability.",
-  "coupon": {
-   "code": "OFFSUMMERLEMAGENT",
-   "label": "30 days free"
-  },
   "best": "Outbound teams that live in cold email and want multichannel sequences, warm-up and a big template community in one per-seat tool.",
   "pw": "plans rebuilt Oct 2026",
   "pw_soort": "restructure"
@@ -4012,7 +4018,7 @@
   ],
   "price": "$20",
   "price_note": "from · per month billed annually ($25 monthly)",
-  "verified": "2026-08-17",
+  "verified": "2026-10-07",
   "catch": "The free plan suits low bill volume, but the value narrows as you scale into paid tiers, and the 2.9% card fee only makes sense when you deliberately float cash on a card.",
   "best": "Small businesses that want to pay bills by bank transfer or card and get paid, starting free with no subscription."
  },
@@ -4343,7 +4349,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month, or $23.20/mo billed annually ($278.40/yr)",
-  "verified": "2026-08-17",
+  "verified": "2026-10-07",
   "catch": "The sticker price buys a credit allowance, not finished video, and the two are easy to confuse.",
   "coupon": {
    "code": "",
