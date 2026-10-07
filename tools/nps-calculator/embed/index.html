@@ -347,9 +347,19 @@ function uitkomst(){
   if(!tekst.length)return;
   var big=r.querySelector('.big,.pl-big,.sig-y,.sig-n,b,strong');
   paren.push(['Result',big&&big.textContent.trim()?big.textContent.trim():tekst[0]]);
-  tekst.slice(big?0:1).forEach(function(x){if(big&&x===big.textContent.trim())return;if(paren.length<9)paren.push(['',x]);});
+  tekst.slice(big?0:1).forEach(function(x){if(big&&x===big.textContent.trim())return;if(paren.length<12)paren.push(['',x]);});
  });
- return paren;
+ // Zware audit 7 okt 2026 (A07-01, vervolg): regels zonder naam vielen uit scenario's en de PDF-tabel, zodat 19 van
+ // de 28 rekentools daar alleen 'Result' bewaarden (btw zonder bruto, CAC zonder LTV). Nu: 'Label: waarde'-stukken
+ // (gescheiden door een middenpunt) worden benoemde velden, een kort label met daarna een getalregel wordt een paar
+ // (cap table), en wat dan nog zonder naam is blijft staan; bewaar() neemt het mee als 'Details'.
+ var uit=[];
+ for(var i=0;i<paren.length;i++){var p=paren[i];if(p[0]){uit.push(p);continue;}
+  var x=p[1],vlg=paren[i+1];
+  if(x.length<=32&&!/\d/.test(x)&&vlg&&!vlg[0]&&/^[\d$€£+\-−(]/.test(vlg[1])){uit.push([x,vlg[1].replace(/\s+/g,' ')]);i++;continue;}
+  var los=[];x.split(/\s*·\s*/).forEach(function(s){var m=s.match(/^([A-Z][A-Za-z ()\/%-]{1,40}):\s+(\S.*)$/);if(m)uit.push([m[1].trim(),m[2].replace(/\s+/g,' ').trim()]);else if(s.trim())los.push(s.replace(/\s+/g,' ').trim());});
+  if(los.length)uit.push(['',los.join(' · ')]);}
+ return uit;
 }
 function tekst(){var t=[naam+', '+PL.today(),''];velden().forEach(function(v){t.push(v[0]+': '+v[1]);});t.push('');uitkomst().forEach(function(p){t.push((p[0]?p[0]+': ':'')+p[1]);});
  var l=document.querySelector('link[rel=canonical]');t.push('','Calculated with '+((l&&l.href)||location.href).replace(/\/embed\/?$/,'/'));return t.join('\n');}
@@ -361,6 +371,8 @@ paneel.appendChild(acts);
 var cmp=null,S=[];
 if(type==='calc'){cmp=document.createElement('section');cmp.className='ws-cmp';cmp.hidden=true;cmp.setAttribute('aria-label','Saved scenarios');ws.appendChild(cmp);}
 function url(){var l=document.querySelector('link[rel=canonical]');return ((l&&l.href)||location.href).replace(/\/embed\/?$/,'/');}
+function bewaar(o){var n=o.filter(function(p){return p[0];}),r=o.filter(function(p){return !p[0];}).map(function(p){return p[1];});
+ if(r.length)n.push(['Details',r.join(' / ')]);return n;}
 function tabel(){
  var lbl=[];S.forEach(function(s){s.in.forEach(function(v){if(lbl.indexOf(v[0])<0)lbl.push(v[0]);});});
  var uitl=[];S.forEach(function(s){s.out.forEach(function(p){if(p[0]&&uitl.indexOf(p[0])<0)uitl.push(p[0]);});});
@@ -381,7 +393,7 @@ if(cmp)cmp.addEventListener('click',function(e){var z=e.target.getAttribute('dat
 function knop(){var b=acts.querySelector('[data-a=save]');if(b){b.disabled=S.length>=3;b.textContent=S.length>=3?'Three scenarios saved':'Save as scenario';}}
 acts.addEventListener('click',function(e){var a=e.target.getAttribute('data-a');if(!a)return;
  if(a==='copy'){PL.copy(type==='calc'?tekst():res.map(function(r){return (r.tagName==='INPUT'||r.tagName==='TEXTAREA')?r.value:(r.innerText||'').trim();}).filter(Boolean).join('\n\n'));if(typeof gtag==='function')gtag('event','tool_download',{event_label:'copy_'+(ws.getAttribute('data-slug')||'')});}
- if(a==='save'){if(S.length>=3)return;S.push({in:velden(),out:uitkomst().filter(function(p){return p[0];})});toonCmp();knop();PL.toast('Saved as scenario '+S.length);}
+ if(a==='save'){if(S.length>=3)return;S.push({in:velden(),out:bewaar(uitkomst())});toonCmp();knop();PL.toast('Saved as scenario '+S.length);}
  if(a==='pdf'){var blocks=[];
   if(S.length>1){var T=tabel();blocks.push({h:'Scenarios',table:{head:T.head,rows:T.rows,strong:T.rows.map(function(r,i){return i;}).filter(function(i){return i>=T.nIn;})}});}
   else{blocks.push({h:'Your figures',kv:velden().map(function(v){return [v[0],v[1]||'–'];})});
