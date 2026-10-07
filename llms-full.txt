@@ -103,8 +103,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## KrispCall
 - Review: https://zerotouchsupport.com/krispcall-review.html
-- Verdict: KrispCall: Essential $12 per user/mo billed annually or $15 monthly, for solo agents and teams up to 5 people. Same honest math as most budget VoIP.
-- Price: (re-verified 2026-08-17 against the vendor's own pricing page) Essential $12 per user/mo billed annually or $15 monthly, for solo agents and teams up to 5 people; Standard $32 per user/mo annually or $40 monthly, for teams scaling up to 50 users; Enterprise custom. Annual saves 20%, which the page puts at $36 per user a year on Essential and $96 on Standard, and each plan comes with $1 of free calling and SMS credit.
+- Verdict: KrispCall: Advance $32 or $40, up to 50 users. Same honest math as most budget VoIP: the plan buys the platform, the meter buys the conversations.
+- Price: (re-verified 2026-08-17 and 2026-10-07 against the vendor's own pricing page) Since our August reading the plans have been renamed and a tier added: Starter $12 per user/mo billed annually or $15 monthly, for teams up to 5 users; Advance $32 or $40, up to 50 users; Max $48 or $60, with no member limit; Enterprise custom, quoted as volume pricing for 50+ seats. Annual saves 20%, which the page puts at $36, $96 and…
 
 ## Lucrovox
 - Review: https://zerotouchsupport.com/lucrovox-review.html
