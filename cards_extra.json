@@ -218,6 +218,13 @@
   "best": "Enterprises that need to find the AI already running across their organisation, enforce policy on it at runtime, and build and govern their own agents."
  },
  "Airwallex": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$12",
   "price_note": "from · a month per active Spend user plus a team-size platform fee",
   "verified": "2026-09-19",
@@ -448,7 +455,7 @@
   "best": "Sales teams that want prospecting data, enrichment and sequencing in one affordable all-in-one platform."
  },
  "Arbor": {
-  "verified": "2026-08-17",
+  "verified": "2026-10-06",
   "catch": "The honest catches: it only exists in deregulated US states, and it only touches the supply rate, since delivery charges stay with your utility.",
   "best": "US households and renters in deregulated states who want set-and-forget savings on the electric bill without becoming rate-shopping hobbyists."
  },
@@ -487,11 +494,6 @@
  },
  "Assembly": {
   "flags": [
-   [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ],
    [
     "🧮",
     "Usage-metered",
@@ -722,11 +724,6 @@
  "Beefree": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -801,13 +798,6 @@
   "best": "Growing companies with real accounts-payable volume and approval chains that want to automate bill pay and sync to accounting."
  },
  "BillingNow": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "price": "$9.99",
   "price_note": "from · a month, or $99.90 a year ($8.33/mo), 3-day trial, no card required",
   "verified": "2026-08-20",
@@ -1226,7 +1216,7 @@
   ],
   "price": "$12",
   "price_note": "from · per user a month billed annually ($15 monthly)",
-  "verified": "2026-08-17",
+  "verified": "2026-10-06",
   "catch": "The subscription is the platform, not the talking: numbers, minutes and SMS meter separately from a credit balance, so an active calling team's real bill sits meaningfully above the per-seat sticker — model a month of your actual call volume before comparing vendors.",
   "best": "Startups and small teams that want a modern, affordable cloud phone system with international numbers and clean dashboards.",
   "pw": "plans rebuilt Aug 2026",
@@ -1454,6 +1444,11 @@
     "per_seat"
    ],
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -1590,7 +1585,7 @@
   ],
   "price": "€19",
   "price_note": "Lite · per user per month on annual billing",
-  "verified": "2026-08-16",
+  "verified": "2026-10-06",
   "catch": "The per-seat price is only part of it — number rental, outbound minutes and the AI add-ons stack on top, so a call-heavy team's real bill runs above the plan rate.",
   "best": "Support and sales teams that want a cloud call center with strong CRM integrations and call analytics."
  },
@@ -1707,11 +1702,6 @@
  "Compliancely": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "📅",
     "Annual commit",
     "annual_lock"
@@ -1820,11 +1810,6 @@
  "Credit Repair Cloud": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "📅",
     "Annual commit",
     "annual_lock"
@@ -1863,7 +1848,7 @@
   ],
   "price": "$71",
   "price_note": "from · a month billed annually (1 user, 5 sources, 150 AI credits)",
-  "verified": "2026-10-02",
+  "verified": "2026-10-06",
   "catch": "Each plan includes a fixed number of data sources and going over means moving up a whole tier, so one extra integration can mean the $199 Team Core to $319 Team Scale step.",
   "best": "SMBs and agencies that want clean KPI dashboards from 130+ one-click integrations without building them by hand."
  },
@@ -2326,7 +2311,7 @@
   ],
   "price": "A$10",
   "price_note": "HR Essentials · per employee per month excluding GST on the Australian pricing page…",
-  "verified": "2026-08-28",
+  "verified": "2026-10-06",
   "catch": "Every figure on the pricing page is AUD excluding GST with no US page, and HR, recruitment, chat and payroll are separate subscriptions with a minimum of ten users.",
   "best": "Australian and New Zealand employers who want HR and payroll from one vendor and will genuinely use both, where the per-employee rate beats separate systems."
  },
@@ -2483,11 +2468,6 @@
     "usage_metered"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
-   [
     "📅",
     "Annual commit",
     "annual_lock"
@@ -2516,11 +2496,6 @@
     "🔒",
     "Hidden pricing",
     "quote_only"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
    ]
   ],
   "price_state": "quote-only",
@@ -2556,7 +2531,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-10-04",
+  "verified": "2026-10-06",
   "catch": "Nothing is priced, so everything is negotiable — which cuts both ways.",
   "best": "Law firms past the point where a general project tool works, with enough matters that case-specific workflows and intake tracking pay back a negotiated annual contract."
  },
@@ -3055,12 +3030,17 @@
   ],
   "price": "$129",
   "price_note": "Lite · per month, annual billing only",
-  "verified": "2026-09-05",
+  "verified": "2026-10-06",
   "catch": "Mind the fine print between tiers: the entry plan does not include your annual tax filing (a ~$750 one-off on Lite), it is annual billing only, and messy back-months cost extra as catch-up fees.",
   "best": "Therapists and health-and-wellness practice owners — SLPs, dieticians, chiropractors, audiologists, coaches, massage and physical therapists."
  },
  "Hello Bar": {
   "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
    [
     "🆓",
     "Free tier",
@@ -3199,11 +3179,6 @@
     "per_seat"
    ],
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -3295,11 +3270,6 @@
     "per_seat"
    ],
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -3313,11 +3283,6 @@
  },
  "Instapage": {
   "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
    [
     "📅",
     "Annual commit",
@@ -3419,10 +3384,10 @@
     "annual_lock"
    ]
   ],
-  "price": "$23",
-  "price_note": "from · a month for one company billed annually ($28 monthly), unlimited users",
-  "verified": "2026-08-17",
-  "catch": "The $23 headline covers a single company on annual billing — but consolidation is the whole point of Joiin, and a real group of 10-20 entities lands at $92-139 a month.",
+  "price": "$28",
+  "price_note": "from · a month for one company on Core, billed annually ($35 monthly)",
+  "verified": "2026-10-06",
+  "catch": "The headline now hides a three-way split.",
   "best": "Finance teams and accountants consolidating multi-entity, multi-currency group reporting from Xero, QuickBooks or Sage without hand-built spreadsheets."
  },
  "Jotform AI Agents": {
@@ -3488,9 +3453,9 @@
     "addons_extra"
    ],
    [
-    "📅",
-    "Annual commit",
-    "annual_lock"
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$299",
@@ -3845,11 +3810,6 @@
  "LettrLabs": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -4042,11 +4002,6 @@
  },
  "MindStudio": {
   "flags": [
-   [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ],
    [
     "🧮",
     "Usage-metered",
@@ -4437,16 +4392,6 @@
  },
  "Nouswise": {
   "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
    [
     "📅",
     "Annual commit",
@@ -4880,11 +4825,6 @@
     "usage_metered"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -4935,11 +4875,6 @@
  "Pricefy": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "📅",
     "Annual commit",
     "annual_lock"
@@ -4989,7 +4924,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-30",
+  "verified": "2026-10-06",
   "catch": "Pricing is opaque and jumps steeply from Startup to Pro, with seat minimums that push the real cost above the headline per-member rate — you'll need a sales call to price it.",
   "best": "Operations-driven teams that run recurring, checklist-based processes and want them tracked and auditable.",
   "pw": "price held",
@@ -5123,11 +5058,6 @@
     "per_seat"
    ],
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -5145,11 +5075,6 @@
     "🔒",
     "Hidden pricing",
     "quote_only"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
    ]
   ],
   "price_state": "quote-only",
@@ -5515,11 +5440,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "price": "$29",
@@ -5691,13 +5611,6 @@
   "best": "Shopify fashion and apparel brands with real ad spend that want profit per SKU and per campaign in one place."
  },
  "Seller Investigators": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "verified": "2026-08-29",
   "catch": "Contingency pricing is the honest kind — you pay only out of money that arrived — but 25% of a recovery is not the same as 25% of a profit, and there is one question that decides whether this is worth it for you.",
   "best": "Established FBA sellers with enough inventory movement that discrepancies add up and nobody in-house has time to file case-by-case claims."
@@ -6196,13 +6109,6 @@
   "best": "Dropshippers who want vetted US and EU suppliers with faster shipping and one-click store integration, prioritizing delivery speed over raw catalog size."
  },
  "Stackable": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "price": "$19.99",
   "price_note": "Growth · per month, or $199.99 a year",
   "verified": "2026-09-17",
@@ -6398,11 +6304,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
    ]
   ],
   "price": "$20",
@@ -6415,11 +6316,6 @@
  },
  "Surfer (SurferSEO)": {
   "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
    [
     "📅",
     "Annual commit",
@@ -6453,11 +6349,6 @@
  },
  "SurveySparrow": {
   "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
    [
     "🆓",
     "Free tier",
@@ -6700,6 +6591,11 @@
  "TestGorilla": {
   "flags": [
    [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -6708,18 +6604,13 @@
     "📅",
     "Annual commit",
     "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
-  "price": "$142",
-  "price_note": "from · per month, annual commitment ($1,704/yr)",
-  "verified": "2026-08-30",
-  "catch": "Both paid tiers are annual-commitment only.",
-  "best": "Companies hiring steadily enough that a year of testing is cheaper than one bad hire, and who will actually use the library rather than writing their own questions."
+  "price": "$77",
+  "price_note": "from · per month billed annually",
+  "verified": "2026-10-07",
+  "catch": "The Assessments bill is set by credits, and the page does not say how many credits its 'from' prices include.",
+  "best": "Companies that screen enough candidates to use a credit pool every month, and who will use the 350+ test library rather than writing their own questions."
  },
  "TextExpander": {
   "flags": [
@@ -6908,7 +6799,7 @@
   ],
   "price": "$79",
   "price_note": "TE Recruit Standard… · per seat per month billed annually",
-  "verified": "2026-09-10",
+  "verified": "2026-10-06",
   "catch": "Almost everything people shop for sits in Professional, not Standard: Smart-TE AI, automations, sequences, inbound email sync and API access are all one tier up, so Standard is a competent but plain ATS.",
   "best": "Recruiting agencies and SMB staffing firms that want an applicant tracking system and CRM in one place."
  },
@@ -7200,13 +7091,6 @@
   "best": "Nonprofits that want donor CRM, fund accounting and online fundraising from one vendor, purpose-built for charities rather than adapted business tools."
  },
  "Vida AI": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "price": "$1,500",
   "price_note": "Pilot · a one-off scoped pilot, credited toward the first month in production",
   "verified": "2026-09-10",
@@ -7587,11 +7471,6 @@
  "Zeffy": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -7798,13 +7677,6 @@
   "best": "European organisations of roughly twenty people and up, on Google Workspace or Microsoft 365."
  },
  "Kumo": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "price": "$15",
   "price_note": "B2B · per month with unlimited pricing rules",
   "verified": "2026-09-16",
@@ -7966,13 +7838,6 @@
   "best": "Shopify merchants who know exactly which notice they need — a Prop 65 label, a shipping-delay alert, an age-verification disclaimer, a we-no-longer-ship-here message."
  },
  "Gushwork": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "price": "$900",
   "price_note": "from · a month, billed monthly, cancel anytime",
   "verified": "2026-09-21",
@@ -8225,13 +8090,6 @@
   "best": "Shopify merchants who run real, dated promotions, launches or shipping cut-offs and want a top-bar, product-page or cart countdown without code, starting on a free plan."
  },
  "GCheck": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "price": "$19.95",
   "price_note": "Basic · per year, per background check, current county of residence only",
   "verified": "2026-09-29",
@@ -8281,6 +8139,13 @@
   "best": "Small and mid-sized teams, especially remote or hybrid ones doing computer-based work such as support, BPO, IT services or back office, that want time tracking."
  },
  "Koala Bundles": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$12.99",
   "price_note": "Kickstart · per month for up to $1,000 of bundle offer revenue, or $131.88 a year",
   "verified": "2026-09-30",
@@ -8457,11 +8322,6 @@
  "Krystal": {
   "flags": [
    [
-    "📈",
-    "Renewal jump",
-    "renewal_jump"
-   ],
-   [
     "📅",
     "Annual commit",
     "annual_lock"
@@ -8488,11 +8348,6 @@
     "per_seat"
    ],
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -8505,13 +8360,6 @@
   "best": "Shopify stores that want a paid or free membership with store credit, member pricing, free shipping, gated products and checkout."
  },
  "Bold Upsell": {
-  "flags": [
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ]
-  ],
   "price": "$4.99",
   "price_note": "Shopify Basic · per month, the price follows your Shopify plan: $24.99 on Grow, $74.99 on…",
   "verified": "2026-10-06",
@@ -8571,5 +8419,66 @@
   "verified": "2026-10-06",
   "catch": "Designing is free but downloading is paid, and once you download you lose the refund; there is no one-off logo price.",
   "best": "Small businesses, solo founders and agencies that want a logo, a matching brand kit and on-brand social posts, bio pages and a simple website from one tool."
+ },
+ "Positive User": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "€69",
+  "price_note": "Campaigns · per month billed annually, 1 seat included",
+  "verified": "2026-10-07",
+  "catch": "Every plan caps email at 60,000 a year, only annual prices are printed, and auto-renewal needs 30 days notice to stop.",
+  "best": "European small and mid-sized businesses that want email, SMS, WhatsApp and website behaviour tracking in one EU-hosted platform."
+ },
+ "UserTrail": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$39",
+  "price_note": "Basic · per month billed yearly, 10,000 sessions and 3 websites",
+  "verified": "2026-10-07",
+  "catch": "Sessions are shared across all your sites, and tracking pauses until next month when they run out.",
+  "best": "Small and mid-sized websites that want heatmaps, session replays, funnels and form analytics in one tool, with a free plan to try it on real traffic."
+ },
+ "AccuWeb Hosting": {
+  "flags": [
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ]
+  ],
+  "price": "€4.42",
+  "price_note": "VPS Edge · per month on a 24-month term, New York location",
+  "verified": "2026-10-07",
+  "catch": "Prices are 24-month introductory rates that renew at about two to four times as much.",
+  "best": "Developers and small businesses that want a cheap Linux or Windows VPS, or a dedicated server in a specific region, and will compare hosts on the renewal price."
+ },
+ "Zenind": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "verified": "2026-10-07",
+  "catch": "The $0 package excludes the state fee, the $99-a-year registered agent and the operating agreement.",
+  "best": "Founders, including non-US founders, who want to form a US LLC or corporation online and compare a clear one-time package price, and who will check the yearly add-ons."
+ },
+ "NameRobot": {
+  "price": "$19",
+  "price_note": "NameScore, 1 NameReport · one-time, excluding VAT, shown as an offer against a regular $39",
+  "verified": "2026-10-07",
+  "catch": "NameScore prices are offers against regular prices twice as high, and the checks are a screening, not legal trademark clearance.",
+  "best": "Founders, agencies and marketers naming a company or product who want generators plus a paid availability and sound check per name, without a subscription."
  }
 }
