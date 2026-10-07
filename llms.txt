@@ -67,6 +67,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Test a helpdesk before you buy](https://zerotouchsupport.com/tools/software-test-drive/)
 
 ## Machine-readable
+- [For AI agents](https://aibuildermarketplace.com/agents/): a read-only JSON API covering the reviews on this site too. https://aibuildermarketplace.com/api/v1/index.json lists every product; each record links its canonical review here, plan prices where structured, cost traps with full evidence, the pricing date and what is unknown. No key needed.
 - [Full review catalog with prices (plain text)](https://zerotouchsupport.com/llms-full.txt)
 - [Structured JSON](https://zerotouchsupport.com/data.json): tools in this niche as JSON
 - Network: [AIBuilder Marketplace](https://aibuildermarketplace.com) holds the wider catalog (https://aibuildermarketplace.com/llms.txt); this site is the canonical home for the reviews listed above.
