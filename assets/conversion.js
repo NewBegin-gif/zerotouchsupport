@@ -80,6 +80,9 @@
 
     // ---- Primaire affiliate-CTA: eerste echte sponsored-link (werkt voor ELKE affiliate) ----
     function findCTA(){
+      // 7 okt 2026: overzichten (deals) zetten de vaste productbalk uit; die wees naar de eerste partnerlink,
+      // niet naar wat de bezoeker zocht (Bolt op AIBM, Lucrovox op ZTS).
+      if (document.querySelector('meta[name="aibm-sticky-cta"][content="off"]')) return null;
       var a = document.querySelector('a[rel~="sponsored"][href^="http"]');
       if (a) return a.href;
       var B = ['kinsta.com','beehiiv','bitvavo','synthesia','invideo','replit','clay.com','murf.ai','wp-rocket','rankmath','jotform','chemicloud','frase.io','hostinger','foxit','keap','tresorit','partnerstack','partnerlinks'];
