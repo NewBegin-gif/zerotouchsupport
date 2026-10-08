@@ -504,7 +504,12 @@ def main():
         for t in tools
     )
 
-    index = (root / "index.html").read_text(encoding="utf-8")
+    # 8 okt 2026: de homepage is compact (build_zuster_home_compact.py); de catalogus met alle kaarten staat
+    # sindsdien op software.html. Staan de TOOLS-markers niet meer op de homepage, dan schrijven we daarheen.
+    doel = root / "index.html"
+    if START not in doel.read_text(encoding="utf-8") and (root / "software.html").is_file():
+        doel = root / "software.html"
+    index = doel.read_text(encoding="utf-8")
     # het onaangeroerde origineel bewaren: de injectie hieronder wijzigt
     # `index`, en dan zou de vergelijking aan het eind zijn eigen
     # wijziging niet meer zien
@@ -569,8 +574,8 @@ def main():
     )
 
     if new_index != _origineel:
-        (root / "index.html").write_text(new_index, encoding="utf-8")
-        print(f"index.html bijgewerkt: {len(tools)} kaarten")
+        doel.write_text(new_index, encoding="utf-8")
+        print(f"{doel.name} bijgewerkt: {len(tools)} kaarten")
     else:
         print(f"geen wijzigingen ({len(tools)} kaarten)")
 
