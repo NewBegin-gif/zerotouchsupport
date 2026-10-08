@@ -2234,7 +2234,7 @@
   ],
   "price": "$39",
   "price_note": "Essential, per agent · per agent per month billed annually ($49 billed monthly)",
-  "verified": "2026-09-29",
+  "verified": "2026-10-07",
   "catch": "The per-agent price is the entry ticket, but the AI Agent charges $0.99 for every automated resolution on top, a variable line that scales with your ticket volume.",
   "best": "E-commerce and marketplace sellers who want one unified inbox across Amazon, eBay, Shopify and email."
  },
@@ -2963,7 +2963,7 @@
   ],
   "price": "$90",
   "price_note": "Basic · per month, month-to-month",
-  "verified": "2026-09-08",
+  "verified": "2026-10-07",
   "catch": "Never priced per agent is a real advantage, but it starts one tier up: the comparison table caps Starter at 3 user seats, and only Basic and above open the inbox to 500.",
   "best": "Ecommerce support teams with seasonal or spiky volume, where per-agent pricing punishes you for having enough people on a busy week."
  },
@@ -5265,7 +5265,7 @@
   ],
   "price": "$239",
   "price_note": "from · per license a month and iQ $299",
-  "verified": "2026-08-17",
+  "verified": "2026-10-07",
   "catch": "The per-seat price is premium: the dialer earns its keep on a 5-plus-agent floor, but for one or two reps it's expensive for what a lighter dialer would do.",
   "best": "High-volume outbound call teams (insurance, real estate, collections) with 5+ agents that need predictive dialing, compliance tools and supervisor monitoring.",
   "pw": "price held",
@@ -5305,7 +5305,7 @@
   ],
   "price": "$99",
   "price_note": "from · per month billed annually ($1,188/yr), up to $60K tracked ARR",
-  "verified": "2026-08-17",
+  "verified": "2026-10-07",
   "catch": "The advertised $99 is the annual-commitment rate — month-to-month is $149.",
   "best": "B2B SaaS teams with a product-led motion that want to launch an affiliate program and tap an affiliate-discovery network, and are comfortable committing annually."
  },
@@ -7172,12 +7172,12 @@
    ]
   ],
   "price": "$12",
-  "price_note": "from · per month billed annually ($144/yr), or $24 monthly",
-  "verified": "2026-09-20",
+  "price_note": "from · per month billed annually ($144/yr), or $19 month to month",
+  "verified": "2026-10-07",
   "catch": "Credits don't carry over month to month, and a few users report slow support/account responses — so run the free plan through a full create-and-publish loop before you pay.",
   "coupon": {
    "code": "AIBUILDERMARKETPLACE",
-   "label": "10% off"
+   "label": "10% off all paid VidPal plans"
   },
   "best": "Creators and small brands running faceless or topic-based channels that want the trend-find, generate and auto-publish loop handled in one tool across TikTok."
  },
@@ -7577,8 +7577,8 @@
   ],
   "price": "$19",
   "price_note": "from · per agent a month, annual billing (US storefront)",
-  "verified": "2026-09-05",
-  "catch": "Three separate multipliers sit on top of the number you first see. The prices shown are annual-billed — the page states a 20% annual discount and never prints the monthly rate, so budgeting month-to-month means adding roughly a quarter yourself.",
+  "verified": "2026-10-07",
+  "catch": "Three separate multipliers sit on top of the number you first see. The prices shown are annual-billed — month-to-month costs more: €25, €69 and €149 per agent against €19, €55 and €115, read from the Netherlands on 7 October 2026.",
   "best": "Support teams past the point where a shared inbox works, who need routing, a help centre and reporting in one place and have the volume to justify per-agent pricing."
  },
  "Zendrop": {
@@ -8552,5 +8552,78 @@
   "verified": "2026-10-07",
   "catch": "NameScore prices are offers against regular prices twice as high, and the checks are a screening, not legal trademark clearance.",
   "best": "Founders, agencies and marketers naming a company or product who want generators plus a paid availability and sound check per name, without a subscription."
+ },
+ "Vendoo": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$12.49",
+  "price_note": "Starter · per month billed yearly",
+  "verified": "2026-10-08",
+  "catch": "The 14-day trial needs a card and converts automatically; paid charges are non-refundable.",
+  "best": "Resellers listing on several marketplaces such as eBay, Poshmark, Mercari and Depop who want one inventory with automatic delisting when an item sells."
+ },
+ "Weblium": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$11",
+  "price_note": "Starter · per month billed yearly ($132 a year), one website",
+  "verified": "2026-10-08",
+  "catch": "Starter stops at 10 pages with no blog or shop, and each subscription covers one site.",
+  "best": "Small businesses and freelancers who want a template-based site with forms and integrations for one business, at a low yearly price."
+ },
+ "24-7PressRelease": {
+  "price": "$29",
+  "price_note": "Simple Post · one-off, per release, posted on their own site only",
+  "verified": "2026-10-08",
+  "catch": "Priced per release; the $29 plan only posts on their own site, without distribution.",
+  "best": "Small businesses, authors and local firms that send an occasional announcement and want a fixed per-release price instead of a PR subscription."
+ },
+ "Contabo": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "€4.40",
+  "price_note": "Cloud VPS 4 · per month on a 24-month term, excluding VAT, 4 vCPU, 8 GB RAM, 100 GB…",
+  "verified": "2026-10-08",
+  "catch": "The headline price needs a prepaid 24-month term; backups and panels cost extra.",
+  "best": "Developers and small teams who are comfortable running their own Linux server and want the most RAM and CPU for the money, and can commit to a longer term."
+ },
+ "NordPass": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "€1.99",
+  "price_note": "from · per month for the first year",
+  "verified": "2026-10-08",
+  "catch": "Teams only comes as a 10-user pack; Business and Enterprise need 5 users minimum.",
+  "best": "Small and mid-sized companies that want a simple password manager with sharing and breach monitoring, and individuals who want a cheap first year of Premium."
  }
 }
