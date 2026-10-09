@@ -459,7 +459,7 @@
   "best": "Sales teams that want prospecting data, enrichment and sequencing in one affordable all-in-one platform."
  },
  "Arbor": {
-  "verified": "2026-10-06",
+  "verified": "2026-10-09",
   "catch": "The honest catches: it only exists in deregulated US states, and it only touches the supply rate, since delivery charges stay with your utility.",
   "best": "US households and renters in deregulated states who want set-and-forget savings on the electric bill without becoming rate-shopping hobbyists."
  },
@@ -478,7 +478,7 @@
   ],
   "price": "$4.99",
   "price_note": "Starter · per month for 500 AI replies with automatic shopper-language detection…",
-  "verified": "2026-09-28",
+  "verified": "2026-10-09",
   "catch": "One review. The app launched on 8 May 2026, and in three and a half months exactly one merchant has written about it.",
   "best": "Small stores with repetitive product, shipping and returns questions who want a cheap multilingual FAQ widget and can test the answer quality on their own policy pages for free first.",
   "pw": "price held",
@@ -494,7 +494,7 @@
   ],
   "price": "S$15",
   "price_note": "from · a month (SGD)",
-  "verified": "2026-10-02",
+  "verified": "2026-10-09",
   "catch": "It's a fintech account (strongest in Southeast Asia), not a full bank — great for keeping fixed costs near zero on mostly-domestic activity, but confirm it supports your country and currencies before you build your finances around it.",
   "best": "Startups and SMBs that want an all-in-one business account with $0 monthly fees and built-in spend management."
  },
@@ -870,7 +870,7 @@
   "best": "Sales and RevOps teams that already run enrichment across several vendors and want the waterfall, the signals and the CRM sync in one place."
  },
  "Bitvavo": {
-  "verified": "2026-08-18",
+  "verified": "2026-10-08",
   "catch": "The honest caveats are crypto-wide, not Bitvavo-specific: fees are only part of the cost (spread matters on small orders), and no exchange removes market risk — the platform being cheap and MiCA-regulated doesn't make the assets safe.",
   "best": "EU-based traders and builders who want a MiCA-regulated, euro-native exchange with low tiered fees, deep EUR pairs and a solid API for automation."
  },
@@ -1600,7 +1600,7 @@
   "pw_soort": "held"
  },
  "CloudTask": {
-  "verified": "2026-08-19",
+  "verified": "2026-10-08",
   "catch": "The $299 is the honest part and also the small part: their FAQ calls it a one-time deposit to start a search, denies any monthly platform fee, and says it goes toward your first placement.",
   "best": "Companies hiring GTM roles — SDRs, BDRs and similar."
  },
@@ -3161,7 +3161,7 @@
   ],
   "price": "$2.99",
   "price_note": "from · a month (48-month prepaid term, $143.52 upfront), renews at $10.99/mo",
-  "verified": "2026-08-18",
+  "verified": "2026-10-09",
   "catch": "The headline price only holds if you prepay years up front — renewals run several times the intro rate, the number-one complaint.",
   "best": "Budget-conscious owners and side projects that want cheap, decent hosting and will prepay a multi-year term."
  },
@@ -5347,6 +5347,11 @@
  "Reply.io": {
   "flags": [
    [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -5355,16 +5360,11 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "📅",
-    "Annual commit",
-    "annual_lock"
    ]
   ],
   "price": "$49",
-  "price_note": "Email Volume, 1,000… · per month, pay-as-you-go by active contacts",
-  "verified": "2026-08-17",
+  "price_note": "Email Volume, 1,000… · per user per month billed annually, by active contacts…",
+  "verified": "2026-10-09",
   "catch": "The $89 is the Multichannel track on annual billing, and it does include LinkedIn, calls, SMS and WhatsApp — $99 month to month.",
   "best": "Sales teams running structured multichannel outbound (email + LinkedIn + calls) who want sequences, warmup and a B2B database in one platform."
  },
@@ -7645,7 +7645,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-08-17",
+  "verified": "2026-10-08",
   "catch": "The contract is the most-cited frustration: annual lock-in with a strict 60–90 day cancellation window and 10–20% renewal increases.",
   "best": "Enterprise go-to-market teams that need the deepest US database, buyer-intent signals and conversation intelligence — and can absorb the contract."
  },

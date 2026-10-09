@@ -24,7 +24,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## AskNest
 - Review: https://zerotouchsupport.com/asknest-review.html
 - Verdict: AskNest: All charges are billed in USD and recur every 30 days, and no paid tier shows a free trial — the free plan is the trial.
-- Price: (read 2026-08-19 on apps.shopify.com/asknest-ai-faq-product-bot, re-verified unchanged 2026-09-28) Four tiers, priced by AI replies per month, and the cheapest ladder in this category. Free: 50 AI replies a month, replies in one language you select, answers drawn from your FAQs, policy pages and product data, translated storefront widget, product finder and usage tracking.
+- Price: (read 2026-08-19 on apps.shopify.com/asknest-ai-faq-product-bot, re-verified unchanged 2026-09-28 and 2026-10-09) Four tiers, priced by AI replies per month, and the cheapest ladder in this category. Free: 50 AI replies a month, replies in one language you select, answers drawn from your FAQs, policy pages and product data, translated storefront widget, product finder and usage tracking.
 
 ## bOnline
 - Review: https://zerotouchsupport.com/bonline-review.html
