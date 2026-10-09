@@ -8625,5 +8625,73 @@
   "verified": "2026-10-08",
   "catch": "Teams only comes as a 10-user pack; Business and Enterprise need 5 users minimum.",
   "best": "Small and mid-sized companies that want a simple password manager with sharing and breach monitoring, and individuals who want a cheap first year of Premium."
+ },
+ "CO2 Impact": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "£468",
+  "price_note": "from · per year (£39/mo) for 1 user and 1 site",
+  "verified": "2026-10-09",
+  "catch": "12-month commitment on every plan; automated meter data costs extra per meter.",
+  "best": "UK small and mid-sized businesses that need a first carbon footprint, Scope 1-3 reporting or a carbon reduction plan for customers and tenders."
+ },
+ "Omneky": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$29",
+  "price_note": "Lite · monthly price",
+  "verified": "2026-10-09",
+  "catch": "Credits per month are listed, but not what an ad costs in credits.",
+  "best": "E-commerce brands and performance marketers who want AI-generated image and video ads launched and measured across Meta, Google, TikTok and other channels from one place."
+ },
+ "Wondershare PDFelement": {
+  "price": "$79.99",
+  "price_note": "Yearly Plan… · per year, V13 launch discount, struck-through price US$129",
+  "verified": "2026-10-09",
+  "catch": "Launch-discount prices; 50 AI uses and 3 eSign requests per paid plan.",
+  "best": "Individuals and small offices on Windows or Mac who want a full PDF editor with OCR, forms and conversion, and prefer a one-time licence over an Acrobat subscription."
+ },
+ "iubenda": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "€4.99",
+  "price_note": "Essentials · per site per month billed yearly, excl",
+  "verified": "2026-10-09",
+  "catch": "Per-site pricing with a pageview quota; one language on Essentials.",
+  "best": "Website owners and small businesses in the EU and elsewhere that want a cookie banner, consent records and generated privacy and cookie policies in one subscription."
+ },
+ "Brizy": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$19",
+  "price_note": "Personal (Cloud) · billed monthly, 1 website, hosting included",
+  "verified": "2026-10-09",
+  "catch": "One site on Personal; each extra site is $17 a month.",
+  "best": "Freelancers and agencies that build several client websites and want hosting included, with a white-label option to resell the builder under their own brand."
  }
 }
