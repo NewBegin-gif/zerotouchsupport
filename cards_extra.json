@@ -8779,5 +8779,18 @@
   "verified": "2026-10-10",
   "catch": "Checkout add-ons need a paid bundle, and renewals cost double the first year.",
   "best": "Course creators and training businesses already on WordPress who want to own their course site and pay a yearly licence instead of a monthly platform fee."
+ },
+ "Samsara": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ]
+  ],
+  "price_state": "quote-only",
+  "verified": "2026-10-10",
+  "catch": "No public prices; the licence auto-renews unless you cancel in writing 30 days before it ends.",
+  "best": "Fleets that want safety cameras, telematics and equipment tracking from one vendor and are prepared to negotiate a multi-package quote."
  }
 }
