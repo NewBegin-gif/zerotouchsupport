@@ -8703,5 +8703,81 @@
   "verified": "2026-10-09",
   "catch": "One site on Personal; each extra site is $17 a month.",
   "best": "Freelancers and agencies that build several client websites and want hosting included, with a white-label option to resell the builder under their own brand."
+ },
+ "Optery": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ]
+  ],
+  "price": "$3.25",
+  "price_note": "Core · per month billed yearly ($39 a year)",
+  "verified": "2026-10-10",
+  "catch": "Core removes one name and one address only; variations and past cities need Extended.",
+  "best": "People in the US who want their home address and phone number off people-search sites, from a free self-service scan up to a managed service with a human agent."
+ },
+ "Lusha": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$37.45",
+  "price_note": "Starter · per month billed yearly, 4,800 credits a year granted upfront, 1 seat",
+  "verified": "2026-10-10",
+  "catch": "A phone number costs 5 credits; Starter's 400 monthly credits buy 80 phones.",
+  "best": "Sales reps and small B2B teams who want verified emails and direct dials from a Chrome extension on LinkedIn and company sites, paid by the credit."
+ },
+ "Help Scout": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$25",
+  "price_note": "Standard · per user per month billed yearly",
+  "verified": "2026-10-10",
+  "catch": "Free stops at 100 contacts a month; Pro needs at least 10 users.",
+  "best": "Small and mid-sized support teams that want an email-first shared inbox with live chat and a help centre, priced per user without a minimum below Pro."
+ },
+ "LifterLMS": {
+  "flags": [
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$199",
+  "price_note": "Earth Bundle · per year, first year with the 50% introductory price, 1 active site",
+  "verified": "2026-10-10",
+  "catch": "Checkout add-ons need a paid bundle, and renewals cost double the first year.",
+  "best": "Course creators and training businesses already on WordPress who want to own their course site and pay a yearly licence instead of a monthly platform fee."
  }
 }
