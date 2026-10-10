@@ -176,9 +176,9 @@
     "per_seat"
    ]
   ],
-  "price": "€149",
-  "price_note": "from · per user a month, billed monthly",
-  "verified": "2026-08-26",
+  "price": "€499",
+  "price_note": "from · a month, billed annually (€5,988 a year)",
+  "verified": "2026-10-10",
   "catch": "Young product, sharp focus: European B2B prospecting on a 65-million-company database with meeting notes flowing into records automatically.",
   "best": "European B2B sales teams that want AI-assisted prospecting and automatic meeting/CRM hygiene from a Europe-native database."
  },
@@ -215,7 +215,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-10",
+  "verified": "2026-10-10",
   "catch": "Airia no longer publishes a price: since 20 August 2026 the pricing page redirects into developer documentation, so you cannot budget before a sales conversation.",
   "best": "Enterprises that need to find the AI already running across their organisation, enforce policy on it at runtime, and build and govern their own agents."
  },
@@ -704,7 +704,7 @@
   ],
   "price": "$19",
   "price_note": "Essentials · per month for a live store up to 300 orders a month",
-  "verified": "2026-08-22",
+  "verified": "2026-10-10",
   "catch": "The listing header says free to install, and there is a free tier, but it is not for you unless you are an agency: Agency is limited to Shopify Partner development stores before they are handed over to a client.",
   "best": "Shopify stores under roughly 1,500 orders a month that want the whole store backed up daily — metafields, metaobjects and translations included."
  },
@@ -1224,7 +1224,7 @@
   ],
   "price": "$12",
   "price_note": "from · per user a month billed annually ($15 monthly)",
-  "verified": "2026-10-06",
+  "verified": "2026-10-10",
   "catch": "The subscription is the platform, not the talking: numbers, minutes and SMS meter separately from a credit balance, so an active calling team's real bill sits meaningfully above the per-seat sticker — model a month of your actual call volume before comparing vendors.",
   "best": "Startups and small teams that want a modern, affordable cloud phone system with international numbers and clean dashboards.",
   "pw": "plans rebuilt Aug 2026",
@@ -1806,21 +1806,38 @@
   ],
   "price": "$29",
   "price_note": "from · per month, 1 user, unlimited usage",
-  "verified": "2026-08-21",
+  "verified": "2026-10-09",
   "catch": "It's deliberately narrow — instant, no-download screen sharing for sales calls — so it's excellent at that one job and thin everywhere else: no full video-conferencing suite, no deep collaboration or webinar tooling.",
   "best": "Sales reps, insurance agents and consultants who need prospects to view a screen instantly with no download or install, on any device.",
   "pw": "price held",
   "pw_soort": "held"
  },
  "Crazy Egg": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
   "price": "$29",
   "price_note": "from · per month billed annually (5,000 pageviews, 50 recordings)",
-  "verified": "2026-08-21",
+  "verified": "2026-10-10",
   "catch": "The entry plan is thin on recordings — 50 a month against Hotjar's far more generous free tier.",
-  "best": "Lean marketing teams that want heatmaps, recordings and built-in A/B testing in one consolidated tool — noting that testing starts on the $99 plan, not the $29 one."
+  "best": "Lean marketing teams that want heatmaps, recordings and built-in A/B testing in one consolidated tool."
  },
  "Credit Repair Cloud": {
   "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
    [
     "📅",
     "Annual commit",
@@ -1829,7 +1846,7 @@
   ],
   "price": "$49",
   "price_note": "from · a month for one user",
-  "verified": "2026-08-21",
+  "verified": "2026-10-10",
   "catch": "This is business-in-a-box software for starting a credit-repair company, not a tool that repairs your own credit — the price only makes sense if you're actually building a client business on it.",
   "best": "Entrepreneurs building or running a credit-repair business who need client management, dispute automation and done-for-you letter workflows."
  },
@@ -1990,7 +2007,7 @@
   ],
   "price": "$25.21",
   "price_note": "from · per month billed annually ($31.50 billed monthly)",
-  "verified": "2026-08-21",
+  "verified": "2026-10-10",
   "catch": "It's a data-capture layer, not accounting software — it feeds Xero, QuickBooks or Sage, so you still need one of those.",
   "best": "Accountants, bookkeepers and growing businesses drowning in receipts who want fast, accurate capture flowing straight into Xero, QuickBooks or Sage."
  },
@@ -2004,7 +2021,7 @@
   ],
   "price": "$59",
   "price_note": "from · a month ($590/yr) per workspace",
-  "verified": "2026-08-21",
+  "verified": "2026-10-09",
   "catch": "'Free' self-hosting isn't free — you own the servers, updates and reliability, and model usage bills separately once the included message credits run out.",
   "best": "Technical teams that want to build and ship LLM apps and agents on a source-available platform they can self-host and control."
  },
@@ -2135,13 +2152,12 @@
  "Dryground AI": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
-  "price_state": "quote-only",
-  "verified": "2026-08-21",
+  "verified": "2026-10-10",
   "catch": "This is consulting, not a tool you log into: best when you want AI designed and built for you, not when you'd rather DIY with software.",
   "best": "Businesses that want AI solutions built for them as a services engagement rather than assembling tools themselves."
  },
@@ -2432,14 +2448,24 @@
  "ExpertEx": {
   "flags": [
    [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$10",
   "price_note": "from · a month, or $7 billed yearly, for 1,000 credits",
-  "verified": "2026-08-22",
+  "verified": "2026-10-10",
   "catch": "The plan cards and the calculator on the same page do not agree, and the gap is large enough to pick the wrong tier.",
   "best": "Online stores that need a steady stream of product photos and short video ads and would otherwise pay a studio or a freelancer per shoot."
  },
@@ -5566,7 +5592,7 @@
  "Scarcity.AI": {
   "price": "$4.99",
   "price_note": "Monthly Plan… · per month for the low stock counter, or $41.91 a year",
-  "verified": "2026-08-22",
+  "verified": "2026-10-10",
   "catch": "All three read real data, which is worth saying before anything else — the low stock counter shows inventory levels and the visitors counter reads unique visitors, live traffic and product views.",
   "best": "Shopify merchants who genuinely run low stock or timed promotions and want to surface that on the product page."
  },
@@ -6251,20 +6277,15 @@
  "Storista": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
   "price": "$15",
-  "price_note": "Basic · per month for 50 videos and basic analytics, billed in USD every 30…",
-  "verified": "2026-08-23",
-  "catch": "The first thing to know is that the brand sells two different products, and the one you find by searching the name is not the one this link installs.",
+  "price_note": "Starter · per month, removing Storista's branding and adding Instagram/TikTok…",
+  "verified": "2026-10-10",
+  "catch": "The first thing to know is how much this ladder has moved.",
   "best": "Shopify stores that already produce TikTok or Reels content and want it on the storefront as shoppable video."
  },
  "Storylane": {
@@ -7877,8 +7898,8 @@
   ],
   "price": "$20",
   "price_note": "from · per month billed annually ($25 monthly), 10,000 visitors",
-  "verified": "2026-09-19",
-  "catch": "The plan Poptin recommends does not have a price on it.",
+  "verified": "2026-10-10",
+  "catch": "Poptin sells two products behind one toggle, and the catch depends on which one you buy.",
   "best": "Sites that want popups, forms and coupons with a genuinely usable free tier and a cheap first paid rung."
  },
  "rePete": {
