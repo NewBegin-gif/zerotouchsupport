@@ -47,7 +47,7 @@
   ],
   "price": "$15",
   "price_note": "from · per month billed annually (1 user)",
-  "verified": "2026-09-29",
+  "verified": "2026-10-09",
   "catch": "Pricing climbs with contact count and the add-ons (CRM, SMS, extra seats) stack up fast — the sticker Starter price is not what a serious automation setup actually costs.",
   "best": "Businesses that want deep marketing automation and lifecycle email tied to a light CRM, and will actually use the automation depth.",
   "pw": "price held",
@@ -145,8 +145,8 @@
   ],
   "price": "$19",
   "price_note": "Starter · per month for 100 successful automated fixes, billed in USD every 30…",
-  "verified": "2026-08-19",
-  "catch": "Thirteen days old and no reviews.",
+  "verified": "2026-10-09",
+  "catch": "Two months old and still no reviews. The app launched on 6 August 2026; on 9 October 2026 the listing still showed zero reviews, which is not a criticism so much as the plain state of the evidence.",
   "best": "Stores that want an outside read on whether their product data is complete enough for AI shopping surfaces."
  },
  "AhaSlides": {
@@ -527,7 +527,7 @@
   ],
   "price": "$39",
   "price_note": "All-in-one · per month, plus usage charges that scale with the revenue your store…",
-  "verified": "2026-08-19",
+  "verified": "2026-10-09",
   "catch": "The meter runs on your success, not your usage.",
   "best": "Sellers testing many product ideas quickly who want a full Shopify storefront from a single product link."
  },
@@ -634,8 +634,8 @@
   ],
   "price": "$9",
   "price_note": "Starter · per month, billed every 30 days in USD",
-  "verified": "2026-08-19",
-  "catch": "The honest thing to say about this one is that there is nothing to judge yet: on 18 August 2026 the App Store listing showed a rating of 0.0 from zero reviews.",
+  "verified": "2026-10-09",
+  "catch": "The honest thing to say about this one is that there is nothing to judge yet: on 18 August 2026 the App Store listing showed a rating of 0.0 from zero reviews, and on 9 October 2026 it still did.",
   "best": "Shopify stores that want to test AI-written blog posts with SEO scoring at no cost, and who treat the output as a first draft rather than as publishable copy."
  },
  "Auware": {
@@ -679,9 +679,9 @@
     "free_tier"
    ]
   ],
-  "price": "$12.49",
-  "price_note": "from · per month billed annually at 500 subs",
-  "verified": "2026-10-01",
+  "price": "$12.50",
+  "price_note": "from · per month billed annually ($15 monthly) at 0-500 subscribers",
+  "verified": "2026-10-09",
   "catch": "The free and low tiers are generous, but Lite and Plus prices climb with your subscriber count, so budget for growth.",
   "best": "Small businesses and creators who want reliable, simple email marketing with a genuinely usable free tier."
  },
@@ -753,7 +753,7 @@
   ],
   "price": "$59",
   "price_note": "Lite, up to 1,000… · billed monthly",
-  "verified": "2026-10-05",
+  "verified": "2026-10-09",
   "catch": "Next to Substack it's more to learn.",
   "best": "Newsletter operators who want growth tools, automation, SEO control and ad/referral monetisation — and to keep 100% of subscription revenue."
  },
@@ -808,7 +808,7 @@
  "BillingNow": {
   "price": "$9.99",
   "price_note": "from · a month, or $99.90 a year ($8.33/mo), 3-day trial, no card required",
-  "verified": "2026-08-20",
+  "verified": "2026-10-09",
   "catch": "The trial is three days and there is no import path: the help centre documents CSV and Excel export but no import, so an existing client list has to be retyped.",
   "best": "Freelancers and small teams that want unlimited invoicing, expenses and client management with zero per-user maths."
  },
@@ -932,7 +932,7 @@
   "best": "Tour, activity and experience operators who want booking management plus wide OTA distribution (Viator, GetYourGuide and more) from one dashboard."
  },
  "Bolt Business": {
-  "verified": "2026-08-20",
+  "verified": "2026-10-09",
   "catch": "The honest boundary is geography: Bolt's network is Europe/Africa-centric across 600+ cities, so US-only operations should look elsewhere, and ride availability varies by city — pilot it on your team's actual routes.",
   "coupon": {
    "code": "BB25OFF20",
@@ -1288,9 +1288,9 @@
     "annual_lock"
    ]
   ],
-  "price": "€9",
-  "price_note": "from · a month Website Builder add-on",
-  "verified": "2026-09-14",
+  "price": "€12.30",
+  "price_note": "from · per month (€10.80 billed annually) up to 500 contacts",
+  "verified": "2026-10-09",
   "catch": "You pay for contacts, not sends — so a large, quiet list costs the same as a large, active one, and dormant subscribers are literally a line item.",
   "best": "Small businesses and nonprofits that want polished, reliable email without a technical marketer - Campaign Monitor's own partner profile (July 2025) describes its buyer as a 10-100 person business with under 25,000 subscribers, sending one to ten campaigns a month and spending $100-$1,500 a month on the tool, self-service - plus agencies that manage sends for clients."
  },
@@ -1309,7 +1309,7 @@
   ],
   "price": "$14",
   "price_note": "from · per month at 1,000 contacts, but automation starts on Advanced at $35/mo",
-  "verified": "2026-09-05",
+  "verified": "2026-10-09",
   "catch": "Automation workflows and conversion tracking only arrive on Advanced (from $35 a month at 1,000 contacts) — Essentials is a sending tool with an API, not a marketing-automation platform — and the trial auto-converts to paid if you do not actively cancel, which tells you something about the retention strategy.",
   "best": "Mid-market senders with larger lists that want mature email plus SMS workflows and are comfortable at the Essential tier and up."
  },
@@ -1898,8 +1898,8 @@
    ]
   ],
   "price": "$14",
-  "price_note": "from · a month per worker for HR and hiring tools",
-  "verified": "2026-08-21",
+  "price_note": "from · a month per worker for Find talent (hiring)",
+  "verified": "2026-10-09",
   "catch": "Every price is a ‘starting at’ and every button says ‘book a demo’ — the real bill depends on countries, benefits and add-ons, and only firms up in a sales conversation.",
   "best": "Companies hiring internationally without local entities — contractors paid compliantly in 150+ countries, or full EOR employment where you need someone on the ground fast."
  },
@@ -2883,7 +2883,7 @@
   ],
   "price": "€13.12",
   "price_note": "from · per month billed annually (€16 monthly), quoted at 1,000 contacts",
-  "verified": "2026-10-02",
+  "verified": "2026-10-09",
   "catch": "Priced by contact count, so the entry number climbs as your list grows, and the best value only shows on long (annual/24-month) commitments.",
   "best": "Small businesses that want email plus landing pages, automation and webinars in one affordable suite."
  },
@@ -3194,7 +3194,7 @@
   ],
   "price": "$20",
   "price_note": "Starter, per seat · the list price per seat per month",
-  "verified": "2026-08-18",
+  "verified": "2026-10-09",
   "catch": "Three numbers on this pricing page are not what they look like, and they compound. The first is the $7. It is the number in large black type on the Starter card, and the $20 beside it in small grey type is the list price.",
   "best": "Teams that want marketing, sales, service and content on one contact database and will actually use more than one hub."
  },
@@ -3560,6 +3560,11 @@
  "Kit": {
   "flags": [
    [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -3567,7 +3572,7 @@
   ],
   "price": "$39",
   "price_note": "Creator · billed monthly",
-  "verified": "2026-09-02",
+  "verified": "2026-10-09",
   "catch": "Three honest notes. Subscriber-based pricing counts everyone on your list — cold subscribers cost the same as fans, so prune before you price.",
   "coupon": {
    "code": "",
@@ -4204,7 +4209,7 @@
   ],
   "price": "$7",
   "price_note": "from · per month billed yearly ($9 monthly)",
-  "verified": "2026-09-30",
+  "verified": "2026-10-09",
   "catch": "The friendly $7-9 headline is the entry rate at the smallest list size (500 contacts), and the ladder above it does not fall smoothly: paid annually, 8,000 contacts costs $51 a month while 10,000 costs $70, so a list of 9,000 sits on the wrong side of the sharpest jump on the slider.",
   "best": "Small businesses and marketers who want affordable email marketing and automation with a low entry price, a real free trial and a clean drag-and-drop builder."
  },
@@ -4310,8 +4315,8 @@
   ],
   "price": "$19",
   "price_note": "Starter · per month for 800 conversations, live human takeover and discount codes…",
-  "verified": "2026-08-19",
-  "catch": "The app is ten weeks old.",
+  "verified": "2026-10-09",
+  "catch": "The app is young.",
   "best": "Small and mid-size Shopify stores that want a multilingual, catalogue-aware chat widget with product cards, order tracking and add-to-cart."
  },
  "Nextify.ai": {
@@ -4577,11 +4582,16 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "$699",
   "price_note": "from · per employee a month",
-  "verified": "2026-08-29",
+  "verified": "2026-10-09",
   "catch": "Oyster holds a refundable deposit per EOR employee and takes an FX fee when currencies differ, and neither has a published figure, so $699 is the floor.",
   "best": "Companies hiring their first employees in countries where they have no legal entity."
  },
@@ -5324,7 +5334,7 @@
   ],
   "price": "$199",
   "price_note": "EOR Flex, per employee · billed monthly with no commitment, no setup fee and no minimum headcount",
-  "verified": "2026-10-06",
+  "verified": "2026-10-09",
   "catch": "Every rate is a 'from' price with no country-level figure, and recruitment fees charged as a share of salary can dwarf the subscription.",
   "best": "Small and mid-size teams hiring a handful of people abroad who want to pay monthly, keep the option to stop."
  },
@@ -6215,7 +6225,7 @@
   ],
   "price": "$7.99",
   "price_note": "Professional · per month for 500 FAQ page views and 50 AI chatbot conversations, with…",
-  "verified": "2026-08-21",
+  "verified": "2026-10-09",
   "catch": "The meter is FAQ page views, and that is the thing this app exists to increase.",
   "best": "Small Shopify stores that want SEO-tagged FAQ pages with JSON-LD schema and a light AI chatbot for deflection, without standing up a full support stack."
  },
@@ -6509,8 +6519,8 @@
    ]
   ],
   "price": "$9.99",
-  "price_note": "Basic · per month on the Shopify Basic plan",
-  "verified": "2026-08-21",
+  "price_note": "Business · per month on the Shopify Basic plan",
+  "verified": "2026-10-09",
   "catch": "The price on the listing is a Shopify-Basic price, and almost nobody reads the line underneath it.",
   "best": "Shopify merchants on the Basic or Grow plan who want SEO audits, bulk metadata, image alt text and speed fixes out of one app instead of hiring a specialist."
  },
@@ -6685,7 +6695,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-08-18",
+  "verified": "2026-10-09",
   "catch": "On a Mac the operating system already does the basic job free: Apple's built-in Text Replacement syncs static snippets across your Apple devices, though Apple's own documentation notes it is not available in every app.",
   "best": "Support, clinical-admin and recruiting teams that need everyone sending identical approved wording."
  },
