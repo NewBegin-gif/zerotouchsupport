@@ -3912,5 +3912,42 @@
     "domain": "samsara.com",
     "link": "https://partner.samsara.com/6uuztqtsdo0k",
     "desc": "Fleet operations platform: AI dash cams, GPS telematics, ELD compliance and trailer and equipment tracking, sold as separate packages to fleets."
+  },
+  {
+    "name": "Upsell & Cross Sell - AW",
+    "category": "Growth & Revenue",
+    "domain": "csell.io",
+    "desc": "Shopify upsell and cross-sell app by Aheadworks: hand-picked or automatic related-product recommendations, frequently-bought-together bundles and one-click add-ons on product pages, cart, checkout, thank-you and post-purchase pages, priced by recommendation clicks.",
+    "link": "https://platform.shoffi.app/r/rl_2xN42wSg",
+    "platform": "shopify"
+  },
+  {
+    "name": "Vify Order Printer",
+    "category": "E-commerce",
+    "domain": "vify.io",
+    "desc": "Shopify invoice and order printer app: customisable PDF invoices, packing slips, refunds, quotes and B2B invoices with VAT numbers, in several languages and currencies, with bulk printing and automatic invoice emails.",
+    "link": "https://platform.shoffi.app/r/rl_q6b21mXC",
+    "platform": "shopify"
+  },
+  {
+    "name": "Shopmonkey",
+    "category": "Operations & Workflow",
+    "domain": "shopmonkey.io",
+    "desc": "Shop management software for auto repair shops: estimates and invoices, digital vehicle inspections, customer texting, parts lookup and ordering, inventory, labor guides and integrated payments.",
+    "link": "https://get.shopmonkey.io/it5b6d0zad9z"
+  },
+  {
+    "name": "Pagecloud",
+    "category": "Website Builders",
+    "domain": "pagecloud.com",
+    "desc": "AI website builder for small businesses: describe your business and Pagecloud AI builds the site, which you edit by chat or on the page, with inquiry forms, privacy-first analytics, SEO settings and hosting included.",
+    "link": "https://cloudl.ink/vt47lrrhos6v"
+  },
+  {
+    "name": "Vanity Number",
+    "category": "Communication & Voice",
+    "domain": "vanitynumber.com",
+    "desc": "Marketplace for memorable North American local and toll-free phone numbers, sold as a one-time purchase and ported to the carrier or VoIP service you already use.",
+    "link": "https://www.awin1.com/cread.php?awinmid=129993&awinaffid=2880219"
   }
 ]
