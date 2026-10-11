@@ -229,7 +229,7 @@
   ],
   "price": "$12",
   "price_note": "from · a month per active Spend user plus a team-size platform fee",
-  "verified": "2026-09-19",
+  "verified": "2026-10-11",
   "catch": "The honest headline here is that the FX markup is published at all — 0.5% and 1% above interbank is a real number, and most competitors will not print one.",
   "best": "Companies invoicing or paying in several currencies, where a 0.5% spread against your bank's 2–3% is the whole business case."
  },
@@ -243,7 +243,7 @@
   ],
   "price": "$250",
   "price_note": "from · a month (or $2,400 a year), 1 user",
-  "verified": "2026-09-09",
+  "verified": "2026-10-11",
   "catch": "It's priced like an SDR salary because it's meant to replace part of that function — so judge it on cost-per-meeting, not the sticker, and expect a quarterly commitment rather than a flip-the-switch monthly.",
   "best": "Sales teams with a clear ICP and offer that want autonomous AI to qualify leads, personalize outreach and book meetings around the clock."
  },
@@ -260,9 +260,9 @@
     "free_tier"
    ]
   ],
-  "price": "$9.99",
-  "price_note": "from · per month, Web Dev Kit $51.20 and Business $71.99",
-  "verified": "2026-08-30",
+  "price": "$19.99",
+  "price_note": "from · per month (purchased annually), Web Dev Kit $51.20 and Business $71.99",
+  "verified": "2026-10-11",
   "catch": "AISQ (the Squirrly family) evolves its pricing and product names often — the honest advice is to buy only what's currently priced in front of you, in small credit batches first, and judge output on YOUR niche keywords before committing to bundles.",
   "best": "Solo marketers who want low-cost, pay-as-you-go AI marketing assistance (SEO + content workflows) without a subscription."
  },
@@ -8823,5 +8823,68 @@
   "verified": "2026-10-10",
   "catch": "No public prices; the licence auto-renews unless you cancel in writing 30 days before it ends.",
   "best": "Fleets that want safety cameras, telematics and equipment tracking from one vendor and are prepared to negotiate a multi-package quote."
+ },
+ "Upsell & Cross Sell - AW": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$29.99",
+  "price_note": "StartUp Upsell · per month, or $299 a year",
+  "verified": "2026-10-11",
+  "catch": "Priced by recommendation clicks: 50 a month free, 2,500 on the $29.99 plan, and all 8 placements only from $49.99.",
+  "best": "Shopify stores that want related-product, upsell and frequently-bought-together recommendations on product pages and cart, with hand-picked control."
+ },
+ "Vify Order Printer": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$10.99",
+  "price_note": "Starter · per month, or $109 a year",
+  "verified": "2026-10-11",
+  "catch": "Free covers only the 50 latest orders; automatic invoice emails and unlimited orders start at $10.99 a month.",
+  "best": "Shopify stores that want branded PDF invoices, packing slips and refunds emailed automatically with each order, including B2B and multi-language invoices."
+ },
+ "Shopmonkey": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$215",
+  "price_note": "Basic · per month billed annually, 3 user licences",
+  "verified": "2026-10-11",
+  "catch": "Payment processing rates are not published, and inventory and purchase orders start on the $359 Clever plan.",
+  "best": "Independent auto repair, tire and fleet service shops with roughly 3 to 6 staff who want estimates, inspections, customer texting."
+ },
+ "Pagecloud": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$22",
+  "price_note": "Launch · per month equivalent billed annually",
+  "verified": "2026-10-11",
+  "catch": "No native blog or store on any plan, and AI usage is given only as multipliers.",
+  "best": "Small businesses, consultants and creatives who want a brochure site with inquiry forms, built and edited by chatting with AI, with hosting and analytics in one bill."
+ },
+ "Vanity Number": {
+  "price": "$99.99",
+  "price_note": "cheapest number · one-time search and acquisition fee per number, rising with how…",
+  "verified": "2026-10-11",
+  "catch": "A one-time fee buys the number only; your carrier still bills the line, and refunds are not possible.",
+  "best": "US and Canadian businesses that want a memorable local or toll-free number for advertising, vehicles or signage and keep it on the carrier they already use."
  }
 }
