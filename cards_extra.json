@@ -201,8 +201,8 @@
    ]
   ],
   "price": "$30",
-  "price_note": "Essentials, per licence · per licence per month on annual billing ($40 billed monthly)",
-  "verified": "2026-09-27",
+  "price_note": "Essentials, per licence · per licence per month on annual billing ($40 billed monthly), minimum 3…",
+  "verified": "2026-10-10",
   "catch": "Two structural catches: the 3-seat minimum makes the real starting price triple the sticker, and the annual-vs-monthly gap is steep (Professional: $50 vs $70).",
   "best": "Sales and support teams (3+ seats) that want a polished cloud phone system embedded in their CRM/helpdesk, with call routing, analytics and 250+ integrations."
  },
@@ -337,7 +337,7 @@
   ],
   "price": "$5",
   "price_note": "from · per month (100 credits/mo)",
-  "verified": "2026-08-26",
+  "verified": "2026-10-10",
   "catch": "The headline ‘5¢ per image’ only holds for a plain JPG in one language.",
   "best": "Image-heavy sites that need alt text written back into the CMS automatically: e-commerce catalogues, publishers and long-running blogs on WordPress, Shopify."
  },
@@ -1336,7 +1336,7 @@
   "best": "Small businesses that want a clean, genuinely simple CRM for contacts, pipeline and tasks — one the team will actually keep updated."
  },
  "Carbon6": {
-  "verified": "2026-08-26",
+  "verified": "2026-10-10",
   "catch": "Ownership has moved twice: SPS Commerce bought Carbon6 in February 2025, then on 30 June 2026 sold the 3P revenue-recovery business, which now runs under the Carbon6 name again.",
   "best": "Amazon sellers who want reimbursements, advertising, inventory and sourcing tools from one vendor and are content to buy them tool by tool."
  },
@@ -1464,7 +1464,7 @@
   ],
   "price": "$17",
   "price_note": "from · a month billed annually ($200 upfront), or $20 a month billed monthly",
-  "verified": "2026-08-27",
+  "verified": "2026-10-11",
   "catch": "The honest catch is usage limits: even on Pro you can hit a ceiling mid-session on a heavy day, and the step up to Max is a real $100 to $200 a month — you're buying headroom, not extra features.",
   "best": "Developers, writers, analysts and researchers who want best-in-class reasoning, coding and long-document work."
  },
@@ -1897,7 +1897,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-08-25",
+  "verified": "2026-10-10",
   "catch": "You cannot find out what it costs without talking to sales, and the entry plan is smaller than it looks: Professional covers 2 users and 1 integration, so a finance team of three, or one that needs both the ERP and the CRM connected, is priced into the next tier before the conversation starts.",
   "best": "Excel-bound finance teams that have outgrown the spreadsheet plumbing but not the spreadsheets."
  },
@@ -1988,7 +1988,7 @@
   ],
   "price": "$15",
   "price_note": "Personal, per seat · per seat per month billed annually ($18 billed monthly)",
-  "verified": "2026-08-26",
+  "verified": "2026-10-11",
   "catch": "The seat price is the smaller half of the bill.",
   "best": "Teams that want to prototype and ship AI agents and apps across multiple models without engineering overhead."
  },
@@ -2124,7 +2124,7 @@
   ],
   "price": "$39",
   "price_note": "Basic (per user) · per user per month billed annually",
-  "verified": "2026-08-26",
+  "verified": "2026-10-10",
   "catch": "Understand what you are buying before the price matters: LinkedIn prohibits this entire product category.",
   "best": "Sales teams that already run LinkedIn outreach, understand that automation breaches LinkedIn's terms, and accept that risk with their eyes open."
  },
@@ -2515,6 +2515,11 @@
     "usage_metered"
    ],
    [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "📅",
     "Annual commit",
     "annual_lock"
@@ -2522,7 +2527,7 @@
   ],
   "price": "$19",
   "price_note": "Standard (1K) · per month on the App Store listing, or $180 a year, for up to $1,000 of…",
-  "verified": "2026-08-24",
+  "verified": "2026-10-10",
   "catch": "On 17 July 2026, after what its own status page calls a security attack, Shopify removed the app from the App Store and deactivated it on existing stores; it was fully searchable again on 3 August.",
   "coupon": {
    "code": "AIBM25",
@@ -3676,9 +3681,9 @@
    ]
   ],
   "price": "$39",
-  "price_note": "Lite Plan · per month on the App Store listing for 1,000 items, 5 feeds, two…",
-  "verified": "2026-08-23",
-  "catch": "Each paid plan includes 1,000 items, 5 feeds, two marketplace wizards and 100 orders a month, with surcharges for extras on all four, so $39 is a base, not a bill.",
+  "price_note": "Lite Plan · per month on the App Store listing for 1,000 items, 5 feeds, one…",
+  "verified": "2026-10-10",
+  "catch": "Each paid plan includes 1,000 items, 5 feeds, one marketplace wizard and 100 orders a month, with surcharges for extras on all four, so $39 is a base, not a bill.",
   "best": "Shopify merchants selling across several European marketplaces — Bol, Zalando, Allegro, Cdiscount, Miinto and the rest."
  },
  "KrispCall": {
@@ -5030,6 +5035,11 @@
  "Proton": {
   "flags": [
    [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -5037,7 +5047,7 @@
   ],
   "price": "$3.99",
   "price_note": "Mail Plus · per month billed yearly ($47.88 a year; $4.99 month to month)",
-  "verified": "2026-08-26",
+  "verified": "2026-10-11",
   "catch": "Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all: you go from 200 GB to 500 GB, but you also start paying for Mail, Calendar, Pass and VPN whether or not you wanted them.",
   "best": "Teams and individuals for whom encryption is an actual requirement rather than a preference."
  },
@@ -6809,7 +6819,7 @@
   ],
   "price": "$29",
   "price_note": "Starter · per month paid month to month for 100 billable conversations and 10…",
-  "verified": "2026-08-24",
+  "verified": "2026-10-10",
   "catch": "The AI number on the homepage and the AI number on the pricing page do not agree, and the pricing page is the lower of the two.",
   "best": "Support teams that want an AI agent and a help desk from the same vendor and can size all three meters.",
   "pw": "price held",
