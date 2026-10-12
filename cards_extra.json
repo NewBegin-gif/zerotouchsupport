@@ -81,7 +81,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-08-29",
+  "verified": "2026-10-11",
   "catch": "The quote-only posture is normal in payroll, so the honest complaint is not that ADP hides its price — it is what that does to you as a buyer.",
   "best": "Small and mid-sized employers who want payroll, tax filing and compliance handled by the largest and oldest provider in the category: over 75 years."
  },
@@ -615,7 +615,7 @@
  "Aura": {
   "price": "$37",
   "price_note": "Starter · per month flat per account, but the tier is set by your monthly sales…",
-  "verified": "2026-08-28",
+  "verified": "2026-10-11",
   "catch": "The tier is decided by how much you sell, not by what you need.",
   "best": "Amazon and Walmart sellers past the point where manual repricing costs more attention than it is worth, and whose monthly volume sits comfortably inside one band."
  },
@@ -1637,7 +1637,7 @@
   ],
   "price": "$49",
   "price_note": "Starter · per month for 250 AI conversations on the App Store listing, plus $0.10…",
-  "verified": "2026-09-04",
+  "verified": "2026-10-11",
   "catch": "Two things to weigh, and the first is the price itself. On the same day, the App Store listing sold this at $49, $99 and $199 a month for 250, 750 and 2,000 conversations.",
   "best": "Shopify stores with a catalogue big enough that shoppers ask which item to buy, who want a chat assistant that reads live inventory and hands off to a person.",
   "pw": "price held",
@@ -1776,9 +1776,16 @@
   "best": "Shopify merchants selling into several jurisdictions who want one app to carry the cookie banner, the consent signals the ad platforms now demand."
  },
  "Contractor Foreman": {
+  "flags": [
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
   "price": "$49",
   "price_note": "Basic · per month billed annually for the whole company with 1 user",
-  "verified": "2026-08-28",
+  "verified": "2026-10-11",
   "catch": "Credit where it is due first: this is company pricing with unlimited projects and no per-user overage inside your tier, which is rare in construction software and genuinely cheaper than per-seat rivals for a crew.",
   "best": "Small and mid-size contractors who want estimating, scheduling and daily logs in one place and can commit to a year."
  },
@@ -2597,7 +2604,7 @@
   ],
   "price": "$499",
   "price_note": "from · a month",
-  "verified": "2026-08-31",
+  "verified": "2026-10-11",
   "catch": "It's built for real warehouse volume and priced that way: Essentials starts at $499 a month and Growth at $799, with Enterprise quoted.",
   "best": "E-commerce and wholesale operations with real order volume that need multi-channel stock sync, purchasing and barcode-driven warehouse workflows."
  },
@@ -2827,7 +2834,7 @@
   ],
   "price": "$19",
   "price_note": "Freshdesk Growth · per agent per month billed annually",
-  "verified": "2026-08-29",
+  "verified": "2026-10-11",
   "catch": "Freshworks is not a product, it is nine of them behind a pricing page that contains no price.",
   "best": "Teams who want a support desk that is cheaper per agent than the category leaders and will genuinely use the annual commitment."
  },
@@ -4304,7 +4311,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-04",
+  "verified": "2026-10-11",
   "catch": "The pricing page is a feature list with the prices taken out, and that is a choice rather than an oversight — Mycroft publishes what is in each package down to the individual capability, then stops short of the one line you came for.",
   "coupon": {
    "code": "",
@@ -5127,7 +5134,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-01",
+  "verified": "2026-10-11",
   "catch": "The per-seat sticker is the entry ticket; the AI that makes the platform sing is metered separately, so a realistic modern deployment (seats + AI agent + phone) lands well above the tier price — model your full basket.",
   "best": "B2B SaaS teams supporting customers in shared Slack/Teams channels who want tickets, accounts and AI in one B2B-native platform."
  },
@@ -5191,7 +5198,7 @@
   ],
   "price": "£10",
   "price_note": "from · per month (list, plus VAT) - a six-month 90% promo brings it to £1",
-  "verified": "2026-08-28",
+  "verified": "2026-10-11",
   "catch": "The 90% offer is the number to be careful with, because it is the one you will see everywhere and it is not what you will pay.",
   "best": "UK sole traders and small businesses that need Making Tax Digital submissions handled and would rather their accountant worked in the same system they do."
  },
@@ -5248,7 +5255,7 @@
   ],
   "price": "$15",
   "price_note": "Starter · per user per month billed annually",
-  "verified": "2026-08-31",
+  "verified": "2026-10-11",
   "catch": "Call reliability is the recurring complaint — G2 logs hundreds of connection and disconnection reports, and calls get shaky the moment you're off Wi-Fi.",
   "coupon": {
    "code": "",
@@ -5415,9 +5422,16 @@
   "best": "Sales teams running structured multichannel outbound (email + LinkedIn + calls) who want sequences, warmup and a B2B database in one platform."
  },
  "respond.io": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$79",
   "price_note": "Starter · per month",
-  "verified": "2026-08-29",
+  "verified": "2026-10-11",
   "catch": "The entry plan is the inbox without the engine.",
   "best": "A small team that already lives in WhatsApp and Instagram DMs and has outgrown a shared phone.",
   "pw": "price held",
@@ -5710,7 +5724,7 @@
   "best": "Shopify fashion and apparel brands with real ad spend that want profit per SKU and per campaign in one place."
  },
  "Seller Investigators": {
-  "verified": "2026-08-29",
+  "verified": "2026-10-11",
   "catch": "Contingency pricing is the honest kind — you pay only out of money that arrived — but 25% of a recovery is not the same as 25% of a profit, and there is one question that decides whether this is worth it for you.",
   "best": "Established FBA sellers with enough inventory movement that discrepancies add up and nobody in-house has time to file case-by-case claims."
  },
@@ -5913,8 +5927,8 @@
    ]
   ],
   "price": "$97",
-  "price_note": "from · per year, or $9/mo (30 digital scans/mo)",
-  "verified": "2026-08-31",
+  "price_note": "from · per year, or $9/mo (50 digital scans/mo)",
+  "verified": "2026-10-11",
   "catch": "Its unique trick is the Magic Envelope, where you literally mail a stuffed envelope of paper receipts and humans digitize them.",
   "best": "Businesses drowning in PAPER receipts — trades, field crews, owners with shoeboxes of history — who want them humanly digitized, verified and IRS-ready."
  },
@@ -6077,7 +6091,7 @@
   ],
   "price": "$9.99",
   "price_note": "from · a month or $99.99 a year (17% off vs monthly)",
-  "verified": "2026-09-04",
+  "verified": "2026-10-11",
   "catch": "The evidence base is thin.",
   "best": "Shopify merchants whose promotions have outgrown the native discount engine."
  },
@@ -6749,7 +6763,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-08-31",
+  "verified": "2026-10-11",
   "catch": "Two costs are easy to miss and both are monthly. The credit system has two rates: $0.03 for credits you buy deliberately and $0.04 for backup credits that fire automatically when you run out — a 33% premium for not noticing.",
   "best": "Support and sales teams that already text customers from personal phones and need a shared, compliant inbox with a record of who said what.",
   "pw": "price held",
@@ -8886,5 +8900,66 @@
   "verified": "2026-10-11",
   "catch": "A one-time fee buys the number only; your carrier still bills the line, and refunds are not possible.",
   "best": "US and Canadian businesses that want a memorable local or toll-free number for advertising, vehicles or signage and keep it on the carrier they already use."
+ },
+ "WPLP": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$48",
+  "price_note": "3 Sites · per year for up to 3 WordPress sites with every feature",
+  "verified": "2026-10-12",
+  "catch": "The free cookie plugin already covers banner, scanning, script blocking and Consent Mode v2; the paid tiers only add sites, TCF, geo-targeting and a dashboard, and automatic policy updates are still marked coming soon.",
+  "best": "WordPress site owners and small agencies that want cookie consent and generated legal pages inside WordPress, with consent records in their own database."
+ },
+ "HostPapa": {
+  "flags": [
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ]
+  ],
+  "price": "$2.95",
+  "price_note": "Web Hosting Essentials · per month on a 3-year discounted first term, new customers only",
+  "verified": "2026-10-12",
+  "catch": "$2.95 is a 3-year first-term price for one site; it renews at $8.99 a month on 3 years or $12.99 month to month, and backups are free for the first year only.",
+  "best": "Small businesses and first-time site owners in North America who want cPanel shared or WordPress hosting with phone, chat and email support, free migration."
+ },
+ "Pixlr": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "€2.49",
+  "price_note": "from · per month (€1.99 yearly)",
+  "verified": "2026-10-12",
+  "catch": "No refunds once a payment is processed, and monthly AI credits reset to the plan allowance at renewal and fall to zero if you cancel.",
+  "best": "People who edit photos and make quick social and marketing images in the browser and want a cheap ad-free editor, with optional AI image."
+ },
+ "PostOnce": {
+  "flags": [
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "€15",
+  "price_note": "Solo · per month billed monthly, VAT included",
+  "verified": "2026-10-12",
+  "catch": "No trial and no refunds: billing starts when you subscribe, and the EU withdrawal right lapses once you use the service.",
+  "best": "Creators, small businesses and small agencies in Europe that post the same content to Instagram, TikTok, YouTube."
  }
 }
