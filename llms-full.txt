@@ -108,8 +108,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Kixie
 - Review: https://zerotouchsupport.com/kixie-review.html
-- Verdict: Kixie: No seat price is published. Plan for 30-60% above the sticker: minutes, the multi-line dialer and AI human-voice-detection all bill separately.
-- Price: (2026-09-10, read on their own pricing page) No seat price is published. Three plans are listed — Professional, Single-Line PowerDialer and Multi-Line PowerDialer — and no amount is rendered anywhere on the page; the billing toggle that used to sit above the cards has gone too, so there is now no path from this page to a number.
+- Verdict: Kixie: Texts from $0.011 each ($11 per 1,000) on a registered 10DLC number, inbound free. Read the contract term before you sign.
+- Price: (2026-10-13, read on their own pricing page) No seat price is published. Three plans are listed — Professional, Single-Line PowerDialer and Multi-Line PowerDialer — and no amount is rendered anywhere on the page; the billing toggle that used to sit above the cards has gone too, so there is now no path from this page to a number.
 
 ## KrispCall
 - Review: https://zerotouchsupport.com/krispcall-review.html
@@ -204,7 +204,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Vida AI
 - Review: https://zerotouchsupport.com/vida-ai-review.html
 - Verdict: Vida AI: Vida publishes no public pricing. Every deployment starts with a scoped pilot from $1,500, credited toward your first month.
-- Price: (price re-verified 2026-09-10) Vida publishes no public pricing: no plan ladder, no monthly tier and no per-minute rate. Every deployment starts with a scoped pilot from $1,500, credited toward your first month in production, and the production price arrives as a quote afterwards.
+- Price: (price re-verified 2026-10-13) Vida publishes no public pricing: no plan ladder, no monthly tier and no per-minute rate. Every deployment starts with a scoped pilot from $1,500, credited toward your first month in production, and the production price arrives as a quote afterwards.
 
 ## Voye
 - Review: https://zerotouchsupport.com/voye-review.html

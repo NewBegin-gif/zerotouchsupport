@@ -426,12 +426,17 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$79",
   "price_note": "Lite · billed monthly, as published for all three tiers",
-  "verified": "2026-09-10",
-  "catch": "The $39.50 headline is a three-month rate against a $79 list price, so the bill doubles in month four, and Lite includes only two users.",
+  "verified": "2026-10-13",
+  "catch": "The $39.50 headline is a three-month rate against a $79 list price, so the bill doubles in month four; users beyond the two included cost $20 a month each.",
   "best": "Small nonprofits and faith-based organisations that need true fund accounting rather than general small-business bookkeeping."
  },
  "Apollo": {
@@ -739,7 +744,7 @@
   ],
   "price": "$25",
   "price_note": "from · per month billed yearly ($30 monthly)",
-  "verified": "2026-09-10",
+  "verified": "2026-10-13",
   "catch": "Read the seat row before the price row. Professional and Business both cap at two full editing seats, so a \"mid-sized team\" plan at $134/mo annual still buys two people who can actually build.",
   "best": "Agencies and in-house teams shipping email at volume across brands or ESPs."
  },
@@ -3675,8 +3680,8 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-10",
-  "catch": "Plan for 30-60% above the sticker: minutes, the multi-line dialer and AI human-voice-detection all bill separately, and the quarterly auto-renewing contract only allows downgrades in its final 30 days — read that clause before signing.",
+  "verified": "2026-10-13",
+  "catch": "There is no sticker to compare: no seat price is published, and minutes, AI human-voice detection (a premium add-on, on Multi-Line only), ConnectionBoost, Conversation Intelligence and DNC compliance are each priced apart, so ask for the whole basket in one written quote.",
   "best": "Outbound sales teams living in their CRM that want a serious power dialer with local presence, SMS and automation."
  },
  "Koongo": {
@@ -7212,7 +7217,7 @@
  "Vida AI": {
   "price": "$1,500",
   "price_note": "Pilot · a one-off scoped pilot, credited toward the first month in production",
-  "verified": "2026-09-10",
+  "verified": "2026-10-13",
   "catch": "This is priced for agencies and telecoms reselling AI phone agents, not for a single small business wanting one receptionist bot.",
   "best": "Agencies, MSPs and service providers that want to deploy and resell white-label AI voice agents at volume.",
   "pw": "rates withdrawn Aug 2026",
@@ -7521,7 +7526,7 @@
   "best": "Outbound teams that want usage-priced cold email plus LinkedIn outreach, with unlimited seats and email accounts included instead of per-user fees."
  },
  "World Businesses for Sale": {
-  "verified": "2026-09-10",
+  "verified": "2026-10-13",
   "catch": "On the broker plans you pay twice: a listing fee up front AND commission when it sells — 3% on Basic, 2% on Standard, 1% on Premium — on contracts of 6, 9 and 12 months.",
   "best": "Owners selling established, often brick-and-mortar businesses — restaurants, shops, services, small manufacturers."
  },
