@@ -950,7 +950,7 @@
   ],
   "price": "$9.99",
   "price_note": "Starter · a month, or $107.99 a year, for five locations and team members with…",
-  "verified": "2026-09-08",
+  "verified": "2026-10-13",
   "catch": "The free plan is a demonstration rather than a plan.",
   "best": "Shopify merchants running appointment-based services — salons, studios, clinics, rentals, classes and events."
  },
@@ -1271,7 +1271,7 @@
   ],
   "price": "$55",
   "price_note": "from · a month (plus usage), or $50 a month billed yearly",
-  "verified": "2026-09-06",
+  "verified": "2026-10-13",
   "catch": "The headline price is a floor, not a ceiling — the included minutes, numbers and SMS are modest, so an active campaign quickly hits metered overages that meaningfully lift the bill.",
   "best": "Marketers and agencies that need to prove which campaigns, keywords and ads drive phone calls and form leads, with recordings and multi-touch attribution."
  },
@@ -1771,7 +1771,7 @@
   ],
   "price": "$10",
   "price_note": "Standard · a month, or $100 a year, for unlimited cookie scans, multi-region…",
-  "verified": "2026-09-08",
+  "verified": "2026-10-13",
   "catch": "Read the ladder before you budget $10 for this.",
   "best": "Shopify merchants selling into several jurisdictions who want one app to carry the cookie banner, the consent signals the ad platforms now demand."
  },
@@ -2577,7 +2577,7 @@
   ],
   "price": "$9.99",
   "price_note": "from · per month (1,000 products/2,000 variants)",
-  "verified": "2026-09-10",
+  "verified": "2026-10-13",
   "catch": "The ladder counts products and variants, and the free tier updates products only once a day: hourly updates start at $9.99 and multi-market feeds at $19.99.",
   "best": "Shopify merchants who need several feeds at once, in formats they control — custom XML, CSV, TXT or JSON built from their own template."
  },
@@ -3020,7 +3020,7 @@
  "Grapevine": {
   "price": "$25",
   "price_note": "from · a month",
-  "verified": "2026-09-10",
+  "verified": "2026-10-13",
   "catch": "There is no free tier and no small plan, so from day fifteen the app costs $25 a month whether it collects four responses or forty thousand.",
   "best": "Shopify stores running more than one marketing channel that want attribution from customers rather than from cookies."
  },
@@ -3755,8 +3755,8 @@
    ]
   ],
   "price": "$10",
-  "price_note": "from · a month or $100 a year (250 products, 5 glossary rules)",
-  "verified": "2026-09-10",
+  "price_note": "from · per month (5 languages, 250 products, unlimited glossary rules)",
+  "verified": "2026-10-13",
   "catch": "Two things sit awkwardly next to each other in the plan table. The headline promise is 'unlimited words', but every tier caps how many products you may translate and how many languages you may run, so the meter you actually pay is catalogue size.",
   "best": "Shopify merchants selling into several language markets who want machine translation they can correct by hand — glossary rules, brand terms, bulk editing."
  },
@@ -6198,7 +6198,7 @@
   ],
   "price": "$15",
   "price_note": "from · per user a month billed annually, or $18 monthly",
-  "verified": "2026-09-05",
+  "verified": "2026-10-13",
   "catch": "Plus and Pro both stop at 30 meetings per user per month, so a rep taking two calls a day is pushed to Premium at $40, nearly triple the entry price.",
   "best": "Sales and customer-facing teams that already run most conversations on video and want the coaching layer — talk-time, keyword tracking and call review."
  },
@@ -6620,7 +6620,7 @@
   ],
   "price": "C$618",
   "price_note": "from · a year",
-  "verified": "2026-09-27",
+  "verified": "2026-10-13",
   "catch": "This is professional preparer software priced for firms, not a consumer filing app: the cost only makes sense if you're preparing returns for clients at volume.",
   "best": "Canadian accountants and bookkeepers who prepare and e-file client returns and want fast, checked, CRA-integrated professional tax software."
  },
@@ -6639,7 +6639,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month billed annually ($39 monthly)",
-  "verified": "2026-09-22",
+  "verified": "2026-10-13",
   "catch": "The tiers gate on TWO axes at once — member count and project/pipeline count — so you can hit a wall on either.",
   "best": "Solo operators and small teams who want projects, tasks, chat AND a lightweight CRM pipeline with AI in one simple tool, and value the real free tier to start."
  },
@@ -6658,7 +6658,7 @@
   ],
   "price": "$149",
   "price_note": "Essentials, up to $10K… · per month billed annually",
-  "verified": "2026-09-19",
+  "verified": "2026-10-13",
   "catch": "Read the Advanced tier carefully, because it is not a subscription — it is a subscription plus a percentage.",
   "best": "Amazon and Walmart sellers spending enough on ads that a few points of efficiency covers the fee — under $10K a month the flat $149 is straightforward."
  },
@@ -7282,7 +7282,7 @@
   "best": "Import-export businesses and sourcing teams that want global customs-level trade data plus verified buyer/supplier contacts at a fraction of enterprise pricing."
  },
  "Voye": {
-  "verified": "2026-09-06",
+  "verified": "2026-10-13",
   "catch": "eSIM data pooling genuinely beats classic roaming for traveling teams, but the honest homework is coverage-and-speed on YOUR corridors: quality varies by country and local carrier partner, so pilot with two or three of your heaviest travelers before migrating everyone.",
   "best": "Companies with regularly traveling teams that want one pooled global data contract, per-user controls and an end to roaming bill surprises.",
   "pw": "price held",
@@ -7354,17 +7354,10 @@
   "best": "Retailers and brands with physical stockists who want a Google Maps locator on their Shopify storefront without setting up a Maps API key or paying Google directly."
  },
  "Weave": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
   "price": "$199",
-  "price_note": "from · a month per location (published floor)",
-  "verified": "2026-09-05",
-  "catch": "Two honest cautions. The $199 starting price is a floor, not the bill: add-ons, setup and per-location fees land on top, and the full tier ladder is only shown in a demo, so get everything in writing.",
+  "price_note": "from · a month",
+  "verified": "2026-10-13",
+  "catch": "The $199 base is a floor: the scheduling-and-recall workflow most practices buy Weave for sits in the $149 Coordinate bundle, the AI Receptionist is priced only after you hand over an email, and setup fees and per-location terms are not printed, so get the whole order form in writing.",
   "best": "Dental, optometry and small healthcare practices that want phone, texting, payments and reviews unified for the front desk.",
   "pw": "price down Aug 2026",
   "pw_soort": "decrease"

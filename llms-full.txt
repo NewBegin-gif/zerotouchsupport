@@ -208,7 +208,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Voye
 - Review: https://zerotouchsupport.com/voye-review.html
-- Verdict: Voye: $2.00 down to $1.20 per gigabyte. ESIM data pooling genuinely beats classic roaming for traveling teams.
+- Verdict: Voye: $2.00 down to $1.20 per gigabyte, with 2, 8, 12, 25 and 50 eSIMs included. ESIM data pooling genuinely beats classic roaming for traveling teams.
 - Price: Published plans (read 13 October 2026 on voyedatapool.com/plans, which now has two switches). Monthly data allowance, billed monthly, 30-day validity: $9.99 for 5 GB, $19.99 for 12 GB, $39.99 for 30 GB, $69.99 for 55 GB, $119.99 for 100 GB — $2.00 down to $1.20 per gigabyte, with 2, 8, 12, 25 and 50 eSIMs included.
 
 ## Wati
@@ -218,7 +218,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Weave
 - Review: https://zerotouchsupport.com/weave-review.html
-- Verdict: Weave: Practice owners commonly report all-in costs of roughly $400 to $700 a location once phones. The $199 starting price is a floor, not the bill.
+- Verdict: Weave's plans page (getweave.com/plans, read 13 October 2026) is now a configurator: the base plan starts at $199 a month.
 - Price: Weave's plans page (getweave.com/plans, read 13 October 2026) is now a configurator: the base plan starts at $199 a month, and two pre-built bundles cost $149 a month each — Coordinate (online scheduling, digital forms, reminders and follow-ups, appointment confirmations, recall and reactivation) and Attract (reviews, Text Connect, email marketing with 10,000 emails, bulk texting with 5,000 texts). The AI…
 
 ## Zendesk
