@@ -1416,7 +1416,7 @@
   ],
   "price": "$89",
   "price_note": "Professional · per month billed annually ($129 billed monthly)",
-  "verified": "2026-09-05",
+  "verified": "2026-10-12",
   "catch": "The sticker is only the entry: Circle keeps a commission on every sale on top of Stripe's processing fees, and email marketing is a separate add-on — so a monetized community's real bill runs meaningfully past the plan price.",
   "best": "Creators and brands running a paid community — courses, memberships, events and discussions in one branded home."
  },
@@ -1614,7 +1614,7 @@
   ],
   "price": "$14",
   "price_note": "Micro… · per month, billed hourly at $0.0208 over a 672-hour month",
-  "verified": "2026-09-05",
+  "verified": "2026-10-12",
   "catch": "\"Fully managed\" here means the server, not your site — and that distinction is where the money is.",
   "coupon": {
    "code": "NETWORK26",
@@ -1719,7 +1719,7 @@
   ],
   "price": "$16.95",
   "price_note": "from · per month billed yearly ($19.95 monthly)",
-  "verified": "2026-09-05",
+  "verified": "2026-10-12",
   "catch": "The pricing page prices one product and the marketing sells about a dozen.",
   "best": "Finance, tax and HR teams with a steady monthly volume of US identity and business checks, who would rather buy TIN matching, KYB."
  },
@@ -3782,6 +3782,11 @@
  "Leadfeeder": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -3789,8 +3794,8 @@
   ],
   "price": "$79",
   "price_note": "Discover · per month billed annually",
-  "verified": "2026-09-05",
-  "catch": "The price is set by how many companies you identify a month, and the page shows that allowance as 'Tiered' with no figures, so €79 is only the floor of the smallest bucket.",
+  "verified": "2026-10-12",
+  "catch": "The price is set by how many companies Leadfeeder identifies a month: €79 covers up to 50 on Discover billed annually, and 501-1,000 companies cost €309 (€441 month to month).",
   "best": "B2B teams with real website traffic and a sales team that will actually work the list.",
   "pw": "price up Aug 2026",
   "pw_soort": "increase"
@@ -4490,7 +4495,7 @@
   ],
   "price": "$19.99",
   "price_note": "from · a month and Pro $49.99, both billed monthly",
-  "verified": "2026-09-05",
+  "verified": "2026-10-12",
   "catch": "Their own site does not agree with itself about what this costs, and we have now checked that twice.",
   "coupon": {
    "code": "86ECADE3E22E",
@@ -6565,7 +6570,7 @@
   ],
   "price": "$9.99",
   "price_note": "Business · per month on the Shopify Basic plan",
-  "verified": "2026-10-09",
+  "verified": "2026-10-12",
   "catch": "The price on the listing is a Shopify-Basic price, and almost nobody reads the line underneath it.",
   "best": "Shopify merchants on the Basic or Grow plan who want SEO audits, bulk metadata, image alt text and speed fixes out of one app instead of hiring a specialist."
  },
@@ -6577,7 +6582,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-10-02",
+  "verified": "2026-10-12",
   "catch": "Printify is cheaper, higher-margin and has a far bigger catalogue — if you're optimising for profit per sale or product breadth, that's the real trade-off.",
   "best": "Creators building a real apparel or streetwear brand who care about fabric, fit and how the product feels in hand."
  },
@@ -6596,7 +6601,7 @@
   ],
   "price": "$249",
   "price_note": "from · a year (multi-user access, 250 free TIN matches)",
-  "verified": "2026-10-01",
+  "verified": "2026-10-12",
   "catch": "Per-form pricing is genuinely cheap for a handful of 1099s, but it's metered: TIN matching, W-9 requests, state filing and corrections can each carry their own charge.",
   "best": "Businesses and accountants who need to e-file 1099s, W-2s and related forms accurately and cheaply, especially seasonal or higher-volume filers."
  },
@@ -8891,8 +8896,8 @@
   "price": "$22",
   "price_note": "Launch · per month equivalent billed annually",
   "verified": "2026-10-11",
-  "catch": "No native blog or store on any plan, and AI usage is given only as multipliers.",
-  "best": "Small businesses, consultants and creatives who want a brochure site with inquiry forms, built and edited by chatting with AI, with hosting and analytics in one bill."
+  "catch": "Pagecloud AI has no native blog or store on Launch, Grow or Optimize; AI usage is given only as multipliers.",
+  "best": "Small businesses, consultants and creatives who want a brochure site with inquiry forms, built and edited by chatting with Pagecloud AI."
  },
  "Vanity Number": {
   "price": "$99.99",
@@ -8961,5 +8966,103 @@
   "verified": "2026-10-12",
   "catch": "No trial and no refunds: billing starts when you subscribe, and the EU withdrawal right lapses once you use the service.",
   "best": "Creators, small businesses and small agencies in Europe that post the same content to Instagram, TikTok, YouTube."
+ },
+ "Sender": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "verified": "2026-10-13",
+  "catch": "Free covers 2,500 subscribers, but the paid prices on the cards are for 500; slide to your list size, and the 30% annual discount is for the first year only.",
+  "best": "Small businesses, shops and creators with lists up to a few thousand subscribers who want newsletters, automation, forms and SMS at a low price."
+ },
+ "xTiles": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$19",
+  "price_note": "Plus, per user · per user per month billed monthly",
+  "verified": "2026-10-13",
+  "catch": "Free keeps two weeks of planner history; monthly plans are refundable for only 72 hours, and several of Pro's AI permissions are still marked soon.",
+  "best": "Individuals, coaches and small teams who want notes, tasks and a daily planner in one visual workspace, and who want to connect ChatGPT or Claude to their projects."
+ },
+ "CiteRoute": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$79",
+  "price_note": "Pro · per month, billed monthly in advance through Lemon Squeezy as merchant…",
+  "verified": "2026-10-13",
+  "catch": "The GEO score is CiteRoute's own model and its terms rule out any citation guarantee; real AI-crawler data starts at $79 a month for one site.",
+  "best": "Founders and marketers who want to see whether AI crawlers visit their site and how ready their pages look for AI answers."
+ },
+ "DigiParser": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$69",
+  "price_note": "Starter · per month billed monthly for 500 pages a month, 5 parsers and 3 team…",
+  "verified": "2026-10-13",
+  "catch": "Billed per page, not per document; unused pages expire monthly even on yearly plans, and a charged subscription is not refunded.",
+  "best": "Manufacturers and distributors that retype customer purchase orders or supplier invoices and want the fields and line items extracted for review, then sent to Sheets."
+ },
+ "Chatwith": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "from · per month (250 message credits)",
+  "verified": "2026-10-13",
+  "catch": "You pay in message credits, roughly five per conversation by the page's own estimate, and the terms make fees non-refundable.",
+  "best": "Small and mid-sized businesses, SaaS teams and agencies that want an AI agent trained on their website, docs and connected apps to answer customer questions."
  }
 }
