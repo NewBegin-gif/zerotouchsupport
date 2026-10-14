@@ -597,11 +597,11 @@
     "free_tier"
    ]
   ],
-  "price": "$450",
-  "price_note": "Capture · per month",
-  "verified": "2026-09-13",
-  "catch": "This is the most expensive app in its category on the Shopify store by a wide margin, and the jump is not gradual — free to $450 a month with nothing in between.",
-  "best": "Stores already running Klaviyo at volume, where a few percent more recovered carts is worth $450 a month and the identity-resolution layer has enough traffic to work with."
+  "price": "$100",
+  "price_note": "ReCapture · minimum per month",
+  "verified": "2026-10-14",
+  "catch": "The pricing has moved within two months.",
+  "best": "Stores already running Klaviyo or Omnisend at volume, with enough traffic for identity resolution to work and a recovery figure they can check against their own email platform before a 10% share of it becomes the bill."
  },
  "Audiorista": {
   "flags": [
@@ -1254,8 +1254,8 @@
    ]
   ],
   "price": "$19",
-  "price_note": "from · per user a month billed annually",
-  "verified": "2026-09-15",
+  "price_note": "from · per user a month billed annually, or $25 month-to-month",
+  "verified": "2026-10-14",
   "catch": "'Unlimited calling' is unlimited to the US and Canada — international minutes meter separately, so teams calling Europe or Asia should price their real destinations first.",
   "best": "Budget-conscious sales/support teams wanting virtual numbers in 50+ countries with a free entry point and CRM integrations.",
   "pw": "price up Aug 2026",
@@ -2640,9 +2640,9 @@
   "pw_soort": "held"
  },
  "Flatpay": {
-  "verified": "2026-09-13",
-  "catch": "There is no subscription, but miss £995 of card turnover in a month and you are charged £39, which for a quiet month is a monthly fee wearing a different hat.",
-  "best": "A physical shop, café or bar with steady card turnover above £995 a month that wants one predictable rate on every card type instead of a pricing table full of card categories."
+  "verified": "2026-10-14",
+  "catch": "There is no subscription, but miss £1,100 of card turnover in a month and you are charged £39, which for a quiet month is a monthly fee wearing a different hat.",
+  "best": "A physical shop, café or bar with steady card turnover above £1,100 a month that wants one predictable rate on every card type instead of a pricing table full of card categories."
  },
  "FlexiQuiz": {
   "flags": [
@@ -3136,7 +3136,7 @@
   ],
   "price": "$5.99",
   "price_note": "Basic · per month, or $59.99 a year",
-  "verified": "2026-09-13",
+  "verified": "2026-10-14",
   "catch": "The meter is tickets, not agents: Basic charges $0.16 for every ticket past fifty, so 300 tickets a month cost $45.99 against $19.99 on Standard.",
   "best": "Small Shopify stores that want ticketing, live chat and a searchable FAQ page from one app rather than bolting three together.",
   "pw": "price held",
@@ -4443,7 +4443,7 @@
   ],
   "price": "€11",
   "price_note": "Starter · per user per month on annual billing",
-  "verified": "2026-09-16",
+  "verified": "2026-10-14",
   "catch": "Almost everything a sales team needs sits on the top tier: two-way email sync is Dream at €33 a user, and on Starter and Expert email is BCC only.",
   "best": "Solo sellers, small outbound teams and telesales operations that want a list of leads each carrying a next step, rather than a CRM to configure."
  },
@@ -4467,7 +4467,7 @@
   ],
   "price": "€3.49",
   "price_note": "from · per month on the two-year plan (€94.23 for the first 27 months)",
-  "verified": "2026-10-02",
+  "verified": "2026-10-14",
   "catch": "The €3.49 is a two-year introductory rate: Basic renews at €139.08 a year, about €11.59 a month, roughly three times what you signed up at.",
   "best": "Individuals and households who want an easy personal VPN and will set a reminder before the two-year plan renews."
  },
@@ -7727,7 +7727,7 @@
   ],
   "price": "$20",
   "price_note": "from · per month or $216/yr (1,000 products, 100 keywords)",
-  "verified": "2026-09-15",
+  "verified": "2026-10-14",
   "catch": "The rank tracker checks monthly on Free and weekly on Pro and above, so it is a trend line, not a daily rank check, and more than 100 tracked keywords is a priced step on the vendor's own site.",
   "best": "Shopify or BigCommerce merchants with a few hundred to a few thousand products who want on-page SEO cleaned up in bulk."
  },
@@ -8680,7 +8680,7 @@
   ],
   "price": "€1.99",
   "price_note": "from · per month for the first year",
-  "verified": "2026-10-08",
+  "verified": "2026-10-14",
   "catch": "Teams only comes as a 10-user pack; Business and Enterprise need 5 users minimum.",
   "best": "Small and mid-sized companies that want a simple password manager with sharing and breach monitoring, and individuals who want a cheap first year of Premium."
  },

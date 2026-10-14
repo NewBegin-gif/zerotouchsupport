@@ -38,8 +38,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## CallHippo
 - Review: https://zerotouchsupport.com/callhippo-review.html
-- Verdict: CallHippo: Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55.
-- Price: (re-verified 2026-09-15 in a browser on callhippo.com/pricing, currency selector on USD, phone-number region US/CA, team size 1-4) Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55. Read the tab before the number: the grid opens on yearly, so the lower column is what most write-ups quote, and the toggle beside it advertises "Save 3 Months'…
+- Verdict: CallHippo: Read the tab before the number. 'Unlimited calling' is unlimited to the US and Canada — international minutes meter separately.
+- Price: (re-verified 2026-10-14 in a browser on callhippo.com/pricing, currency selector switched to USD, phone-number region US/CA: plan grid, both billing tabs and fair-usage notes re-read; the add-on prices below were last read on 15 September 2026) Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55. Read the tab before the number: the grid opens…
 
 ## Chatwith
 - Review: https://zerotouchsupport.com/chatwith-review.html
@@ -99,7 +99,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## HelpCenter
 - Review: https://zerotouchsupport.com/helpcenter-review.html
 - Verdict: HelpCenter: Free covers 10 tickets a month and charges $0.25 for each one after that. The free tier is the hook and the FAQ builder is the reason people stay.
-- Price: (re-read 2026-08-29 on apps.shopify.com/helpcenter) Free to install, and the meter is tickets rather than agents — Basic already gives unlimited support agents, then bills for every ticket over the allowance. Free covers 10 tickets a month and charges $0.25 for each one after that.
+- Price: (re-read 2026-08-29 on apps.shopify.com/helpcenter, re-verified unchanged 2026-10-14) Free to install, and the meter is tickets rather than agents — Basic already gives unlimited support agents, then bills for every ticket over the allowance. Free covers 10 tickets a month and charges $0.25 for each one after that.
 
 ## Jotform AI Agents
 - Review: https://zerotouchsupport.com/jotform-ai-agents-review.html
