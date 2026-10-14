@@ -4012,5 +4012,40 @@
   "domain": "chatwith.tools",
   "desc": "No-code AI agent builder that trains a support chatbot on your website, docs, files and connected apps, answers customers on your site, WhatsApp, Slack or Telegram, collects leads and escalates to a person; priced by message credits.",
   "link": "https://chatwith.tools?aff=6NyDVn"
+ },
+ {
+  "name": "PulseMonitor",
+  "category": "Developer Tools",
+  "domain": "pulsemonitor.io",
+  "desc": "Uptime monitoring for developers and small teams: HTTP, API, port, keyword and SSL checks with incident history, plus a built-in SEO site audit; free plan with 50 monitors and a paid plan for 1-minute checks, webhooks, status pages and heartbeats.",
+  "link": "https://pulsemonitor.io?aff=6NyDVn"
+ },
+ {
+  "name": "FeedbackGate",
+  "category": "Marketing",
+  "domain": "feedbackgate.com",
+  "desc": "Review-request software that sends automated email and SMS asks, routes ratings and alerts on negative feedback; plans by contacts and message volume, with white-label for agencies.",
+  "link": "https://www.feedbackgate.com?aff=6NyDVn"
+ },
+ {
+  "name": "Content Raptor",
+  "category": "Marketing",
+  "domain": "contentraptor.com",
+  "desc": "SEO content tool that ranks your pages by traffic potential from Google Search Console data, suggests missing keywords and entities with an AI rewriter, and measures changes with A/B tests and daily rank tracking; priced per site.",
+  "link": "https://contentraptor.com?aff=6NyDVn"
+ },
+ {
+  "name": "Deftform",
+  "category": "IT & Productivity",
+  "domain": "deftform.com",
+  "desc": "Hosted form builder from Germany with unlimited responses and team members, conditional logic, file uploads, Stripe payments, webhooks and an API; priced per form, monthly or as a one-time lifetime licence.",
+  "link": "https://deftform.com?aff=6NyDVn"
+ },
+ {
+  "name": "WhisperTranscribe",
+  "category": "Video & Audio",
+  "domain": "whispertranscribe.com",
+  "desc": "AI transcription and translation for podcasts, videos and interviews with speaker detection, content generation and many export formats, plus a bot-free meeting assistant; plans by minutes a month with unlimited users.",
+  "link": "https://whispertranscribe.com/?aff=6NyDVn"
  }
 ]
