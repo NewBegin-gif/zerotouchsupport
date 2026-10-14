@@ -1,0 +1,1663 @@
+{
+ "meta": {
+  "title": "The cost-trap atlas for customer support and voice software (data)",
+  "source": "https://aibuildermarketplace.com/data/",
+  "license": "CC BY 4.0",
+  "tools": 49,
+  "flags": 109,
+  "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on zerotouchsupport.com. Every flag carries the dossier sentence it rests on."
+ },
+ "tools": [
+  {
+   "name": "800.com",
+   "category": "Communication & Voice",
+   "domain": "800.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/800-com-review/",
+   "from_price_usd_mo": 19.0,
+   "entry_price": "$19",
+   "entry_price_terms": "per month on yearly billing ($23 month to month)",
+   "pricing_status": "public",
+   "price_note": "(re-verified 2026-10-06, read on their own plans page with the full comparison open) No free tier, and the line-up is down to two self-serve plans plus Enterprise. On yearly billing: Startup $19/mo and Small Business $49/mo; month to month the same two are $23 and $59. The yearly toggle is badged 2 MONTHS FREE (it read SAVE 15% in August); on these prices the yearly rate is about 17% lower ($19 against $23, $49 against $59). Enterprise is quote-only. Startup covers 250 minutes (1,000 in our 13 August read), 1 number, 1 user, 1 extension and 120 texts, with extra minutes and texts at $0.06. Small Business covers 3 numbers (toll-free, local or vanity), unlimited users and extensions, 500 texts at $0.04 beyond that, and minutes listed as unlimited subject to the Fair Usage Policy. Extra numbers are $15 each on both plans. The older Complete plan ($99 yearly, $119 monthly in August) no longer appears, and AI Agents now sit behind a separate AI Plan whose price we could not read. Every plan carries a 30-day money-back guarantee.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-06",
+   "first_observed_at": "2026-10-06"
+  },
+  {
+   "name": "Aircall",
+   "category": "Communication & Voice",
+   "domain": "aircall.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/aircall-review/",
+   "from_price_usd_mo": 30.0,
+   "entry_price": "$30",
+   "entry_price_terms": "Essentials, per licence · per licence per month on annual billing ($40 billed monthly), minimum 3…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-10 on aircall.io/pricing in a live browser, with Aircall's own country selector on United States) Essentials is $30 per license a month and Professional $50, both on annual billing, which the page marks as 25% off monthly. Flip that toggle and the monthly rates read $40 and $70 per license. The discount is not uniform either: Essentials really is 25% off, but Professional lands closer to 29%, so price the plan you will actually buy rather than trusting the badge. The comparison table sets a minimum of 3 users on Essentials and Professional, so the smallest Essentials bill is $90 a month on annual billing. Enterprise is custom pricing from 25 users. Both paid plans now say they include AI Voice Agents: Essentials lists 50 min AI Voice Agents per month, and Professional is everything in Essentials plus AI call summary and conversation intelligence, smart routing, Power Dialer and outbound campaigns; on the US storefront both list unlimited calls within US & Canada. AI Voice Agents can also be bought on their own, without the phone system, at a $100 per month minimum on annual billing or $125 monthly. Minutes beyond the allowance cost $0.49 a minute pay-as-you-go, dropping to $0.39 above 2,500, or come in bundles: $175 for 500 minutes, $725 for 2,500 and $1,900 for 10,000, then about $0.19 a minute up to 35,000 ($6,650); at 54,000 minutes the calculator switches to custom pricing as low as $0.12 a minute. Add-ons, per seat a month: AI Assist Pro $49, WhatsApp $10 plus WhatsApp's own messaging rates, Analytics+ $15 and Aircall for Salesforce Voice $30. AI Messaging Agents are $0.15 to $0.35 per conversation and branded caller ID $0.08 per call, so the licence fee is a floor rather than the bill. The separate AI Assist add-on at $9 that we read on 27 September is no longer in the add-on list; the comparison table now marks call summaries, topics and call scoring as AI Assist on all three plans. The Netherlands storefront shows the same numerals in euros (EUR 30 and EUR 50), not an amount converted at the exchange rate.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "(read 2026-10-10 on aircall.io/pricing in a live browser, with Aircall's own country selector on United States) Essentials is $30 per license a month and Professional $50, both on annual billing, which the page marks as 25% off monthly.",
+     "evidence_excerpt": "(read 2026-10-10 on aircall.io/pricing in a live browser, with Aircall's own country selector on United States) Essentials is $30 per license a month and Professional $50, both on annual billing, whi…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "The separate AI Assist add-on at $9 that we read on 27 September is no longer in the add-on list; the comparison table now marks call summaries, topics and call scoring as AI Assist on all three plans.",
+     "evidence_excerpt": "The separate AI Assist add-on at $9 that we read on 27 September is no longer in the add-on list; the comparison table now marks call summaries, topics and call scoring as AI Assist on all three plan…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "(read 2026-10-10 on aircall.io/pricing in a live browser, with Aircall's own country selector on United States) Essentials is $30 per license a month and Professional $50, both on annual billing, which the page marks as 25% off monthly.",
+     "evidence_excerpt": "(read 2026-10-10 on aircall.io/pricing in a live browser, with Aircall's own country selector on United States) Essentials is $30 per license a month and Professional $50, both on annual billing, whi…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-10",
+   "first_observed_at": "2026-10-10"
+  },
+  {
+   "name": "Answering Service Care",
+   "category": "Communication & Voice",
+   "domain": "answeringservicecare.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/answering-service-care-review/",
+   "from_price_usd_mo": 40.0,
+   "entry_price": "$40",
+   "entry_price_terms": "Starter · billed monthly",
+   "pricing_status": "public",
+   "price_note": "(2026-09-10, re-verified 13 October 2026 on their own pricing page, both billing toggles) Four plans, priced on included minutes. Billed monthly: Starter $40 with zero minutes included and $1.75 per minute after that; Small Business $179 for 100 minutes, then $1.70; Pro $329 for 250 minutes, then $1.60; Enterprise $639 for 500 minutes, then $1.35. Paying a year upfront takes about 10% off the monthly rate: $161, $296 and $575 for the three larger plans, while Starter stays at $40. There is also a $50 one-time start-up fee; it is still absent from the plan cards, but the page's FAQ now says plainly what it buys — customising the account, building your initial scripts and configuring routing. The plan cards no longer differ only in minutes (re-read 13 October 2026). Starter lists 24/7 cover, one phone number, call transfers, the portal and mobile app, email and SMS notifications, secure messaging, custom hold music, personalised greetings and usage reporting, with live multilingual answering shown at $1 a minute. Small Business adds one Follow Me number (valued at $15), a dedicated account manager and live chat at $5 a chat; Pro adds free call recording (valued at $10); Enterprise adds free appointment setting and one free integration (each valued at $50). The FAQ says there is no long-term contract and that you can upgrade, downgrade or cancel. The same page now also sells an AI answering line on the same minute bundles: $40 (0 minutes), $80 (100), $195 (250) and $350 (500) a month billed monthly, with AI minutes at $0.85, $0.80, $0.75 and $0.70 and live minutes at $1.75, $1.70, $1.60 and $1.60. One caution about the page itself: the explanatory text below the table still contradicts the table three times, quoting Pro at $319, Enterprise at $599 and Starter overage at $1.65. We have used the figures from the pricing table, which is the one the buttons act on.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Billed monthly: Starter $40 with zero minutes included and $1.75 per minute after that; Small Business $179 for 100 minutes, then $1.70; Pro $329 for 250 minutes, then $1.60; Enterprise $639 for 500 minutes, then $1.35.",
+     "evidence_excerpt": "Billed monthly: Starter $40 with zero minutes included and $1.75 per minute after that; Small Business $179 for 100 minutes, then $1.70; Pro $329 for 250 minutes, then $1.60; Enterprise $639 for 500 …",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-13"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-13",
+   "first_observed_at": "2026-09-10"
+  },
+  {
+   "name": "AskNest",
+   "category": "Customer Support",
+   "domain": "ecommercestorez.us",
+   "review_url": "https://aibuildermarketplace.com/b2b/asknest-review/",
+   "from_price_usd_mo": 4.99,
+   "entry_price": "$4.99",
+   "entry_price_terms": "Starter · per month for 500 AI replies with automatic shopper-language detection…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-08-19 on apps.shopify.com/asknest-ai-faq-product-bot, re-verified unchanged 2026-09-28 and 2026-10-09) Four tiers, priced by AI replies per month, and the cheapest ladder in this category. Free: 50 AI replies a month, replies in one language you select, answers drawn from your FAQs, policy pages and product data, translated storefront widget, product finder and usage tracking. Starter $4.99 a month: 500 replies, automatic shopper-language detection across up to three languages, translated replies, product recommendations and best sellers. Growth $9.99 a month: 1,500 replies and all supported languages. Pro $19.99 a month: 5,000 replies. All charges are billed in USD and recur every 30 days, and no paid tier shows a free trial — the free plan is the trial. What the listing never says is what happens when you run out: there is no overage rate anywhere on the page, so whether reply 501 costs money or simply does not happen is not published. 'Any language' is also not on offer; customer-facing replies and widget labels cover English, German, French, Spanish, Italian, Dutch and Brazilian Portuguese — seven. Developer Ecommerce Storez, 1255 23rd St NW, Washington DC; the app launched 8 May 2026 and has exactly one App Store review.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "meter: unit · AI replies",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/asknest-ai-faq-product-bot",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-09"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Free: 50 AI replies a month, replies in one language you select, answers drawn from your FAQs, policy pages and product data, translated storefront widget, product finder and usage tracking.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/asknest-ai-faq-product-bot",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-09"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-09",
+   "first_observed_at": "2026-08-19"
+  },
+  {
+   "name": "Ava AI",
+   "category": "E-commerce",
+   "domain": "avasales.ai",
+   "review_url": "https://aibuildermarketplace.com/b2b/ava-ai-review/",
+   "from_price_usd_mo": 29.0,
+   "entry_price": "$29",
+   "entry_price_terms": "a month, includes 100 call minutes, then $0.10 a minute overage",
+   "pricing_status": "public",
+   "price_note": "(verified 2026-08-28 on apps.shopify.com/ava-ai and avasales.ai) Three paid tiers, no free plan, each with a 7-day trial. Support is $29 a month and includes 100 call minutes, then $0.10 a minute; Recover is $99 a month with 400 minutes and $0.08 over; Scale is $499 a month with 1,500 minutes and $0.07 over. The headline price is really a minutes bucket: a store with real call volume pays the overage, so cost tracks conversation length, not seats. Estimate your monthly call minutes before you compare — at heavy volume the effective bill can sit well above the tier price.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "The headline price is really a minutes bucket: a store with real call volume pays the overage, so cost tracks conversation length, not seats.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-08-28"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-08-28",
+   "first_observed_at": "2026-08-28"
+  },
+  {
+   "name": "bOnline",
+   "category": "Communication & Voice",
+   "domain": "bonline.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/bonline-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "£7",
+   "entry_price_terms": "Starter · per user a month plus VAT",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-06 on bonline.com/pricing, prices in GBP excluding VAT) Three plans, priced per user a month. Starter is £7.00 and gives a digital phone line and number, unlimited inbound calls, 100 outbound landline minutes and 40+ VoIP features. Unlimited Calling is £13.95 and adds unlimited UK landline and mobile calls (marked with an asterisk, and bOnline publishes a separate fair use policy), on-demand call recording and 45+ features. AI For Business Calls is £19.95, shown against a struck-through £21.95, and records every call, stores it for a year, and transcribes, summarises, scores and indexes it with AI. Add-ons are billed monthly: AI call recording £8, CRM integrations £8 (HubSpot, Zoho, Odoo, Pipedrive, Salesforce and 200 more), and international bundles at £6 for 500 minutes to 100 destinations, £10 for 1,000 minutes, or £5 for unlimited minutes to 14 destinations. The page offers a free trial with no card and no commitment, a price match guarantee and a 14-day 'love it' guarantee, and bOnline offers to cover up to £100 of exit fees from a previous provider. The pricing page does not state a contract length.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "(read 2026-10-06 on bonline.com/pricing, prices in GBP excluding VAT) Three plans, priced per user a month.",
+     "evidence_excerpt": null,
+     "source_url": "https://bonline.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-06"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Add-ons are billed monthly: AI call recording £8, CRM integrations £8 (HubSpot, Zoho, Odoo, Pipedrive, Salesforce and 200 more), and international bundles at £6 for 500 minutes to 100 destinations, £10 for 1,000 minutes, or £5 for unlimited minutes to 14 destinations.",
+     "evidence_excerpt": "Add-ons are billed monthly: AI call recording £8, CRM integrations £8 (HubSpot, Zoho, Odoo, Pipedrive, Salesforce and 200 more), and international bundles at £6 for 500 minutes to 100 destinations, £…",
+     "source_url": "https://bonline.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-06"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-06",
+   "first_observed_at": "2026-10-06"
+  },
+  {
+   "name": "Calilio",
+   "category": "Communication & Voice",
+   "domain": "calilio.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/calilio-review/",
+   "from_price_usd_mo": 12.0,
+   "entry_price": "$12",
+   "entry_price_terms": "per user a month billed annually ($15 monthly)",
+   "pricing_status": "public",
+   "price_note": "(re-verified 2026-08-17; plan prices unchanged on 2026-10-06, included allowance changed) Standard $15 per user/mo, or $12 billed annually ($144 a year); Premium $35 per user/mo, or $28 annually ($336 a year); Enterprise custom. Annual billing saves 20%. Each plan now includes a monthly allowance for US and Canada numbers: on Standard 200 outgoing and 100 incoming minutes plus 100 outbound and 100 inbound SMS, on Premium 1,000 and 500 minutes plus 500 and 500 SMS. With free minutes of call recording, call storage, AI transcription and AI voice agent and one free UK, US or Canada number added, the page values the bundle at $12.52 on Standard and $59.74 on Premium (read 6 October 2026; in August it quoted $6.75 and $33.74 for calls and SMS alone). Beyond the allowance, calls and SMS draw from a wallet: the subscription includes a $1 credit, after which you must load the wallet, and further numbers are billed separately. Standard has a 10-user limit; Premium has none. Standard suits solopreneurs and small businesses; Premium is aimed at growing businesses, franchises and call centres. Re-read 10 October 2026: the amounts are unchanged. Standard is capped at 10 users (User Limit: 10) and Premium has unlimited users; IVR with business hours, call transfer, a power dialer, bulk SMS and live call monitoring are listed under Premium, not Standard. The page mentions no shared inbox.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "(re-verified 2026-08-17; plan prices unchanged on 2026-10-06, included allowance changed) Standard $15 per user/mo, or $12 billed annually ($144 a year); Premium $35 per user/mo, or $28 annually ($336 a year); Enterprise custom.",
+     "evidence_excerpt": "(re-verified 2026-08-17; plan prices unchanged on 2026-10-06, included allowance changed) Standard $15 per user/mo, or $12 billed annually ($144 a year); Premium $35 per user/mo, or $28 annually ($33…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "Beyond the allowance, calls and SMS draw from a wallet: the subscription includes a $1 credit, after which you must load the wallet, and further numbers are billed separately.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Annual billing saves 20%.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-10",
+   "first_observed_at": "2026-08-17"
+  },
+  {
+   "name": "CallHippo",
+   "category": "Communication & Voice",
+   "domain": "callhippo.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/callhippo-review/",
+   "from_price_usd_mo": 19.0,
+   "entry_price": "$19",
+   "entry_price_terms": "per user a month billed annually, or $25 month-to-month",
+   "pricing_status": "public",
+   "price_note": "(re-verified 2026-10-14 in a browser on callhippo.com/pricing, currency selector switched to USD, phone-number region US/CA: plan grid, both billing tabs and fair-usage notes re-read; the add-on prices below were last read on 15 September 2026) Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55. Read the tab before the number: the grid opens on yearly, so the lower column is what most write-ups quote, and the toggle beside it advertises \"Save 3 Months' Cost\" -- paying annually is a third cheaper per user. The $18 that a plain fetch kept printing for Starter was the placeholder sitting in the HTML before the pricing script runs, not a column any visitor is shown. Basic still costs nothing, but fair-usage note 8 lower on that page says it is free only for the first 6 months from signup, after which the account must move to Starter to keep working - so Basic is a long runway, not a permanent free tier. CHANGED SINCE SEPTEMBER: on 14 October 2026 the Starter card lists 'Unlimited Minutes (Includes Both Landline & Mobile Calling)' with 100 SMS and one month of call logs, and no longer displays the 2-user minimum, which survives only as commented-out markup; on 15 September the same card read 1,000 US/CA minutes and a minimum of 2 users. Fair-usage note 7 limits unlimited calling to domestic calls within the US and Canada. Professional (500 SMS) is where call recording, AI voicemail transcription, multilingual IVR and lifetime call logs begin. Ultimate adds smart DID, multilevel, holiday and CRM-based VIP routing with 1,000 SMS. Two different Enterprise cards sit on this page and they state different floors: the Core one a minimum of 20 users, the call-centre 'New Enterprise' a minimum of 50, both quote-only with unlimited calling to 48 countries. The call-centre 'Pro Suite' ran $32-48/user/mo annual when it was last read on 15 August 2026. 10-day free trial on the paid tiers. Add-ons are priced apart: AI Voice Agent $45/user/mo with calling billed separately at $0.25/min, AI Copilot $10/user/mo, a dashboard-user seat $15/user/mo, CNAM $100 one-time, SMS Services from $3/mo with a $20 one-time setup fee, Spam Watch $3 per number/mo for US and Canada, $100 per number for spam remediation, $239 for 1,000 UAE minutes and $0.12 per branded call. Overages are in the notes: incoming minutes on standard numbers $0.02/min, incoming SMS $0.01 per message past fair use, outgoing calls to the same number capped at 10 per hour, and parallel calls capped at 30% of total call capacity. The currency selector prices per market instead of converting: the same grid read EUR 19/29/39 in euros on 15 August 2026, below the dollar column rather than above it.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "(re-verified 2026-10-14 in a browser on callhippo.com/pricing, currency selector switched to USD, phone-number region US/CA: plan grid, both billing tabs and fair-usage notes re-read; the add-on prices below were last read on 15 September 2026) Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55.",
+     "evidence_excerpt": "(re-verified 2026-10-14 in a browser on callhippo.com/pricing, currency selector switched to USD, phone-number region US/CA: plan grid, both billing tabs and fair-usage notes re-read; the add-on pric…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-14"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "Overages are in the notes: incoming minutes on standard numbers $0.02/min, incoming SMS $0.01 per message past fair use, outgoing calls to the same number capped at 10 per hour, and parallel calls capped at 30% of total call capacity.",
+     "evidence_excerpt": "Overages are in the notes: incoming minutes on standard numbers $0.02/min, incoming SMS $0.01 per message past fair use, outgoing calls to the same number capped at 10 per hour, and parallel calls ca…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-14"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "(re-verified 2026-10-14 in a browser on callhippo.com/pricing, currency selector switched to USD, phone-number region US/CA: plan grid, both billing tabs and fair-usage notes re-read; the add-on prices below were last read on 15 September 2026) Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55.",
+     "evidence_excerpt": "(re-verified 2026-10-14 in a browser on callhippo.com/pricing, currency selector switched to USD, phone-number region US/CA: plan grid, both billing tabs and fair-usage notes re-read; the add-on pric…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-14"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "(re-verified 2026-10-14 in a browser on callhippo.com/pricing, currency selector switched to USD, phone-number region US/CA: plan grid, both billing tabs and fair-usage notes re-read; the add-on prices below were last read on 15 September 2026) Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55.",
+     "evidence_excerpt": "(re-verified 2026-10-14 in a browser on callhippo.com/pricing, currency selector switched to USD, phone-number region US/CA: plan grid, both billing tabs and fair-usage notes re-read; the add-on pric…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-14"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-14",
+   "first_observed_at": "2026-10-14"
+  },
+  {
+   "name": "Chatwith",
+   "category": "Customer Support",
+   "domain": "chatwith.tools",
+   "review_url": "https://aibuildermarketplace.com/b2b/chatwith-review/",
+   "from_price_usd_mo": 9.0,
+   "entry_price": "$9",
+   "entry_price_terms": "per month (250 message credits)",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-13 in a live browser on chatwith.tools/pricing and in the terms at chatwith.tools/terms) Four plans in US dollars, excluding taxes, with annual billing at ten times the monthly price. Starter is $9 a month or $90 a year: 250 message credits a month, about 50 conversations by the page's estimate, 1 agent and 2 million training characters. Hobby is $19 a month or $190 a year with a 7-day free trial: 1,000 credits, about 200 conversations, 1 agent and 10 million characters. Standard is $99 a month or $990 a year with a trial: 10,000 credits, about 2,000 conversations, 3 agents and 20 million characters. Business is $399 a month or $3,990 a year with a trial: 40,000 credits, about 8,000 conversations, 5 agents and 50 million characters. Sources are unlimited on every plan, and MCP action calls are allowed at 250, 1,250 and 5,000 a month on the plans that include them. The conversation estimates assume five AI replies per conversation at one credit per reply, and the page says actual use varies by model and conversation length. Add-ons are $9 a month per 1,000 extra credits, $9 per 10 million training characters, $9 per extra agent and $6 per 1,000 MCP actions. Support is community on Starter and Hobby, standard on Standard and premium on Business. The terms say fees are non-refundable and payment obligations non-cancellable except as the agreement states, you can stop renewal in your account settings and keep access to the end of the period, and the agreement falls under German law with courts in Berlin.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Starter is $9 a month or $90 a year: 250 message credits a month, about 50 conversations by the page's estimate, 1 agent and 2 million training characters.",
+     "evidence_excerpt": null,
+     "source_url": "https://chatwith.tools/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-13"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Add-ons are $9 a month per 1,000 extra credits, $9 per 10 million training characters, $9 per extra agent and $6 per 1,000 MCP actions.",
+     "evidence_excerpt": null,
+     "source_url": "https://chatwith.tools/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-13"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "(read 2026-10-13 in a live browser on chatwith.tools/pricing and in the terms at chatwith.tools/terms) Four plans in US dollars, excluding taxes, with annual billing at ten times the monthly price.",
+     "evidence_excerpt": null,
+     "source_url": "https://chatwith.tools/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-13"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-13",
+   "first_observed_at": "2026-10-13"
+  },
+  {
+   "name": "CloudTalk",
+   "category": "Communication & Voice",
+   "domain": "cloudtalk.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/cloudtalk-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "€19",
+   "entry_price_terms": "Lite · per user per month on annual billing",
+   "pricing_status": "public",
+   "price_note": "Lite €19, Starter €25, Essential €29 and Expert €49 per user/mo on annual billing, or €27, €34, €39 and €69 billed monthly, and Expert needs at least 3 licences (re-verified 2026-08-16 and 2026-10-06). The toggle promises 'save 3+ months (≈ 30% off)'; on those figures annual billing saves 25.6% on Essential, 26.5% on Starter, 29.0% on Expert and 29.6% on Lite, between three and four months of the monthly fee. The add-ons are where the bill grows: Power Dialer €15 per user/mo (already included in Expert), Parallel Dialer €39 per user/mo, AI Conversation Intelligence €9 per user/mo. AI voice agents are separate subscriptions: the add-on card lists them from €99/mo with 200 minutes (on 6 October 2026 the AI Receptionist card itself showed €0 with 50 minutes free in the first month), AI Specialist €349/mo with 1,000 minutes, and above 10,000 minutes a month custom pricing CloudTalk advertises as low as €0.15 per minute. There is a 14-day trial that includes 50 AI voice agent minutes. Note the page quotes us in euros from an EU address while the same page carries a $99 figure for the same AI bundle. CloudTalk told us on 31 August 2026 that this is deliberate rather than a display error: they hold the same number in both currencies instead of converting at the exchange rate, so €99 and $99 buy the same bundle. Confirm the currency at your own checkout.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Lite €19, Starter €25, Essential €29 and Expert €49 per user/mo on annual billing, or €27, €34, €39 and €69 billed monthly, and Expert needs at least 3 licences (re-verified 2026-08-16 and 2026-10-06).",
+     "evidence_excerpt": "Lite €19, Starter €25, Essential €29 and Expert €49 per user/mo on annual billing, or €27, €34, €39 and €69 billed monthly, and Expert needs at least 3 licences (re-verified 2026-08-16 and 2026-10-06…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-06"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "AI voice agents are separate subscriptions: the add-on card lists them from €99/mo with 200 minutes (on 6 October 2026 the AI Receptionist card itself showed €0 with 50 minutes free in the first month), AI Specialist €349/mo with 1,000 minutes, and above 10,000 minutes a month custom pricing CloudTalk advertises as low as €0.15 per minute.",
+     "evidence_excerpt": "AI voice agents are separate subscriptions: the add-on card lists them from €99/mo with 200 minutes (on 6 October 2026 the AI Receptionist card itself showed €0 with 50 minutes free in the first mont…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-06"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "AI voice agents are separate subscriptions: the add-on card lists them from €99/mo with 200 minutes (on 6 October 2026 the AI Receptionist card itself showed €0 with 50 minutes free in the first month), AI Specialist €349/mo with 1,000 minutes, and above 10,000 minutes a month custom pricing CloudTalk advertises as low as €0.15 per minute.",
+     "evidence_excerpt": "AI voice agents are separate subscriptions: the add-on card lists them from €99/mo with 200 minutes (on 6 October 2026 the AI Receptionist card itself showed €0 with 50 minutes free in the first mont…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-06"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Lite €19, Starter €25, Essential €29 and Expert €49 per user/mo on annual billing, or €27, €34, €39 and €69 billed monthly, and Expert needs at least 3 licences (re-verified 2026-08-16 and 2026-10-06).",
+     "evidence_excerpt": "Lite €19, Starter €25, Essential €29 and Expert €49 per user/mo on annual billing, or €27, €34, €39 and €69 billed monthly, and Expert needs at least 3 licences (re-verified 2026-08-16 and 2026-10-06…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-06"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-06",
+   "first_observed_at": null
+  },
+  {
+   "name": "Cloze",
+   "category": "Customer Support",
+   "domain": "cloze.bot",
+   "review_url": "https://aibuildermarketplace.com/b2b/cloze-review/",
+   "from_price_usd_mo": 49.0,
+   "entry_price": "$49",
+   "entry_price_terms": "Starter · per month for 250 AI conversations on the App Store listing, plus $0.10…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-08-19, re-verified unchanged 2026-09-04 on apps.shopify.com/cloze, listed as “Cloze: AI Shopping Assistant”) Free plan available: 25 AI conversations a month, up to 100 synced products, core assistant customisation and 7 days of conversation history. Paid tiers are Starter $49, Pro $99 and Scale $199 a month, each with $0.10 per additional AI conversation and a 3-day free trial. Starter covers 250 conversations a month and 1,000 synced products, with full customisation and 30 days of insights. Pro covers 750 conversations and 10,000 products with advanced insights and 90 days of history, and Scale 2,000 conversations, unlimited products, a year of history and priority support. All charges are billed in USD and recur every 30 days. Worth knowing before you install. The vendor's own site, cloze.bot/pricing, advertised a different and cheaper ladder on the same day: Free forever with 50 conversations a month, Pro $29 a month and Business $79 a month. On that page both paid tiers say unlimited conversations rather than a monthly allowance. Our link goes to the App Store listing, so the $49/$99/$199 ladder, with its caps of 250, 750 and 2,000 conversations, is what you pay when you install there. The screenshot further down is their own page exactly as we captured it. Developer Optify, Lyon, France; the app launched 24 April 2026, carries Shopify's “Built for Shopify” badge and had no reviews at all at the time of writing. Re-read on 4 September 2026: both ladders still stood exactly as described above, and the listing had gained its first review — a single five-star note left on 14 August 2026 by a French store eight days in. Re-verified 11 October 2026: the App Store ladder (Free 25, Starter $49 for 250, Pro $99 for 750, Scale $199 for 2,000 conversations, $0.10 each beyond, 3-day trials) is unchanged, and so is the different ladder on cloze.bot/pricing (Free 50 conversations, Pro $29 and Business $79 with unlimited conversations). The listing still carries one review, dated 14 August 2026.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "meter: unit · AI conversations",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/cloze",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-08-19, re-verified unchanged 2026-09-04 on apps.shopify.com/cloze, listed as “Cloze: AI Shopping Assistant”) Free plan available: 25 AI conversations a month, up to 100 synced products, core assistant customisation and 7 days of conversation history.",
+     "evidence_excerpt": "(read 2026-08-19, re-verified unchanged 2026-09-04 on apps.shopify.com/cloze, listed as “Cloze: AI Shopping Assistant”) Free plan available: 25 AI conversations a month, up to 100 synced products, co…",
+     "source_url": "https://apps.shopify.com/cloze",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-11",
+   "first_observed_at": "2026-08-19"
+  },
+  {
+   "name": "CometChat",
+   "category": "Communication & Voice",
+   "domain": "cometchat.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/cometchat-review/",
+   "from_price_usd_mo": 239.0,
+   "entry_price": "$239",
+   "entry_price_terms": "a month at 1,000 MAU billed yearly ($298.75 monthly)",
+   "pricing_status": "public",
+   "price_note": "(re-verified 2026-08-17 and 2026-10-07 against CometChat's own machine-readable pricing reference, which they publish for AI agents and last verified themselves on 2026-05-20, and on 2026-10-07 also against the live pricing page; USD) Build is free for development: all features, up to 100 users and 25 concurrent connections, no card. Paid Chat plans are priced by monthly active users. Billed yearly, shown as a monthly equivalent: at 1,000 MAU Basic is $239 and Advanced $359; at 10,000 MAU Basic $299, Advanced $399 and Enterprise $999; at 25,000 MAU $699 and $949; at 50,000 MAU $1,349 and $1,649. Paying monthly costs 25% more — $298.75 and $448.75 at 1,000 MAU; the 'Save 20%' on the toggle is the same gap measured from the monthly price. Above 50,000 MAU everything is quote-only. Concurrency is included at 5% of your MAU on Basic and Advanced and 10% on Enterprise. On overage CometChat charges $0.10 per extra MAU (falling at higher tiers) or $1 per extra concurrent connection — and where both are exceeded it bills the higher of the two, not both. Enterprise has no listed overage; usage above the plan is upgraded to the appropriate plan instead. Messages and storage are unlimited on every plan, and message retention is 6 months across the board, extendable at extra cost.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "On overage CometChat charges $0.10 per extra MAU (falling at higher tiers) or $1 per extra concurrent connection — and where both are exceeded it bills the higher of the two, not both.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Messages and storage are unlimited on every plan, and message retention is 6 months across the board, extendable at extra cost.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "The pricing cliff is the honest headline: from a 100-MAU free tier straight to ~$239/mo is a brutal jump for an early-stage app, and users report plan structures changing under them.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-07",
+   "first_observed_at": "2026-08-17"
+  },
+  {
+   "name": "CrankWheel",
+   "category": "Communication & Voice",
+   "domain": "crankwheel.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/crankwheel-review/",
+   "from_price_usd_mo": 29.0,
+   "entry_price": "$29",
+   "entry_price_terms": "per month, 1 user, unlimited usage",
+   "pricing_status": "public",
+   "price_note": "(read on crankwheel.com/pricing, 2026-08-21, re-verified unchanged 2026-10-09) A free plan with no payment details required — unlimited usage for the first 15 days, then up to 15 sessions a month for life. Solo is $29/month for one user with unlimited usage, up to 30 viewers per share and up to 10 video-conferencing participants. Team starts at $99/month for unlimited users sharing 100 meetings a month, rising in steps: Team 200 $194, Team 500 $467, Team 1000 $882, Team 2000 $1,562. Busy User discount plans cost less for a capped number of users — Team 100 at $59 for three users, Team 500 at $287 for fifteen. Enterprise is quoted per year and the page prints no figure. A meeting counts at 40 seconds with a viewer, or when you create a share link or segment, or on an Instant Demo call.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read on crankwheel.com/pricing, 2026-08-21, re-verified unchanged 2026-10-09) A free plan with no payment details required — unlimited usage for the first 15 days, then up to 15 sessions a month for life.",
+     "evidence_excerpt": "(read on crankwheel.com/pricing, 2026-08-21, re-verified unchanged 2026-10-09) A free plan with no payment details required — unlimited usage for the first 15 days, then up to 15 sessions a month for…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-09"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-09",
+   "first_observed_at": "2026-08-21"
+  },
+  {
+   "name": "Dondy",
+   "category": "Marketing",
+   "domain": "dondy.net",
+   "review_url": "https://aibuildermarketplace.com/b2b/dondy-review/",
+   "from_price_usd_mo": 6.99,
+   "entry_price": "$6.99",
+   "entry_price_terms": "Pro · per month for the chat button and messages you send by hand",
+   "pricing_status": "public",
+   "price_note": "(re-read 2026-09-18 on apps.shopify.com/dondy-marketing-ai, listed as “Dondy: WhatsApp Marketing+Chat”) Four tiers, each paid one with a 7-day free trial, and every amount unchanged since 22 August 2026. Free: a WhatsApp chat button with unlimited conversations, custom size and location, and prefilled messages. Pro $6.99 a month or $67.10 a year, a 20% saving: premium button designs, a WhatsApp widget, text customisation, product URLs in messages, custom hours, reports, and abandoned-cart and order-confirmation messages you send manually. Power Automation $79.99 a month or $719.88 a year, a 25% saving: automated abandoned-cart recovery, WhatsApp marketing campaigns, customisable automated messages, bulk messaging to Shopify segments, an inbox with Shopify integration and the official WhatsApp Business API. It includes 1,000 one-click messages every 30 days and quotes WhatsApp rates starting at $0.0158 in the US on top. Elite $159.99 a month or $1,439.88 a year, also a 25% saving, adds an AI chatbot for sales and support, AI corrections and training, AI product recommendations, a five-agent WhatsApp inbox, green-tick verification assistance, a VIP account manager and unlimited WhatsApp flows; same 1,000 included messages, rates starting at $0.0126. All charges are billed in USD and recur every 30 days, and Meta's per-conversation charges are separate from all of it. The listing now also advertises work the dossier did not cover in August: collecting WhatsApp reviews through Judge.me, Loox, Yotpo, Trustoo or Google, cash-on-delivery messaging, and AI agents alongside the chatbot; the named integrations are Shopify Flow, Shopify Admin, Judge.me, Klaviyo, Loox, WhatsApp API and WhatsApp Business. Developer Dondy; the app launched 15 March 2023, is available in five languages and carries Shopify's “Built for Shopify” badge. Reviews have grown to 823 averaging 4.9, up from 774 on 22 August, distributed 92% five-star (756), 4% four-star (36), 1% three-star (6), 0% two-star (4) and 3% one-star (21) — the one-star count is the same 21 as a month ago, so all 49 new reviews landed above the bottom.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "meter: unit · WhatsApp messages",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/dondy-marketing-ai",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-18"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Free: a WhatsApp chat button with unlimited conversations, custom size and location, and prefilled messages.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/dondy-marketing-ai",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-18"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-09-18",
+   "first_observed_at": "2026-09-18"
+  },
+  {
+   "name": "eDesk",
+   "category": "Communication & Voice",
+   "domain": "edesk.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/edesk-review/",
+   "from_price_usd_mo": 39.0,
+   "entry_price": "$39",
+   "entry_price_terms": "Essential, per agent · per agent per month billed annually ($49 billed monthly)",
+   "pricing_status": "public",
+   "price_note": "(re-verified 2026-09-29) No free plan: 'Start for free' opens a 14-day full-feature trial with no credit card. Essential $39 per agent/mo, Growth $89, Professional $119 (the plan eDesk marks Most Popular), Enterprise custom — all billed annually. Billed monthly the same plans cost $49, $115 and $149; the annual rate is the '20% off' eDesk advertises. The AI Agent is included on every plan, but its automated resolutions bill separately at $0.99 per outcome: you pay when it actually resolves a query, not per attempt. eDesk claims the agent can automate up to 65% of support across channels, so model the outcome fee against your ticket volume — at 1,000 resolved tickets a month that is $990 on top of the seats.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Essential $39 per agent/mo, Growth $89, Professional $119 (the plan eDesk marks Most Popular), Enterprise custom — all billed annually.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "meter: unit · agent seats and resolved AI outcomes",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "eDesk claims the agent can automate up to 65% of support across channels, so model the outcome fee against your ticket volume — at 1,000 resolved tickets a month that is $990 on top of the seats.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-07",
+   "first_observed_at": "2026-09-29"
+  },
+  {
+   "name": "Fireflies.ai",
+   "category": "Communication & Voice",
+   "domain": "fireflies.ai",
+   "review_url": "https://aibuildermarketplace.com/b2b/fireflies-ai-review/",
+   "from_price_usd_mo": 10.0,
+   "entry_price": "$10",
+   "entry_price_terms": "per seat/mo billed annually ($18 monthly)",
+   "pricing_status": "public",
+   "price_note": "(price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit) Free $0 — unlimited transcription, limited AI summaries, 400 mins storage per team, 20 AI credits. Pro $18/seat/mo month-to-month or $10/seat/mo billed annually — unlimited AI summaries, 8,000 mins storage per seat, 20 AI credits. Business $29/seat/mo month-to-month or $19/seat/mo billed annually — unlimited storage, 30 AI credits. Enterprise $39/seat/mo, annual only — 50 AI credits, SSO/SCIM, HIPAA, private storage. CORRECTION to the previous dossier: $10 and $19 were carried as the price; they are the annual rates and month-to-month is 80% and 53% higher. Enterprise was missing entirely. The AI-credit ladder (20/20/30/50) means Pro adds no AI credits over the free plan.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Pro $18/seat/mo month-to-month or $10/seat/mo billed annually — unlimited AI summaries, 8,000 mins storage per seat, 20 AI credits.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-08-31"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "(price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit) Free $0 — unlimited transcription, limited AI summaries, 400 mins storage per team, 20 AI credits.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-08-31"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "(price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit) Free $0 — unlimited transcription, limited AI summaries, 400 mins storage per team, 20 AI credits.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-08-31"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-08-31",
+   "first_observed_at": "2026-08-31"
+  },
+  {
+   "name": "Freshchat",
+   "category": "Communication & Voice",
+   "domain": "freshchat.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/freshchat-review/",
+   "from_price_usd_mo": 19.0,
+   "entry_price": "$19",
+   "entry_price_terms": "per agent a month billed annually ($23 monthly)",
+   "pricing_status": "public",
+   "price_note": "Read 1 Sep 2026 on freshworks.com/live-chat-software/pricing/ (USD fields of the page own plan data). Free is $0 for up to 10 agents. Per agent per month: Growth $19 billed annually or $23 monthly, Pro $49 or $59, Enterprise $79 or $95. Freddy AI is a separate bill, and both rates are published: the Freddy AI Copilot add-on is $29/agent/mo billed annually ($35 monthly), and Freddy AI Agent sessions cost $49 per 100 sessions beyond the 500 complimentary sessions each paid account receives once. Other add-ons on the same page: Freshcaller at $15/$39/$69 per agent per month annually ($18/$47/$83 monthly) on Growth/Pro/Enterprise, campaign contacts at $100, connector app tasks at $80, and day passes at $2/$7/$12.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Per agent per month: Growth $19 billed annually or $23 monthly, Pro $49 or $59, Enterprise $79 or $95.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-01"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Freddy AI is a separate bill, and both rates are published: the Freddy AI Copilot add-on is $29/agent/mo billed annually ($35 monthly), and Freddy AI Agent sessions cost $49 per 100 sessions beyond the 500 complimentary sessions each paid account receives once.",
+     "evidence_excerpt": "Freddy AI is a separate bill, and both rates are published: the Freddy AI Copilot add-on is $29/agent/mo billed annually ($35 monthly), and Freddy AI Agent sessions cost $49 per 100 sessions beyond t…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-01"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Free is $0 for up to 10 agents.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-01"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-09-01",
+   "first_observed_at": null
+  },
+  {
+   "name": "Freshservice",
+   "category": "IT & Productivity",
+   "domain": "freshservice.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/freshservice-review/",
+   "from_price_usd_mo": 19.0,
+   "entry_price": "$19",
+   "entry_price_terms": "per agent a month, billed annually ($29 billed monthly)",
+   "pricing_status": "public",
+   "price_note": "(price re-verified 2026-09-29 against the vendor's own pricing page) Per agent, read 29 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $49 or $59; Pro $99 or $119. Enterprise is quote-only again: the card now reads 'Custom' with a 'Contact us' button. The page's own plan data still carries $139 annual and $167 monthly for it, but with a hidePrices flag set and 'Custom' as the display text, so those two numbers are not an offer (on 1 Sep 2026 they were printed). Monthly billing costs 53% more on Starter and about 20% more on Growth and Pro. The same plan data carries a euro set -- Starter EUR 15 annual / EUR 25 monthly, Growth 40/50, Pro 84/102 -- in which the Starter monthly surcharge is 67%, not 53%. Add-ons and allowances: Freddy AI Copilot $29/agent/mo, offered on the Pro and Enterprise cards only and still an add-on on Enterprise even though that card now says 'Freddy AI included' (what is included there is the Freddy AI Agent (Classic) at 1,200 sessions per Enterprise licence per year, plus Freddy AI Insights); orchestration transactions included at 1,000/2,000/5,000/20,000 per account per month with extra packs at $250 per 1,000; MCP actions allowanced at 1,200, 6,000 or 12,000 a year with packs at $15 per 1,000; an e-signature pack at $90 for 30 signature credits; project management licences at $15/user/mo; a Business Agent licence for non-IT teams at $49/agent/mo on Pro and Enterprise only; connector app tasks at $80 per 5,000 after a one-time 500 free. Growth, Pro and Enterprise include the ITAM Growth package and 100 asset units (Starter does not); further units are sold in packs of 500. Three free Day Passes for occasional agents at signup, more from $3. 14-day free trial with all features. FAQ: upgrades apply instantly, downgrades and cancellations only at the end of the term.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "(price re-verified 2026-09-29 against the vendor's own pricing page) Per agent, read 29 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $49 or $59; Pro $99 or $119.",
+     "evidence_excerpt": "(price re-verified 2026-09-29 against the vendor's own pricing page) Per agent, read 29 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-29"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "Add-ons and allowances: Freddy AI Copilot $29/agent/mo, offered on the Pro and Enterprise cards only and still an add-on on Enterprise even though that card now says 'Freddy AI included' (what is included there is the Freddy AI Agent (Classic) at 1,200 sessions per Enterprise licence per year, plus Freddy AI Insights); orchestration transactions included at 1,000/2,000/5,000/20,000 per account per month with extra packs at $250 per 1,000; MCP actions allowanced at 1,200, 6,000 or 12,000 a year with packs at $15 per 1,000; an e-signature pack at $90 for 30 signature credits; project management licences at $15/user/mo; a Business Agent licence for non-IT teams at $49/agent/mo on Pro and Enterprise only; connector app tasks at $80 per 5,000 after a one-time 500 free.",
+     "evidence_excerpt": "Add-ons and allowances: Freddy AI Copilot $29/agent/mo, offered on the Pro and Enterprise cards only and still an add-on on Enterprise even though that card now says 'Freddy AI included' (what is inc…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-29"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "The $19 headline rarely survives contact with a real deployment: the ITSM features most IT teams buy for (change/problem management, deeper analytics) live at Pro, and so does Freddy AI Copilot, a $29-an-agent add-on offered only on Pro and Enterprise.",
+     "evidence_excerpt": "The $19 headline rarely survives contact with a real deployment: the ITSM features most IT teams buy for (change/problem management, deeper analytics) live at Pro, and so does Freddy AI Copilot, a $2…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-29"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-09-29",
+   "first_observed_at": "2026-09-29"
+  },
+  {
+   "name": "Freshworks",
+   "category": "Customer Support",
+   "domain": "freshworks.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/freshworks-review/",
+   "from_price_usd_mo": 19.0,
+   "entry_price": "$19",
+   "entry_price_terms": "Freshdesk Growth · per agent per month billed annually",
+   "pricing_status": "public",
+   "price_note": "(2026-08-29, read on their own pricing pages) The main Freshworks pricing page still carries no prices at all — it lists the products and links out to each one, and that list has grown to nine: Freshdesk Omni, Freshdesk, Freshchat, Freshcaller, Freshservice, Freshservice for Business Teams, Freshsales, Freshsales Suite and Freshmarketer. On Freshdesk the annual rates are unchanged since 1 August 2026: Growth $19 per agent per month, Pro $55, Enterprise $89, billed annually. What has changed is that the monthly column is now published: Growth $23, Pro $66, Enterprise $107 per agent per month, billed monthly. The page's SAVE 20% badge overstates the gap — $19 against $23 is 17.4%, $55 against $66 is 16.7%, $89 against $107 is 16.8%. Freddy AI Agent is included with the first 500 sessions; additional sessions are $49 per 100. Freddy AI Copilot is a separate add-on at $29 per agent per month annually, or $35 monthly, on Pro and Enterprise only. Day passes are $2, $7 and $12 per pass on Growth, Pro and Enterprise. Connector app tasks are $80 per 5,000 tasks. The 14-day free trial starts you on Enterprise. Re-verified 11 October 2026 on freshworks.com/freshdesk/pricing/: the annual rates ($19, $55, $89), the $29 Copilot add-on, the $49 per 100 extra AI Agent sessions, the $2/$7/$12 day passes and the $80 per 5,000 connector tasks are unchanged, and a new add-on is listed on every tier: MCP actions at $15 per 1,000. The monthly column is not in the page source we read, so the monthly figures above date from 29 August 2026. The FAQ on the same page adds that the 500 free AI Agent sessions are given once per account, not every month; that an email AI Agent session is a 72-hour window from the customer's first email; that purchased session packs expire with your payment cycle; and that downgrades and cancellations take effect only at the end of your term.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "On Freshdesk the annual rates are unchanged since 1 August 2026: Growth $19 per agent per month, Pro $55, Enterprise $89, billed annually.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "And the Freddy AI Agent that is included stops after 500 sessions; beyond that it is $49 per 100 sessions, so a busy queue turns the included allowance into a metered bill.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Freddy AI Copilot is a separate add-on at $29 per agent per month annually, or $35 monthly, on Pro and Enterprise only.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-11",
+   "first_observed_at": "2026-08-29"
+  },
+  {
+   "name": "Gorgias",
+   "category": "Customer Support",
+   "domain": "gorgias.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/gorgias-review/",
+   "from_price_usd_mo": 90.0,
+   "entry_price": "$90",
+   "entry_price_terms": "Basic · per month, month-to-month",
+   "pricing_status": "public",
+   "price_note": "(re-verified 7 October 2026 on their own pricing page; figures unchanged since 8 September) Not priced per agent -- their own line -- but the seats are capped: the comparison table gives Starter 3 user seats and Basic, Pro and Advanced 500 each. Two meters stack. Starter is $40/month all in, monthly billing only: a $10/month helpdesk with 50 tickets included and $0.40 per ticket beyond, plus the AI Agent at $30/month with 30 automated interactions. Basic is $90/month month-to-month or $77/month billed annually ($924 a year), including 300 tickets and 30 automated interactions with the same $0.40 ticket overage; the $50 helpdesk and $27 AI Agent printed on that card sum to the annual rate, not the monthly one. Pro is $550/month or $471/month billed annually ($5,652 a year) -- $300 helpdesk plus $171 AI Agent -- including 2,000 tickets and 190 automated interactions, with ticket overage falling to $0.36. Advanced is $1,430/month or $1,227/month billed annually ($14,724 a year) -- $750 plus $477 -- including 5,000 tickets and 530 automated interactions, also at $0.36. Above 5,000 conversations a month it is quote-only, and that custom tier is the only one with SSO via SAML, audit logs and an API above the 2 requests a second every listed plan gets. Past the included interactions the comparison table prices the AI meter at $1.00 on Starter, $0.90 on Basic and Pro and $0.85 on Advanced. On 8 September the plan cards said $1.50; on 7 October that card rate was no longer on the page.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Basic is $90/month month-to-month or $77/month billed annually ($924 a year), including 300 tickets and 30 automated interactions with the same $0.40 ticket overage; the $50 helpdesk and $27 AI Agent printed on that card sum to the annual rate, not the monthly one.",
+     "evidence_excerpt": "Basic is $90/month month-to-month or $77/month billed annually ($924 a year), including 300 tickets and 30 automated interactions with the same $0.40 ticket overage; the $50 helpdesk and $27 AI Agent…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-07",
+   "first_observed_at": null
+  },
+  {
+   "name": "Help Scout",
+   "category": "Customer Support",
+   "domain": "helpscout.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/help-scout-review/",
+   "from_price_usd_mo": 25.0,
+   "entry_price": "$25",
+   "entry_price_terms": "Standard · per user per month billed yearly",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-10 on helpscout.com/pricing with the monthly and annual toggles, USD) Free covers up to 5 users, 1 Inbox, 1 Docs site and 100 contacts a month, with 10 saved replies and 10 tags. A contact is someone who got a reply from your team or the AI assistant; several conversations with the same person count once. Standard is $25 per user a month billed annually or $30 monthly, for up to 25 users: 2 Inboxes, live chat, WhatsApp, Instagram and Messenger, multiple knowledge bases, one basic SLA policy, basic workflows, unlimited tags and saved replies and the AI Inbox assistant. Plus, marked popular, is $45 annually or $54 monthly, for up to 50 users: 5 Inboxes, advanced workflows, two advanced SLA policies, a secure customer portal, unlimited AI drafts, round-robin routing, Salesforce, Jira and HubSpot integrations and 25 light users. Pro is $75 annually or $90 monthly with unlimited users and a minimum of 10, sold through a demo: 10 Inboxes, unlimited workflows and SLAs, SSO/SAML, HIPAA compliance, 50 light users and a dedicated onboarding specialist. Extra Inboxes cost $10 a month and extra Docs sites $20 a month. AI Answers, the autonomous assistant, is an add-on at $0.75 per resolution billed monthly, with a 3-month free trial. Annual billing is labelled 16% off; SMS and phone calls run through integrations.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Standard is $25 per user a month billed annually or $30 monthly, for up to 25 users: 2 Inboxes, live chat, WhatsApp, Instagram and Messenger, multiple knowledge bases, one basic SLA policy, basic workflows, unlimited tags and saved replies and the AI Inbox assistant.",
+     "evidence_excerpt": "Standard is $25 per user a month billed annually or $30 monthly, for up to 25 users: 2 Inboxes, live chat, WhatsApp, Instagram and Messenger, multiple knowledge bases, one basic SLA policy, basic wor…",
+     "source_url": "https://www.helpscout.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "AI Answers, the autonomous assistant, is an add-on at $0.75 per resolution billed monthly, with a 3-month free trial.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.helpscout.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Annual billing is labelled 16% off; SMS and phone calls run through integrations.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.helpscout.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-10-10 on helpscout.com/pricing with the monthly and annual toggles, USD) Free covers up to 5 users, 1 Inbox, 1 Docs site and 100 contacts a month, with 10 saved replies and 10 tags.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.helpscout.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-10",
+   "first_observed_at": "2026-10-10"
+  },
+  {
+   "name": "HelpCenter",
+   "category": "Customer Support",
+   "domain": "helpcenterapp.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/helpcenter-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$5.99",
+   "entry_price_terms": "Basic · per month, or $59.99 a year",
+   "pricing_status": "public",
+   "price_note": "(re-read 2026-08-29 on apps.shopify.com/helpcenter, re-verified unchanged 2026-10-14) Free to install, and the meter is tickets rather than agents — Basic already gives unlimited support agents, then bills for every ticket over the allowance. Free covers 10 tickets a month and charges $0.25 for each one after that. Basic is $5.99 a month or $59.99 a year, a 17% saving, and covers 50 tickets, then $0.16 each. Standard is $19.99 or $199.99 a year for 300 tickets, then $0.15. Advanced is $49.99 or $498.96 a year for 1,000 tickets, then $0.10. Every paid tier carries a 14-day free trial and all charges are billed in USD. Which means the headline $5.99 only holds to 50 tickets a month: at 300 tickets Basic works out at $45.99, because the 250 over the allowance add $40 — while Standard includes those same 300 for $19.99. Price the tier against your own ticket count rather than the entry rate. The App Store lists it as “SB: Helpdesk, Live Chat & FAQs” from Shark Byte, Inc — the product calls itself HelpCenter, so you will see both names. Rating 4.6 from 316 reviews on 14 October 2026.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "(re-read 2026-08-29 on apps.shopify.com/helpcenter, re-verified unchanged 2026-10-14) Free to install, and the meter is tickets rather than agents — Basic already gives unlimited support agents, then bills for every ticket over the allowance.",
+     "evidence_excerpt": "(re-read 2026-08-29 on apps.shopify.com/helpcenter, re-verified unchanged 2026-10-14) Free to install, and the meter is tickets rather than agents — Basic already gives unlimited support agents, then…",
+     "source_url": "https://apps.shopify.com/helpcenter",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-14"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Free covers 10 tickets a month and charges $0.25 for each one after that.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/helpcenter",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-14"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-14",
+   "first_observed_at": "2026-08-29"
+  },
+  {
+   "name": "Jotform AI Agents",
+   "category": "Customer Support",
+   "domain": "jotform.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/jotform-ai-agents-review/",
+   "from_price_usd_mo": 34.0,
+   "entry_price": "$34",
+   "entry_price_terms": "a month billed annually (25 agents, 1,000 conversations/mo)",
+   "pricing_status": "public",
+   "price_note": "(re-verified 24 Sep 2026 on jotform.com/ai/agents/pricing from the plan data embedded in the page, and 4 Sep 2026 on the yearly tab; the same figures were read from a US exit on 26 Aug 2026. The page localises its currency — it quotes $34 / $39 / $99 to a US visitor and €34 / €39 / €99 to a Dutch one, the same numerals either way.) Starter is free. Bronze is $34 a month, Silver $39 and Gold $99, each billed annually, with 'save up to 20%' against monthly billing; Enterprise is quoted. On the AI Agents page the ladder is drawn in agents and conversations, not in forms and submissions: 5 agents and 100 monthly conversations on Starter, 25 and 1,000 on Bronze, 50 and 2,500 on Silver, 100 and 10,000 on Gold. Sessions, voice-call minutes, SMS and knowledge-base characters are metered alongside — 10,000 / 100,000 / 1,000,000 / 2,000,000 monthly sessions and 50 / 100 / 200 / 300 voice minutes across the same four tiers. Jotform defines a session as a chatbot view, a page refresh or a phone call starting, whether or not anyone interacts. The same plan data, read from a Netherlands exit on 24 Sep 2026, gives the annual totals as 408, 468 and 1,188 and the month-to-month rates as 39, 49 and 129 (in euros there), so monthly billing costs about 15% more on Bronze, 26% on Silver and 30% on Gold. Conversations count chat and phone alike, and the voice-call limit is shared between voice calls and calls to a dedicated phone number, which is a separate add-on (also available on Starter) whose price the served page does not print. Per the FAQ: a 30-day money-back guarantee from the date of payment; seasonal discounts apply only when upgrading to a higher-tier yearly plan and renew at full price the next period; upgrades are prorated and immediate, and a downgrade takes effect immediately with the unused time kept as account balance.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Sessions, voice-call minutes, SMS and knowledge-base characters are metered alongside — 10,000 / 100,000 / 1,000,000 / 2,000,000 monthly sessions and 50 / 100 / 200 / 300 voice minutes across the same four tiers.",
+     "evidence_excerpt": "Sessions, voice-call minutes, SMS and knowledge-base characters are metered alongside — 10,000 / 100,000 / 1,000,000 / 2,000,000 monthly sessions and 50 / 100 / 200 / 300 voice minutes across the sam…",
+     "source_url": "https://www.jotform.com/ai/agents/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-24"
+    },
+    {
+     "flag": "renewal_jump",
+     "evidence": "Per the FAQ: a 30-day money-back guarantee from the date of payment; seasonal discounts apply only when upgrading to a higher-tier yearly plan and renew at full price the next period; upgrades are prorated and immediate, and a downgrade takes effect immediately with the unused time kept as account balance.",
+     "evidence_excerpt": "Per the FAQ: a 30-day money-back guarantee from the date of payment; seasonal discounts apply only when upgrading to a higher-tier yearly plan and renew at full price the next period; upgrades are pr…",
+     "source_url": "https://www.jotform.com/ai/agents/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-24"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Conversations count chat and phone alike, and the voice-call limit is shared between voice calls and calls to a dedicated phone number, which is a separate add-on (also available on Starter) whose price the served page does not print.",
+     "evidence_excerpt": "Conversations count chat and phone alike, and the voice-call limit is shared between voice calls and calls to a dedicated phone number, which is a separate add-on (also available on Starter) whose pr…",
+     "source_url": "https://www.jotform.com/ai/agents/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-24"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-09-24",
+   "first_observed_at": null
+  },
+  {
+   "name": "Kixie",
+   "category": "Communication & Voice",
+   "domain": "kixie.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/kixie-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "quote_only",
+   "price_note": "(2026-10-13, read on their own pricing page) No seat price is published. Three plans are listed — Professional, Single-Line PowerDialer and Multi-Line PowerDialer — and no amount is rendered anywhere on the page; the billing toggle that used to sit above the cards has gone too, so there is now no path from this page to a number. The core phone system is identical on all three; what separates them is dialling. There is no PowerDialer on Professional, one line on Single-Line, and up to four simultaneous lines on Multi-Line — also the only tier offering AI human voice detection, as a premium add-on. ConnectionBoost, Conversation Intelligence and DNC compliance are add-ons at every tier. The plan cards claim unlimited US/Canada minutes while the FAQ published in the page's own structured data prices unlimited US and Canada minutes at $30 a month per user, so which of the two applies belongs in writing in your quote. First US/Canada number free, extra local numbers $5.00 a month, porting in free. Texts from $0.011 each ($11 per 1,000) on a registered 10DLC number, inbound free. 7-day trial, no credit card.",
+   "flags": [
+    {
+     "flag": "quote_only",
+     "evidence": "No seat price published anywhere on the pricing page; the billing toggle has been removed and only add-ons carry a stated price (read 10 Sep 2026)",
+     "evidence_excerpt": null,
+     "source_url": "https://www.kixie.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-13"
+    },
+    {
+     "flag": "per_seat",
+     "evidence": "The plan cards claim unlimited US/Canada minutes while the FAQ published in the page's own structured data prices unlimited US and Canada minutes at $30 a month per user, so which of the two applies belongs in writing in your quote.",
+     "evidence_excerpt": "The plan cards claim unlimited US/Canada minutes while the FAQ published in the page's own structured data prices unlimited US and Canada minutes at $30 a month per user, so which of the two applies …",
+     "source_url": "https://www.kixie.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-13"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "There is no PowerDialer on Professional, one line on Single-Line, and up to four simultaneous lines on Multi-Line — also the only tier offering AI human voice detection, as a premium add-on.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.kixie.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-13"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-13",
+   "first_observed_at": "2026-10-13"
+  },
+  {
+   "name": "KrispCall",
+   "category": "Communication & Voice",
+   "domain": "krispcall.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/krispcall-review/",
+   "from_price_usd_mo": 12.0,
+   "entry_price": "$12",
+   "entry_price_terms": "per user a month billed annually, or $15 monthly (up to 5 users)",
+   "pricing_status": "public",
+   "price_note": "(re-verified 2026-08-17 and 2026-10-07 against the vendor's own pricing page) Since our August reading the plans have been renamed and a tier added: Starter $12 per user/mo billed annually or $15 monthly, for teams up to 5 users; Advance $32 or $40, up to 50 users; Max $48 or $60, with no member limit; Enterprise custom, quoted as volume pricing for 50+ seats. Annual saves 20%, which the page puts at $36, $96 and $144 per user a year; that checks out against the monthly rates. Each plan includes one free US, Canadian or UK number per user, $1 of testing credit, and a monthly allowance per user: Starter 200 outbound and 200 inbound call minutes and 100 SMS segments; Advance 1,000, 1,000 and 500; Max unlimited calling under a fair-usage policy and 1,000 segments. SMS allowances are pooled across the users on a plan, and the included calling covers local numbers in the US, Canada, UK and Australia. Additional calls, SMS and numbers are billed at usage rates from a separate credit balance. US business texting needs A2P 10DLC registration at the same price on every plan: $4.50 brand registration and $15 campaign vetting, one-off, plus $1.50 a month for a low-volume campaign or $2 a month for a sole-proprietor campaign. Subscriptions carry a 14-day unconditional refund; add-ons, numbers and credits are non-refundable.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "(re-verified 2026-08-17 and 2026-10-07 against the vendor's own pricing page) Since our August reading the plans have been renamed and a tier added: Starter $12 per user/mo billed annually or $15 monthly, for teams up to 5 users; Advance $32 or $40, up to 50 users; Max $48 or $60, with no member limit; Enterprise custom, quoted as volume pricing for 50+ seats.",
+     "evidence_excerpt": "(re-verified 2026-08-17 and 2026-10-07 against the vendor's own pricing page) Since our August reading the plans have been renamed and a tier added: Starter $12 per user/mo billed annually or $15 mon…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "Additional calls, SMS and numbers are billed at usage rates from a separate credit balance.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Subscriptions carry a 14-day unconditional refund; add-ons, numbers and credits are non-refundable.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-07",
+   "first_observed_at": "2026-08-17"
+  },
+  {
+   "name": "Lucrovox",
+   "category": "Communication & Voice",
+   "domain": "lucrovox.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/lucrovox-review/",
+   "from_price_usd_mo": 199.0,
+   "entry_price": "$199",
+   "entry_price_terms": "Starter · per month for up to 100 AI-handled calls, with a 14-day free trial",
+   "pricing_status": "public",
+   "price_note": "(re-verified 2026-09-15 on lucrovox.com/#pricing and lucrovox.com/lucrochat, both read in a real browser with the pages fully loaded) The phone agent has three published tiers and the plan table is back on the page: Starter $199 a month for up to 100 AI-handled calls, Pro $499 for up to 500 calls with CRM integration and advanced lead qualification, Enterprise $999 for up to 2,000 calls with white-label branding and multi-location support. Higher volume is quote-only. Starter and Pro carry a 14-day trial, Enterprise 30 days. On our previous reading, 17 August, the pricing page opened with a missed-call ROI calculator and the tier list could not be retrieved at all; it is worth knowing that the plan table on this site comes and goes, and that the calculator's outputs ($500 average job value producing $750 a week and $39,000 a year of lost revenue) are illustrations rather than prices.\n\nLucroChat, the website chat product from the same vendor, sits on lucrovox.com/lucrochat with its own table metered on monthly conversations rather than calls: Starter $29 for up to 1,000 conversations on one website, Growth $59 for up to 3,000 conversations on up to three websites, Professional $199 for up to 10,000 conversations on unlimited websites, each with a 14-day trial and no card required. Its own FAQ agrees, describing pricing as starting at $29 a month for 1,000 conversations. One number on that page does not agree with the rest: the ROI calculator above the table reports its result “Based on Growth plan ($99/mo)” while the table prices Growth at $59. Read the plan table, not the calculator. LucroVox's partnerships team told us on 15 September 2026 that LucroChat had moved to $49, $99 and $249 and that the calculator now matches the table; we read both pages that same day and neither had happened. The table still prints $29, $59 and $199, the FAQ still says pricing starts at $29, and the calculator still reports $99. Those higher figures may well be where the product is heading, so if checkout quotes you $49, that is the vendor running ahead of its own pricing page. We publish what the page shows. Two products, two meters, one domain — price them separately.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "LucroChat, the website chat product from the same vendor, sits on lucrovox.com/lucrochat with its own table metered on monthly conversations rather than calls: Starter $29 for up to 1,000 conversations on one website, Growth $59 for up to 3,000 conversations on up to three websites, Professional $199 for up to 10,000 conversations on unlimited websites, each with a 14-day trial and no card required.",
+     "evidence_excerpt": "LucroChat, the website chat product from the same vendor, sits on lucrovox.com/lucrochat with its own table metered on monthly conversations rather than calls: Starter $29 for up to 1,000 conversatio…",
+     "source_url": "https://lucrovox.com/#pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-15"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-09-15",
+   "first_observed_at": "2026-09-15"
+  },
+  {
+   "name": "NeuroAds",
+   "category": "Customer Support",
+   "domain": "neuroadsinc.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/neuroads-review/",
+   "from_price_usd_mo": 19.0,
+   "entry_price": "$19",
+   "entry_price_terms": "Starter · per month for 800 conversations, live human takeover and discount codes…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-08-19 and re-verified unchanged 2026-10-09 on apps.shopify.com/neuroads-chatbot) Four tiers, priced by conversations per month. Free: 200 conversations, AI answers about products, collections and orders, rich product cards with add-to-cart, order status and tracking in chat, replies in the shopper's language. Starter $19 a month: 800 conversations, plus live human takeover and discount codes offered in chat, 7-day free trial. Growth $49 a month or $468 a year (save 20%): 3,000 conversations, plus a revenue and ROAS dashboard, A/B testing on the chat greeting, answer insights and Klaviyo, 7-day free trial. Unlimited $119 a month or $1,142 a year (save 20%): unlimited conversations, WhatsApp and Klaviyo, advanced reporting with CSV export, chat-only discount codes, removal of the 'Powered by NeuroAds' label, a year of conversation history and dedicated onboarding, 7-day free trial. All charges are billed in USD and recur every 30 days. Two things the pricing table does not settle. What counts as one conversation — a shopper session, a thread, a single message — is defined nowhere, and it is the only unit the whole ladder is built on. On 19 August 2026 the listing summary also advertised a 30-day trial against the table's seven days; on 9 October 2026 the summary says only 'Free trial available' and every paid plan shows a 7-day free trial. Developer NEUROAD VENTURES LLC of Newport Beach, California; the app launched 5 June 2026 and had six App Store reviews on 19 August 2026 and twelve, all five stars, on 9 October 2026.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "meter: unit · conversations",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/neuroads-chatbot",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-09"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Free: 200 conversations, AI answers about products, collections and orders, rich product cards with add-to-cart, order status and tracking in chat, replies in the shopper's language.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/neuroads-chatbot",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-09"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-09",
+   "first_observed_at": "2026-08-19"
+  },
+  {
+   "name": "Pylon",
+   "category": "Communication & Voice",
+   "domain": "usepylon.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/pylon-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "quote_only",
+   "price_note": "(checked 2026-09-01) Pylon no longer publishes rates. usepylon.com/pricing was republished on 1 September 2026 as a \"Book a Demo\" page carrying no plans, no per-seat rates and no seat minimums; the route to a number is a scheduled demo. The figures that follow are our last reading of the published tiers and are a historical anchor, not a current quote: Starter about $59/seat/mo and Professional about $89, both on a 3-seat minimum, Enterprise about $139 on a 7-seat minimum, billed annually, with the AI metered separately (AI agents from about $100/mo scaling with volume, premium AI assistant about +$50/seat, phone about +$35/seat). Use them to sanity-check what sales quotes you, not to budget from. Checked again 11 October 2026: usepylon.com/pricing still opens the demo booking form and shows no plans, rates or seat minimums, and usepylon.com/llms.txt returns a 404.",
+   "flags": [
+    {
+     "flag": "quote_only",
+     "evidence": "No published price: pricing page now routes to a demo booking with no plans or rates shown (read 1 Sep 2026)",
+     "evidence_excerpt": null,
+     "source_url": "https://usepylon.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    },
+    {
+     "flag": "per_seat",
+     "evidence": "The per-seat sticker is the entry ticket; the AI that makes the platform sing is metered separately, so a realistic modern deployment (seats + AI agent + phone) lands well above the tier price — model your full basket.",
+     "evidence_excerpt": "The per-seat sticker is the entry ticket; the AI that makes the platform sing is metered separately, so a realistic modern deployment (seats + AI agent + phone) lands well above the tier price — mode…",
+     "source_url": "https://usepylon.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "The figures that follow are our last reading of the published tiers and are a historical anchor, not a current quote: Starter about $59/seat/mo and Professional about $89, both on a 3-seat minimum, Enterprise about $139 on a 7-seat minimum, billed annually, with the AI metered separately (AI agents from about $100/mo scaling with volume, premium AI assistant about +$50/seat, phone about +$35/seat).",
+     "evidence_excerpt": "The figures that follow are our last reading of the published tiers and are a historical anchor, not a current quote: Starter about $59/seat/mo and Professional about $89, both on a 3-seat minimum, E…",
+     "source_url": "https://usepylon.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-11",
+   "first_observed_at": "2026-09-01"
+  },
+  {
+   "name": "Quo",
+   "category": "Communication & Voice",
+   "domain": "quo.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/quo-review/",
+   "from_price_usd_mo": 15.0,
+   "entry_price": "$15",
+   "entry_price_terms": "Starter · per user per month billed annually",
+   "pricing_status": "public",
+   "price_note": "(price re-verified 2026-08-31 against the vendor's own pricing page; all prices are quoted on the page in USD) (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly; Business $23 annual ($276/yr) or $33 monthly; Scale $35 annual ($420/yr) or $47 monthly. 7-day free trial. Taxes and fees are added at checkout and are not quantified on the page. Itemised extras: The Campaign Registry takes $19.50 once plus $1.50-$3/month to keep US carrier messaging deliverable, each additional phone number is $5/month, and international calling is billed per minute. The Sona AI answering agent is included on every plan with 1,000 automation credits a month (a call costs 100 credits, so ten calls); more credits run $25/mo for 4,000 up to $199/mo for 60,000, with per-call overage falling from $1.00 to $0.45 across those tiers. Re-verified 11 October 2026 on quo.com/pricing: all six rates, the $180/$276/$420 annual totals, the Sona credit tiers and overage rates, the $19.50 and $1.50-$3 Campaign Registry fees and the $5 extra number are unchanged. Two lines the earlier reading did not carry: the compare-plans table caps Starter at up to 10 paid users (Business and Scale unlimited), and Quo's help article 'Quo Plans and Pricing' (read 11 October 2026) adds a $15 Campaign Registry resubmission fee if a registration has to be resubmitted and lists the 16 states where telecom taxes are collected, based on your billing address.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "(price re-verified 2026-08-31 against the vendor's own pricing page; all prices are quoted on the page in USD) (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly; Business $23 annual ($276/yr) or $33 monthly; Scale $35 annual ($420/yr) or $47 monthly.",
+     "evidence_excerpt": "(price re-verified 2026-08-31 against the vendor's own pricing page; all prices are quoted on the page in USD) (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly; Business…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "Itemised extras: The Campaign Registry takes $19.50 once plus $1.50-$3/month to keep US carrier messaging deliverable, each additional phone number is $5/month, and international calling is billed per minute.",
+     "evidence_excerpt": "Itemised extras: The Campaign Registry takes $19.50 once plus $1.50-$3/month to keep US carrier messaging deliverable, each additional phone number is $5/month, and international calling is billed pe…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-11",
+   "first_observed_at": "2026-08-31"
+  },
+  {
+   "name": "Readymode",
+   "category": "Communication & Voice",
+   "domain": "readymode.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/readymode-review/",
+   "from_price_usd_mo": 239.0,
+   "entry_price": "$239",
+   "entry_price_terms": "per license a month and iQ $299",
+   "pricing_status": "public",
+   "price_note": "(re-verified 2026-10-07 on readymode.com/demo/pricing-readymode/, the page titled 'Readymode Pricing and Flexible Plans'; first read at these amounts on 2026-08-17, after the vendor announced a price change effective 1 Aug 2026) Two published plans, priced per license per month: Starter $239 for 1+ licenses and iQ $299, which the page calls ideal for 5+ licenses. Both waive the set-up fee and the phone-number (DID) activation fee, both give free outbound minutes subject to a fair-use policy, and both charge inbound at $0.02/min. Starter includes up to 30 DIDs per license; iQ includes up to 75 and adds caller-ID reputation monitoring, assisted remediation, call cadencing, Autopilot and unlimited integrations, none of which Starter has. Implementation and training are included from 3 licenses. One complimentary Admin license comes with every plan, and the page is explicit that it is not an agent license — no floor plan, no web phone. Voicemail Drop is available only to those who qualify and costs extra per drop. The older $199/$249 pair, and the ~$200 admin fee for sharing a license, are withdrawn from the pricing page. One trap: on 7 October 2026 the short address readymode.com/pricing redirected to an old page titled 'TEST PAGE' that still carried $199 and $249. The real pricing page served $239 and $299 the same day; read from the Netherlands in a browser, neither page rendered its price table, so we read the served page.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "(re-verified 2026-10-07 on readymode.com/demo/pricing-readymode/, the page titled 'Readymode Pricing and Flexible Plans'; first read at these amounts on 2026-08-17, after the vendor announced a price change effective 1 Aug 2026) Two published plans, priced per license per month: Starter $239 for 1+ licenses and iQ $299, which the page calls ideal for 5+ licenses.",
+     "evidence_excerpt": "(re-verified 2026-10-07 on readymode.com/demo/pricing-readymode/, the page titled 'Readymode Pricing and Flexible Plans'; first read at these amounts on 2026-08-17, after the vendor announced a price…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-07",
+   "first_observed_at": "2026-10-07"
+  },
+  {
+   "name": "respond.io",
+   "category": "Communication & Voice",
+   "domain": "respond.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/respond-io-review/",
+   "from_price_usd_mo": 79.0,
+   "entry_price": "$79",
+   "entry_price_terms": "Starter · per month",
+   "pricing_status": "public",
+   "price_note": "(2026-08-13, read off respond.io/pricing) Four tiers, billed on monthly active contacts rather than seats: Starter $79/month, Growth $159, Advanced $279, and Enterprise on quote. Paying yearly takes roughly 20% off — $948, $1,908 and $3,348 a year against $1,188, $2,388 and $4,188 monthly. The trial is 7 days and takes no card. What separates the tiers is not volume but capability, and the line matters: Starter buys team and custom inboxes, the mobile app, AI Prompt, AI Assist, basic reports and 2FA. **Workflows automation, broadcasts, AI Agents, advanced reports, the developer API and the Zapier and Make integrations all start at Growth.** Advanced adds multiple workspaces, SSO, webhooks, HTTP requests in workflows and phone-number masking, and although a figure is shown its button says “Talk to Sales”. One thing we could not pin down. The page carries a selector for 1,000 / 2,500 / 5,000 / 10,000 / more than 10,000 monthly active contacts under the heading “pay only for the contacts you talk to”, but the prices we read did not move between those settings. Ask what your contact volume actually costs before you sign — that is the meter you are buying. Re-verified 11 October 2026 on respond.io/pricing: the yearly totals ($948, $1,908, $3,348) and the monthly totals ($1,188, $2,388, $4,188) are unchanged. Read them carefully: the $79, $159 and $279 shown per month are the yearly rates, and the page data gives $99, $199 and $349 for month-to-month billing. The plan comparison now lists users per tier — 5 on Starter, 10 on Growth and Advanced, extra users at $12, $20 and $24 a month on yearly billing ($15, $25 and $30 monthly) — plus AI Credits of 5,000, 10,000, 20,000 and 40,000. In that same table Starter shows unlimited monthly active contacts, while Growth and Advanced 'start with 1,000', so the contact meter applies from Growth up. The trial gives Growth features for 5 users and 1,000 contacts, without broadcasts.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "The plan comparison now lists users per tier — 5 on Starter, 10 on Growth and Advanced, extra users at $12, $20 and $24 a month on yearly billing ($15, $25 and $30 monthly) — plus AI Credits of 5,000, 10,000, 20,000 and 40,000.",
+     "evidence_excerpt": "The plan comparison now lists users per tier — 5 on Starter, 10 on Growth and Advanced, extra users at $12, $20 and $24 a month on yearly billing ($15, $25 and $30 monthly) — plus AI Credits of 5,000…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-11",
+   "first_observed_at": "2026-08-13"
+  },
+  {
+   "name": "Ruby",
+   "category": "Communication & Voice",
+   "domain": "ruby.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/ruby-review/",
+   "from_price_usd_mo": 250.0,
+   "entry_price": "$250",
+   "entry_price_terms": "Virtual receptionist… · per month as published",
+   "pricing_status": "public",
+   "price_note": "Read on their own plans-and-pricing page, 6 September 2026, and unchanged on 6 October 2026. Virtual receptionist plans are sold by monthly minutes: 50 minutes $250, 100 minutes $395, 200 minutes $720, 500 minutes $1,725 — $5.00 a minute at the bottom, $3.45 at the top. Live chat is sold by monthly chats: 10 chats $143, 30 chats $335, 50 chats $520. Add chat to a receptionist plan and those become $115, $268 and $416 — the 20% the page advertises, exact at the two larger tiers and rounded up from $114.40 at the smallest. Larger volumes are quoted. Ruby states there are no extra fees for activation, onboarding, setup, customisation or out-of-hours coverage, and every feature is included at every tier — the plans differ only in the number of minutes or chats. No rate is published for minutes used beyond your plan.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "You're paying premium rates for real human receptionists billed per minute — worth it when a missed call is a lost client, but expensive if your call volume is low or an AI answering service would do the job for a fraction.",
+     "evidence_excerpt": "You're paying premium rates for real human receptionists billed per minute — worth it when a missed call is a lost client, but expensive if your call volume is low or an AI answering service would do…",
+     "source_url": "https://www.ruby.com/plans-and-pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-06"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-06",
+   "first_observed_at": null
+  },
+  {
+   "name": "Salesmessage",
+   "category": "Communication & Voice",
+   "domain": "salesmessage.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/salesmessage-review/",
+   "from_price_usd_mo": 25.0,
+   "entry_price": "$25",
+   "entry_price_terms": "Basic… · on monthly billing, as published",
+   "pricing_status": "public",
+   "price_note": "(2026-08-08, re-verified 10 September 2026 and again 13 October 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, metered in message credits. Monthly billing: Basic is $25 a month for 500 credits a month; Pro is $329 a month for 10,000 credits a month; Enterprise is contact-for-pricing with custom credits. Both plans carry a credits dropdown that raises the allowance for a fixed add-on. On Basic, 1,000 credits is +$24, 2,500 is +$74, 5,000 is +$154 and 7,500 is +$224 a month. On Pro the ladder runs from 15,000 credits at +$150 up to 50,000 at +$1,170 a month, in 5,000-credit steps. Annual billing is shown as two months free. Basic is $21 a month billed yearly for 6,000 credits a year (12,000 credits +$252, 30,000 +$756, 60,000 +$1,560, 90,000 +$2,268), and Pro $277 a month billed yearly for 120,000 credits a year (180,000 +$1,512, rising to 600,000 at +$11,796). Seats and numbers are priced apart from the plan: the first seat is free and each additional seat is $10.00 a month or $100.00 a year; the first number is free and each additional number is $5.00 a month or $50.00 a year. The page defines the meter itself: SMS is 1 credit per 160 characters, MMS is 2 credits, calling is 1 credit a minute and call forwarding is 2 credits a minute. A 14-day free trial runs, and a 30-day money-back guarantee is offered, refunded less the message credits used. The page no longer publishes a per-credit overage rate, nor terms for taxes, carrier fees or country availability, so we quote none.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "(2026-08-08, re-verified 10 September 2026 and again 13 October 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, metered in message credits.",
+     "evidence_excerpt": "(2026-08-08, re-verified 10 September 2026 and again 13 October 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, meter…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-13"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Both plans carry a credits dropdown that raises the allowance for a fixed add-on.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-13"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Annual billing is shown as two months free.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-13"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-13",
+   "first_observed_at": "2026-08-08"
+  },
+  {
+   "name": "Signal House",
+   "category": "Communication & Voice",
+   "domain": "signalhouse.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/signal-house-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(2026-09-11, re-read on their own pricing page and again on 13 October 2026) Usage-based, no platform subscription. SMS on a 10DLC local number costs $0.0065 per segment with no minimum, falling on volume: $0.0050 from 500k segments a month, $0.0045 from 1m, $0.0040 from 2m, $0.0035 from 5m and $0.0030 from 10m. Numbers are $1.00 a month, dropping to $0.50 between 500 and 1,000 numbers and $0.25 above 1,000. MMS is $0.0200 per segment, $0.0170 above 500k. Toll-free numbers are $1.00 a month with SMS from $0.0079 down to $0.0050. Number lookup is $0.005. A2P 10DLC registration is billed separately: $4.50 for the brand, $15 one-time per campaign, then $1.50 a month for a low-volume campaign or $10 a month for a standard one. Carrier fees are passed through on top and are published per carrier for both directions: outbound SMS is AT&T $0.0035, Verizon $0.0045, T-Mobile $0.0045 and US Cellular $0.0025, while outbound MMS costs two to three times as much — AT&T $0.009, Verizon $0.007, T-Mobile $0.01, US Cellular $0.005. Inbound SMS is AT&T $0.0035, T-Mobile $0.0025, US Cellular $0.0025 and free on Verizon. A2P approval is quoted at 72 hours or less, dropping to 48 hours above 500k segments a month. Every rate table carries the note that all rates are negotiable on volume and agreement terms. Short code is now priced on the same page (13 October 2026): $1,000 one-time setup and $500 for MMS enablement, then $1,000 a month ($11,000 a year paid upfront) for a random code, $1,500 ($16,500) for a vanity code or $500 ($5,500) for a customer self-leased code, with short code SMS on the same ladder as 10DLC from $0.0065 down to $0.0030 and MMS at $0.0200, $0.015 above 500k. Voice is now presented on the home page as a live product (programmable calling, WebRTC softphones, SIP trunking and call analytics) but still has no published rate, and the site's Coming Soon list now names WhatsApp, Salesforce, Medusa, RCS, Alphanumeric and Apple Business.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "(2026-09-11, re-read on their own pricing page and again on 13 October 2026) Usage-based, no platform subscription.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-13"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-13",
+   "first_observed_at": "2026-09-11"
+  },
+  {
+   "name": "SimpleTexting",
+   "category": "Communication & Voice",
+   "domain": "simpletexting.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/simpletexting-review/",
+   "from_price_usd_mo": 29.0,
+   "entry_price": "$29",
+   "entry_price_terms": "500-credit plan… · per month",
+   "pricing_status": "public",
+   "price_note": "(re-verified 2026-10-03 on simpletexting.com/pricing) Credit-based by monthly volume, and the headline is not the plan price: the page's \"estimated monthly cost\" bundles a $10/mo local number into every figure. The credit plans themselves are $29 (500 credits), $49 (1,000), $79 (2,000), $109 (3,000), $229 (7,500), $399 (15,000), $549 (25,000) and $899 (50,000) a month, so the printed $39 to $909 range is those figures plus the number. SMS = 1 credit, an extended message up to 306 characters = 2, MMS = 3; incoming SMS is free and incoming MMS costs 1 credit. Extra credits beyond the plan taper with the tier, from 5.5 cents at 500 to 2 cents at 50,000. Yearly billing takes 20% off the credit portion only — the entry tier becomes $23.20 of credits plus the same $10 number, i.e. $33.20 a month billed yearly at $398.40 — and grants the year's credits as one upfront bucket (6,000 at the entry tier) instead of a monthly allowance. The rollover rule the page states is for monthly plans: unused plan credits roll over until the end of the following month. Every paid plan includes three user seats, with additional seats at $20/mo and additional numbers at $10/mo; a local number carries a $4 activation fee and there is a separate one-off $4 carrier (10DLC) registration. A toll-free number has no additional monthly fee but carrier approval can take up to a week; dedicated short codes begin at $1,000/mo and take 6-8 weeks to provision. Carrier fees are passed through without markup at roughly $0.0025 per message in the US and $0.0068 in Canada. Nonprofits, churches and other tax-exempt organisations get 15% off any monthly plan, and there is a 30-day refund.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "The credit model plus US carrier (10DLC) fees and per-number/per-seat add-ons mean the sticker isn't the whole bill — and SMS marketing only works with genuine opt-in and a real offer, not blasting a cold list.",
+     "evidence_excerpt": "The credit model plus US carrier (10DLC) fees and per-number/per-seat add-ons mean the sticker isn't the whole bill — and SMS marketing only works with genuine opt-in and a real offer, not blasting a…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-03"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "(re-verified 2026-10-03 on simpletexting.com/pricing) Credit-based by monthly volume, and the headline is not the plan price: the page's \"estimated monthly cost\" bundles a $10/mo local number into every figure.",
+     "evidence_excerpt": "(re-verified 2026-10-03 on simpletexting.com/pricing) Credit-based by monthly volume, and the headline is not the plan price: the page's \"estimated monthly cost\" bundles a $10/mo local number into ev…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-03"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "The credit model plus US carrier (10DLC) fees and per-number/per-seat add-ons mean the sticker isn't the whole bill — and SMS marketing only works with genuine opt-in and a real offer, not blasting a cold list.",
+     "evidence_excerpt": "The credit model plus US carrier (10DLC) fees and per-number/per-seat add-ons mean the sticker isn't the whole bill — and SMS marketing only works with genuine opt-in and a real offer, not blasting a…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-03"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-03",
+   "first_observed_at": "2026-10-03"
+  },
+  {
+   "name": "StoreFAQ",
+   "category": "Customer Support",
+   "domain": "storefaq.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/storefaq-review/",
+   "from_price_usd_mo": 7.99,
+   "entry_price": "$7.99",
+   "entry_price_terms": "Professional · per month for 500 FAQ page views and 50 AI chatbot conversations, with…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-08-21 and re-verified unchanged 2026-10-09 on apps.shopify.com/storefaq) Four tiers, metered on FAQ page views and AI chatbot conversations rather than on the number of FAQs. Free: 100 FAQ page views, unlimited FAQs and FAQ groups, the AI chatbot and AI-written FAQs, 25 AI conversations for the lifetime of the account, AI training on up to 50 products, export and import, instant answer with live chat and standard support. Professional $7.99 a month: 500 FAQ page views, 50 AI conversations a month, training on 150 products, multilingual FAQs and dedicated support, with overage at $0.0159 per extra page view and $0.30 per extra AI conversation. Growth $14.99 a month: 2,000 FAQ page views, 100 AI conversations a month, 300 products, with overage at $0.0075 a view and $0.30 a conversation. Enterprise $49.99 a month or $479.90 a year, a 20% saving: unlimited FAQ page views, 500 AI conversations a month, 2,000 products, priority support and $0.30 per extra conversation. All charges are billed in USD and recur every 30 days. Developer Storeware, 124 Broadkill Rd #599, Milton, Delaware; the app launched 3 January 2024 and carries Shopify's “Built for Shopify” badge.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "(read 2026-08-21 and re-verified unchanged 2026-10-09 on apps.shopify.com/storefaq) Four tiers, metered on FAQ page views and AI chatbot conversations rather than on the number of FAQs.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/storefaq",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-09"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Free: 100 FAQ page views, unlimited FAQs and FAQ groups, the AI chatbot and AI-written FAQs, 25 AI conversations for the lifetime of the account, AI training on up to 50 products, export and import, instant answer with live chat and standard support.",
+     "evidence_excerpt": "Free: 100 FAQ page views, unlimited FAQs and FAQ groups, the AI chatbot and AI-written FAQs, 25 AI conversations for the lifetime of the account, AI training on up to 50 products, export and import, …",
+     "source_url": "https://apps.shopify.com/storefaq",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-09"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-09",
+   "first_observed_at": "2026-08-21"
+  },
+  {
+   "name": "SupportBee",
+   "category": "Customer Support",
+   "domain": "supportbee.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/supportbee-review/",
+   "from_price_usd_mo": 20.0,
+   "entry_price": "$20",
+   "entry_price_terms": "Startup · per seat per month with no commitment, Enterprise at 25",
+   "pricing_status": "public",
+   "price_note": "(read 2026-08-27 on supportbee.com/pricing) Two plans, both priced per seat, and no free tier. Month to month, Startup is $20/seat/month and Enterprise is $25/seat/month. Switch the toggle to annual and the page shows a total of $204 per seat billed annually on Startup and $252 on Enterprise, a saving it advertises as 20 per cent, which works out at effective rates of 17 and 21 dollars a seat a month. On those figures the saving is 15 per cent on Startup ($204 against $240) and 16 per cent on Enterprise ($252 against $300). Re-checked unchanged on 6 October 2026. Startup covers the shared inbox, snippets, filters, basic integrations, API access, unlimited email inboxes and tickets, customer satisfaction ratings, customer management, audit trails and one knowledge base with one team. Enterprise is described as everything in Startup plus five things: enterprise integrations, business hours, the customer portal, an audit log with data history, and portal access for customer groups. The trial is 14 days and the home page says no credit card is required. Billing runs through Stripe, you can switch between monthly and annual at any time with a prorated credit, and plan changes take effect immediately.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Month to month, Startup is $20/seat/month and Enterprise is $25/seat/month.",
+     "evidence_excerpt": null,
+     "source_url": "https://supportbee.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-06"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-06",
+   "first_observed_at": "2026-08-27"
+  },
+  {
+   "name": "Textline",
+   "category": "Communication & Voice",
+   "domain": "textline.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/textline-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "quote_only",
+   "price_note": "(price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit) Amounts unchanged since 2026-08-01. Add-on message credits $0.03 each, bought in advance; backup message credits $0.04 each, Textline's automatic fallback when you run out mid-conversation. A $15 monthly 10DLC campaign fee applies if you use a 10DLC long code; the same page states that toll-free numbers do not carry a monthly registration fee. NEW since the last reading: the page now names three tiers with their inclusions but still no prices — Essentials (600 minimum included message credits a month, three agents, three-year conversation history), Pro (2,000 minimum credits, five agents, unlimited history, Salesforce, custom roles) and Enterprise (quote). HIPAA-compliant plans are charged an additional fee. Note for future readers: the per-feature tooltips on this page are unfilled placeholder copy, so the feature names carry no explanation. Re-verified 11 October 2026: plan names, inclusions, the $0.03 and $0.04 credit rates and the $15 10DLC campaign fee are unchanged, and still no plan price is printed. Textline's help article 'All About Textline's Various Message Credits' (updated 26 May 2026, read 11 October 2026) adds what the pricing page leaves out: Add-On Credits can be bought only once per billing cycle, Backup Credits are auto-purchased in blocks of at least 250, Add-On and Backup credits roll over while unused Included credits expire at the end of the cycle, and the billing schedule changes the allowance — Essentials 600 a month month-to-month, 660 on annual billed monthly, 8,640 a year on annual paid upfront; Pro 2,000, 2,200 and 28,800. An MMS uses three credits.",
+   "flags": [
+    {
+     "flag": "quote_only",
+     "evidence": "No plan price is published: the page names Essentials, Pro and Enterprise with their inclusions but no amounts; only message credits ($0.03) and the $15 10DLC campaign fee carry a price",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "Add-on message credits $0.03 each, bought in advance; backup message credits $0.04 each, Textline's automatic fallback when you run out mid-conversation.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Add-on message credits $0.03 each, bought in advance; backup message credits $0.04 each, Textline's automatic fallback when you run out mid-conversation.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-11"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-11",
+   "first_observed_at": "2026-08-31"
+  },
+  {
+   "name": "Tidio",
+   "category": "Customer Support",
+   "domain": "tidio.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/tidio-review/",
+   "from_price_usd_mo": 29.0,
+   "entry_price": "$29",
+   "entry_price_terms": "Starter · per month paid month to month for 100 billable conversations and 10…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-08-24 on www.tidio.com/pricing/ with both billing columns clicked, and on www.tidio.com) The plan table opens on the annual column, so the first figures on the page are not what month-to-month costs. Starter is 24.17 a month billed annually against 29 paid monthly, Growth starts at 49.17 annually against 59 monthly, and the two stand-alone add-ons follow the same 20 percent step: the Lyro AI Agent from 32.50 annually against 39 monthly, Flows from 24.17 against 29. Plus is 300 a month in both columns and adds usage on top; Premium is contact-for-pricing. Tidio's own homepage quotes the higher, monthly number (“Paid plans from $29/mo, no surprise upgrades”), which makes the marketing page the more conservative of the two places you can read a price. The table rendered in euros on our reading while the same numerals appear with dollar signs on other retrievals of the same URL, so treat the figure rather than the symbol as the fact and confirm the currency at checkout.\n\nWhat you pay is decided by three separate meters, not by the plan name. The free plan carries 50 billable conversations, 100 Flows visitors reached and 50 Lyro AI conversations, and the comparison table's own footnote makes that last allowance a lifetime one rather than a monthly one. Starter covers 100 billable conversations, Growth starts at 250 and the table caps it at 2,000, both with 10 seats and a 7-day free trial. Lyro conversations are upgradable from 50 to 1,000 and Flows visitors from 2,000 to 100,000. Two things the page does not say: what a conversation over the cap costs, and what the “discounted usage rates” next to Plus's “+ monthly usage” actually are. On Plus that unquoted rate is the whole variable, because the 300 is only the entry fee.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "Starter is 24.17 a month billed annually against 29 paid monthly, Growth starts at 49.17 annually against 59 monthly, and the two stand-alone add-ons follow the same 20 percent step: the Lyro AI Agent from 32.50 annually against 39 monthly, Flows from 24.17 against 29.",
+     "evidence_excerpt": "Starter is 24.17 a month billed annually against 29 paid monthly, Growth starts at 49.17 annually against 59 monthly, and the two stand-alone add-ons follow the same 20 percent step: the Lyro AI Agen…",
+     "source_url": "https://www.tidio.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Second, the plan table opens on annual billing.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.tidio.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "The free plan carries 50 billable conversations, 100 Flows visitors reached and 50 Lyro AI conversations, and the comparison table's own footnote makes that last allowance a lifetime one rather than a monthly one.",
+     "evidence_excerpt": "The free plan carries 50 billable conversations, 100 Flows visitors reached and 50 Lyro AI conversations, and the comparison table's own footnote makes that last allowance a lifetime one rather than …",
+     "source_url": "https://www.tidio.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-10",
+   "first_observed_at": "2026-08-24"
+  },
+  {
+   "name": "Trackr",
+   "category": "Customer Support",
+   "domain": "parceltrackr.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/trackr-review/",
+   "from_price_usd_mo": 10.0,
+   "entry_price": "$10",
+   "entry_price_terms": "per month or $96/yr (400 shipments/mo)",
+   "pricing_status": "public",
+   "price_note": "(price re-read 2026-10-13) Four tiers and no free plan, billed in USD every 30 days through Shopify: Basic $10 a month or $96 a year for 400 shipments a month, Standard $45 or $432 for 2,000, Advanced $150 or $1,440 for 9,000 and Enterprise $250 or $2,400 for 18,000. Annual billing saves 20% and every tier carries a 14-day trial. The feature list is identical on all four — branded tracking page, estimated delivery dates, email, WhatsApp and US-only SMS updates, Apple and Google Wallet tracking, Klaviyo, Omnisend, Segment and chatbot integrations, product upsell and translation — so the only thing the ladder sells is shipment volume. The Shopify listing does not say what happens past your allowance. The vendor's own page does: parceltrackr.com/pricing, read the same day, prints $0.05 per extra shipment on every tier. That number decides whether you upgrade or overrun, because in-plan a shipment costs 2.5 cents on Basic, 2.25 on Standard, 1.7 on Advanced and 1.4 on Enterprise — so an overrun is priced at two to four times what the same shipment costs inside the plan. The two sources also disagree about the trial: the listing offers 3,000 and 5,000 bonus trackings on Advanced and Enterprise, the vendor page 1,500 and 2,000. Re-read on 13 October 2026, the vendor page also contradicts itself on annual billing: the plan cards say $96 a year for Basic and $432 for Standard (20% off), while the text below them says $108 ($9 a month) and $486 ($40.50 a month), which is 10% off; the Shopify listing matches the cards. Past the allowance you can buy extra shipments without changing plan, or switch on auto top-up with a maximum monthly budget you approve.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "meter: usage · shipments tracked",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/trackr",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-13"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Annual billing saves 20% and every tier carries a 14-day trial.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/trackr",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-13"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-13",
+   "first_observed_at": "2026-10-13"
+  },
+  {
+   "name": "Typewise",
+   "category": "Customer Support",
+   "domain": "typewise.app",
+   "review_url": "https://aibuildermarketplace.com/b2b/typewise-review/",
+   "from_price_usd_mo": 99.0,
+   "entry_price": "$99",
+   "entry_price_terms": "Starter · base fee per month with 1 user ($999 a year)",
+   "pricing_status": "public",
+   "price_note": "(re-read 2026-09-23 and again, unchanged, 2026-09-27 on typewise.app/pricing) A base plan plus a per-resolution rate. Starter is $99 a month or $999 a year with 1 user, email and chat, a $20 monthly AI Operator budget and pay-as-you-go resolutions at $2 each. Growth is $599 a month or $5,999 a year with 5 users, all digital channels, a $100 AI Operator budget and volume packages that bring resolutions down to $1. Business is $2,000 a month billed annually with 5 users, 3 workspaces (multi-brand), a $500 AI Operator budget, two custom integration days a year and a success consultant. Enterprise is quoted and adds SSO, a custom DPA, unlimited workspaces, a $1,500 AI Operator budget and five integration days. Additional users are $89 a month on every plan - an add-on, not a starting price. Every plan starts with a 14-day trial of 100 resolution credits and $10 of AI Operator credit, no card. The page defines the meter: a full resolution counts once, a hand-off to a person counts as half, and unresolved or flagged tickets are free. Prices are in USD and shown in EUR, GBP or CHF at parity depending on your location. Correction 23 Sep 2026: our 5 Sep reading put unlimited workspaces and the $1,500 budget on Business; on the current page those belong to Enterprise. History: in August 2026 the only published number was 'starting from $1 per resolution' on the home page and /pricing returned a 404.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Additional users are $89 a month on every plan - an add-on, not a starting price.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-27"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "Every plan starts with a 14-day trial of 100 resolution credits and $10 of AI Operator credit, no card.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-27"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Additional users are $89 a month on every plan - an add-on, not a starting price.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-27"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-09-27",
+   "first_observed_at": "2026-09-23"
+  },
+  {
+   "name": "UniTel Voice",
+   "category": "Communication & Voice",
+   "domain": "unitelvoice.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/unitel-voice-review/",
+   "from_price_usd_mo": 9.99,
+   "entry_price": "$9.99",
+   "entry_price_terms": "per month (1 user, unlimited minutes, one phone number)",
+   "pricing_status": "public",
+   "price_note": "(re-verified 2026-09-09 on unitelvoice.com/pricing) Three plans, no contracts: Solo $9.99/mo, Team $19.99/mo and Office $29.99/mo, each with one phone number and unlimited minutes. Annual billing takes 30% off, making them $6.99, $13.99 and $20.99 a month. Solo is one user, Team carries unlimited users, and Office includes three with additional users at $9.99 each a month. The plan set we recorded in August — Start-Up, Unlimited at $24.99 and Office-Max at $69.99 — is no longer offered on the page. Support is US-based, there is a 30-day money-back guarantee, and every plan includes a professionally recorded greeting. One caveat on those unlimited minutes: the pricing FAQ offers 3.9¢ per minute above \"the minutes on your plan\" and still names an Office-Max plan the page no longer sells, so the page contradicts its own cards — probably stale text, but unconfirmed.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Solo is one user, Team carries unlimited users, and Office includes three with additional users at $9.99 each a month.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.unitelvoice.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-09"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "One caveat on those unlimited minutes: the pricing FAQ offers 3.9¢ per minute above \"the minutes on your plan\" and still names an Office-Max plan the page no longer sells, so the page contradicts its own cards — probably stale text, but unconfirmed.",
+     "evidence_excerpt": "One caveat on those unlimited minutes: the pricing FAQ offers 3.9¢ per minute above \"the minutes on your plan\" and still names an Office-Max plan the page no longer sells, so the page contradicts its…",
+     "source_url": "https://www.unitelvoice.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-09"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Annual billing takes 30% off, making them $6.99, $13.99 and $20.99 a month.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.unitelvoice.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-09"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-09-09",
+   "first_observed_at": "2026-09-09"
+  },
+  {
+   "name": "Vanity Number",
+   "category": "Communication & Voice",
+   "domain": "vanitynumber.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/vanity-number-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$99.99",
+   "entry_price_terms": "cheapest number · one-time search and acquisition fee per number, rising with how…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-11 on vanitynumber.com and its FAQ page, USD) VanityNumber.com sells memorable North American local and toll-free phone numbers as a one-time purchase, not phone service. The FAQ says the price is a single search and acquisition fee to source the number, secure it and transfer it to the carrier you choose; there is no monthly subscription, renewal or fee for keeping the number, and your carrier keeps billing you for lines and calls as before. Prices start at $99.99 and rise with how memorable the number is. The catalogue is browsable by price band, from under $250 through $251 to $500, $501 to $1,000, $1,001 to $2,500 and $2,501 to $10,000 to over $10,000, and the rarest numbers are quoted on request. On the home page that day, numbers on sale were listed at $199.99 and $299.99 against $359.99, and at $200 against $290; double-repeater VIP numbers were listed at $2,000 to $3,000, and a banner offered 30% off specially marked numbers. The FAQ says refunds are not possible.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-11",
+   "first_observed_at": "2026-10-11"
+  },
+  {
+   "name": "Vida AI",
+   "category": "Communication & Voice",
+   "domain": "vida.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/vida-ai-review/",
+   "from_price_usd_mo": 1500.0,
+   "entry_price": "$1,500",
+   "entry_price_terms": "Pilot · a one-off scoped pilot, credited toward the first month in production",
+   "pricing_status": "public",
+   "price_note": "(price re-verified 2026-10-13) Vida publishes no public pricing: no plan ladder, no monthly tier and no per-minute rate. Every deployment starts with a scoped pilot from $1,500, credited toward your first month in production, and the production price arrives as a quote afterwards. Its pricing page sells that process — a discovery call of twenty to thirty minutes, scoping and a proof of concept in one to two business days that you sign off before anything is built, an agent build and live pilot in two to ten business days, then production — while the feature table beneath it lists agent, reseller, support and compliance capabilities with no price attached to any of them. All plans are subject to fair use, and the page warns that SMS campaign registration may take up to two weeks. Read 10 September 2026 across vida.io/pricing, /partners, /affiliates, /platform, /features and /faq, all reached from the site's own sitemap: that pilot figure is the only customer-facing number on the site, and the commission tiers on /affiliates are what a reseller earns rather than what a buyer pays. Correction to our own earlier dossier: an agency ladder of about $750 a month for 5 agents and roughly 2,500 AI voice minutes, plus platform plans from about $2,500 and the per-minute rate we derived from them, appear nowhere on vida.io.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-13",
+   "first_observed_at": "2026-10-13"
+  },
+  {
+   "name": "Voye",
+   "category": "Communication & Voice",
+   "domain": "voyedatapool.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/voye-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "Published plans (read 13 October 2026 on voyedatapool.com/plans, which now has two switches). Monthly data allowance, billed monthly, 30-day validity: $9.99 for 5 GB, $19.99 for 12 GB, $39.99 for 30 GB, $69.99 for 55 GB, $119.99 for 100 GB — $2.00 down to $1.20 per gigabyte, with 2, 8, 12, 25 and 50 eSIMs included. The same monthly allowances billed yearly: $100, $200, $400, $700 and $1,150 a year ('Save up to 20%'; against twelve monthly payments the saving is 16.6% to 20.1%), shown as $1.67 down to $0.96 per gigabyte. Yearly data allowance, a single payment with 365-day validity: $500 for 200 GB, $1,000 for 450 GB, $2,000 for 950 GB, $3,500 for 1,800 GB — $2.50 down to $1.94 per gigabyte, with 10, 25, 50 and 75 eSIMs included. Enterprise — unlimited eSIMs, priority support and onboarding — is quoted by their sales team.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-13",
+   "first_observed_at": null
+  },
+  {
+   "name": "Wati",
+   "category": "Communication & Voice",
+   "domain": "wati.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/wati-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "€59",
+   "entry_price_terms": "per month billed annually (€69 monthly), 3 users included",
+   "pricing_status": "public",
+   "price_note": "(re-verified 2026-09-12, read on their own pricing page — which again served us euros, not dollars) Growth €59/mo, Pro €119/mo and Business €279/mo billed annually, or €69, €149 and €349 billed monthly, with a 7-day free trial and no setup fee. Users are capped per tier: Growth includes 3 and lets you add none at all; Pro and Business include 5, with extra seats at €39 and €89 per user per month. Add-ons are separate again — 1,000 automation triggers €35/mo, 1,000 AI co-pilot credits €25/mo, Shopify $4.99/mo, each extra WhatsApp number €29/mo — and the Astra AI agents, which the page describes as deployable to web, WhatsApp and voice, are an add-on priced separately. Our dollar reading of the same page on 23 July 2026 gave Growth $39, Pro $79 and Business $199 annually, so which currency and which figure you see depends on where Wati places you — check your own checkout.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Users are capped per tier: Growth includes 3 and lets you add none at all; Pro and Business include 5, with extra seats at €39 and €89 per user per month.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-12"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "Add-ons are separate again — 1,000 automation triggers €35/mo, 1,000 AI co-pilot credits €25/mo, Shopify $4.99/mo, each extra WhatsApp number €29/mo — and the Astra AI agents, which the page describes as deployable to web, WhatsApp and voice, are an add-on priced separately.",
+     "evidence_excerpt": "Add-ons are separate again — 1,000 automation triggers €35/mo, 1,000 AI co-pilot credits €25/mo, Shopify $4.99/mo, each extra WhatsApp number €29/mo — and the Astra AI agents, which the page describe…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-12"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Add-ons are separate again — 1,000 automation triggers €35/mo, 1,000 AI co-pilot credits €25/mo, Shopify $4.99/mo, each extra WhatsApp number €29/mo — and the Astra AI agents, which the page describes as deployable to web, WhatsApp and voice, are an add-on priced separately.",
+     "evidence_excerpt": "Add-ons are separate again — 1,000 automation triggers €35/mo, 1,000 AI co-pilot credits €25/mo, Shopify $4.99/mo, each extra WhatsApp number €29/mo — and the Astra AI agents, which the page describe…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-12"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-09-12",
+   "first_observed_at": "2026-09-12"
+  },
+  {
+   "name": "Weave",
+   "category": "Communication & Voice",
+   "domain": "getweave.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/weave-review/",
+   "from_price_usd_mo": 199.0,
+   "entry_price": "$199",
+   "entry_price_terms": "a month",
+   "pricing_status": "public",
+   "price_note": "Weave's plans page (getweave.com/plans, read 13 October 2026) is now a configurator: the base plan starts at $199 a month, and two pre-built bundles cost $149 a month each — Coordinate (online scheduling, digital forms, reminders and follow-ups, appointment confirmations, recall and reactivation) and Attract (reviews, Text Connect, email marketing with 10,000 emails, bulk texting with 5,000 texts). The AI Receptionist (messaging, or voice plus messaging) is in early access and, like the final configured price, is shown only after you submit an email. No long-term contract is required; year-long contracts are discounted. No free trial of the full platform. The page does not print a setup fee or say whether the price is per location; practice owners' reports of a one-time setup fee of about $750 and all-in costs of $400 to $700 a location are third-party, not Weave's figures.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-13",
+   "first_observed_at": null
+  },
+  {
+   "name": "Zendesk",
+   "category": "Customer Support",
+   "domain": "zendesk.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/zendesk-review/",
+   "from_price_usd_mo": 19.0,
+   "entry_price": "$19",
+   "entry_price_terms": "per agent a month, annual billing (US storefront)",
+   "pricing_status": "public",
+   "price_note": "(re-verified 2026-08-12, read on their own pricing page from two countries) Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. Suite Enterprise + Copilot is quote-only. The page geo-prices — read from Europe the same three tiers show €19, €55 and €115 — so check which storefront your quote came from. Annual billing carries a stated 20% discount. Read again from the Netherlands on 7 October 2026: the euro tiers are unchanged, and the page now also prints monthly rates of €25, €69 and €149 per agent (a saving of 24%, 20% and 23% on annual), includes 5 automated resolutions per agent a month on the Team tiers and 10 on Professional, and charges €1.50 per extra resolution committed or €2.00 pay-as-you-go. Paid add-ons on top of the seat price: Copilot $50 per agent/month (€50), Workforce Engagement bundle $50 (€50), Contact Center $83 (€82). Copilot can be attached to Professional and higher only. AI agents are included in Suite and Support plans but metered by 'automated resolutions' beyond the plan allowance, and App Builder, Action Builder and Voice are billed on consumption above their own allowances.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Read again from the Netherlands on 7 October 2026: the euro tiers are unchanged, and the page now also prints monthly rates of €25, €69 and €149 per agent (a saving of 24%, 20% and 23% on annual), includes 5 automated resolutions per agent a month on the Team tiers and 10 on Professional, and charges €1.50 per extra resolution committed or €2.00 pay-as-you-go.",
+     "evidence_excerpt": "Read again from the Netherlands on 7 October 2026: the euro tiers are unchanged, and the page now also prints monthly rates of €25, €69 and €149 per agent (a saving of 24%, 20% and 23% on annual), in…",
+     "source_url": "https://www.zendesk.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "AI agents are included in Suite and Support plans but metered by 'automated resolutions' beyond the plan allowance, and App Builder, Action Builder and Voice are billed on consumption above their own allowances.",
+     "evidence_excerpt": "AI agents are included in Suite and Support plans but metered by 'automated resolutions' beyond the plan allowance, and App Builder, Action Builder and Voice are billed on consumption above their own…",
+     "source_url": "https://www.zendesk.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Paid add-ons on top of the seat price: Copilot $50 per agent/month (€50), Workforce Engagement bundle $50 (€50), Contact Center $83 (€82).",
+     "evidence_excerpt": null,
+     "source_url": "https://www.zendesk.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "(re-verified 2026-08-12, read on their own pricing page from two countries) Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.zendesk.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-07",
+   "first_observed_at": "2026-08-12"
+  },
+  {
+   "name": "ZenZap",
+   "category": "Communication & Voice",
+   "domain": "zenzap.co",
+   "review_url": "https://aibuildermarketplace.com/b2b/zenzap-review/",
+   "from_price_usd_mo": 51.0,
+   "entry_price": "$51",
+   "entry_price_terms": "per month in total for up to 20 users billed yearly ($63 monthly)",
+   "pricing_status": "public",
+   "price_note": "(re-read 2026-10-07 on the vendor's own pricing page) The per-seat prices are gone. On 1 September the page sold Pro at $3 a user a month billed yearly ($4 monthly) and Business+ at $8 ($10 monthly), with flat team bundles beside them; our 1 October capture and the page on 7 October sell flat monthly packages only, in two tabs. Under 'Just chat': Free at $0, 'forever free for your whole team', with group chats and DMs, built-in to-dos, scheduled messages, calendar integration, WhatsApp chat migration, team access and permissions, malware scanning of files, 1 GB of storage, AI voice-note transcription and in-chat search; and Lite at $51 a month in total for up to 20 users on annual billing ($63 month to month), adding voice and video calls, task templates and sub-tasks, team privacy and download controls, group-creation permissions, 100 GB of storage, AI workspace search and turning messages into tasks. Under 'AI agents in chat': Free at $0 with 'every feature, every integration', unlimited users and 100 AI credits a month; and Business+ at $50 a month in total for up to 5 users on annual billing ($62 month to month) with 400 AI credits a month, AI work agents for every user, automated workflows, third-party agents, API access, call recording with transcription and 10 TB of storage. Enterprise is custom in both tabs and carries SAML, SCIM and SSO, encryption key management and audit logs. Add-ons are listed without prices: extra AI credits, extra storage, an HR-system integration and HIPAA compliance with a signed BAA. External guests such as clients and contractors do not count toward a plan's user limit. The page says annual billing saves up to 33%; the two cards we read save about 19%. The cards print no price for more users than the package covers, so ask before you plan a bigger rollout.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "(re-read 2026-10-07 on the vendor's own pricing page) The per-seat prices are gone.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "Under 'AI agents in chat': Free at $0 with 'every feature, every integration', unlimited users and 100 AI credits a month; and Business+ at $50 a month in total for up to 5 users on annual billing ($62 month to month) with 400 AI credits a month, AI work agents for every user, automated workflows, third-party agents, API access, call recording with transcription and 10 TB of storage.",
+     "evidence_excerpt": "Under 'AI agents in chat': Free at $0 with 'every feature, every integration', unlimited users and 100 AI credits a month; and Business+ at $50 a month in total for up to 5 users on annual billing ($…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Add-ons are listed without prices: extra AI credits, extra storage, an HR-system integration and HIPAA compliance with a signed BAA.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Under 'Just chat': Free at $0, 'forever free for your whole team', with group chats and DMs, built-in to-dos, scheduled messages, calendar integration, WhatsApp chat migration, team access and permissions, malware scanning of files, 1 GB of storage, AI voice-note transcription and in-chat search; and Lite at $51 a month in total for up to 20 users on annual billing ($63 month to month), adding voice and video calls, task templates and sub-tasks, team privacy and download controls, group-creation permissions, 100 GB of storage, AI workspace search and turning messages into tasks.",
+     "evidence_excerpt": "Under 'Just chat': Free at $0, 'forever free for your whole team', with group chats and DMs, built-in to-dos, scheduled messages, calendar integration, WhatsApp chat migration, team access and permis…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Under 'Just chat': Free at $0, 'forever free for your whole team', with group chats and DMs, built-in to-dos, scheduled messages, calendar integration, WhatsApp chat migration, team access and permissions, malware scanning of files, 1 GB of storage, AI voice-note transcription and in-chat search; and Lite at $51 a month in total for up to 20 users on annual billing ($63 month to month), adding voice and video calls, task templates and sub-tasks, team privacy and download controls, group-creation permissions, 100 GB of storage, AI workspace search and turning messages into tasks.",
+     "evidence_excerpt": "Under 'Just chat': Free at $0, 'forever free for your whole team', with group chats and DMs, built-in to-dos, scheduled messages, calendar integration, WhatsApp chat migration, team access and permis…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-07"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-07",
+   "first_observed_at": "2026-10-07"
+  }
+ ]
+}
