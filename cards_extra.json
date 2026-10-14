@@ -416,7 +416,7 @@
   ],
   "price": "$40",
   "price_note": "Starter · billed monthly",
-  "verified": "2026-09-10",
+  "verified": "2026-10-13",
   "catch": "Starter buys the line and nothing else: at $40 plus $1.75 a minute it stays the cheapest option only up to roughly 79 minutes a month, and there is a $50 start-up fee on top.",
   "best": "A small business that loses money when a call goes to voicemail — trades, clinics, law and property firms."
  },
@@ -782,7 +782,7 @@
   ],
   "price": "€495",
   "price_note": "Self Service Platform · per month PLUS an unpublished percentage of connected ad spend, net of…",
-  "verified": "2026-09-11",
+  "verified": "2026-10-13",
   "catch": "Every Amazon PPC and DSP tier adds a percentage of connected ad spend that appears nowhere on the page, so €495 is a floor, not a price, and the commitment is annual.",
   "best": "Brands and agencies already spending well past €10,000 a month on Amazon ads, who want bid, budget and campaign automation."
  },
@@ -832,7 +832,7 @@
   ],
   "price": "$49",
   "price_note": "from · a month, up to $10K monthly ad spend (price then scales with spend)",
-  "verified": "2026-09-11",
+  "verified": "2026-10-13",
   "catch": "The honest catch is that pricing tracks your ad spend, so a scaling advertiser's bill rises with their budget: Pro alone ladders from $99 to $1,799 a month between a $10,000 and a $500,000 ceiling, and past $500,000 only Enterprise is left.",
   "best": "Performance marketers and agencies running real ad budgets who want rule-based automation, scaling and creative insights across Meta, Google, TikTok and Snapchat."
  },
@@ -998,7 +998,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-11",
+  "verified": "2026-10-13",
   "catch": "It removes invalid addresses, which protects deliverability, but it can't make a cold list warm or a purchased list legitimate, and 'accept-all' results are a gamble, not verified.",
   "coupon": {
    "code": "",
@@ -1134,8 +1134,8 @@
   ],
   "price": "$13",
   "price_note": "Basic · per month, annual",
-  "verified": "2026-10-03",
-  "catch": "The yearly toggle wears a -20% badge and the crossed-out prices suggest much more, but read what you would actually be charged on 3 October 2026: monthly is $16, $70 and $120, and yearly is $13, $56 and $96, so paying month to month costs roughly 20 to 25 percent more.",
+  "verified": "2026-10-14",
+  "catch": "The free tier is the catch: its card reads 200 signup credits where it read 1,500 on 2 September, about 66 workflow steps at 3 credits a step, while the vendor's own llms.txt still advertises 2,000.",
   "best": "Teams that need a reusable web scraper or browser bot without writing selectors, want the browsers, proxies and CAPTCHA handling managed for them."
  },
  "BuddyPunch": {
@@ -4423,9 +4423,9 @@
    ]
   ],
   "price": "$75",
-  "price_note": "from · per month (software only)",
-  "verified": "2026-09-11",
-  "catch": "Reporting and customization are fairly basic and there's a setup fee on top of the monthly.",
+  "price_note": "from · per month",
+  "verified": "2026-10-13",
+  "catch": "Reporting and customization are fairly basic, and the Sites website add-on carries a $199 setup fee on top of its $99 a month.",
   "best": "Local and service businesses that want reputation marketing on offense — automatically asking happy customers for reviews and showcasing them."
  },
  "noCRM": {
@@ -5190,7 +5190,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-11",
+  "verified": "2026-10-13",
   "catch": "Everything about the sales motion here is a conversation.",
   "coupon": {
    "code": "",
@@ -5610,7 +5610,7 @@
   ],
   "price": "$25",
   "price_note": "Basic… · on monthly billing, as published",
-  "verified": "2026-09-10",
+  "verified": "2026-10-13",
   "catch": "Two things changed here and both cost money. First, calling now runs on the same meter as texting — 1 credit a minute, 2 a minute when forwarding — so voice minutes eat the allowance you budgeted for messages.",
   "best": "Sales and service teams that want two-way texting and calling in one CRM-linked inbox, and can estimate their monthly credit burn — messages plus call minutes.",
   "pw": "plans rebuilt Sep 2026",
@@ -5964,8 +5964,8 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-11",
-  "catch": "Two things are missing from a page that is otherwise unusually specific. The first is voice. The product is sold as an SMS and Voice API and the pricing page publishes no voice rate at all — nor short code pricing.",
+  "verified": "2026-10-13",
+  "catch": "Two things are missing from a page that is otherwise unusually specific. The first is voice. The product is sold as an SMS and Voice API and the pricing page publishes no voice rate at all (short code pricing was added by 13 October 2026; voice still has none).",
   "best": "Teams sending real SMS volume in the US who already know what an A2P 10DLC campaign is and want a cheaper per-segment rate than Twilio’s list without giving up published pricing."
  },
  "Signeasy": {
@@ -7741,7 +7741,7 @@
   ],
   "price": "$9.99",
   "price_note": "from · a month or $83.92 a year, billed through Shopify, 7-day trial",
-  "verified": "2026-09-12",
+  "verified": "2026-10-13",
   "catch": "If you are on Shopify Plus, the price block on the listing is not the one you pay from — the three published tiers exclude Plus stores in their own text, and the tier that covers you is $24.99 in a help-centre article.",
   "best": "Shopify stores with a real gifting season — jewellery, cosmetics, speciality food, anything bought for someone else."
  },
@@ -7760,7 +7760,7 @@
   ],
   "price": "$10",
   "price_note": "from · per month or $96/yr (400 shipments/mo)",
-  "verified": "2026-09-12",
+  "verified": "2026-10-13",
   "catch": "The reviews are split rather than soft, 45 five-star and seven one-star of 56 on 12 September 2026, and the complaints name downtime on the page customers open when they are already worried about a parcel.",
   "best": "Shopify stores shipping a few hundred to a few thousand parcels a month that want where-is-my-order traffic off the support desk.",
   "pw": "price held",
@@ -9062,5 +9062,93 @@
   "verified": "2026-10-13",
   "catch": "You pay in message credits, roughly five per conversation by the page's own estimate, and the terms make fees non-refundable.",
   "best": "Small and mid-sized businesses, SaaS teams and agencies that want an AI agent trained on their website, docs and connected apps to answer customer questions."
+ },
+ "PulseMonitor": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "Pro · per account per month, or $90 a year",
+  "verified": "2026-10-14",
+  "catch": "Paid fees are non-refundable, and the terms do not say which company runs it; Slack, PagerDuty and status pages need Pro.",
+  "best": "Developers and small teams who want HTTP, API, SSL and keyword uptime checks plus a basic SEO audit in one cheap tool, with a free plan that covers 50 monitors."
+ },
+ "FeedbackGate": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$69",
+  "price_note": "Starter · per month for up to 500 contacts, 1,000 emails and 100 SMS a month",
+  "verified": "2026-10-14",
+  "catch": "Its rating gate routes happy customers to Google, which Google's policy on selectively soliciting reviews forbids; overage rates are unpublished.",
+  "best": "Small local businesses that want automated email and SMS review requests with alerts on negative feedback, and that will offer every customer the public review link."
+ },
+ "Content Raptor": {
+  "flags": [
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$47",
+  "price_note": "Pro · per site per month, billed monthly",
+  "verified": "2026-10-14",
+  "catch": "Priced per site with 150 tracked keywords each, and the terms make every purchase non-refundable.",
+  "best": "Site owners and small agencies with established Search Console traffic who want a prioritised list of pages to improve, an editor to add missing keywords."
+ },
+ "Deftform": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "verified": "2026-10-14",
+  "catch": "Priced per form, monthly or once; Lifetime excludes the €18-a-month Business add-on, and Mailchimp is still planned.",
+  "best": "Small businesses, agencies and EU-based teams that want a clean hosted form builder with unlimited responses and team members."
+ },
+ "WhisperTranscribe": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$19.99",
+  "price_note": "Starter · per month billed annually ($240 a year) for 320 transcription minutes a…",
+  "verified": "2026-10-14",
+  "catch": "Starter's $2.80-an-hour claim works out to about $3.75; monthly billing doubles the price and fees are non-refundable.",
+  "best": "Podcasters, YouTubers, researchers and small teams who transcribe a predictable number of hours a month, want unlimited users without seat fees."
  }
 }
