@@ -2054,14 +2054,24 @@
  "Digit": {
   "flags": [
    [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$400",
   "price_note": "Starter · per month including 5 users",
-  "verified": "2026-09-17",
+  "verified": "2026-10-14",
   "catch": "The tier price is a floor, not a ceiling, and the add-ons are where an inventory system quietly doubles.",
   "best": "Manufacturers and distributors outgrowing spreadsheets who need inventory, production, purchasing and sales in one system."
  },
@@ -3823,9 +3833,9 @@
     "annual_lock"
    ]
   ],
-  "price": "$8",
-  "price_note": "from · per month billed annually ($10 monthly), 5 pages, 1 site",
-  "verified": "2026-10-03",
+  "price": "$29",
+  "price_note": "from · per month ($23 billed annually), 25 pages, 1 site",
+  "verified": "2026-10-15",
   "catch": "It's the value pick, not the optimisation pick — if you're spending big on ads, Unbounce's Smart Traffic and Instapage's 1:1 personalisation go deeper.",
   "best": "Small businesses building landing pages and simple funnels who want unmetered traffic — no per-visitor anxiety, unlike metered rivals."
  },
@@ -6859,7 +6869,7 @@
  "TnC": {
   "price": "$6.99",
   "price_note": "Basic Plan · per month on the App Store listing, or $67.10 a year, for the checkbox…",
-  "verified": "2026-09-29",
+  "verified": "2026-10-14",
   "catch": "'Free plan available' means development and partner stores only, so a store that takes real orders has no free tier here.",
   "best": "Shopify merchants on a standard plan who need a recorded “I agree” gate before payment — for GDPR, an age gate, digital-goods withdrawal rules or chargeback defence."
  },
@@ -7963,14 +7973,14 @@
  "Warn": {
   "price": "$6.99",
   "price_note": "from · per month for unlimited (non-Plus stores), $12.99/mo Plus Plan",
-  "verified": "2026-09-20",
+  "verified": "2026-10-14",
   "catch": "The app is called Warn: Warnings Checkout Blocks, and blocking checkout is the one thing most readers of this listing cannot buy at the advertised price.",
   "best": "Shopify merchants who know exactly which notice they need — a Prop 65 label, a shipping-delay alert, an age-verification disclaimer, a we-no-longer-ship-here message."
  },
  "Gushwork": {
   "price": "$900",
-  "price_note": "from · a month, billed monthly, cancel anytime",
-  "verified": "2026-09-21",
+  "price_note": "from · a month, billed monthly",
+  "verified": "2026-10-14",
   "catch": "One published number, and it is the floor. $900 a month is where Gushwork starts and the pricing page never says where it stops — the FAQ puts the final figure down to page volume, growth speed and paid support, confirmed on a call.",
   "best": "Sales-led B2B businesses with no marketer and no agency, that win work through quote requests and consultation calls, and want the research, writing."
  },
@@ -7994,7 +8004,7 @@
   ],
   "price": "$29",
   "price_note": "from · a month or $290 a year (up to 500 orders)",
-  "verified": "2026-09-22",
+  "verified": "2026-10-14",
   "catch": "Reach your plan's order limit and the program does not cost more, it stops.",
   "best": "Shopify stores whose loyalty orders sit comfortably below a plan ceiling and who want the whole program - points, VIP tiers, referrals, the widget."
  },
