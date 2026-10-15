@@ -3325,7 +3325,7 @@
  "InboxAlly": {
   "price": "$149",
   "price_note": "from · per month (100 seed emails/day, 1 sender profile)",
-  "verified": "2026-09-29",
+  "verified": "2026-10-14",
   "catch": "This is a premium, seed-list-based deliverability tool, and the price reflects it — Starter alone is well above casual warm-up apps, so it only makes sense if inbox placement is genuinely costing you real revenue.",
   "best": "Serious senders — email marketers and cold-outreach teams — whose deliverability problems are costing measurable revenue and who need active reputation repair."
  },
@@ -4843,7 +4843,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-10-07",
+  "verified": "2026-10-15",
   "catch": "Two things about this price list will cost you money if you skim it. First, the $499 is a floor rather than a bill. Pingtree describes its model as usage-based and prints “overage billed after month close — no surprise mid-cycle fees” directly under the Self Service price.",
   "best": "Performance marketers, lead brokers and affiliate operations that already move real lead volume and want ping-tree routing, partner management.",
   "pw": "price up Oct 2026",
@@ -5758,7 +5758,7 @@
   ],
   "price": "$100",
   "price_note": "from · per month",
-  "verified": "2026-10-07",
+  "verified": "2026-10-15",
   "catch": "The revenue caps — $15,000 on Starter, $30,000 on Accelerator — are per month, as the vendor confirmed in writing, so a seller clearing $500 a day is already above Starter.",
   "coupon": {
    "code": "",
@@ -6738,7 +6738,7 @@
   ],
   "price": "$77",
   "price_note": "from · per month billed annually",
-  "verified": "2026-10-07",
+  "verified": "2026-10-15",
   "catch": "The Assessments bill is set by credits, and the page does not say how many credits its 'from' prices include.",
   "best": "Companies that screen enough candidates to use a credit pool every month, and who will use the 350+ test library rather than writing their own questions."
  },
@@ -7688,7 +7688,7 @@
   ],
   "price": "$51",
   "price_note": "from · per month in total for up to 20 users billed yearly ($63 monthly)",
-  "verified": "2026-10-07",
+  "verified": "2026-10-15",
   "catch": "The pricing genuinely undercuts Slack — the honest question is ecosystem: team chat lives or dies on integrations and habit, and ZenZap's app catalog is a fraction of Slack's, so teams glued to hundreds of integrations will feel the gap.",
   "best": "Small teams that run work over messy WhatsApp/personal chat today and want organized, professional chat with tasks — starting free.",
   "pw": "plans rebuilt Oct 2026",
