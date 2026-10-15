@@ -9160,5 +9160,42 @@
   "verified": "2026-10-14",
   "catch": "Starter's $2.80-an-hour claim works out to about $3.75; monthly billing doubles the price and fees are non-refundable.",
   "best": "Podcasters, YouTubers, researchers and small teams who transcribe a predictable number of hours a month, want unlimited users without seat fees."
+ },
+ "SurFox AI": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$49",
+  "price_note": "Starter · per account per month, billed monthly in advance",
+  "verified": "2026-10-15",
+  "catch": "You pay from signup but cannot text until carriers approve your A2P registration, and the money-back guarantee needs 80% of your messages used.",
+  "coupon": {
+   "code": "DAAN10",
+   "label": "10% off the first three months"
+  },
+  "best": "US staffing agencies, real estate investors and home-services firms with a steady flow of opted-in leads who want an AI to text them back within minutes."
+ },
+ "Inbox Zero": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ]
+  ],
+  "price": "$18",
+  "price_note": "Starter · per user per month billed annually, $20 billed monthly",
+  "verified": "2026-10-15",
+  "catch": "The 7-day trial needs a card and converts to paid; a second mailbox per user needs the $28 Plus plan.",
+  "best": "Busy founders, executives and small teams on Gmail or Outlook who want their inbox sorted, replies drafted and newsletters cleared by AI."
  }
 }

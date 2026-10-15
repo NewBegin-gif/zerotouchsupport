@@ -4047,5 +4047,19 @@
   "domain": "whispertranscribe.com",
   "desc": "AI transcription and translation for podcasts, videos and interviews with speaker detection, content generation and many export formats, plus a bot-free meeting assistant; plans by minutes a month with unlimited users.",
   "link": "https://whispertranscribe.com/?aff=6NyDVn"
+ },
+ {
+  "name": "SurFox AI",
+  "category": "Sales & CRM",
+  "domain": "getsurfox.com",
+  "desc": "AI agent that texts, qualifies and books leads over SMS, website chat and inbound voice calls, then hands the ready ones to your team; aimed at staffing, real estate and home-services firms in the US.",
+  "link": "https://getsurfox.com/?aff=50R4QBCY"
+ },
+ {
+  "name": "Inbox Zero",
+  "category": "IT & Productivity",
+  "domain": "getinboxzero.com",
+  "desc": "Open-source AI email assistant for Gmail and Outlook that labels incoming mail, drafts replies in your voice, blocks cold email and bulk-unsubscribes; can also be self-hosted.",
+  "link": "https://www.getinboxzero.com/?aff=6NyDVn"
  }
 ]
