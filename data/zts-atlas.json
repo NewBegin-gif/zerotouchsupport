@@ -1038,22 +1038,22 @@
    "review_url": "https://aibuildermarketplace.com/b2b/readymode-review/",
    "from_price_usd_mo": 239.0,
    "entry_price": "$239",
-   "entry_price_terms": "per license a month and iQ $299",
+   "entry_price_terms": "per license a month billed monthly or $199 billed annually",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-07 on readymode.com/demo/pricing-readymode/, the page titled 'Readymode Pricing and Flexible Plans'; first read at these amounts on 2026-08-17, after the vendor announced a price change effective 1 Aug 2026) Two published plans, priced per license per month: Starter $239 for 1+ licenses and iQ $299, which the page calls ideal for 5+ licenses. Both waive the set-up fee and the phone-number (DID) activation fee, both give free outbound minutes subject to a fair-use policy, and both charge inbound at $0.02/min. Starter includes up to 30 DIDs per license; iQ includes up to 75 and adds caller-ID reputation monitoring, assisted remediation, call cadencing, Autopilot and unlimited integrations, none of which Starter has. Implementation and training are included from 3 licenses. One complimentary Admin license comes with every plan, and the page is explicit that it is not an agent license — no floor plan, no web phone. Voicemail Drop is available only to those who qualify and costs extra per drop. The older $199/$249 pair, and the ~$200 admin fee for sharing a license, are withdrawn from the pricing page. One trap: on 7 October 2026 the short address readymode.com/pricing redirected to an old page titled 'TEST PAGE' that still carried $199 and $249. The real pricing page served $239 and $299 the same day; read from the Netherlands in a browser, neither page rendered its price table, so we read the served page.",
+   "price_note": "(re-verified 2026-10-15 on readymode.com/demo/pricing-readymode/, the page titled 'Readymode Pricing and Flexible Plans'; first read at $239/$299 on 2026-08-17, after the vendor announced a price change effective 1 Aug 2026) Two published plans, priced per license per month, with a Monthly/Annual toggle: Starter $239 billed monthly or $199 billed annually, for 1+ licenses, and iQ $299 billed monthly or $249 billed annually, which the page calls ideal for 5+ licenses. The page labels the annual price '20% OFF' and says 'Save 20% when you sign up for an annual plan'; our arithmetic gives 16.7% ($199 is $40 below $239, $249 is $50 below $299; a 20% cut would be $191.20 and $239.20). A Custom option is offered for 20+ licenses. Both waive the set-up fee and the phone-number (DID) activation fee, both give free outbound minutes subject to a fair-use policy, and both charge inbound at $0.02/min. Starter includes up to 30 DIDs per license; iQ includes up to 75 and adds caller-ID reputation monitoring, assisted remediation, call cadencing, Autopilot and unlimited integrations, none of which Starter has. Implementation and training are included from 3 licenses. One complimentary Admin license comes with every plan, and the page is explicit that it is not an agent license — no floor plan, no web phone. Voicemail Drop is available only to those who qualify and costs extra per drop. Before 1 August 2026 $199 and $249 were the only published prices; since our 15 October reading the same two amounts are the annual rates. The ~$200 admin fee for sharing a license is not on the pricing page. On 7 October 2026 the short address readymode.com/pricing redirected to an old page titled 'TEST PAGE'; read from the Netherlands in a browser the price table did not render, so we read the served page.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(re-verified 2026-10-07 on readymode.com/demo/pricing-readymode/, the page titled 'Readymode Pricing and Flexible Plans'; first read at these amounts on 2026-08-17, after the vendor announced a price change effective 1 Aug 2026) Two published plans, priced per license per month: Starter $239 for 1+ licenses and iQ $299, which the page calls ideal for 5+ licenses.",
-     "evidence_excerpt": "(re-verified 2026-10-07 on readymode.com/demo/pricing-readymode/, the page titled 'Readymode Pricing and Flexible Plans'; first read at these amounts on 2026-08-17, after the vendor announced a price…",
+     "evidence": "(re-verified 2026-10-15 on readymode.com/demo/pricing-readymode/, the page titled 'Readymode Pricing and Flexible Plans'; first read at $239/$299 on 2026-08-17, after the vendor announced a price change effective 1 Aug 2026) Two published plans, priced per license per month, with a Monthly/Annual toggle: Starter $239 billed monthly or $199 billed annually, for 1+ licenses, and iQ $299 billed monthly or $249 billed annually, which the page calls ideal for 5+ licenses.",
+     "evidence_excerpt": "(re-verified 2026-10-15 on readymode.com/demo/pricing-readymode/, the page titled 'Readymode Pricing and Flexible Plans'; first read at $239/$299 on 2026-08-17, after the vendor announced a price cha…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
-   "first_observed_at": "2026-10-07"
+   "price_verified_at": "2026-10-15",
+   "first_observed_at": "2026-10-15"
   },
   {
    "name": "respond.io",
