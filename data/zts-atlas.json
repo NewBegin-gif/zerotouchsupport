@@ -1612,15 +1612,15 @@
    "entry_price": "$51",
    "entry_price_terms": "per month in total for up to 20 users billed yearly ($63 monthly)",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-10-07 on the vendor's own pricing page) The per-seat prices are gone. On 1 September the page sold Pro at $3 a user a month billed yearly ($4 monthly) and Business+ at $8 ($10 monthly), with flat team bundles beside them; our 1 October capture and the page on 7 October sell flat monthly packages only, in two tabs. Under 'Just chat': Free at $0, 'forever free for your whole team', with group chats and DMs, built-in to-dos, scheduled messages, calendar integration, WhatsApp chat migration, team access and permissions, malware scanning of files, 1 GB of storage, AI voice-note transcription and in-chat search; and Lite at $51 a month in total for up to 20 users on annual billing ($63 month to month), adding voice and video calls, task templates and sub-tasks, team privacy and download controls, group-creation permissions, 100 GB of storage, AI workspace search and turning messages into tasks. Under 'AI agents in chat': Free at $0 with 'every feature, every integration', unlimited users and 100 AI credits a month; and Business+ at $50 a month in total for up to 5 users on annual billing ($62 month to month) with 400 AI credits a month, AI work agents for every user, automated workflows, third-party agents, API access, call recording with transcription and 10 TB of storage. Enterprise is custom in both tabs and carries SAML, SCIM and SSO, encryption key management and audit logs. Add-ons are listed without prices: extra AI credits, extra storage, an HR-system integration and HIPAA compliance with a signed BAA. External guests such as clients and contractors do not count toward a plan's user limit. The page says annual billing saves up to 33%; the two cards we read save about 19%. The cards print no price for more users than the package covers, so ask before you plan a bigger rollout.",
+   "price_note": "(re-read 2026-10-07 on the vendor's own pricing page; unchanged on 2026-10-15) The per-seat prices are gone. On 1 September the page sold Pro at $3 a user a month billed yearly ($4 monthly) and Business+ at $8 ($10 monthly), with flat team bundles beside them; our 1 October capture and the page on 7 October sell flat monthly packages only, in two tabs. Under 'Just chat': Free at $0, 'forever free for your whole team', with group chats and DMs, built-in to-dos, scheduled messages, calendar integration, WhatsApp chat migration, team access and permissions, malware scanning of files, 1 GB of storage, AI voice-note transcription and in-chat search; and Lite at $51 a month in total for up to 20 users on annual billing ($63 month to month), adding voice and video calls, task templates and sub-tasks, team privacy and download controls, group-creation permissions, 100 GB of storage, AI workspace search and turning messages into tasks. Under 'AI agents in chat': Free at $0 with 'every feature, every integration', unlimited users and 100 AI credits a month; and Business+ at $50 a month in total for up to 5 users on annual billing ($62 month to month) with 400 AI credits a month, AI work agents for every user, automated workflows, third-party agents, API access, call recording with transcription and 10 TB of storage. Enterprise is custom in both tabs and carries SAML, SCIM and SSO, encryption key management and audit logs. Add-ons are listed without prices: extra AI credits, extra storage, an HR-system integration and HIPAA compliance with a signed BAA. External guests such as clients and contractors do not count toward a plan's user limit. The page says annual billing saves up to 33%; the two cards we read save about 19%. The cards print no price for more users than the package covers, so ask before you plan a bigger rollout.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(re-read 2026-10-07 on the vendor's own pricing page) The per-seat prices are gone.",
+     "evidence": "(re-read 2026-10-07 on the vendor's own pricing page; unchanged on 2026-10-15) The per-seat prices are gone.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "usage_metered",
@@ -1628,7 +1628,7 @@
      "evidence_excerpt": "Under 'AI agents in chat': Free at $0 with 'every feature, every integration', unlimited users and 100 AI credits a month; and Business+ at $50 a month in total for up to 5 users on annual billing ($…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "addons_extra",
@@ -1636,7 +1636,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "annual_lock",
@@ -1644,7 +1644,7 @@
      "evidence_excerpt": "Under 'Just chat': Free at $0, 'forever free for your whole team', with group chats and DMs, built-in to-dos, scheduled messages, calendar integration, WhatsApp chat migration, team access and permis…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "free_tier",
@@ -1652,11 +1652,11 @@
      "evidence_excerpt": "Under 'Just chat': Free at $0, 'forever free for your whole team', with group chats and DMs, built-in to-dos, scheduled messages, calendar integration, WhatsApp chat migration, team access and permis…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
+   "price_verified_at": "2026-10-15",
    "first_observed_at": "2026-10-07"
   }
  ]
