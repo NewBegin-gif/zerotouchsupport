@@ -294,7 +294,7 @@
    ]
   ],
   "price": "$299",
-  "price_note": "from · per month billed annually (5 sites, 5 users, 500 keywords)",
+  "price_note": "from · per month (5 sites, 5 users, 500 keywords)",
   "verified": "2026-09-19",
   "catch": "The entry is $299 a month paid monthly — agency-grade automation priced accordingly — and every tier meters on FOUR axes at once (sites, seats, keywords, pages).",
   "best": "Consultants and agencies managing SEO across a portfolio of client sites who want bulk on-page changes, optimization rules and keyword tracking from one dashboard."
@@ -1203,7 +1203,7 @@
   "pw_soort": "restructure"
  },
  "Bybit": {
-  "verified": "2026-09-05",
+  "verified": "2026-10-16",
   "catch": "Derivatives are the draw and the danger: leverage cuts both ways, and funding rates on perpetuals are a real recurring cost the fee table doesn't show.",
   "best": "Active traders who want deep liquidity, low derivatives fees and a broad product range (spot, perps, options) with volume-tiered discounts."
  },
@@ -2799,7 +2799,7 @@
   ],
   "price": "$19",
   "price_note": "from · per agent a month billed annually ($23 monthly)",
-  "verified": "2026-09-01",
+  "verified": "2026-10-16",
   "catch": "The free tier is genuinely useful for small teams, but AI features and higher-tier routing sit behind paid plans and add-ons — and being part of the wider Freshworks suite means you'll be nudged toward the full platform.",
   "best": "Small-to-mid support teams that want live chat and messaging with a real free tier to start."
  },
@@ -3073,7 +3073,7 @@
   ],
   "price": "$49",
   "price_note": "from · a month plus $6 per person (single-state payroll)",
-  "verified": "2026-09-05",
+  "verified": "2026-10-16",
   "catch": "The base-plus-per-employee model is transparent but adds up, and Gusto is US-only — excellent for straightforward US payroll and benefits, but not the pick for international teams or complex multi-entity HR.",
   "best": "US small businesses that want genuinely easy full-service payroll, benefits and tax compliance in one place."
  },
@@ -4206,7 +4206,7 @@
   ],
   "price": "$4",
   "price_note": "Basic · per seat a month billed annually ($5 monthly)",
-  "verified": "2026-09-03",
+  "verified": "2026-10-16",
   "catch": "The numbers on Modge's own pages do not agree with each other.",
   "best": "Desk-bound remote or hybrid teams of a few to a few hundred people who want time tracking, app classification, shift adherence."
  },
@@ -4540,8 +4540,8 @@
    ]
   ],
   "price": "$13",
-  "price_note": "from · per user a month, annual billing (monthly billing about 15% higher)",
-  "verified": "2026-09-05",
+  "price_note": "from · per user a month on annual billing ($19 billed monthly)",
+  "verified": "2026-10-16",
   "catch": "Full API access is included on every plan, so integrations are not the cost trap here — the add-ons are.",
   "coupon": {
    "code": "nspub-partner-1monthfree",
@@ -7007,7 +7007,7 @@
   ],
   "price": "€29.99",
   "price_note": "Professional, 1 user · billed monthly",
-  "verified": "2026-09-05",
+  "verified": "2026-10-16",
   "catch": "You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB — and the encryption trade-offs are inherent: no server-side content search, more deliberate sharing flows, and credential/recovery discipline is on you.",
   "best": "Businesses and professionals with confidentiality obligations (legal, health, finance) that need end-to-end-encrypted storage."
  },
