@@ -128,7 +128,7 @@
    "entry_price": "$29",
    "entry_price_terms": "a month, includes 100 call minutes, then $0.10 a minute overage",
    "pricing_status": "public",
-   "price_note": "(verified 2026-08-28 on apps.shopify.com/ava-ai and avasales.ai) Three paid tiers, no free plan, each with a 7-day trial. Support is $29 a month and includes 100 call minutes, then $0.10 a minute; Recover is $99 a month with 400 minutes and $0.08 over; Scale is $499 a month with 1,500 minutes and $0.07 over. The headline price is really a minutes bucket: a store with real call volume pays the overage, so cost tracks conversation length, not seats. Estimate your monthly call minutes before you compare — at heavy volume the effective bill can sit well above the tier price.",
+   "price_note": "(verified 2026-10-16 on apps.shopify.com/ava-ai and avasales.ai) Three paid tiers, no free plan, each with a 7-day trial. Support is $29 a month and includes 100 call minutes, then $0.10 a minute; Recover is $99 a month with 400 minutes and $0.08 over; Scale is $499 a month with 1,500 minutes and $0.07 over. The headline price is really a minutes bucket: a store with real call volume pays the overage, so cost tracks conversation length, not seats. Estimate your monthly call minutes before you compare — at heavy volume the effective bill can sit well above the tier price.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -136,12 +136,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-28"
+     "verified_at": "2026-10-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-08-28",
-   "first_observed_at": "2026-08-28"
+   "price_verified_at": "2026-10-16",
+   "first_observed_at": "2026-10-16"
   },
   {
    "name": "bOnline",
