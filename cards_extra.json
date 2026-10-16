@@ -9208,5 +9208,48 @@
   "verified": "2026-10-15",
   "catch": "The 7-day trial needs a card and converts to paid; a second mailbox per user needs the $28 Plus plan.",
   "best": "Busy founders, executives and small teams on Gmail or Outlook who want their inbox sorted, replies drafted and newsletters cleared by AI."
+ },
+ "Pdfdodo": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$25",
+  "price_note": "Solo · billed monthly, 300 pages a month, 15 MB per PDF",
+  "verified": "2026-10-16",
+  "catch": "Free has every feature for 25 pages; FAQ and terms disagree on refunds.",
+  "best": "Bookkeepers, accountants and small businesses that turn bank statements, invoices and receipts in PDF or scan form into spreadsheets a few hundred pages a month."
+ },
+ "Superlines": {
+  "verified": "2026-10-16",
+  "catch": "Starter has no exports and 1 month of history; 30 days' notice to stop renewal.",
+  "best": "Marketing teams and agencies in Europe that want to track how ChatGPT, Gemini, Perplexity and other AI engines mention and cite their brands, with unlimited seats."
+ },
+ "ShortlistIQ": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$49",
+  "price_note": "Basic · labelled per month, up to 20 invited applicants a month, one AI…",
+  "verified": "2026-10-16",
+  "catch": "Free for 10 applicants; Basic covers 20 a month; no refunds on early cancellation.",
+  "best": "Small and mid-size teams and recruitment agencies that get more applicants than they can screen and want an AI to run the first-round interview and score each candidate."
  }
 }
