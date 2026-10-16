@@ -73,8 +73,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Fireflies.ai
 - Review: https://zerotouchsupport.com/fireflies-ai-review.html
-- Verdict: Fireflies.ai: Free $0 — unlimited transcription, limited AI summaries, 400 mins storage per team, 20 AI credits. AI credits are capped on every tier.
-- Price: (price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit) Free $0 — unlimited transcription, limited AI summaries, 400 mins storage per team, 20 AI credits. Pro $18/seat/mo month-to-month or $10/seat/mo billed annually — unlimited AI summaries, 8,000 mins storage per seat, 20 AI credits.
+- Verdict: Fireflies.ai: Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits.
+- Price: (price re-verified 2026-10-16 against the vendor's own pricing page and help guide) Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits. Pro $18/seat/mo month-to-month or $10/seat/mo billed annually — unlimited AI summaries, 8,000 mins of storage per seat, 20 AI credits.
 
 ## Freshchat
 - Review: https://zerotouchsupport.com/freshchat-review.html

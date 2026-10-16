@@ -2641,14 +2641,14 @@
     "usage_metered"
    ],
    [
-    "🆓",
-    "Free tier",
-    "free_tier"
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "$10",
   "price_note": "from · per seat/mo billed annually ($18 monthly)",
-  "verified": "2026-08-31",
+  "verified": "2026-10-16",
   "catch": "The advertised $10 and $19 are annual-billing rates; month-to-month is $18 and $29.",
   "best": "Teams that want every meeting transcribed and searchable automatically — the free unlimited-transcription tier is genuinely rare.",
   "pw": "price held",
