@@ -1,6 +1,6 @@
 name,category,domain,from_price_usd_mo,flags,review_url,researched,entry_price,entry_price_terms,pricing_status,price_verified_at
 800.com,Communication & Voice,800.com,19.0,,https://aibuildermarketplace.com/b2b/800-com-review/,2026-07,$19,per month on yearly billing ($23 month to month),public,2026-10-06
-Aircall,Communication & Voice,aircall.io,30.0,per_seat|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/aircall-review/,2026-07,$30,"Essentials, per licence · per licence per month on annual billing ($40 billed monthly), minimum 3…",public,2026-10-10
+Aircall,Communication & Voice,aircall.io,30.0,per_seat|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/aircall-review/,2026-07,$30,"Essentials, per licence · per licence per month on annual billing ($40 billed monthly), minimum…",public,2026-10-10
 Answering Service Care,Communication & Voice,answeringservicecare.com,40.0,usage_metered,https://aibuildermarketplace.com/b2b/answering-service-care-review/,2026-07,$40,Starter · billed monthly,public,2026-10-13
 AskNest,Customer Support,ecommercestorez.us,4.99,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/asknest-review/,2026-07,$4.99,Starter · per month for 500 AI replies with automatic shopper-language detection…,public,2026-10-09
 Ava AI,E-commerce,avasales.ai,29.0,usage_metered,https://aibuildermarketplace.com/b2b/ava-ai-review/,2026-07,$29,"a month, includes 100 call minutes, then $0.10 a minute overage",public,2026-10-16
@@ -9,7 +9,7 @@ Calilio,Communication & Voice,calilio.com,12.0,per_seat|usage_metered|annual_loc
 CallHippo,Communication & Voice,callhippo.com,19.0,per_seat|usage_metered|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/callhippo-review/,2026-07,$19,"per user a month billed annually, or $25 month-to-month",public,2026-10-14
 Chatwith,Customer Support,chatwith.tools,9.0,usage_metered|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/chatwith-review/,2026-07,$9,per month (250 message credits),public,2026-10-13
 CloudTalk,Communication & Voice,cloudtalk.io,,per_seat|usage_metered|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/cloudtalk-review/,2026-07,€19,Lite · per user per month on annual billing,public,2026-10-06
-Cloze,Customer Support,cloze.bot,49.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/cloze-review/,2026-07,$49,"Starter · per month for 250 AI conversations on the App Store listing, plus $0.10…",public,2026-10-11
+Cloze,Customer Support,cloze.bot,49.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/cloze-review/,2026-07,$49,"Starter · per month for 250 AI conversations on the App Store listing, plus…",public,2026-10-11
 CometChat,Communication & Voice,cometchat.com,239.0,usage_metered|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/cometchat-review/,2026-07,$239,"a month at 1,000 MAU billed yearly ($298.75 monthly)",public,2026-10-07
 CrankWheel,Communication & Voice,crankwheel.com,29.0,free_tier,https://aibuildermarketplace.com/b2b/crankwheel-review/,2026-07,$29,"per month, 1 user, unlimited usage",public,2026-10-09
 Dondy,Marketing,dondy.net,6.99,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/dondy-review/,2026-07,$6.99,Pro · per month for the chat button and messages you send by hand,public,2026-09-18
@@ -37,7 +37,7 @@ SimpleTexting,Communication & Voice,simpletexting.com,29.0,per_seat|usage_metere
 StoreFAQ,Customer Support,storefaq.io,7.99,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/storefaq-review/,2026-07,$7.99,"Professional · per month for 500 FAQ page views and 50 AI chatbot conversations, with…",public,2026-10-09
 SupportBee,Customer Support,supportbee.com,20.0,per_seat,https://aibuildermarketplace.com/b2b/supportbee-review/,2026-07,$20,"Startup · per seat per month with no commitment, Enterprise at 25",public,2026-10-06
 Textline,Communication & Voice,textline.com,,quote_only|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/textline-review/,2026-07,,,quote_only,2026-10-11
-Tidio,Customer Support,tidio.com,29.0,addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/tidio-review/,2026-07,$29,Starter · per month paid month to month for 100 billable conversations and 10…,public,2026-10-10
+Tidio,Customer Support,tidio.com,29.0,addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/tidio-review/,2026-07,$29,Starter · per month paid month to month for 100 billable conversations and…,public,2026-10-10
 Trackr,Customer Support,parceltrackr.com,10.0,usage_metered|annual_lock,https://aibuildermarketplace.com/b2b/trackr-review/,2026-07,$10,per month or $96/yr (400 shipments/mo),public,2026-10-13
 Typewise,Customer Support,typewise.app,99.0,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/typewise-review/,2026-07,$99,Starter · base fee per month with 1 user ($999 a year),public,2026-09-27
 UniTel Voice,Communication & Voice,unitelvoice.com,9.99,per_seat|usage_metered|annual_lock,https://aibuildermarketplace.com/b2b/unitel-voice-review/,2026-07,$9.99,"per month (1 user, unlimited minutes, one phone number)",public,2026-09-09
