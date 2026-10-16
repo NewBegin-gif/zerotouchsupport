@@ -5295,6 +5295,11 @@
     "usage_metered"
    ],
    [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -5302,7 +5307,7 @@
   ],
   "price": "€7.99",
   "price_note": "from · a month billed annually, excl",
-  "verified": "2026-08-26",
+  "verified": "2026-10-16",
   "catch": "The free version is so generous that many sites never need to upgrade — PRO mainly earns its keep once you want built-in rank tracking, Content AI credits or to manage many sites.",
   "best": "WordPress site owners who want a powerful, feature-rich SEO plugin — the free version alone beats most paid rivals."
  },
