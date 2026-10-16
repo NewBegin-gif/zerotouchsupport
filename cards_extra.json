@@ -4757,15 +4757,7 @@
   "best": "Staffing agencies, security firms and event operators with large rosters of shift workers."
  },
  "PartnerStack": {
-  "flags": [
-   [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ]
-  ],
-  "price_state": "quote-only",
-  "verified": "2026-08-27",
+  "verified": "2026-10-16",
   "catch": "The reporting counts clicks and calls them customers.",
   "best": "B2B SaaS teams that want partner payments, lead and deal registration and a marketplace of active B2B partners in one place."
  },
