@@ -2196,8 +2196,8 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-08-28",
-  "catch": "The 'free AI' is heavily quota-limited — 50 products on Free, up to 800 on Pro — so a genuinely multilingual catalogue pushes you either to a paid tier or to your own OpenAI/DeepSeek key, where you pay token costs separately on top of the subscription.",
+  "verified": "2026-10-16",
+  "catch": "The 'free AI' is quota-limited — 50 products on Free, up to 3,000 on Pro — and past the quota the paid plans bill pay-as-you-go (with a spend limit), so a large multilingual catalogue costs more than the sticker price, or pushes you to your own OpenAI/DeepSeek key, where you pay token costs separately on top of the subscription.",
   "best": "Small-to-mid Shopify stores that want affordable, full-store AI translation — including images and third-party-app text."
  },
  "Easy Bundles": {
