@@ -5516,9 +5516,9 @@
    ]
   ],
   "price": "$8",
-  "price_note": "from · per user a month (published floor for the global-payroll platform)",
-  "verified": "2026-08-27",
-  "catch": "The published '$8 per user a month' is real but it's only the floor, and it's the HR-and-payroll entry — not the price of the platform.",
+  "price_note": "from · per employee a month plus a $40 monthly base fee (published floor)",
+  "verified": "2026-10-16",
+  "catch": "The published '$8 per employee a month' is real but it's only the floor, it comes with a monthly base fee ($40 on the small-business page), and it's the HR-and-payroll entry — not the price of the platform.",
   "best": "Growing companies that want HR, IT and Finance on one employee record."
  },
  "Riverside": {
@@ -6070,6 +6070,11 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "€11.90",
