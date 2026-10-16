@@ -194,7 +194,7 @@
    ]
   ],
   "price": "$30",
-  "price_note": "Essentials, per licence · per licence per month on annual billing ($40 billed monthly), minimum…",
+  "price_note": "Essentials, per licence · per licence per month on annual billing, minimum 3 licences",
   "verified": "2026-10-10",
   "catch": "Two structural catches: the 3-seat minimum makes the real starting price triple the sticker, and the annual-vs-monthly gap is steep (Professional: $50 vs $70).",
   "best": "Sales and support teams (3+ seats) that want a polished cloud phone system embedded in their CRM/helpdesk, with call routing, analytics and 250+ integrations."
@@ -262,7 +262,7 @@
   "price_note": "from · per month (purchased annually), Web Dev Kit $51.20 and Business $71.99",
   "verified": "2026-10-11",
   "catch": "AISQ (the Squirrly family) evolves its pricing and product names often — the honest advice is to buy only what's currently priced in front of you, in small credit batches first, and judge output on YOUR niche keywords before committing to bundles.",
-  "best": "Solo marketers who want low-cost, pay-as-you-go AI marketing assistance (SEO + content workflows) without a subscription."
+  "best": "Solo marketers and small WordPress site owners who want AI-assisted SEO and content workflows on the free plan or a low-cost entry plan."
  },
  "Algomo": {
   "price": "$200",
@@ -2402,7 +2402,7 @@
    ]
   ],
   "price": "$362",
-  "price_note": "Visitors Premium · per location per month, billed annually…",
+  "price_note": "Visitors Premium · per location per month, billed annually",
   "verified": "2026-10-04",
   "catch": "None of the prices on that page is a price you can budget from.",
   "best": "Companies with a real office and a front desk problem."
@@ -3282,7 +3282,7 @@
    ]
   ],
   "price": "€9",
-  "price_note": "Starter… · per month billed yearly (EUR 11 month to month) for 3 profiles, 1 user…",
+  "price_note": "Starter… · per month billed yearly for 3 profiles, 1 user and 30 posts a month",
   "verified": "2026-10-03",
   "catch": "Its depth is strongest on Instagram and the core networks; if your priority platform sits outside its best-supported set, coverage thins.",
   "best": "Agencies and brands that want deep social analytics, reporting and competitor benchmarking alongside scheduling, especially Instagram-first teams."
@@ -5436,7 +5436,7 @@
    ]
   ],
   "price": "$49",
-  "price_note": "Email Volume… · per user per month billed annually, by active contacts…",
+  "price_note": "Email Volume… · per user per month billed annually, by active contacts",
   "verified": "2026-10-09",
   "catch": "The $89 is the Multichannel track on annual billing, and it does include LinkedIn, calls, SMS and WhatsApp — $99 month to month.",
   "best": "Sales teams running structured multichannel outbound (email + LinkedIn + calls) who want sequences, warmup and a B2B database in one platform."
@@ -6096,7 +6096,7 @@
    ]
   ],
   "price": "$15",
-  "price_note": "Team, per seat · per seat per month billed annually ($20 billed monthly), with a minimum…",
+  "price_note": "Team, per seat · per seat per month billed annually, with a minimum of 3 billable users",
   "verified": "2026-10-02",
   "catch": "It's a broad, do-everything work-management platform, so the power comes with a learning curve and a per-seat cost that adds up for bigger teams — a single source of truth if you commit, overkill if you just need a task list.",
   "best": "Teams consolidating projects, CRM and operations into one flexible, database-driven work-management platform."
@@ -7453,7 +7453,7 @@
    ]
   ],
   "price": "$39.90",
-  "price_note": "Starter · per month billed monthly, or 286.80 a year…",
+  "price_note": "Starter · per month billed monthly, or 286.80 a year, for 600 credits a month",
   "verified": "2026-09-19",
   "catch": "Everything is credits, and generating a site burns them fast — Wegic's own page notes a single generation can cost over $10 in credits, while the free plan gives 100 credits once.",
   "coupon": {
@@ -7582,7 +7582,7 @@
    ]
   ],
   "price": "$27",
-  "price_note": "Early · standard monthly price after the promotion…",
+  "price_note": "Early · standard monthly price after the promotion",
   "verified": "2026-10-09",
   "catch": "Read the second number, not the first. Every plan on the US page is 80% off for three months, and the price after that is five times what the button says: $27, $59 and $97 a month.",
   "best": "Small businesses whose bookkeeper or accountant already works in Xero."
@@ -8086,7 +8086,7 @@
    ]
   ],
   "price": "$10",
-  "price_note": "Personal · per user per month billed yearly ($15 billed monthly), one user, no…",
+  "price_note": "Personal · per user per month billed yearly, one user, no data rooms",
   "verified": "2026-09-25",
   "catch": "Personal at $10 a month has no data rooms at all: sharing several files behind one link starts on Standard at $45 per user a month, and data-room controls on Advanced at $150.",
   "best": "Founders sharing a pitch deck or running a fundraise, and small deal teams that want a data room with page-level analytics."
@@ -8406,7 +8406,7 @@
  },
  "Create": {
   "price": "€9.99",
-  "price_note": "Portfolio · per month billed monthly, excluding VAT (€8.33 a month billed yearly)…",
+  "price_note": "Portfolio · per month billed monthly, excluding VAT, 10 pages and no shop",
   "verified": "2026-10-03",
   "catch": "Professional's shop stops at 250 products and leaves out digital downloads, basket recovery and Google Shopping; those start on Business at twice the price.",
   "best": "UK sole traders, makers and small shops that want a hosted website and a modest online shop with an account manager and UK-based support."
@@ -9162,7 +9162,7 @@
    ]
   ],
   "price": "$19.99",
-  "price_note": "Starter · per month billed annually ($240 a year) for 320 transcription minutes a…",
+  "price_note": "Starter · per month billed annually for 320 transcription minutes a month",
   "verified": "2026-10-14",
   "catch": "Starter's $2.80-an-hour claim works out to about $3.75; monthly billing doubles the price and fees are non-refundable.",
   "best": "Podcasters, YouTubers, researchers and small teams who transcribe a predictable number of hours a month, want unlimited users without seat fees."
