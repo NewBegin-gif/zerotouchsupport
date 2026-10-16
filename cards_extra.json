@@ -169,13 +169,6 @@
   "best": "Educators, trainers and event hosts running interactive sessions — polls, quizzes, word clouds and live Q&A — with audiences up to 50 free."
  },
  "Aira": {
-  "flags": [
-   [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ]
-  ],
   "price": "€499",
   "price_note": "from · a month, billed annually (€5,988 a year)",
   "verified": "2026-10-15",
