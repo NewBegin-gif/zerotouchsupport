@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 49,
-  "flags": 109,
+  "flags": 110,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on zerotouchsupport.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -528,36 +528,44 @@
    "entry_price": "$10",
    "entry_price_terms": "per seat/mo billed annually ($18 monthly)",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit) Free $0 — unlimited transcription, limited AI summaries, 400 mins storage per team, 20 AI credits. Pro $18/seat/mo month-to-month or $10/seat/mo billed annually — unlimited AI summaries, 8,000 mins storage per seat, 20 AI credits. Business $29/seat/mo month-to-month or $19/seat/mo billed annually — unlimited storage, 30 AI credits. Enterprise $39/seat/mo, annual only — 50 AI credits, SSO/SCIM, HIPAA, private storage. CORRECTION to the previous dossier: $10 and $19 were carried as the price; they are the annual rates and month-to-month is 80% and 53% higher. Enterprise was missing entirely. The AI-credit ladder (20/20/30/50) means Pro adds no AI credits over the free plan.",
+   "price_note": "(price re-verified 2026-10-16 against the vendor's own pricing page and help guide) Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits. Pro $18/seat/mo month-to-month or $10/seat/mo billed annually — unlimited AI summaries, 8,000 mins of storage per seat, 20 AI credits. Business $29/seat/mo month-to-month or $19/seat/mo billed annually — unlimited storage, 30 AI credits. Enterprise $39/seat/mo, annual only — 50 AI credits, SSO/SCIM, HIPAA, private storage. The plan prices are unchanged since our 31 August read. CORRECTION carried from that read: $10 and $19 are the annual rates, and month-to-month is 80% and 53% higher.\n\nWhat the cards do not say, the help guide does (read 16 October 2026). The 20/20/30/50 AI credits are a one-time allocation per account, not a monthly allowance: they are pooled for the whole workspace and do not grow with the number of seats, so a ten-seat Pro team shares the same 20 credits as one person on Free. More credits are a separate subscription: 50 for $5 a month ($4 billed annually), 200 for $20 ($16), 1,000 for $90 ($72), 2,500 for $200 ($160), 5,000 for $375 ($300), 7,500 for $450 ($360) and 10,000 for $600 ($480). Unused purchased credits do not carry over to the next billing cycle, and cancelling that add-on is separate from cancelling your main plan. The billing guide says a 7-day AI-credit trial converts to a paid AI credits subscription at $5 a month (or the plan you picked at the start) and that Auto-Upgrade is on by default, while the terms of service say Auto-Upgrade is off by default and needs your express consent; check the setting in your own billing page before you start that trial. Uploaded recordings from outside meetings have their own meter: 3,000 minutes per source per month for individuals, with overage charged at $0.01 a minute. Storage counts the total minutes you keep, not minutes per month.\n\nCancelling takes effect at the end of the paid period, and the terms ask you to cancel at least 24 hours before renewal. Refunds are where Fireflies' own pages disagree: the dedicated refund article allows a full refund within 7 days if you logged 3 meetings or fewer on a monthly plan, or 20 or fewer on an annual plan, with no pro-rated refund on annual plans and none on AI credits, while an older account article still says they don't offer refunds on subscriptions or AI credit purchases. Treat the 7-day window as the vendor's current policy, but ask support in writing before relying on it.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "Pro $18/seat/mo month-to-month or $10/seat/mo billed annually — unlimited AI summaries, 8,000 mins storage per seat, 20 AI credits.",
+     "evidence": "Pro $18/seat/mo month-to-month or $10/seat/mo billed annually — unlimited AI summaries, 8,000 mins of storage per seat, 20 AI credits.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-31"
+     "verified_at": "2026-10-16"
     },
     {
      "flag": "usage_metered",
-     "evidence": "(price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit) Free $0 — unlimited transcription, limited AI summaries, 400 mins storage per team, 20 AI credits.",
+     "evidence": "(price re-verified 2026-10-16 against the vendor's own pricing page and help guide) Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-31"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "More credits are a separate subscription: 50 for $5 a month ($4 billed annually), 200 for $20 ($16), 1,000 for $90 ($72), 2,500 for $200 ($160), 5,000 for $375 ($300), 7,500 for $450 ($360) and 10,000 for $600 ($480).",
+     "evidence_excerpt": "More credits are a separate subscription: 50 for $5 a month ($4 billed annually), 200 for $20 ($16), 1,000 for $90 ($72), 2,500 for $200 ($160), 5,000 for $375 ($300), 7,500 for $450 ($360) and 10,00…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-16"
     },
     {
      "flag": "free_tier",
-     "evidence": "(price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit) Free $0 — unlimited transcription, limited AI summaries, 400 mins storage per team, 20 AI credits.",
+     "evidence": "(price re-verified 2026-10-16 against the vendor's own pricing page and help guide) Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-31"
+     "verified_at": "2026-10-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-08-31",
-   "first_observed_at": "2026-08-31"
+   "price_verified_at": "2026-10-16",
+   "first_observed_at": "2026-10-16"
   },
   {
    "name": "Freshchat",
