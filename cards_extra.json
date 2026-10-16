@@ -178,7 +178,7 @@
   ],
   "price": "€499",
   "price_note": "from · a month, billed annually (€5,988 a year)",
-  "verified": "2026-10-10",
+  "verified": "2026-10-15",
   "catch": "Young product, sharp focus: European B2B prospecting on a 65-million-company database with meeting notes flowing into records automatically.",
   "best": "European B2B sales teams that want AI-assisted prospecting and automatic meeting/CRM hygiene from a Europe-native database."
  },
@@ -236,15 +236,20 @@
  "AISDR": {
   "flags": [
    [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "📅",
     "Annual commit",
     "annual_lock"
    ]
   ],
-  "price": "$250",
-  "price_note": "from · a month (or $2,400 a year), 1 user",
-  "verified": "2026-10-11",
-  "catch": "It's priced like an SDR salary because it's meant to replace part of that function — so judge it on cost-per-meeting, not the sticker, and expect a quarterly commitment rather than a flip-the-switch monthly.",
+  "price": "$1.50",
+  "price_note": "from · per person contacted (charged daily, no subscription)",
+  "verified": "2026-10-15",
+  "catch": "Judge it on cost per meeting, not the sticker.",
   "best": "Sales teams with a clear ICP and offer that want autonomous AI to qualify leads, personalize outreach and book meetings around the clock."
  },
  "AISQ": {
@@ -667,7 +672,7 @@
   ],
   "price": "$29",
   "price_note": "from · a month, includes 100 call minutes, then $0.10 a minute overage",
-  "verified": "2026-08-28",
+  "verified": "2026-10-16",
   "catch": "The monthly price is a minutes allowance, not a flat fee — every minute past the bucket bills at $0.07 to $0.10, so a busy support line can cost far more than the headline.",
   "best": "Shopify DTC and cash-on-delivery stores with real inbound call volume that want 24/7 phone support and outbound cart-recovery automated."
  },
@@ -1314,7 +1319,7 @@
   ],
   "price": "$14",
   "price_note": "from · per month at 1,000 contacts, but automation starts on Advanced at $35/mo",
-  "verified": "2026-10-09",
+  "verified": "2026-10-15",
   "catch": "Automation workflows and conversion tracking only arrive on Advanced (from $35 a month at 1,000 contacts) — Essentials is a sending tool with an API, not a marketing-automation platform — and the trial auto-converts to paid if you do not actively cancel, which tells you something about the retention strategy.",
   "best": "Mid-market senders with larger lists that want mature email plus SMS workflows and are comfortable at the Essential tier and up."
  },
@@ -2511,7 +2516,7 @@
   ],
   "price": "$2,000",
   "price_note": "from · per month)",
-  "verified": "2026-10-07",
+  "verified": "2026-10-15",
   "catch": "Since October 2026 no tier shows a price: Premier, Enterprise and Unlimited all go through a demo, and the last published paid plan was $2,000 a month.",
   "best": "B2B software teams (especially HubSpot-first) that want a live AI sales agent to qualify website visitors, hold buying conversations and route leads to reps.",
   "pw": "rates withdrawn Oct 2026",
@@ -2560,7 +2565,7 @@
  "Fastmail": {
   "price": "$5",
   "price_note": "Individual · per month, or $60 for twelve months, with 60 GB for one person",
-  "verified": "2026-09-29",
+  "verified": "2026-10-15",
   "catch": "You're paying for what the free giants monetize differently: no ads, no profiling, real support and standards-first email (JMAP/IMAP everywhere).",
   "best": "Individuals and small businesses that want fast, private, ad-free email on their own domain with proper support and masked-email aliases."
  },
@@ -3625,7 +3630,7 @@
   ],
   "price": "$39",
   "price_note": "Creator · billed monthly",
-  "verified": "2026-10-09",
+  "verified": "2026-10-15",
   "catch": "Three honest notes. Subscriber-based pricing counts everyone on your list — cold subscribers cost the same as fans, so prune before you price.",
   "coupon": {
    "code": "",
@@ -4673,7 +4678,7 @@
   ],
   "price": "$29",
   "price_note": "from · a month for two pages, with annual billing marked Save 20%",
-  "verified": "2026-08-23",
+  "verified": "2026-10-15",
   "catch": "The tiers gate on two axes at once — members AND tracked pages — so either one forces the upgrade: Starter buys one person just two pages.",
   "best": "Solos and small teams who want simple per-page analytics — heatmaps, visitor behavior and AI-summarized insights — with a genuinely free single-page tier to start."
  },
@@ -5337,8 +5342,8 @@
    ]
   ],
   "price": "$239",
-  "price_note": "from · per license a month and iQ $299",
-  "verified": "2026-10-07",
+  "price_note": "from · per license a month billed monthly or $199 billed annually",
+  "verified": "2026-10-15",
   "catch": "The per-seat price is premium: the dialer earns its keep on a 5-plus-agent floor, but for one or two reps it's expensive for what a lighter dialer would do.",
   "best": "High-volume outbound call teams (insurance, real estate, collections) with 5+ agents that need predictive dialing, compliance tools and supervisor monitoring.",
   "pw": "price held",
@@ -6060,16 +6065,11 @@
     "📅",
     "Annual commit",
     "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "€11.90",
   "price_note": "from · per month billed annually (€13.90 monthly)",
-  "verified": "2026-09-20",
+  "verified": "2026-10-16",
   "catch": "The plan ladder is set by bookings per month and by how many custom features you may switch on, and those two ceilings move independently — so you can outgrow a plan on features while nowhere near the booking cap, or the reverse.",
   "best": "Service businesses that take appointments and want a booking page, reminders and online payment without building one."
  },
@@ -6409,7 +6409,7 @@
  "SupaEasy": {
   "price": "$49",
   "price_note": "from · per month ($470/yr)",
-  "verified": "2026-09-29",
+  "verified": "2026-10-16",
   "catch": "The 'free' plan is development-stores only, so any live use is paid, and the AI generator that headlines the app is not in Premium ($49) but in Advanced ($99), plus AI credits bought separately ($25 per 50) — so the AI promise realistically costs $99+ a month.",
   "best": "Shopify merchants — especially non-Plus stores — who want custom discount, checkout, payment and shipping logic without hiring a developer."
  },
@@ -6566,7 +6566,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-09-19",
+  "verified": "2026-10-15",
   "catch": "Publishing volume is the trap this tool makes cheap.",
   "best": "Shopify stores that want structured, product-linked blog drafts and a publishing schedule, and that will edit what comes out before it goes live."
  },
@@ -7536,7 +7536,9 @@
   "best": "Outbound teams that want usage-priced cold email plus LinkedIn outreach, with unlimited seats and email accounts included instead of per-user fees."
  },
  "World Businesses for Sale": {
-  "verified": "2026-10-13",
+  "price": "£49",
+  "price_note": "from · a month (£147 per six months), broker plans from £395",
+  "verified": "2026-10-15",
   "catch": "On the broker plans you pay twice: a listing fee up front AND commission when it sells — 3% on Basic, 2% on Standard, 1% on Premium — on contracts of 6, 9 and 12 months.",
   "best": "Owners selling established, often brick-and-mortar businesses — restaurants, shops, services, small manufacturers."
  },
@@ -8633,6 +8635,10 @@
   "price_note": "Starter · per month billed yearly",
   "verified": "2026-10-08",
   "catch": "The 14-day trial needs a card and converts automatically; paid charges are non-refundable.",
+  "coupon": {
+   "code": "SPOOKYAW30",
+   "label": "30% off Vendoo with the code SPOOKYAW30"
+  },
   "best": "Resellers listing on several marketplaces such as eBay, Poshmark, Mercari and Depop who want one inventory with automatic delisting when an item sells."
  },
  "Weblium": {
