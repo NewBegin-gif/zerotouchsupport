@@ -4089,5 +4089,33 @@
     "domain": "shortlistiq.com",
     "desc": "AI recruiting assistant that runs first-round candidate interviews in chat, in a tone and persona you set, and returns a scoring report for each applicant; plans are metered by invited applicants per month.",
     "link": "https://www.shortlistiq.com?aff=6NyDVn"
+  },
+  {
+    "name": "CarouselBot",
+    "category": "Marketing",
+    "domain": "carouselbot.app",
+    "desc": "AI tool that turns a topic or an article into LinkedIn and Instagram carousels, single social cards, branded long-form documents and batch content sets, in four aspect ratios with your own brand settings.",
+    "link": "https://carouselbot.app/pricing?aff=6NyDVn"
+  },
+  {
+    "name": "OutSends",
+    "category": "Sales & CRM",
+    "domain": "outsends.com",
+    "desc": "Cold email platform for Gmail senders: contact management, campaigns with automated follow-ups, peer-to-peer warm-up and reporting, on flat plans metered by monthly emails and active contacts.",
+    "link": "https://outsends.com?aff=6NyDVn"
+  },
+  {
+    "name": "UserHelp.co",
+    "category": "Operations & Workflow",
+    "domain": "userhelp.co",
+    "desc": "Visual feedback widget for websites: visitors send annotated screenshots and bug reports with browser details, and the paid plan adds session recording, error logs, team collaboration and user forums.",
+    "link": "https://app.userhelp.co?aff=6NyDVn"
+  },
+  {
+    "name": "Imagify",
+    "category": "IT & Productivity",
+    "domain": "imagify.io",
+    "desc": "Image compression and WebP and AVIF conversion for WordPress, through a plugin that also bulk-optimises an existing media library; plans are metered by megabytes of images a month.",
+    "link": "https://www.awin1.com/cread.php?awinmid=39910&awinaffid=2880219&ued=https%3A%2F%2Fimagify.io%2F"
   }
 ]
