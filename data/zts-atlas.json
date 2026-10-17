@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 49,
-  "flags": 110,
+  "flags": 113,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on zerotouchsupport.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1483,15 +1483,40 @@
    "category": "Communication & Voice",
    "domain": "vida.io",
    "review_url": "https://aibuildermarketplace.com/b2b/vida-ai-review/",
-   "from_price_usd_mo": 1500.0,
-   "entry_price": "$1,500",
-   "entry_price_terms": "Pilot · a one-off scoped pilot, credited toward the first month in production",
+   "from_price_usd_mo": 250.0,
+   "entry_price": "$250",
+   "entry_price_terms": "Starter · per month, 1 agent, no included usage: voice $0.15 a minute in 60-second…",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-10-13) Vida publishes no public pricing: no plan ladder, no monthly tier and no per-minute rate. Every deployment starts with a scoped pilot from $1,500, credited toward your first month in production, and the production price arrives as a quote afterwards. Its pricing page sells that process — a discovery call of twenty to thirty minutes, scoping and a proof of concept in one to two business days that you sign off before anything is built, an agent build and live pilot in two to ten business days, then production — while the feature table beneath it lists agent, reseller, support and compliance capabilities with no price attached to any of them. All plans are subject to fair use, and the page warns that SMS campaign registration may take up to two weeks. Read 10 September 2026 across vida.io/pricing, /partners, /affiliates, /platform, /features and /faq, all reached from the site's own sitemap: that pilot figure is the only customer-facing number on the site, and the commission tiers on /affiliates are what a reseller earns rather than what a buyer pays. Correction to our own earlier dossier: an agency ladder of about $750 a month for 5 agents and roughly 2,500 AI voice minutes, plus platform plans from about $2,500 and the per-minute rate we derived from them, appear nowhere on vida.io.",
-   "flags": [],
+   "price_note": "(re-verified 2026-10-17 in a browser on vida.io/pricing with its FAQ and on vida.io/rate-card; the page has changed since our reading of 13 October 2026, when it published no plans and only a scoped pilot from $1,500, and the rate card says its rates took effect on 14 October 2026) Vida now publishes a monthly plan ladder. Starter is $250 a month with 1 agent and no included usage: you pay for usage as you go. Business 500 is $700 a month with 1 agent and $500 of usage included each month, Business 1k is $1,150 with $1,000 included, and Business 2k is $2,050 with $2,000 included; Vida labels these as saving $600, $1,200 and $2,400 a year. Enterprise is quoted. Usage rates are the same on Starter and Business: voice $0.15 a minute, billed in 60-second increments; outbound text messages $0.06 each, inbound free; and AI tokens billed by model per million tokens, from $0.10 input and $0.80 output for GPT-5 Nano to $20.00 input and $100.00 output for the largest models listed. Add-ons on any plan: additional agents $250 per agent a month, phone numbers $5 per number a month and Text Messaging $25 a month; premium support, advanced privacy, SOC 2 security, outbound and managed agents are quoted. The FAQ says the included usage is a dollar allowance shared across all agents that does not roll over, and usage above it is billed at the same rates. There is no plan or platform setup fee, but one-time setup fees may apply to the agents and add-ons you choose and are itemised in a quote. Downgrades generally take effect at renewal, and SMS registration may take up to two weeks. Correction to our own earlier dossier: an agency ladder of about $750 a month for 5 agents and roughly 2,500 AI voice minutes, plus platform plans from about $2,500 and the per-minute rate we derived from them, appeared nowhere on vida.io when we checked on 10 September 2026; the plans above are the first prices Vida itself has published.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Add-ons on any plan: additional agents $250 per agent a month, phone numbers $5 per number a month and Text Messaging $25 a month; premium support, advanced privacy, SOC 2 security, outbound and managed agents are quoted.",
+     "evidence_excerpt": "Add-ons on any plan: additional agents $250 per agent a month, phone numbers $5 per number a month and Text Messaging $25 a month; premium support, advanced privacy, SOC 2 security, outbound and mana…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-17"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "Correction to our own earlier dossier: an agency ladder of about $750 a month for 5 agents and roughly 2,500 AI voice minutes, plus platform plans from about $2,500 and the per-minute rate we derived from them, appeared nowhere on vida.io when we checked on 10 September 2026; the plans above are the first prices Vida itself has published.",
+     "evidence_excerpt": "Correction to our own earlier dossier: an agency ladder of about $750 a month for 5 agents and roughly 2,500 AI voice minutes, plus platform plans from about $2,500 and the per-minute rate we derived…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-17"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Add-ons on any plan: additional agents $250 per agent a month, phone numbers $5 per number a month and Text Messaging $25 a month; premium support, advanced privacy, SOC 2 security, outbound and managed agents are quoted.",
+     "evidence_excerpt": "Add-ons on any plan: additional agents $250 per agent a month, phone numbers $5 per number a month and Text Messaging $25 a month; premium support, advanced privacy, SOC 2 security, outbound and mana…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-17"
+    }
+   ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-13",
-   "first_observed_at": "2026-10-13"
+   "price_verified_at": "2026-10-17",
+   "first_observed_at": "2026-10-17"
   },
   {
    "name": "Voye",
