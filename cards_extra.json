@@ -1334,7 +1334,7 @@
     "annual_lock"
    ]
   ],
-  "verified": "2026-09-07",
+  "verified": "2026-10-17",
   "catch": "Capsule's simplicity is the product: it deliberately does less than the CRM giants, which is why small teams actually use it.",
   "best": "Small businesses that want a clean, genuinely simple CRM for contacts, pipeline and tasks — one the team will actually keep updated."
  },
@@ -1441,9 +1441,9 @@
     "addons_extra"
    ]
   ],
-  "price": "€24",
-  "price_note": "Pro · per month, annual",
-  "verified": "2026-09-08",
+  "price": "$32",
+  "price_note": "from · per month",
+  "verified": "2026-10-17",
   "catch": "The four tiers sell two different products, and only one of them is self-serve.",
   "best": "Revenue teams that want every call captured — by default with no notetaker bot in the meeting, though a customisable bot is there for teams that prefer one."
  },
@@ -2246,7 +2246,7 @@
   ],
   "price": "$29",
   "price_note": "Pro · per month for in-place product editing, SEO fields and automatic…",
-  "verified": "2026-09-08",
+  "verified": "2026-10-17",
   "catch": "The split between the two tiers is unusually clean, and worth seeing clearly: everything this app is described as doing, the margins, the net units, the restock advice, is free.",
   "best": "Small and mid-size Shopify merchants who want cost price, gross margin, clean net unit sales and restock advice inside the admin instead of exporting to a spreadsheet."
  },
@@ -2979,7 +2979,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month billed yearly ($25 monthly)",
-  "verified": "2026-09-07",
+  "verified": "2026-10-17",
   "catch": "Glide meters updates, not just seats.",
   "best": "Teams that already run operations out of spreadsheets and want a real app on top — internal tools, field data capture, client portals — without hiring a developer."
  },
@@ -4398,9 +4398,9 @@
     "free_tier"
    ]
   ],
-  "price": "$21",
-  "price_note": "Starter · per month billed annually at $244 a year",
-  "verified": "2026-09-07",
+  "price": "$29",
+  "price_note": "from · per month",
+  "verified": "2026-10-17",
   "catch": "The plans are sold in videos and images; the meter runs in credits per second, and the two do not reconcile.",
   "best": "Advertisers who need a steady stream of short product clips and will deliberately choose the cheap model for drafts, and teams who would rather have video, avatars."
  },
@@ -4675,9 +4675,9 @@
    ]
   ],
   "price": "$29",
-  "price_note": "from · a month for two pages, with annual billing marked Save 20%",
+  "price_note": "from · a month billed annually ($36 billed monthly) for two pages",
   "verified": "2026-10-16",
-  "catch": "The tiers gate on two axes at once — members AND tracked pages — so either one forces the upgrade: Starter buys one person just two pages.",
+  "catch": "The ladder is metered on tracked pages, not people: Starter buys two pages, and every card below Scale lists unlimited collaborators, although the FAQ says workspace members are what you pay for.",
   "best": "Solos and small teams who want simple per-page analytics — heatmaps, visitor behavior and AI-summarized insights — with a genuinely free single-page tier to start."
  },
  "Pangram": {
