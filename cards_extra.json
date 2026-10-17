@@ -9246,5 +9246,66 @@
   "verified": "2026-10-16",
   "catch": "Free for 10 applicants; Basic covers 20 a month; no refunds on early cancellation.",
   "best": "Small and mid-size teams and recruitment agencies that get more applicants than they can screen and want an AI to run the first-round interview and score each candidate."
+ },
+ "CarouselBot": {
+  "flags": [
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$10",
+  "price_note": "Creator · billed monthly",
+  "verified": "2026-10-17",
+  "catch": "Free exports carry a watermark; Creator caps batches at 3 a month; refunds only within 7 days.",
+  "best": "Solo creators, consultants and small marketing teams who post LinkedIn and Instagram carousels every week and want to turn articles and ideas into branded slides without designing them by hand."
+ },
+ "OutSends": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$19",
+  "price_note": "Starter · billed monthly, excluding VAT",
+  "verified": "2026-10-17",
+  "catch": "Non-refundable; one seat below the $199 Team plan; trial only on monthly plans.",
+  "best": "Founders, freelancers and small agencies who run cold email from Gmail and want flat monthly plans by email volume, with warm-up and follow-up sequences included."
+ },
+ "UserHelp.co": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$59",
+  "price_note": "Pro · one-time payment, use on as many sites as you need, no watermark",
+  "verified": "2026-10-17",
+  "catch": "Free for one project with a watermark; Pro is $59 once, with no stated refund rule.",
+  "best": "Freelancers, small agencies and site owners who want a feedback button on their websites that collects annotated screenshots and bug reports."
+ },
+ "Imagify": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$4.99",
+  "price_note": "Growth · per month, billed yearly, excluding tax",
+  "verified": "2026-10-17",
+  "catch": "Free tier is 20MB a month; Growth charges $5 per extra GB; no refund on yearly plans.",
+  "best": "WordPress site owners with image-heavy pages, such as blogs, stores and portfolios."
  }
 }
