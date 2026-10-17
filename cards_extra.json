@@ -2337,8 +2337,8 @@
   ],
   "price": "$20",
   "price_note": "from · per month ($17 yearly) for 100 credits",
-  "verified": "2026-08-31",
-  "catch": "The real cost is credit consumption, not the flat sticker -- a genuinely complex app burns 10-20+ credits per big change, so serious builders move up tiers faster than the price list implies.",
+  "verified": "2026-10-17",
+  "catch": "The real cost is credit consumption, not the flat sticker -- Emergent's own guide says one prompt can cost from a handful of credits for a small UI tweak to hundreds for a full feature with tests, and a published app keeps drawing credits every month for its hosting tier.",
   "best": "Founders, PMs and builders who want to turn a prompt into a working full-stack web app or MVP fast, without writing the code themselves."
  },
  "Employment Hero": {
@@ -4862,9 +4862,9 @@
     "annual_lock"
    ]
   ],
-  "price": "$14",
-  "price_note": "Lite, per seat · per seat a month billed annually",
-  "verified": "2026-08-26",
+  "price": "€14",
+  "price_note": "Lite, per seat · per seat a month billed annually, one payment of EUR 168 per seat a…",
+  "verified": "2026-10-17",
   "catch": "Pipedrive manages what happens after a lead enters your pipeline — it doesn't do outbound prospecting or marketing, so you'll pair it with a separate tool for that.",
   "best": "Sales teams that want a simple, visual pipeline they can use on day one, with a separate marketing tool already in place."
  },
