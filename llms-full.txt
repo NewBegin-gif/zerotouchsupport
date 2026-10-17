@@ -203,8 +203,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Vida AI
 - Review: https://zerotouchsupport.com/vida-ai-review.html
-- Verdict: Vida AI: Vida publishes no public pricing. Every deployment starts with a scoped pilot from $1,500, credited toward your first month.
-- Price: (price re-verified 2026-10-13) Vida publishes no public pricing: no plan ladder, no monthly tier and no per-minute rate. Every deployment starts with a scoped pilot from $1,500, credited toward your first month in production, and the production price arrives as a quote afterwards.
+- Verdict: Vida AI: Starter is $250 a month with 1 agent and no included usage. Business allowances do not roll over, and the terms rule out refunds.
+- Price: (re-verified 2026-10-17 in a browser on vida.io/pricing with its FAQ and on vida.io/rate-card; the page has changed since our reading of 13 October 2026, when it published no plans and only a scoped pilot from $1,500, and the rate card says its rates took effect on 14 October 2026) Vida now publishes a monthly plan ladder. Starter is $250 a month with 1 agent and no included usage: you pay for usage as you go.
 
 ## Voye
 - Review: https://zerotouchsupport.com/voye-review.html

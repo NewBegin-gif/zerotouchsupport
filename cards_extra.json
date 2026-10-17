@@ -7225,11 +7225,23 @@
   "best": "Nonprofits that want donor CRM, fund accounting and online fundraising from one vendor, purpose-built for charities rather than adapted business tools."
  },
  "Vida AI": {
-  "price": "$1,500",
-  "price_note": "Pilot · a one-off scoped pilot, credited toward the first month in production",
-  "verified": "2026-10-13",
-  "catch": "This is priced for agencies and telecoms reselling AI phone agents, not for a single small business wanting one receptionist bot.",
-  "best": "Agencies, MSPs and service providers that want to deploy and resell white-label AI voice agents at volume.",
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$250",
+  "price_note": "Starter · per month, 1 agent, no included usage: voice $0.15 a minute in 60-second…",
+  "verified": "2026-10-17",
+  "catch": "The $250 Starter fee buys the platform and one agent, not the calls: every voice minute is $0.15, AI tokens are billed on top by model, a second agent is another $250 a month, and one-time setup fees may come in a quote.",
+  "best": "Service businesses, agencies and MSPs that want AI phone agents to answer, qualify or schedule calls.",
   "pw": "rates withdrawn Aug 2026",
   "pw_soort": "withdrawn"
  },
