@@ -1004,6 +1004,13 @@
   },
   "best": "Email marketers and outbound teams that clean lists regularly and want accurate verification with fair credit mechanics (no expiry, no double-charging)."
  },
+ "Brand24": {
+  "price": "$199",
+  "price_note": "Individual · per month, billed annually",
+  "verified": "2026-10-18",
+  "catch": "No free plan; Individual covers 3 keywords and 1 user.",
+  "best": "Marketing and PR teams, agencies and growing businesses that want to track mentions of their brand, competitors and campaigns across social media, news."
+ },
  "Bread & Butter": {
   "flags": [
    [
@@ -6553,6 +6560,20 @@
   "catch": "The minute caps are tight: Starter's 1,250 credits a month is roughly 10 to 12 minutes of finished video, and the meter counts seconds.",
   "best": "Teams making talking-head training, explainer and onboarding videos without cameras, actors or editing."
  },
+ "Tapform": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$4.99",
+  "price_note": "Unlimited · billed monthly",
+  "verified": "2026-10-18",
+  "catch": "Free is 5 leads a month; the trial bills unless you cancel.",
+  "best": "Small businesses, solo marketers and agencies that want multi-step lead capture forms on any website for a few dollars a month, without a developer."
+ },
  "Tapita AI SEO Blog Builder": {
   "flags": [
    [
@@ -7250,6 +7271,20 @@
   "pw": "rates withdrawn Aug 2026",
   "pw_soort": "withdrawn"
  },
+ "VideoScribe": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "€13.75",
+  "price_note": "Lite · per month, per licence, billed annually at €165",
+  "verified": "2026-10-18",
+  "catch": "Non-refundable; Lite watermarks premium images, 5 downloads a month.",
+  "best": "Trainers and L&D, HR and marketing teams that want hand-drawn whiteboard explainer videos without hiring an animator."
+ },
  "VidPal": {
   "flags": [
    [
@@ -7603,6 +7638,20 @@
   "verified": "2026-10-09",
   "catch": "Read the second number, not the first. Every plan on the US page is 80% off for three months, and the price after that is five times what the button says: $27, $59 and $97 a month.",
   "best": "Small businesses whose bookkeeper or accountant already works in Xero."
+ },
+ "Your Company Formations": {
+  "flags": [
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ]
+  ],
+  "price": "£2.48",
+  "price_note": "Digital · one-off, per formation, excluding 20% VAT",
+  "verified": "2026-10-18",
+  "catch": "£100 Companies House fee and VAT on top; address services renew yearly.",
+  "best": "UK and overseas founders who want to form a UK limited company online for a small fee."
  },
  "Zedonk": {
   "flags": [
