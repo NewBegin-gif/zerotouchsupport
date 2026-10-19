@@ -1497,8 +1497,8 @@
    ]
   ],
   "price": "$167",
-  "price_note": "entry paid plan, from… · billed monthly",
-  "verified": "2026-09-14",
+  "price_note": "Launch: smallest action… · per year, billed annually ($54 actions + $113 data credits a month)",
+  "verified": "2026-10-19",
   "catch": "Two honest catches: a steep learning curve (expect 2–4 weeks, many teams need a dedicated Clay expert), and credits that are hard to forecast at scale.",
   "best": "Modern GTM and ops teams who want best-in-class waterfall enrichment and custom research workflows — and have someone to own it."
  },
@@ -1555,7 +1555,7 @@
   ],
   "price": "$30",
   "price_note": "Lite · per month for 37,500 credits",
-  "verified": "2026-09-17",
+  "verified": "2026-10-19",
   "catch": "The free tier is a sampler, not a trial of the real thing: 500 credits is about 100 async ChatGPT answers at the 5-credit rate we were actually charged, and their table lists 7 for a full response.",
   "best": "SEO and marketing teams who need AI-search visibility as structured data."
  },
@@ -1579,7 +1579,7 @@
   ],
   "price": "$19",
   "price_note": "Solo, per user · per month, billed month to month",
-  "verified": "2026-09-12",
+  "verified": "2026-10-19",
   "catch": "The built-in calling is the draw, but call and SMS credits stack on top of the seat price — a '$99' plan can effectively cost ~$160/user once a rep dials 50+ times a day.",
   "best": "Inside-sales teams that live on the phone and want calling, SMS and CRM in one place."
  },
@@ -1691,7 +1691,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-17",
+  "verified": "2026-10-19",
   "catch": "No price, no credit allowance, and a five-seat minimum on both named plans.",
   "best": "Outbound sales teams in Europe who need mobile numbers that are actually verified and care about GDPR provenance — that is the specific thing this is better at."
  },
@@ -2088,7 +2088,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-17",
+  "verified": "2026-10-19",
   "catch": "All four services bill per event — a fifth of each recovery, $17 to $27.50 an alert, five cents an order twice over — so the cost scales with exactly the thing you are trying to reduce.",
   "best": "Shopify stores with a chargeback problem big enough to cost real money and nobody in-house to fight disputes."
  },
@@ -2156,9 +2156,16 @@
   "best": "Sales teams that already run LinkedIn outreach, understand that automation breaches LinkedIn's terms, and accept that risk with their eyes open."
  },
  "Dripshipper": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
   "price": "$30",
   "price_note": "Starter · per month, or $240 a year which works out at $20 a month",
-  "verified": "2026-09-17",
+  "verified": "2026-10-19",
   "catch": "Read the ladder before you climb it. Starter already carries unlimited orders, unlimited products and automatic fulfilment — the whole product, in other words.",
   "best": "Someone who wants a turnkey private-label coffee or tea brand on Shopify — their roasting and packaging, your label on the bag."
  },
@@ -5973,6 +5980,10 @@
   ],
   "verified": "2026-10-13",
   "catch": "Two things are missing from a page that is otherwise unusually specific. The first is voice. The product is sold as an SMS and Voice API and the pricing page publishes no voice rate at all (short code pricing was added by 13 October 2026; voice still has none).",
+  "coupon": {
+   "code": "",
+   "label": "via our link: $25 in free credit on a new Signal House account"
+  },
   "best": "Teams sending real SMS volume in the US who already know what an A2P 10DLC campaign is and want a cheaper per-segment rate than Twilio’s list without giving up published pricing."
  },
  "Signeasy": {
@@ -7870,14 +7881,14 @@
   ],
   "price": "€1",
   "price_note": "Standard · per user per month, minimum 20 licences",
-  "verified": "2026-09-16",
+  "verified": "2026-10-19",
   "catch": "The homepage sells deployment 'without going through IT', and Signitic's own help centre contradicts that on every path in.",
   "best": "European organisations of roughly twenty people and up, on Google Workspace or Microsoft 365."
  },
  "Kumo": {
   "price": "$15",
   "price_note": "B2B · per month with unlimited pricing rules",
-  "verified": "2026-09-16",
+  "verified": "2026-10-19",
   "catch": "Five stars over nine reviews is not a track record, and the age makes that worse rather than better.",
   "best": "Shopify merchants on a standard plan who need wholesale prices for named customer groups, with CSV price lists and a registration form that someone approves."
  },
