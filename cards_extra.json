@@ -3879,21 +3879,11 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "📅",
-    "Annual commit",
-    "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
-  "price": "$2.49",
-  "price_note": "from · per user a month billed yearly (~$448/yr for 15 users)",
-  "verified": "2026-10-07",
+  "price": "$2.50",
+  "price_note": "from · per user a month billed yearly",
+  "verified": "2026-10-19",
   "catch": "The tidy per-user numbers are annual-billed, and it's priced per seat — every employee you track adds to the bill, with no volume break published (large teams are told to ask sales).",
   "best": "Teams that want straightforward time-tracking, attendance and overtime banking with transparent per-user pricing."
  },
