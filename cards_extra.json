@@ -6513,7 +6513,7 @@
   "price": "$20",
   "price_note": "Startup · per seat per month with no commitment, Enterprise at 25",
   "verified": "2026-10-06",
-  "catch": "It is an email helpdesk and only an email helpdesk.",
+  "catch": "It is an email helpdesk and only an email helpdesk, and it needs your mailbox before it does anything: in our test on 20 October 2026 the trial would not create a ticket until a Gmail or Outlook account was connected, and other mail providers have to go through support.",
   "best": "Small support teams working out of a shared email inbox who want assignment.",
   "pw": "price held",
   "pw_soort": "held"
