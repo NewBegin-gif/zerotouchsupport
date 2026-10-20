@@ -94,7 +94,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Help Scout
 - Review: https://zerotouchsupport.com/help-scout-review.html
 - Verdict: Help Scout: Standard is $25 per user a month billed annually or $30 monthly, for up to 25 users. The Free plan caps you at 100 contacts a month and one Inbox.
-- Price: (read 2026-10-10 on helpscout.com/pricing with the monthly and annual toggles, USD) Free covers up to 5 users, 1 Inbox, 1 Docs site and 100 contacts a month, with 10 saved replies and 10 tags. A contact is someone who got a reply from your team or the AI assistant; several conversations with the same person count once.
+- Price: (read 2026-10-10 on helpscout.com/pricing with the monthly and annual toggles, USD) Free covers up to 5 users, 1 Inbox, 1 Docs site and 100 contacts a month, with 10 saved replies and 10 tags (in our test on 20 October 2026 the saved-reply limit held, but an eleventh tag was accepted). A contact is someone who got a reply from your team or the AI assistant; several conversations with the same person count once.
 
 ## HelpCenter
 - Review: https://zerotouchsupport.com/helpcenter-review.html

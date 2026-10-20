@@ -4206,7 +4206,7 @@
   "price": "$8",
   "price_note": "from · per member a month, billed annually ($10 billed monthly)",
   "verified": "2026-09-23",
-  "catch": "Per-member pricing charges for every member added to the workspace, so an org-wide rollout multiplies at full headcount — and the free plan's 3-board cap is workspace-wide, not per person, so a team reaches it as soon as it needs a fourth editable board.",
+  "catch": "Per-member pricing charges for every member added to the workspace, so an org-wide rollout multiplies at full headcount — and the free plan's cap of 3 editable boards is workspace-wide, not per person.",
   "best": "Teams that think visually — brainstorms, flowcharts, retros, workshops and planning on an infinite shared canvas with strong templates and facilitation tools."
  },
  "Mktg.ai": {
@@ -4377,7 +4377,7 @@
   "price": "$19",
   "price_note": "from · per month billed annually ($228/yr), 100 projects",
   "verified": "2026-10-03",
-  "catch": "The meter is generation hours per YEAR, not per month — 24 hours sounds generous until you count retakes, and regenerating a script three times bills three times.",
+  "catch": "The meter is generation hours per YEAR, not per month — 24 hours sounds generous until you count retakes, because every text edit regenerates the whole sub-block and bills again.",
   "best": "Creators, trainers and product teams that need studio-quality voiceovers in many languages without booking voice actors — explainers, courses, product videos."
  },
  "Mycroft": {
@@ -9134,7 +9134,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-10-13",
+  "verified": "2026-10-20",
   "catch": "Free covers 2,500 subscribers, but the paid prices on the cards are for 500; slide to your list size, and the 30% annual discount is for the first year only.",
   "best": "Small businesses, shops and creators with lists up to a few thousand subscribers who want newsletters, automation, forms and SMS at a low price."
  },
