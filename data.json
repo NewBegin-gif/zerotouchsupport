@@ -751,10 +751,10 @@
     "name": "Code Bulk Discounts",
     "category": "E-commerce",
     "domain": "discountkit.app",
-    "link": "https://platform.shoffi.app/r/rl_f2Wu0xQl",
+    "link": "https://apps.shopify.com/code-bulk",
     "desc": "Shopify app (by Optizio) that turns a discount you have already created into thousands of unique codes and exports them as CSV for email and SMS campaigns.",
     "platform": "shopify",
-    "url": "https://platform.shoffi.app/r/rl_f2Wu0xQl"
+    "url": "https://apps.shopify.com/code-bulk"
   },
   {
     "category": "Sales & CRM",
@@ -2723,10 +2723,10 @@
     "name": "Stackable",
     "category": "E-commerce",
     "domain": "stkbl.app",
-    "link": "https://platform.shoffi.app/r/rl_25GFb2VQ",
+    "link": "https://apps.shopify.com/stackable-discounts",
     "desc": "Shopify discount app (by Optizio) that folds several discounts into one code: order, collection and shipping discounts combined, a progress type that raises the discount as the cart grows, and checkout upsells on the top tier.",
     "platform": "shopify",
-    "url": "https://platform.shoffi.app/r/rl_25GFb2VQ"
+    "url": "https://apps.shopify.com/stackable-discounts"
   },
   {
     "name": "Stamped",
