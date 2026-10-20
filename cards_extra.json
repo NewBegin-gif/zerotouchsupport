@@ -1581,6 +1581,10 @@
   "price_note": "Solo, per user · per month, billed month to month",
   "verified": "2026-10-19",
   "catch": "The built-in calling is the draw, but call and SMS credits stack on top of the seat price — a '$99' plan can effectively cost ~$160/user once a rep dials 50+ times a day.",
+  "coupon": {
+   "code": "STACK20",
+   "label": "An extra 20% off your first year on annual billing"
+  },
   "best": "Inside-sales teams that live on the phone and want calling, SMS and CRM in one place."
  },
  "CloudTalk": {
@@ -6279,14 +6283,14 @@
    ]
   ],
   "price": "$29.99",
-  "price_note": "Stamp Lite · per month for 2 branches and 3 stamp cards, with 17% advertised off the…",
-  "verified": "2026-09-19",
-  "catch": "The category is honest and proven (digital stamp cards beat lost paper cards), and the platform is young with limited public pricing and review coverage — so start on the free plan, run one real campaign, and measure repeat-visit lift before paying.",
+  "price_note": "Stamp Lite · per month for 1 branch and 1 active stamp card, with a 14-day free trial",
+  "verified": "2026-10-19",
+  "catch": "The category is honest and proven (digital stamp cards beat lost paper cards), and the platform is young with limited public review coverage.",
   "coupon": {
    "code": "STAMP98",
    "label": "98% off the first month of Stamp Lite"
   },
-  "best": "Local businesses (cafés, salons, retail) that want a simple digital stamp-card loyalty program starting free."
+  "best": "Local businesses (cafés, salons, retail) that want a simple digital stamp-card loyalty program and can judge it inside a 14-day trial."
  },
  "StoreFAQ": {
   "flags": [
@@ -7507,7 +7511,7 @@
   ],
   "price": "$39.90",
   "price_note": "Starter · per month billed monthly, or 286.80 a year, for 600 credits a month",
-  "verified": "2026-09-19",
+  "verified": "2026-10-19",
   "catch": "Everything is credits, and generating a site burns them fast — Wegic's own page notes a single generation can cost over $10 in credits, while the free plan gives 100 credits once.",
   "coupon": {
    "code": "",
@@ -7551,14 +7555,19 @@
     "usage_metered"
    ],
    [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
   "price": "$79",
-  "price_note": "from · per month, Business + Lead Gen $329/mo",
-  "verified": "2026-09-19",
+  "price_note": "from · per month, Business + Signals $329/mo",
+  "verified": "2026-10-19",
   "catch": "Bandwidth is the meter that decides your bill, and it is the one number you cannot predict before you publish.",
   "best": "Marketing teams who want video on their own site with real analytics and lead capture, and who care that the player does not recommend a competitor's video afterwards."
  },
@@ -7921,14 +7930,14 @@
   "best": "People who want several image and video models behind one balance and one interface."
  },
  "Skip To Checkout": {
-  "verified": "2026-09-18",
+  "verified": "2026-10-19",
   "catch": "The cart skip blinds the measurement you would use to judge it.",
   "best": "Shopify merchants who want a free sticky buy button, or who need to hide add-to-cart and express-payment buttons on products they list online but sell in person."
  },
  "Social Bar": {
   "price": "$4.99",
   "price_note": "from · a month or $41.88 a year",
-  "verified": "2026-09-18",
+  "verified": "2026-10-19",
   "catch": "This is a styling subscription, and the listing's own framing oversells it: social icons and share buttons build no trust on their own, and 'boost sales with social proof' is a claim the app has no way to support.",
   "best": "Shopify merchants who want branded social icons and a WhatsApp chat button on product pages without touching theme code."
  },
