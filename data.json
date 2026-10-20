@@ -236,6 +236,14 @@
     "link": "https://try.assembly.com/dfgq60cnkuu3"
   },
   {
+    "name": "Assortion",
+    "category": "E-commerce",
+    "domain": "assortion.com",
+    "desc": "Shopify app for upsells, cross-sells, product add-ons and cart customization, with one feature set on every plan and a price set by the store's total monthly orders.",
+    "link": "https://platform.shoffi.app/r/rl_1W6NbE2h",
+    "platform": "shopify"
+  },
+  {
     "name": "Atlas AI Store Builder",
     "category": "E-commerce",
     "domain": "helloatlas.io",
@@ -264,6 +272,13 @@
     "link": "https://platform.shoffi.app/r/rl_eroQWgHx",
     "desc": "Recovers abandoned carts Klaviyo misses — identifies visitors, syncs intent signals back into Klaviyo and lets an AI agent send a personalised recovery email.",
     "platform": "shopify"
+  },
+  {
+    "name": "Audionotes",
+    "category": "Video & Audio",
+    "domain": "audionotes.app",
+    "desc": "AI note-taker that turns voice recordings, audio and video files, YouTube links and text into transcripts, summaries and custom notes you can chat with, on iOS, Android, web and Mac.",
+    "link": "https://audionotes.app?aff=6NyDVn"
   },
   {
     "name": "Audiorista",
@@ -405,6 +420,13 @@
     "desc": "Dutch-regulated, euro-native crypto exchange with deep EUR pairs and an API for automation.",
     "link": "https://account.bitvavo.com/create?a=68DCE39715&pid=invite&c=referral&af_adset=68DCE39715&deep_link_value=bitvavo%3A%2F%2Fcreate%3Fa%3D68DCE39715",
     "replaces": "Coinbase"
+  },
+  {
+    "name": "Bizee",
+    "category": "Financial Operations",
+    "domain": "bizee.com",
+    "desc": "US business formation service that files LLCs and corporations for founders, with a registered agent service, compliance notifications and a client portal for official documents.",
+    "link": "https://www.awin1.com/cread.php?awinmid=88819&awinaffid=2880219"
   },
   {
     "name": "Blinq",
@@ -1562,6 +1584,14 @@
     "replaces": "HubSpot"
   },
   {
+    "name": "Kedra Checkout Rules & Upsells",
+    "category": "E-commerce",
+    "domain": "kedra.io",
+    "desc": "Shopify app that hides, renames or reorders payment and shipping methods, validates the checkout and adds post-purchase upsells through no-code rules, with checkout analytics.",
+    "link": "https://platform.shoffi.app/r/rl_aau6gxT7",
+    "platform": "shopify"
+  },
+  {
     "category": "Security",
     "desc": "Password manager and privileged access management for teams, with a zero-knowledge architecture.",
     "domain": "keepersecurity.com",
@@ -2571,6 +2601,13 @@
     "desc": "Booking and business software for local service businesses (salons, barbers, wellness, coaches): 24/7 online appointments via your website, Google and Instagram, calendar and staff scheduling, client profiles, automated reminders that cut no-shows, plus email marketing and POS. Fixed monthly price with unlimited bookings — no per-booking commission.",
     "link": "https://try.shore.com/cdwievnt6wb5",
     "replaces": "Fresha"
+  },
+  {
+    "name": "Signable",
+    "category": "Operations & Workflow",
+    "domain": "signable.com",
+    "desc": "UK-based electronic signature software for sending, signing and tracking documents, priced by the envelope with unlimited users and templates, UK-hosted data and an API on higher plans.",
+    "link": "https://try.signable.co.uk/d2pbs19ix56v"
   },
   {
     "name": "Signal House",
