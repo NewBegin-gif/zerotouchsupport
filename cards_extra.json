@@ -4614,7 +4614,7 @@
   ],
   "price": "$89",
   "price_note": "from · per month (4 AI channels, 50 prompts, 5 seats)",
-  "verified": "2026-09-28",
+  "verified": "2026-10-20",
   "catch": "Two honest cautions. AI search visibility (GEO) is a young, fast-moving category. Tracking how you appear in ChatGPT and other AI answers is genuinely useful signal, but the metrics are far less standardized than classic SEO — and you're paying to monitor a moving target you only partly influence.",
   "best": "Brands and SEO teams that want to measure and improve how they show up in AI-generated answers (ChatGPT, Google AI and more) as AI search grows."
  },
@@ -5280,20 +5280,20 @@
     "per_seat"
    ],
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$5",
   "price_note": "from · per user a month ($48/yr), unlimited documents",
-  "verified": "2026-09-27",
-  "catch": "A few users report occasional email-deliverability hiccups — otherwise it does exactly what it says (recipients even sign without an account) for a fraction of enterprise pricing.",
+  "verified": "2026-10-20",
+  "catch": "The price is the argument, and the legal ceiling is the limit.",
   "best": "Cost-conscious teams that want certified e-signing (ISO 27001, AATL) with unlimited documents from ~$5/mo and a real free tier."
  },
  "QuillBot": {
@@ -6128,19 +6128,24 @@
  "SimplyBook.me": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "📅",
     "Annual commit",
     "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "€11.90",
   "price_note": "from · per month billed annually (€13.90 monthly)",
-  "verified": "2026-10-16",
+  "verified": "2026-10-20",
   "catch": "The plan ladder is set by bookings per month and by how many custom features you may switch on, and those two ceilings move independently — so you can outgrow a plan on features while nowhere near the booking cap, or the reverse.",
   "best": "Service businesses that take appointments and want a booking page, reminders and online payment without building one."
  },
@@ -6914,7 +6919,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-26",
+  "verified": "2026-10-20",
   "catch": "The fee honesty is the product — flat cents per ticket instead of percentage skims makes it dramatically cheaper than the big platforms on higher-priced tickets (a $0.30-0.85 fee on a $50 ticket vs a percentage is no contest).",
   "best": "Event organizers with their own audience (venues, communities, creators) who want flat low per-ticket fees, full branding and no subscription."
  },
@@ -7732,7 +7737,7 @@
   ],
   "price": "£166",
   "price_note": "from · per month, billed annually",
-  "verified": "2026-09-27",
+  "verified": "2026-10-20",
   "catch": "The 'starting from' wording is doing real work: £166/mo is the floor of the cheapest module, billed annually, so a working setup for a brand that sells wholesale quickly stacks toward £332/mo and beyond — about £4,000 a year before add-ons.",
   "best": "Small and mid-size fashion brands that need sales, production, inventory and wholesale in one system built around size curves, seasons and linesheets."
  },
