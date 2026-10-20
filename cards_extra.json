@@ -520,6 +520,13 @@
   "catch": "Two meters run at once. Active contacts bite first: Starter stops at 50, and the step to 500 costs $70 more a month on yearly billing ($90 monthly).",
   "best": "Agencies and professional services firms who want one branded place for clients to message, sign, pay and share files instead of four tools and an email thread."
  },
+ "Assortion": {
+  "price": "$9.99",
+  "price_note": "0-50 orders · per month, set by total monthly store orders, not only orders with an…",
+  "verified": "2026-10-15",
+  "catch": "Price follows total store orders, not upsell sales.",
+  "best": "Shopify stores that want upsells, cross-sells, product add-ons and cart customization in one app at a flat price that grows with order volume rather than as a share of upsell revenue."
+ },
  "Atlas AI Store Builder": {
   "flags": [
    [
@@ -600,6 +607,20 @@
   "verified": "2026-10-14",
   "catch": "The pricing has moved within two months.",
   "best": "Stores already running Klaviyo or Omnisend at volume, with enough traffic for identity resolution to work and a recovery figure they can check against their own email platform before a 10% share of it becomes the bill."
+ },
+ "Audionotes": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$129.99",
+  "price_note": "Pro · billed yearly",
+  "verified": "2026-10-15",
+  "catch": "Free voice notes stop at 1 minute; paid plans are non-refundable.",
+  "best": "Individual professionals, students and journalers who want voice memos, recordings, files and YouTube videos turned into transcripts."
  },
  "Audiorista": {
   "flags": [
@@ -876,6 +897,18 @@
   "verified": "2026-10-08",
   "catch": "The honest caveats are crypto-wide, not Bitvavo-specific: fees are only part of the cost (spread matters on small orders), and no exchange removes market risk — the platform being cheap and MiCA-regulated doesn't make the assets safe.",
   "best": "EU-based traders and builders who want a MiCA-regulated, euro-native exchange with low tiered fees, deep EUR pairs and a solid API for automation."
+ },
+ "Bizee": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "verified": "2026-10-15",
+  "catch": "State fee on top; registered agent free only in year one.",
+  "best": "First-time US founders and side-hustlers who want an LLC or corporation filed for them for little more than the state fee."
  },
  "Blinq": {
   "flags": [
@@ -3583,6 +3616,20 @@
   "catch": "Cost is the big one (56% of reviewers flag it), the interface feels dated, and there's a real 2–4 week learning curve on the automation builder.",
   "best": "Service-based small businesses, coaches and solopreneurs who want CRM, email, payments and automation in one tool — and will invest the time to learn it."
  },
+ "Kedra Checkout Rules & Upsells": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$6.99",
+  "price_note": "Starter · billed monthly through the Shopify invoice in USD",
+  "verified": "2026-10-15",
+  "catch": "Free runs one rule; rules skip draft orders.",
+  "best": "Shopify merchants who want to hide, rename or reorder payment and shipping methods."
+ },
  "Keeper Security": {
   "flags": [
    [
@@ -5973,6 +6020,18 @@
   "verified": "2026-09-26",
   "catch": "It's built for local appointment businesses in the German-speaking market, and the package split shows it: booking and the till are sold as separate lines, and only All-in-One carries both.",
   "best": "Salons, barbers, spas, wellness studios, physical therapists, craftspeople and local retailers that want bookings via Google and Instagram, no-show-reducing reminders."
+ },
+ "Signable": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "verified": "2026-10-20",
+  "catch": "Unused envelopes expire; the overage fee is not published.",
+  "best": "UK and European small and mid-sized businesses that send contracts, agreements and forms for signature and want to pay by the document rather than by the user."
  },
  "Signal House": {
   "flags": [
