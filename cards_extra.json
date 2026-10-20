@@ -3367,7 +3367,7 @@
  "Imgify": {
   "price": "$2.99",
   "price_note": "from · a month, or $28.70 a year, 7-day trial",
-  "verified": "2026-09-20",
+  "verified": "2026-10-20",
   "catch": "The free plan is development and partner stores only, so a real storefront pays $2.99 from the first day after a 7-day trial, while a free app in the same category has a far deeper public record.",
   "best": "Shopify stores that want their own logo falling down the page, or a marquee of partner, payment and press logos, rather than generic snow."
  },
@@ -5761,7 +5761,7 @@
   ],
   "price": "$5.99",
   "price_note": "Pro · per month, or $49.99 a year (30% less)",
-  "verified": "2026-09-20",
+  "verified": "2026-10-20",
   "catch": "Blocking by country and IP is a blunt instrument and it cuts both ways: every rule that keeps out a fraudster also keeps out a customer travelling, using a corporate VPN, or living behind a carrier NAT.",
   "best": "Stores seeing real fraud or bot traffic that want country, IP, VPN and email-risk rules plus automatic holds on suspicious orders."
  },
@@ -8106,9 +8106,9 @@
     "free_tier"
    ]
   ],
-  "price": "$9",
-  "price_note": "Starter Tier II · per month for 51-500 total store orders",
-  "verified": "2026-09-19",
+  "price": "$15",
+  "price_note": "from · per month",
+  "verified": "2026-10-20",
   "catch": "The meter is your whole store, not the app.",
   "best": "Shopify stores that want bundles, add-ons, cart funnels and post-purchase offers out of one app and would rather be billed on order volume than hand over a share of the upsell revenue — and small stores in particular, since under 50 orders a month the full strategy set costs nothing."
  },
