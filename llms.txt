@@ -7,7 +7,6 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 ## Start here
 - [Cost-trap atlas](https://zerotouchsupport.com/atlas.html): every tool in this niche with its documented pricing traps
 - [Price Watch](https://zerotouchsupport.com/price-watch.html): dated price changes, free-tier cuts and renewal jumps
-- [Tool finder](https://zerotouchsupport.com/finder.html): pick a tool in under a minute
 - [Deals](https://zerotouchsupport.com/deals.html): current deals and free trials
 
 ## Buying guides (4)
