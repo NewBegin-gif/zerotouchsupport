@@ -2810,7 +2810,7 @@
   ],
   "price": "$39",
   "price_note": "from · per month billed yearly ($49 monthly), 1 seat, 1 site",
-  "verified": "2026-10-03",
+  "verified": "2026-10-21",
   "catch": "The article quotas pinch if you publish at volume (overage docs bill each), and it's a research-and-optimization tool, not a magic ranking button — it speeds up briefs, it doesn't replace the writing or the backlinks.",
   "best": "Content teams and SEOs who want to speed up research, briefs and SERP-driven optimization in one workflow."
  },
@@ -4794,15 +4794,15 @@
     "addons_extra"
    ],
    [
-    "🆓",
-    "Free tier",
-    "free_tier"
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$99",
   "price_note": "from · per month for 2,000 or $297/mo for 9,000",
   "verified": "2026-09-16",
-  "catch": "The free tier is genuinely free -- 50 credits, no card -- and it is the only way to answer the question the pricing page leaves open.",
+  "catch": "The free tier is genuinely free -- 50 credits a month, no card -- and it is the only way to answer the question the pricing page leaves open.",
   "best": "Teams that want the sales, content and support agents in one place and will genuinely use the lead engine."
  },
  "Parim": {
@@ -8396,7 +8396,7 @@
   ],
   "price": "$6.99",
   "price_note": "Starter · per month for up to 20,000 bar views, or $67.08 a year",
-  "verified": "2026-09-29",
+  "verified": "2026-10-21",
   "catch": "The bar the listing leads with is not on the free plan.",
   "best": "Shopify merchants who want a free, no-code top bar or rotating bar for shipping terms, offers and store notices."
  },
