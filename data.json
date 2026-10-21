@@ -4182,5 +4182,35 @@
     "domain": "imagify.io",
     "desc": "Image compression and WebP and AVIF conversion for WordPress, through a plugin that also bulk-optimises an existing media library; plans are metered by megabytes of images a month.",
     "link": "https://www.awin1.com/cread.php?awinmid=39910&awinaffid=2880219&ued=https%3A%2F%2Fimagify.io%2F"
+  },
+  {
+    "name": "Redeemly",
+    "category": "E-commerce",
+    "domain": "redeemly.ai",
+    "desc": "Shopify app that rewards customers with cashback paid as Shopify's native store credit, with storewide programs, customer notifications and Shopify Flow templates, priced by total store orders.",
+    "link": "https://platform.shoffi.app/r/rl_M9Xqbwpn",
+    "platform": "shopify"
+  },
+  {
+    "name": "EliteCart",
+    "category": "E-commerce",
+    "domain": "elitecart.app",
+    "desc": "Shopify cart drawer with one-click add-ons, a reward bar, in-cart upsells and translations, plus targeted upsell flows and checkout add-ons on higher plans.",
+    "link": "https://platform.shoffi.app/r/rl_h0AU3qFY",
+    "platform": "shopify"
+  },
+  {
+    "name": "eBillity",
+    "category": "Finance & Accounting",
+    "domain": "ebillity.com",
+    "desc": "Time tracking and billing software for service businesses, payroll-focused teams and law firms: timesheets and timers, client invoicing, attendance and PTO, and free payroll and accounting integrations.",
+    "link": "https://get.ebillity.com/v318katxennp-04vdmk"
+  },
+  {
+    "name": "Inworld AI",
+    "category": "Content & Media",
+    "domain": "inworld.ai",
+    "desc": "Voice and model APIs for developers building consumer apps: realtime text-to-speech, speech-to-text, voice cloning and realtime conversation, pay as you go or on monthly plans.",
+    "link": "https://get.platform.inworld.ai/by4w26u4f8p1"
   }
 ]
