@@ -6266,7 +6266,7 @@
   "price_note": "from · per month billed annually (page opens on the Yearly tab, two months off)",
   "verified": "2026-10-01",
   "catch": "Builder seats are billed on top of the plan, and pricing counts builders and app users separately, so a public-facing app with a lot of end users gets expensive fast.",
-  "best": "Teams building internal tools, client portals or member apps on top of Airtable or Google Sheets without code.",
+  "best": "Teams building internal tools, client portals or member apps on Softr's own built-in database, Airtable or Google Sheets without code.",
   "pw": "plans rebuilt Sep 2026",
   "pw_soort": "restructure"
  },
