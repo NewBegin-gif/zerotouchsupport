@@ -384,11 +384,6 @@
  "Amplitude": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
-   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -397,9 +392,15 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
-  "price_state": "quote-only",
+  "price": "$94",
+  "price_note": "Plus (3 million events) · per month, from the bill estimator on the pricing page",
   "verified": "2026-10-04",
   "catch": "The cost lands on events instead of seats, and events are the thing you control least: an instrumentation change or a growth spurt moves your bill without anyone choosing to upgrade.",
   "best": "Product teams who want everyone looking at the same behavioural data — the free 2 million events a month is a real working tier, not a demo."
