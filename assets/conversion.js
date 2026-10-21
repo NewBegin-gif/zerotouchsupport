@@ -3,6 +3,9 @@
    Upgradet elke pagina die dit bestand laadt zonder de HTML te wijzigen,
    dus Victor-regeneratie kan het niet wissen. Opt-out: <body data-skip-conv="1">.
    Eerlijk by design: geen verzonnen kortingen/urgentie, alles dismissbaar. */
+/* 21 okt 2026 (audit T21-32): wit op #10b981 haalde 2,54:1; #047857 haalt 5,48:1. De marketplace houdt zijn groen (Daan). */
+var __AIBM_GROEN = (location.pathname.indexOf('/marketplace/') === 0) ? '#10b981' : '#047857';
+
 
 /* ===== Core Web Vitals: off-screen kaarten niet renderen (content-visibility) =====
    Grote winst op lange kaart-pagina's zoals /b2b/ (1600+ kaarten): de browser
@@ -154,14 +157,14 @@
             bar.style.cssText = common + ';left:0;right:0;bottom:0;background:#0b0f17;border-top:1px solid #2a2f3a;padding:10px 14px;display:flex;align-items:center;gap:10px;transform:translateY(110%);transition:transform .35s ease';
             bar.innerHTML =
               '<div style="flex:1;color:#e5e7eb;font-size:12.5px;line-height:1.3"><strong>' + (tool || 'Our recommended pick') + '</strong><br><span style="opacity:.65">Via our partner link · check current pricing</span></div>' +
-              '<a href="' + ctaLink + '" target="_blank" rel="nofollow sponsored noopener" id="aibm-cta-btn" style="background:#10b981;color:#fff;padding:11px 16px;border-radius:8px;text-decoration:none;font-weight:700;font-size:13px;white-space:nowrap">' + btnTxt + '</a>' +
+              '<a href="' + ctaLink + '" target="_blank" rel="nofollow sponsored noopener" id="aibm-cta-btn" style="background:'+__AIBM_GROEN+';color:#fff;padding:11px 16px;border-radius:8px;text-decoration:none;font-weight:700;font-size:13px;white-space:nowrap">' + btnTxt + '</a>' +
               '<button id="aibm-cta-x" aria-label="Dismiss" style="background:none;border:none;color:#64748b;font-size:20px;line-height:1;padding:0 4px;cursor:pointer">×</button>';
           } else {
             bar.style.cssText = common + ';right:22px;bottom:22px;max-width:330px;background:#0b0f17;border:1px solid #2a2f3a;border-radius:14px;padding:14px 16px;transform:translateY(140%);transition:transform .4s ease';
             bar.innerHTML =
               '<button id="aibm-cta-x" aria-label="Dismiss" style="position:absolute;top:6px;right:9px;background:none;border:none;color:#64748b;font-size:18px;line-height:1;cursor:pointer">×</button>' +
               '<div style="color:#e5e7eb;font-size:13px;line-height:1.4;margin-bottom:10px">' + (tool ? '<strong>' + tool + '</strong> — ' : '') + 'ready to try it?<br><span style="opacity:.6;font-size:12px">Our partner link · see current pricing</span></div>' +
-              '<a href="' + ctaLink + '" target="_blank" rel="nofollow sponsored noopener" id="aibm-cta-btn" style="display:block;text-align:center;background:#10b981;color:#fff;padding:11px 16px;border-radius:9px;text-decoration:none;font-weight:700;font-size:13.5px">' + btnTxt + '</a>';
+              '<a href="' + ctaLink + '" target="_blank" rel="nofollow sponsored noopener" id="aibm-cta-btn" style="display:block;text-align:center;background:'+__AIBM_GROEN+';color:#fff;padding:11px 16px;border-radius:9px;text-decoration:none;font-weight:700;font-size:13.5px">' + btnTxt + '</a>';
           }
           document.body.appendChild(bar);
           if (isMobile) document.body.style.paddingBottom = '78px';
@@ -202,7 +205,7 @@
                 '<button id="aibm-exit-x" aria-label="Close" style="position:absolute;top:10px;right:14px;background:none;border:none;color:#64748b;font-size:22px;line-height:1;cursor:pointer">×</button>' +
                 '<div style="font-size:1.25rem;font-weight:800;color:#f1f5f9;margin-bottom:10px">Before you go' + (tool ? ' — one look at ' + tool : '') + '</div>' +
                 '<p style="color:#94a3b8;font-size:.92rem;line-height:1.6;margin:0 0 18px">Check ' + (tool ? tool + "'s" : 'the') + ' current offer and pricing through our partner link — no extra cost to you, and it supports these honest reviews.</p>' +
-                '<a href="' + ctaLink + '" target="_blank" rel="nofollow sponsored noopener" id="aibm-exit-btn" style="display:inline-block;background:#10b981;color:#fff;padding:12px 26px;border-radius:9px;text-decoration:none;font-weight:700">' + btnTxt + '</a>' +
+                '<a href="' + ctaLink + '" target="_blank" rel="nofollow sponsored noopener" id="aibm-exit-btn" style="display:inline-block;background:'+__AIBM_GROEN+';color:#fff;padding:12px 26px;border-radius:9px;text-decoration:none;font-weight:700">' + btnTxt + '</a>' +
                 '<div style="margin-top:14px"><button id="aibm-exit-no" style="background:none;border:none;color:#64748b;font-size:.8rem;cursor:pointer;text-decoration:underline">No thanks, keep reading</button></div>' +
               '</div>';
             document.body.appendChild(ov);
@@ -259,7 +262,7 @@
         '<textarea name="why" maxlength="900" rows="4" style="width:100%;background:#0b0f17;border:1px solid #2a2f3a;border-radius:7px;color:#e5e7eb;padding:9px"></textarea>' +
         '<label style="display:block;font-size:.85rem;color:#94a3b8;margin:10px 0 3px">Name (optional)</label>' +
         '<input name="name" maxlength="40" style="width:220px;background:#0b0f17;border:1px solid #2a2f3a;border-radius:7px;color:#e5e7eb;padding:9px">' +
-        '<div style="margin-top:14px"><button type="submit" style="background:#10b981;color:#fff;border:none;border-radius:9px;padding:11px 22px;font-weight:700;cursor:pointer">Submit review</button>' +
+        '<div style="margin-top:14px"><button type="submit" style="background:'+__AIBM_GROEN+';color:#fff;border:none;border-radius:9px;padding:11px 22px;font-weight:700;cursor:pointer">Submit review</button>' +
         '<span id="rr-msg" style="margin-left:12px;font-size:.85rem;color:#94a3b8"></span></div>' +
       '</form>';
     host.appendChild(sec);
@@ -335,7 +338,7 @@
     var bot=(window.innerWidth<=768&&!document.querySelector('.rv-kaart'))?'92px':'14px';
     b.style.cssText='position:fixed;left:14px;bottom:'+bot+';z-index:10001;max-width:320px;background:#0b0f17;border:1px solid #2a2f3a;border-radius:12px;padding:14px 16px;font-family:system-ui,-apple-system,sans-serif;box-shadow:0 6px 24px rgba(0,0,0,.45)';
     b.innerHTML='<div style="color:#e5e7eb;font-size:12.5px;line-height:1.5;margin-bottom:10px">We use one analytics cookie to see what helps readers. No ads, no data resale.</div>'+
-      '<div style="display:flex;gap:8px"><button id="aibm-c-ok" style="flex:1;background:#10b981;color:#fff;border:none;border-radius:8px;padding:9px 0;font-weight:700;cursor:pointer">OK</button>'+
+      '<div style="display:flex;gap:8px"><button id="aibm-c-ok" style="flex:1;background:'+__AIBM_GROEN+';color:#fff;border:none;border-radius:8px;padding:9px 0;font-weight:700;cursor:pointer">OK</button>'+
       '<button id="aibm-c-no" style="flex:1;background:none;color:#94a3b8;border:1px solid #2a2f3a;border-radius:8px;padding:9px 0;cursor:pointer">Decline</button></div>';
     document.body.appendChild(b);
     function kies(v){ try{localStorage.setItem(KEY,v);}catch(_){} upd(v); b.remove(); }
