@@ -2327,9 +2327,16 @@
   "best": "E-commerce and marketplace sellers who want one unified inbox across Amazon, eBay, Shopify and email."
  },
  "ElevateForward": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
   "price": "$250",
   "price_note": "from · a month (page markup also shows an unlabeled alternate $8 figure)",
-  "verified": "2026-09-28",
+  "verified": "2026-10-21",
   "catch": "It's a strategy-to-execution layer, not a task app or a dashboard — so the value only lands if leadership actually adopts the framework.",
   "best": "Scaling companies where growth is outpacing alignment — leadership lacks execution visibility and strategic initiatives keep stalling halfway."
  },
@@ -5633,7 +5640,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month billed yearly ($39 monthly)",
-  "verified": "2026-09-27",
+  "verified": "2026-10-21",
   "catch": "It's deliberately lean: no built-in dialer, no quoting or invoicing, and reporting feels basic unless you export.",
   "best": "Small B2B teams whose reps hate data entry — Salesflare auto-logs emails, meetings and contact details from your inbox and calendar."
  },
@@ -7084,7 +7091,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-10-05",
+  "verified": "2026-10-21",
   "catch": "You cannot find out what it costs without booking a demo.",
   "best": "Growing teams (roughly 10+ staff) that need to document SOPs and onboard new hires consistently instead of training by osmosis."
  },
@@ -7514,7 +7521,7 @@
   ],
   "price": "$5",
   "price_note": "from · per user a month billed annually, or $6 monthly",
-  "verified": "2026-09-25",
+  "verified": "2026-10-21",
   "catch": "The free plan's 2-app limit is tight, and browser profiles and PWAs solve part of the same problem for free.",
   "best": "People juggling many web apps and multiple accounts per service who want them as clean, separate desktop apps with per-profile isolation."
  },
