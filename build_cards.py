@@ -181,7 +181,7 @@ CARD = """\
 <article class="tool-card ledger fade-in" data-category="{category_attr}"{flag_attr}>
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/{domain}" alt="{name}" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain={domain}&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?domain={domain}&amp;sz=128" alt="{name}" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain={domain}&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>{name}</h3><span class="tool-badge pick">{badge}</span>{alt_row}</div>
  </div>
