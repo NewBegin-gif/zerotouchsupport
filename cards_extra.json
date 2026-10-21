@@ -9447,5 +9447,69 @@
   "verified": "2026-10-17",
   "catch": "Free tier is 20MB a month; Growth charges $5 per extra GB; no refund on yearly plans.",
   "best": "WordPress site owners with image-heavy pages, such as blogs, stores and portfolios."
+ },
+ "Redeemly": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$19",
+  "price_note": "Startup · per month, billed every 30 days through Shopify in USD, set by the store's total…",
+  "verified": "2026-10-15",
+  "catch": "Priced by total store orders; fees are non-refundable.",
+  "best": "Shopify stores that want to give cashback as Shopify's own store credit to bring customers back."
+ },
+ "EliteCart": {
+  "price": "$29.99",
+  "price_note": "Essentials · per month, billed every 30 days through Shopify in USD",
+  "verified": "2026-10-15",
+  "catch": "No free plan; the volume ladder above 200 orders is unpublished.",
+  "best": "Shopify stores that want a designed cart drawer with one-click add-ons, a reward bar and in-cart upsells."
+ },
+ "eBillity": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$8",
+  "price_note": "Time Tracker Billing · per user a month, billed annually and paid in full at activation, no…",
+  "verified": "2026-10-15",
+  "catch": "Base fee on two plans; fees are non-refundable.",
+  "best": "Service businesses, payroll-focused teams and law firms that want employee time tracking, client billing and payroll exports in one tool."
+ },
+ "Inworld AI": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$25",
+  "price_note": "Creator · billed monthly",
+  "verified": "2026-10-15",
+  "catch": "Usage billed per input character; unused credits forfeit on cancel.",
+  "best": "Developers and product teams building consumer apps with realtime voice, who want text-to-speech."
  }
 }
