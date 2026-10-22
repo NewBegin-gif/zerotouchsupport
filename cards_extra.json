@@ -6494,9 +6494,9 @@
   "best": "People whose problem is deciding what to do today rather than tracking what exists — it pulls from your existing tools and forces a daily plan, which is the whole product."
  },
  "SupaEasy": {
-  "price": "$49",
-  "price_note": "from · per month ($470/yr)",
-  "verified": "2026-10-16",
+  "price": "$29",
+  "price_note": "from · per month ($278/yr)",
+  "verified": "2026-10-22",
   "catch": "The 'free' plan is development-stores only, so any live use is paid, and the AI generator that headlines the app is not in Premium ($49) but in Advanced ($99), plus AI credits bought separately ($25 per 50) — so the AI promise realistically costs $99+ a month.",
   "best": "Shopify merchants — especially non-Plus stores — who want custom discount, checkout, payment and shipping logic without hiring a developer."
  },
@@ -6970,7 +6970,7 @@
  "TnC": {
   "price": "$6.99",
   "price_note": "Basic Plan · per month on the App Store listing, or $67.10 a year, for the checkbox…",
-  "verified": "2026-10-14",
+  "verified": "2026-10-22",
   "catch": "'Free plan available' means development and partner stores only, so a store that takes real orders has no free tier here.",
   "best": "Shopify merchants on a standard plan who need a recorded “I agree” gate before payment — for GDPR, an age gate, digital-goods withdrawal rules or chargeback defence."
  },
@@ -7076,7 +7076,7 @@
   ],
   "price": "$9",
   "price_note": "from · per month billed annually (2 clients)",
-  "verified": "2026-09-27",
+  "verified": "2026-10-22",
   "catch": "The client-count ladder looks gentle, but most add-ons are flat and they land hardest on the smallest coach: at five seats a $23 Pro plan dressed with nutrition, payments and video is $63, while the same three turn the $225 two-hundred-client row into $290.",
   "best": "Personal trainers and studios delivering structured workout/nutrition coaching through a polished client app, scaling by client count."
  },
