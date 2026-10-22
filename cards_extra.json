@@ -9526,5 +9526,59 @@
   "verified": "2026-10-15",
   "catch": "Usage billed per input character; unused credits forfeit on cancel.",
   "best": "Developers and product teams building consumer apps with realtime voice, who want text-to-speech."
+ },
+ "Doba": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$29.99",
+  "price_note": "Limited · billed monthly",
+  "verified": "2026-10-22",
+  "catch": "Product, shipping and transaction costs on top; refund terms contradict each other.",
+  "best": "Online sellers on Shopify, eBay, Amazon, TikTok Shop and similar channels who want to dropship from one wholesale catalogue and push listings into several stores."
+ },
+ "TrueReview": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$49",
+  "price_note": "Starter · billed monthly",
+  "verified": "2026-10-15",
+  "catch": "Payments non-refundable; card required for the trial; requests expire monthly.",
+  "best": "Local businesses that want to send review requests by SMS and email, watch their Google reviews and answer them from one dashboard."
+ },
+ "WordPerfect Office": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$99.99",
+  "price_note": "Home & Student · one-time purchase of the download as shown on the US English product…",
+  "verified": "2026-10-22",
+  "catch": "Windows only; price moves with promotions; guarantee only for direct purchases.",
+  "best": "Windows users and organisations that already work with WordPerfect documents or Reveal Codes."
+ },
+ "EasyBrise": {
+  "price": "$295",
+  "price_note": "Global Launch · one-time setup fee, plus the state filing fee",
+  "verified": "2026-10-15",
+  "catch": "State fee on top; agent and address renew after year one.",
+  "best": "Founders outside the United States who want a Wyoming or Delaware LLC or C-Corp with an EIN, registered agent and US address handled in one first-year package."
  }
 }
