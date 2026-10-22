@@ -401,7 +401,7 @@
   ],
   "price": "$94",
   "price_note": "Plus (3 million events) · per month, from the bill estimator on the pricing page",
-  "verified": "2026-10-04",
+  "verified": "2026-10-21",
   "catch": "The cost lands on events instead of seats, and events are the thing you control least: an instrumentation change or a growth spurt moves your bill without anyone choosing to upgrade.",
   "best": "Product teams who want everyone looking at the same behavioural data — the free 2 million events a month is a real working tier, not a demo."
  },
@@ -1018,7 +1018,7 @@
   ],
   "price": "$143",
   "price_note": "from · per location per month on annual billing",
-  "verified": "2026-10-04",
+  "verified": "2026-10-21",
   "catch": "Two things about this price list. It is per location, so the arithmetic for a second salon is not a volume discount, it is double — and the add-ons are per location too, which compounds it.",
   "best": "Salons, spas and clinics with staff to schedule and a front desk to run — the per-location pricing works out fine for one busy site."
  },
@@ -2284,7 +2284,7 @@
   ],
   "price": "$35.99",
   "price_note": "from · a month billed annually ($44.99 monthly) for 2 domains",
-  "verified": "2026-10-04",
+  "verified": "2026-10-21",
   "catch": "You are buying domains and history, not features, and no longer seats, since every tier now lists unlimited users.",
   "best": "Anyone who sends email from their own domain and has not yet got DMARC to enforcement — the reporting is the part that makes that safe rather than guesswork."
  },
@@ -3012,10 +3012,17 @@
   "best": "IT and support people who want browser-based remote access without installing software on the other person's machine — at a fair price or a one-time fee."
  },
  "Gixo": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ]
+  ],
   "price": "$90",
   "price_note": "from · per year",
-  "verified": "2026-10-04",
-  "catch": "Two things about this pricing are worth reading twice. The first is that seven products means seven subscriptions. Gixo is priced per deliverable, not per company, and one product's plan does not include the others.",
+  "verified": "2026-10-21",
+  "catch": "Two things about this pricing are worth reading twice. The first is that seven products means seven subscriptions, and most of them are now per seat.",
   "best": "Teams that want one dedicated, source-grounded tool per deliverable — a deck tool, a content tool, a proposal tool."
  },
  "Glide": {
