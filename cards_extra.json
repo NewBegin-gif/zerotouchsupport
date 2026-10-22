@@ -265,11 +265,23 @@
   "best": "Solo marketers and small WordPress site owners who want AI-assisted SEO and content workflows on the free plan or a low-cost entry plan."
  },
  "Algomo": {
-  "price": "$200",
-  "price_note": "from · a month (no per-seat pricing)",
-  "verified": "2026-10-03",
-  "catch": "Algomo is a member of the quote-only club: $200/month is the only number on the site, and the real bill for your traffic volume and feature set only emerges in a sales conversation.",
-  "best": "B2B teams with real inbound traffic that want an AI agent qualifying visitors, personalizing the site by visitor identity and booking meetings."
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$50",
+  "price_note": "from · a month for 2,000 credits up to $4,300 for 200,000",
+  "verified": "2026-10-22",
+  "catch": "The credit model is clear on paper with one opaque step: whether a conversation was 'useful', and so billed at five credits, is decided by a language model after it closes.",
+  "best": "Teams that want one AI agent on their own website for support and inbound sales, priced by the work it does rather than by seat."
  },
  "Alidrop": {
   "flags": [
@@ -1197,7 +1209,7 @@
   ],
   "price": "$5.99",
   "price_note": "from · per user a month plus $19/mo base fee",
-  "verified": "2026-09-24",
+  "verified": "2026-10-22",
   "catch": "That flat $19 base fee makes it pricey for very small teams — at three or four users the base fee dominates the bill, so it's better value once you're past a handful of employees.",
   "best": "Small-to-mid teams that need straightforward employee time tracking with GPS and payroll-ready exports.",
   "pw": "price up Aug 2026",
@@ -1786,7 +1798,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month billed yearly ($35 monthly), covers first 30 users",
-  "verified": "2026-10-03",
+  "verified": "2026-10-22",
   "catch": "The free-for-10 plan is one of the most generous in the category, but the three-hub structure means costs can stack if you need all of them — price the specific hubs you'll actually use, not the full bundle.",
   "best": "Deskless and frontline teams (shift work, field crews) that need scheduling, a time clock and comms in one app, on the free-for-10 plan."
  },
@@ -4031,7 +4043,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-30",
+  "verified": "2026-10-22",
   "catch": "This is a bet on attendance that you place a year in advance.",
   "best": "Teams running a predictable programme of webinars to a known audience size, where buying a year of attendance up front is cheaper than a per-seat platform."
  },
@@ -7001,6 +7013,11 @@
     "per_seat"
    ],
    [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -7008,7 +7025,7 @@
   ],
   "price": "$9",
   "price_note": "from · per user a month billed annually, or $12 monthly",
-  "verified": "2026-10-01",
+  "verified": "2026-10-22",
   "catch": "Toggl's honesty problem is the good kind: the free tier is so capable that many teams never need to pay — the paid line is drawn exactly at 'do you bill clients' (budgets, rates, profitability).",
   "best": "Freelancers, consultants and agencies that bill by the hour and want frictionless tracking with budgets, rates and profitability per project.",
   "pw": "plans rebuilt Oct 2026",
