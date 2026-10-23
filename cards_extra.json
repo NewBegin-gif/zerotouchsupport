@@ -222,7 +222,7 @@
   ],
   "price": "$12",
   "price_note": "from · a month per active Spend user plus a team-size platform fee",
-  "verified": "2026-10-11",
+  "verified": "2026-10-23",
   "catch": "The honest headline here is that the FX markup is published at all — 0.5% and 1% above interbank is a real number, and most competitors will not print one.",
   "best": "Companies invoicing or paying in several currencies, where a 0.5% spread against your bank's 2–3% is the whole business case."
  },
@@ -645,7 +645,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month (preview tier, no publishing or monetization)",
-  "verified": "2026-09-27",
+  "verified": "2026-10-23",
   "catch": "The $29 Demo tier cannot actually publish to the App Store or Google Play — real branded apps start at $240 a month.",
   "best": "Creators and media brands with a real audio catalog — podcasts, audiobooks, meditations, courses — ready to monetize subscriptions in their own branded apps."
  },
@@ -4095,7 +4095,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-23",
+  "verified": "2026-10-23",
   "catch": "This is vetted senior freelance talent on a monthly retainer with no published rates — the value is speed and vetting (the pricing page promises a match within 24-48 hours, against a months-long hire), and the budget is whatever you agree on the call.",
   "best": "Companies that need a vetted senior marketer (growth, paid ads, email, more) matched quickly, without the time and risk of a full-time hire."
  },
@@ -4105,10 +4105,15 @@
     "🔒",
     "Hidden pricing",
     "quote_only"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-25",
+  "verified": "2026-10-23",
   "catch": "Two honest cautions. Pricing is hidden and quote-driven, and reviewers repeatedly flag that the real cost — software plus design plus managed services — climbs well above the headline, sometimes with recurring fees for features you don't use.",
   "best": "Small businesses that want one vendor handling website, CRM, ads, email and reputation with real humans to help, and prefer done-for-you over DIY."
  },
@@ -4333,7 +4338,7 @@
   ],
   "price": "$9",
   "price_note": "from · per seat a month",
-  "verified": "2026-10-21",
+  "verified": "2026-10-23",
   "catch": "Each of monday's four products is its own subscription, and Standard allows 250 automation actions a month across the whole account.",
   "best": "Teams who want one visual system for projects and work, and who will actually use the automations and views that justify the per-seat price at Standard or above."
  },
