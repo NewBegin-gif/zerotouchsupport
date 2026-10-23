@@ -9589,5 +9589,73 @@
   "verified": "2026-10-15",
   "catch": "State fee on top; agent and address renew after year one.",
   "best": "Founders outside the United States who want a Wyoming or Delaware LLC or C-Corp with an EIN, registered agent and US address handled in one first-year package."
+ },
+ "Liltio": {
+  "price": "$49",
+  "price_note": "Liltio Local · one-off, lifetime Local licence for 2 Macs at the standard price, before tax",
+  "verified": "2026-10-23",
+  "catch": "Apple silicon and macOS 15.5+ only; one licence covers 2 Macs.",
+  "best": "Mac users on Apple silicon who dictate emails, notes and first drafts every day and want speech recognition on their own machine, paid for once instead of monthly."
+ },
+ "PDF Agile": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$39",
+  "price_note": "Semi-Annual · one-time payment with 6 months of upgrades and priority support",
+  "verified": "2026-10-23",
+  "catch": "Personal, non-commercial licence; unclear what the time-limited plans keep.",
+  "best": "Individuals, students and teachers who edit, convert and sign PDFs regularly and prefer paying once over a monthly subscription."
+ },
+ "Riibase CRM": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$9.90",
+  "price_note": "Starter · flat monthly price for up to 5 users, 500 records and 5,000 AI credits",
+  "verified": "2026-10-23",
+  "catch": "Record caps of 500 and 5,000 on the cheaper plans; fees non-refundable.",
+  "best": "Small teams in e-commerce, insurance or services that want a simple CRM with pipelines and follow-up automation for one flat team price instead of per-seat billing."
+ },
+ "Rewarx Studio AI": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$29.90",
+  "price_note": "Starter · per month on the Shopify App Store listing, billed in USD",
+  "verified": "2026-10-23",
+  "catch": "Launched May 2026 with no reviews yet; 4K and video use credits fast.",
+  "best": "Shopify sellers in fashion, beauty, jewellery and home goods who need many consistent product."
+ },
+ "FineVoice": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$8.99",
+  "price_note": "from · per month or $71.99/yr",
+  "verified": "2026-10-23",
+  "catch": "Unused quota expires monthly; the Ultra card and the plan table disagree.",
+  "best": "Solo creators, educators and small teams who want text to speech, voice changing, cloning, transcription and sound effects in one subscription."
  }
 }
