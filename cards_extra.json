@@ -9667,5 +9667,24 @@
   "verified": "2026-10-23",
   "catch": "Unused quota expires monthly; only annual Ultra is (mostly) unlimited.",
   "best": "Solo creators, educators and small teams who want text to speech, voice changing, cloning, transcription and sound effects in one subscription."
+ },
+ "RoverLead": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$149",
+  "price_note": "Starter (per user) · per user per month, 5,000 credits",
+  "verified": "2026-10-23",
+  "catch": "Per user from $149 a month; credits not explained; fees non-refundable.",
+  "best": "Founders and small sales teams who want leads chosen by a recent signal (a funding round, a new role."
  }
 }
