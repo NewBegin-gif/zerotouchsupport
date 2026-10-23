@@ -358,7 +358,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/cloze-review/",
    "from_price_usd_mo": 49.0,
    "entry_price": "$49",
-   "entry_price_terms": "Starter · per month for 250 AI conversations on the App Store listing, plus…",
+   "entry_price_terms": "Starter · per month for 250 AI conversations on the App Store listing…",
    "pricing_status": "public",
    "price_note": "(read 2026-08-19, re-verified unchanged 2026-09-04 on apps.shopify.com/cloze, listed as “Cloze: AI Shopping Assistant”) Free plan available: 25 AI conversations a month, up to 100 synced products, core assistant customisation and 7 days of conversation history. Paid tiers are Starter $49, Pro $99 and Scale $199 a month, each with $0.10 per additional AI conversation and a 3-day free trial. Starter covers 250 conversations a month and 1,000 synced products, with full customisation and 30 days of insights. Pro covers 750 conversations and 10,000 products with advanced insights and 90 days of history, and Scale 2,000 conversations, unlimited products, a year of history and priority support. All charges are billed in USD and recur every 30 days. Worth knowing before you install. The vendor's own site, cloze.bot/pricing, advertised a different and cheaper ladder on the same day: Free forever with 50 conversations a month, Pro $29 a month and Business $79 a month. On that page both paid tiers say unlimited conversations rather than a monthly allowance. Our link goes to the App Store listing, so the $49/$99/$199 ladder, with its caps of 250, 750 and 2,000 conversations, is what you pay when you install there. The screenshot further down is their own page exactly as we captured it. Developer Optify, Lyon, France; the app launched 24 April 2026, carries Shopify's “Built for Shopify” badge and had no reviews at all at the time of writing. Re-read on 4 September 2026: both ladders still stood exactly as described above, and the listing had gained its first review — a single five-star note left on 14 August 2026 by a French store eight days in. Re-verified 11 October 2026: the App Store ladder (Free 25, Starter $49 for 250, Pro $99 for 750, Scale $199 for 2,000 conversations, $0.10 each beyond, 3-day trials) is unchanged, and so is the different ladder on cloze.bot/pricing (Free 50 conversations, Pro $29 and Business $79 with unlimited conversations). The listing still carries one review, dated 14 August 2026.",
    "flags": [
@@ -528,7 +528,7 @@
    "entry_price": "$10",
    "entry_price_terms": "per seat/mo billed annually ($18 monthly)",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-10-16 against the vendor's own pricing page and help guide) Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits. Pro $18/seat/mo month-to-month or $10/seat/mo billed annually — unlimited AI summaries, 8,000 mins of storage per seat, 20 AI credits. Business $29/seat/mo month-to-month or $19/seat/mo billed annually — unlimited storage, 30 AI credits. Enterprise $39/seat/mo, annual only — 50 AI credits, SSO/SCIM, HIPAA, private storage. The plan prices are unchanged since our 31 August read. CORRECTION carried from that read: $10 and $19 are the annual rates, and month-to-month is 80% and 53% higher.\n\nWhat the cards do not say, the help guide does (read 16 October 2026). The 20/20/30/50 AI credits are a one-time allocation per account, not a monthly allowance: they are pooled for the whole workspace and do not grow with the number of seats, so a ten-seat Pro team shares the same 20 credits as one person on Free. More credits are a separate subscription: 50 for $5 a month ($4 billed annually), 200 for $20 ($16), 1,000 for $90 ($72), 2,500 for $200 ($160), 5,000 for $375 ($300), 7,500 for $450 ($360) and 10,000 for $600 ($480). Unused purchased credits do not carry over to the next billing cycle, and cancelling that add-on is separate from cancelling your main plan. The billing guide says a 7-day AI-credit trial converts to a paid AI credits subscription at $5 a month (or the plan you picked at the start) and that Auto-Upgrade is on by default, while the terms of service say Auto-Upgrade is off by default and needs your express consent; check the setting in your own billing page before you start that trial. Uploaded recordings from outside meetings have their own meter: 3,000 minutes per source per month for individuals, with overage charged at $0.01 a minute. Storage counts the total minutes you keep, not minutes per month.\n\nCancelling takes effect at the end of the paid period, and the terms ask you to cancel at least 24 hours before renewal. Refunds are where Fireflies' own pages disagree: the dedicated refund article allows a full refund within 7 days if you logged 3 meetings or fewer on a monthly plan, or 20 or fewer on an annual plan, with no pro-rated refund on annual plans and none on AI credits, while an older account article still says they don't offer refunds on subscriptions or AI credit purchases. Treat the 7-day window as the vendor's current policy, but ask support in writing before relying on it.",
+   "price_note": "(price re-verified 2026-10-23 against the vendor's own pricing page and help guide) Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits. Pro $18/seat/mo month-to-month or $10/seat/mo billed annually — unlimited AI summaries, 8,000 mins of storage per seat, 20 AI credits. Business $29/seat/mo month-to-month or $19/seat/mo billed annually — unlimited storage, 30 AI credits. Enterprise $39/seat/mo, annual only — 50 AI credits, SSO/SCIM, HIPAA, private storage. The plan prices are unchanged since our 31 August read. CORRECTION carried from that read: $10 and $19 are the annual rates, and month-to-month is 80% and 53% higher.\n\nWhat the cards do not say, the help guide does (read 16 October 2026). The 20/20/30/50 AI credits are a one-time allocation per account, not a monthly allowance: they are pooled for the whole workspace and do not grow with the number of seats, so a ten-seat Pro team shares the same 20 credits as one person on Free. More credits are a separate subscription: 50 for $5 a month ($4 billed annually), 200 for $20 ($16), 1,000 for $90 ($72), 2,500 for $200 ($160), 5,000 for $375 ($300), 7,500 for $450 ($360) and 10,000 for $600 ($480). Unused purchased credits do not carry over to the next billing cycle, and cancelling that add-on is separate from cancelling your main plan. The billing guide says a 7-day AI-credit trial converts to a paid AI credits subscription at $5 a month (or the plan you picked at the start) and that Auto-Upgrade is on by default, while the terms of service say Auto-Upgrade is off by default and needs your express consent; check the setting in your own billing page before you start that trial. The same billing guide (read 23 October 2026) adds that on a paid plan, once the one-time credits run out and you have no AI credits subscription, “Fireflies automatically subscribes you to the lowest AI credits tier ($5/month for 50 credits)”, and an existing credits subscriber who runs out is moved up to the next tier; Free users get a paywall instead of a charge. Daily Digest and Meeting Prep are on by default and use credits, so switch them off in AI Skills settings if you do not want them. Uploaded recordings from outside meetings have their own meter: 3,000 minutes per source per month for individuals, with overage charged at $0.01 a minute. Storage counts the total minutes you keep, not minutes per month.\n\nCancelling takes effect at the end of the paid period, and the terms ask you to cancel at least 24 hours before renewal. Refunds are where Fireflies' own pages disagree: the dedicated refund article allows a full refund within 7 days if you logged 3 meetings or fewer on a monthly plan, or 20 or fewer on an annual plan, with no pro-rated refund on annual plans and none on AI credits, while an older account article still says they don't offer refunds on subscriptions or AI credit purchases. Treat the 7-day window as the vendor's current policy, but ask support in writing before relying on it.",
    "flags": [
     {
      "flag": "per_seat",
@@ -536,15 +536,15 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-16"
+     "verified_at": "2026-10-23"
     },
     {
      "flag": "usage_metered",
-     "evidence": "(price re-verified 2026-10-16 against the vendor's own pricing page and help guide) Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits.",
+     "evidence": "(price re-verified 2026-10-23 against the vendor's own pricing page and help guide) Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-16"
+     "verified_at": "2026-10-23"
     },
     {
      "flag": "addons_extra",
@@ -552,20 +552,20 @@
      "evidence_excerpt": "More credits are a separate subscription: 50 for $5 a month ($4 billed annually), 200 for $20 ($16), 1,000 for $90 ($72), 2,500 for $200 ($160), 5,000 for $375 ($300), 7,500 for $450 ($360) and 10,00…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-16"
+     "verified_at": "2026-10-23"
     },
     {
      "flag": "free_tier",
-     "evidence": "(price re-verified 2026-10-16 against the vendor's own pricing page and help guide) Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits.",
+     "evidence": "(price re-verified 2026-10-23 against the vendor's own pricing page and help guide) Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-16"
+     "verified_at": "2026-10-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-16",
-   "first_observed_at": "2026-10-16"
+   "price_verified_at": "2026-10-23",
+   "first_observed_at": "2026-10-23"
   },
   {
    "name": "Freshchat",
@@ -1222,7 +1222,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/storefaq-review/",
    "from_price_usd_mo": 7.99,
    "entry_price": "$7.99",
-   "entry_price_terms": "Professional · per month for 500 FAQ page views and 50 AI chatbot conversations, with…",
+   "entry_price_terms": "Professional · per month for 500 FAQ page views and 50 AI chatbot conversations…",
    "pricing_status": "public",
    "price_note": "(read 2026-08-21 and re-verified unchanged 2026-10-09 on apps.shopify.com/storefaq) Four tiers, metered on FAQ page views and AI chatbot conversations rather than on the number of FAQs. Free: 100 FAQ page views, unlimited FAQs and FAQ groups, the AI chatbot and AI-written FAQs, 25 AI conversations for the lifetime of the account, AI training on up to 50 products, export and import, instant answer with live chat and standard support. Professional $7.99 a month: 500 FAQ page views, 50 AI conversations a month, training on 150 products, multilingual FAQs and dedicated support, with overage at $0.0159 per extra page view and $0.30 per extra AI conversation. Growth $14.99 a month: 2,000 FAQ page views, 100 AI conversations a month, 300 products, with overage at $0.0075 a view and $0.30 a conversation. Enterprise $49.99 a month or $479.90 a year, a 20% saving: unlimited FAQ page views, 500 AI conversations a month, 2,000 products, priority support and $0.30 per extra conversation. All charges are billed in USD and recur every 30 days. Developer Storeware, 124 Broadkill Rd #599, Milton, Delaware; the app launched 3 January 2024 and carries Shopify's “Built for Shopify” badge.",
    "flags": [
@@ -1318,7 +1318,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/tidio-review/",
    "from_price_usd_mo": 29.0,
    "entry_price": "$29",
-   "entry_price_terms": "Starter · per month paid month to month for 100 billable conversations and…",
+   "entry_price_terms": "Starter · per month paid month to month for 100 billable conversations…",
    "pricing_status": "public",
    "price_note": "(read 2026-08-24 on www.tidio.com/pricing/ with both billing columns clicked, and on www.tidio.com) The plan table opens on the annual column, so the first figures on the page are not what month-to-month costs. Starter is 24.17 a month billed annually against 29 paid monthly, Growth starts at 49.17 annually against 59 monthly, and the two stand-alone add-ons follow the same 20 percent step: the Lyro AI Agent from 32.50 annually against 39 monthly, Flows from 24.17 against 29. Plus is 300 a month in both columns and adds usage on top; Premium is contact-for-pricing. Tidio's own homepage quotes the higher, monthly number (“Paid plans from $29/mo, no surprise upgrades”), which makes the marketing page the more conservative of the two places you can read a price. The table rendered in euros on our reading while the same numerals appear with dollar signs on other retrievals of the same URL, so treat the figure rather than the symbol as the fact and confirm the currency at checkout.\n\nWhat you pay is decided by three separate meters, not by the plan name. The free plan carries 50 billable conversations, 100 Flows visitors reached and 50 Lyro AI conversations, and the comparison table's own footnote makes that last allowance a lifetime one rather than a monthly one. Starter covers 100 billable conversations, Growth starts at 250 and the table caps it at 2,000, both with 10 seats and a 7-day free trial. Lyro conversations are upgradable from 50 to 1,000 and Flows visitors from 2,000 to 100,000. Two things the page does not say: what a conversation over the cap costs, and what the “discounted usage rates” next to Plus's “+ monthly usage” actually are. On Plus that unquoted rate is the whole variable, because the 300 is only the entry fee.",
    "flags": [
