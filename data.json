@@ -4276,5 +4276,12 @@
     "domain": "finevoice.ai",
     "desc": "AI audio suite for creators: text to speech, voice changer, voice cloning, speech to text, sound effects, background music and talking photos under one credit-based subscription, with a free daily allowance.",
     "link": "https://finevoice.ai?fp_ref=daniel-db5640"
+  },
+  {
+    "name": "RoverLead",
+    "domain": "roverlead.com",
+    "link": "https://www.roverlead.com/?via=aibuildermarketplace",
+    "category": "Sales & CRM",
+    "desc": "AI prospecting for LinkedIn outreach: finds leads from buying signals such as funding rounds and new roles, writes personalised openers and follow-ups, and drafts inbox replies, with approval before anything is sent."
   }
 ]
