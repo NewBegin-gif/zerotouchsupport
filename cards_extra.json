@@ -9652,6 +9652,11 @@
  "FineVoice": {
   "flags": [
    [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -9660,7 +9665,7 @@
   "price": "$8.99",
   "price_note": "from · per month or $71.99/yr",
   "verified": "2026-10-23",
-  "catch": "Unused quota expires monthly; the Ultra card and the plan table disagree.",
+  "catch": "Unused quota expires monthly; only annual Ultra is (mostly) unlimited.",
   "best": "Solo creators, educators and small teams who want text to speech, voice changing, cloning, transcription and sound effects in one subscription."
  }
 }
