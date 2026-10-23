@@ -4240,5 +4240,41 @@
     "domain": "easybrise.com",
     "desc": "US company formation for founders abroad: LLC or C-Corp filing in Wyoming or Delaware with EIN, registered agent and US address, plus optional tax and compliance plans.",
     "link": "https://www.awin1.com/cread.php?awinmid=131041&awinaffid=2880219"
+  },
+  {
+    "name": "Liltio",
+    "category": "IT & Productivity",
+    "domain": "liltio.com",
+    "desc": "Mac dictation app that runs speech recognition locally: hold the Fn or Globe key, speak, and the text lands in the field you are typing in, with optional AI to shorten, polish or translate. One-time licence for Apple silicon Macs.",
+    "link": "https://liltio.com?aff=6NyDVn"
+  },
+  {
+    "name": "PDF Agile",
+    "category": "IT & Productivity",
+    "domain": "pdfagile.com",
+    "desc": "Desktop PDF editor for editing text and images, converting PDFs to Word, merging pages, signing, annotating, OCR and compression, sold as one-time-payment plans instead of a subscription.",
+    "link": "https://www.awin1.com/cread.php?awinmid=123770&awinaffid=2880219"
+  },
+  {
+    "name": "Riibase CRM",
+    "category": "Growth & Revenue",
+    "domain": "riibase.com",
+    "desc": "CRM for small teams with customizable sales pipelines, follow-up automation and AI credits, priced per team rather than per seat, with CSV and Excel import.",
+    "link": "https://www.awin1.com/cread.php?awinmid=129257&awinaffid=2880219"
+  },
+  {
+    "name": "Rewarx Studio AI",
+    "category": "E-commerce",
+    "domain": "rewarx.com",
+    "desc": "AI product photography for Shopify and e-commerce sellers: turns one product photo into studio shots, model photos, ghost-mannequin images, mockups and listing sets, on monthly credits.",
+    "link": "https://www.awin1.com/cread.php?awinmid=129153&awinaffid=2880219",
+    "platform": "shopify"
+  },
+  {
+    "name": "FineVoice",
+    "category": "Video & Audio",
+    "domain": "finevoice.ai",
+    "desc": "AI audio suite for creators: text to speech, voice changer, voice cloning, speech to text, sound effects, background music and talking photos under one credit-based subscription, with a free daily allowance.",
+    "link": "https://finevoice.ai?fp_ref=daniel-db5640"
   }
 ]
