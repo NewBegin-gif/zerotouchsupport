@@ -193,8 +193,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## UniTel Voice
 - Review: https://zerotouchsupport.com/unitel-voice-review.html
-- Verdict: UniTel Voice — Three plans, no contracts: Solo $9.99/mo, Team $19.99/mo and Office $29.99/mo, each with one phone number and unlimited minutes.
-- Price: (re-verified 2026-09-09 on unitelvoice.com/pricing) Three plans, no contracts: Solo $9.99/mo, Team $19.99/mo and Office $29.99/mo, each with one phone number and unlimited minutes. Annual billing takes 30% off, making them $6.99, $13.99 and $20.99 a month.
+- Verdict: UniTel Voice: Solo $9.99/mo, Team $19.99/mo and Office $29.99/mo, each with one toll-free or local number and unlimited calling and texting.
+- Price: (re-verified 2026-10-24 on signup.unitelvoice.com/pick-plan, where unitelvoice.com/pricing now lands) Three plans, no contracts: Solo $9.99/mo, Team $19.99/mo and Office $29.99/mo, each with one toll-free or local number and unlimited calling and texting. Yearly billing is charged as $84, $168 and $252 a year (the cards say "Save $36/year", $72 and $108); the comparison table shows that as $6.99, $13.99 and…
 
 ## Vanity Number
 - Review: https://zerotouchsupport.com/vanity-number-review.html

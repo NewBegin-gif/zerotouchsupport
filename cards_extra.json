@@ -1185,7 +1185,7 @@
   ],
   "price": "$13",
   "price_note": "Basic · per month, annual",
-  "verified": "2026-10-14",
+  "verified": "2026-10-24",
   "catch": "The free tier is the catch: its card reads 200 signup credits where it read 1,500 on 2 September, about 66 workflow steps at 3 credits a step, while the vendor's own llms.txt still advertises 2,000.",
   "best": "Teams that need a reusable web scraper or browser bot without writing selectors, want the browsers, proxies and CAPTCHA handling managed for them."
  },
@@ -7228,16 +7228,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "📅",
-    "Annual commit",
-    "annual_lock"
    ]
   ],
   "price": "$9.99",
   "price_note": "from · per month (1 user, unlimited minutes, one phone number)",
-  "verified": "2026-09-09",
+  "verified": "2026-10-24",
   "catch": "It's a virtual phone layer, not a full unified-comms suite — you won't find the deep team messaging, video meetings and contact-center features pricier platforms bundle.",
   "best": "Solopreneurs and small teams that want a professional toll-free or local number, auto-attendant and call routing on their existing phones — no hardware."
  },
