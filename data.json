@@ -4283,5 +4283,27 @@
     "link": "https://www.roverlead.com/?via=aibuildermarketplace",
     "category": "Sales & CRM",
     "desc": "AI prospecting for LinkedIn outreach: finds leads from buying signals such as funding rounds and new roles, writes personalised openers and follow-ups, and drafts inbox replies, with approval before anything is sent."
+  },
+  {
+    "name": "Brandify",
+    "category": "SEO & Marketing",
+    "domain": "brandify.io",
+    "desc": "Managed AI-visibility agency: a monthly service that improves your pages, schema, Google Business Profile and directory listings so AI search and Google can find and cite your business, with optional visitor attribution (Reveal) and ads management.",
+    "link": "https://www.awin1.com/cread.php?awinmid=130919&awinaffid=2880219"
+  },
+  {
+    "name": "Try You",
+    "category": "E-commerce",
+    "domain": "tryyou.fly.dev",
+    "desc": "Shopify app that adds an AI virtual try-on button to product pages: shoppers upload a photo and see themselves wearing the item, with no monthly fee and usage billed per successful try-on through Shopify.",
+    "link": "https://platform.shoffi.app/r/rl_Av7phx69",
+    "platform": "shopify"
+  },
+  {
+    "name": "CrossLoop",
+    "category": "Video & Audio",
+    "domain": "crossloop.ai",
+    "desc": "Turns a public web page into a narrated launch video in three formats (16:9, 9:16, 4:5) with captions and suggested social copy, sold as one-time credit packs instead of a subscription.",
+    "link": "https://crossloop.si?aff=6NyDVn"
   }
 ]

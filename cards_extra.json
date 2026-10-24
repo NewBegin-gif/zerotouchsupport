@@ -9686,5 +9686,33 @@
   "verified": "2026-10-23",
   "catch": "Per user from $149 a month; credits not explained; fees non-refundable.",
   "best": "Founders and small sales teams who want leads chosen by a recent signal (a funding round, a new role."
+ },
+ "Brandify": {
+  "price": "$479",
+  "price_note": "Starter · flat monthly service fee for one website and one primary business…",
+  "verified": "2026-10-24",
+  "catch": "A managed agency service, not software: the fee buys a monthly work allowance, and AI mentions are not guaranteed.",
+  "best": "US local and service businesses with one website that want an agency to handle Google Business Profile, directory citations, schema and new content for AI search."
+ },
+ "Try You": {
+  "price": "$0.04",
+  "price_note": "Light · per usage, per successful try-on, no monthly fee",
+  "verified": "2026-10-24",
+  "catch": "No monthly fee, but every successful try-on is billed, and shopper photos go to third-party AI models.",
+  "best": "Shopify stores selling clothing, eyewear, bags, shoes or accessories that want shoppers to see the item on themselves."
+ },
+ "CrossLoop": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "Launch Film · per one-time, one-time credit packs, no subscription: Launch Film $9 (1 credit)…",
+  "verified": "2026-10-24",
+  "catch": "One-time packs from $9, but the refund covers only the first purchase and films are deleted after 30 days.",
+  "best": "Founders and small SaaS, AI-tool and ecommerce teams who need a narrated launch or promo video for a product page or a Product Hunt or LinkedIn launch."
  }
 }
