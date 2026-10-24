@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 49,
-  "flags": 113,
+  "flags": 112,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on zerotouchsupport.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1432,7 +1432,7 @@
    "entry_price": "$9.99",
    "entry_price_terms": "per month (1 user, unlimited minutes, one phone number)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-09 on unitelvoice.com/pricing) Three plans, no contracts: Solo $9.99/mo, Team $19.99/mo and Office $29.99/mo, each with one phone number and unlimited minutes. Annual billing takes 30% off, making them $6.99, $13.99 and $20.99 a month. Solo is one user, Team carries unlimited users, and Office includes three with additional users at $9.99 each a month. The plan set we recorded in August — Start-Up, Unlimited at $24.99 and Office-Max at $69.99 — is no longer offered on the page. Support is US-based, there is a 30-day money-back guarantee, and every plan includes a professionally recorded greeting. One caveat on those unlimited minutes: the pricing FAQ offers 3.9¢ per minute above \"the minutes on your plan\" and still names an Office-Max plan the page no longer sells, so the page contradicts its own cards — probably stale text, but unconfirmed.",
+   "price_note": "(re-verified 2026-10-24 on signup.unitelvoice.com/pick-plan, where unitelvoice.com/pricing now lands) Three plans, no contracts: Solo $9.99/mo, Team $19.99/mo and Office $29.99/mo, each with one toll-free or local number and unlimited calling and texting. Yearly billing is charged as $84, $168 and $252 a year (the cards say \"Save $36/year\", $72 and $108); the comparison table shows that as $6.99, $13.99 and $20.99 a month, a few cents under the yearly total divided by twelve. Solo is one user, Team carries unlimited users, and Office includes three with additional users at $9.99 each a month. Business texting carries a carrier cost on top of any plan: a one-time $19.50 registration fee and a $1.50 monthly compliance fee, which the FAQ says go to The Campaign Registry and the carriers and are due only once you activate texting; approval can take up to 10 business days. The plan set we recorded in August — Start-Up, Unlimited at $24.99 and Office-Max at $69.99 — is no longer offered. Support is US-based, there is a 30-day money-back guarantee, and every plan includes free professional recordings. The FAQ answer we flagged on 2026-09-09, which offered 3.9¢ per minute above the plan's minutes and named Office-Max, is no longer on the page.",
    "flags": [
     {
      "flag": "per_seat",
@@ -1440,28 +1440,20 @@
      "evidence_excerpt": null,
      "source_url": "https://www.unitelvoice.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-09"
+     "verified_at": "2026-10-24"
     },
     {
      "flag": "usage_metered",
-     "evidence": "One caveat on those unlimited minutes: the pricing FAQ offers 3.9¢ per minute above \"the minutes on your plan\" and still names an Office-Max plan the page no longer sells, so the page contradicts its own cards — probably stale text, but unconfirmed.",
-     "evidence_excerpt": "One caveat on those unlimited minutes: the pricing FAQ offers 3.9¢ per minute above \"the minutes on your plan\" and still names an Office-Max plan the page no longer sells, so the page contradicts its…",
-     "source_url": "https://www.unitelvoice.com/pricing",
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-09"
-    },
-    {
-     "flag": "annual_lock",
-     "evidence": "Annual billing takes 30% off, making them $6.99, $13.99 and $20.99 a month.",
+     "evidence": "The FAQ answer we flagged on 2026-09-09, which offered 3.9¢ per minute above the plan's minutes and named Office-Max, is no longer on the page.",
      "evidence_excerpt": null,
      "source_url": "https://www.unitelvoice.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-09"
+     "verified_at": "2026-10-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-09",
-   "first_observed_at": "2026-09-09"
+   "price_verified_at": "2026-10-24",
+   "first_observed_at": "2026-10-24"
   },
   {
    "name": "Vanity Number",
