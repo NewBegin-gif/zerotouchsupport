@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for customer support and voice software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 49,
-  "flags": 112,
+  "tools": 50,
+  "flags": 115,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on zerotouchsupport.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -910,6 +910,46 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-07",
    "first_observed_at": "2026-08-17"
+  },
+  {
+   "name": "Landbot",
+   "category": "Customer Support",
+   "domain": "landbot.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/landbot-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "€32",
+   "entry_price_terms": "Starter · billed annually (€40 paid monthly)",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-25 on landbot.io/pricing with both the Annual and the Monthly toggle clicked, and in Landbot's billing FAQ at help.landbot.io) Free is €0 for 100 chats a month, one seat, the full builder and templates, and a WhatsApp test number, but no AI chats. Starter is €32 a month billed annually or €40 paid monthly, with 500 chats, 100 AI chats and 2 seats. Professional is €80 annually or €100 monthly, with 2,500 chats, 300 AI chats, 3 seats, no Landbot branding and the HubSpot, Airtable and webhook integrations. Professional WA, the WhatsApp tier, is €160 annually or €200 monthly with 500 AI chats. Business is priced by contract, from 5 seats, with one WhatsApp number, dedicated support and an uptime SLA. Over your allowance, each extra chat costs €0.05, billed in 500-chat packs of €25, and each extra AI chat €0.10; an extra seat is €25 a month. Prices are before tax, and annual billing is a 12-month commitment. There is a 14-day trial with everything included, after which the account drops to Free without a card.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "There are two meters, and the second one is easy to miss: every conversation that touches an AI block counts as an AI chat at €0.10 beyond the allowance, on top of regular chat overage sold in €25 packs.",
+     "evidence_excerpt": "There are two meters, and the second one is easy to miss: every conversation that touches an AI block counts as an AI chat at €0.10 beyond the allowance, on top of regular chat overage sold in €25 pa…",
+     "source_url": "https://landbot.io/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-25"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Prices are before tax, and annual billing is a 12-month commitment.",
+     "evidence_excerpt": null,
+     "source_url": "https://landbot.io/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-25"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-10-25 on landbot.io/pricing with both the Annual and the Monthly toggle clicked, and in Landbot's billing FAQ at help.landbot.io) Free is €0 for 100 chats a month, one seat, the full builder and templates, and a WhatsApp test number, but no AI chats.",
+     "evidence_excerpt": "(read 2026-10-25 on landbot.io/pricing with both the Annual and the Monthly toggle clicked, and in Landbot's billing FAQ at help.landbot.io) Free is €0 for 100 chats a month, one seat, the full build…",
+     "source_url": "https://landbot.io/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-25"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-25",
+   "first_observed_at": "2026-10-25"
   },
   {
    "name": "Lucrovox",
