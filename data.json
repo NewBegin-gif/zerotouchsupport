@@ -4305,5 +4305,42 @@
     "domain": "crossloop.ai",
     "desc": "Turns a public web page into a narrated launch video in three formats (16:9, 9:16, 4:5) with captions and suggested social copy, sold as one-time credit packs instead of a subscription.",
     "link": "https://crossloop.si?aff=6NyDVn"
+  },
+  {
+    "name": "Landbot",
+    "category": "Customer Support",
+    "domain": "landbot.io",
+    "desc": "No-code chatbot builder for websites, WhatsApp and Messenger: design conversation flows visually or from a template, add AI agent blocks, and send the answers to your CRM or spreadsheet.",
+    "link": "https://get.landbotlab.com/26tf4m1ixe56"
+  },
+  {
+    "name": "Recruit CRM",
+    "category": "HR & People",
+    "domain": "recruitcrm.io",
+    "desc": "Applicant tracking system and client CRM for recruitment agencies, with a Chrome sourcing extension, hiring manager portal, AI sourcing and multichannel outreach on a shared credit pool.",
+    "link": "https://recruitcrm.io?fpr=aibuilder-6e8f04"
+  },
+  {
+    "name": "Froonze",
+    "category": "E-commerce",
+    "domain": "froonze.com",
+    "desc": "Modular Shopify app for customer retention: loyalty points, VIP tiers, referrals, store credit, a wishlist with restock and price-drop alerts, reviews and an enhanced customer account page, each switched on and billed separately.",
+    "link": "https://platform.shoffi.app/r/rl_UblBvYk6",
+    "platform": "shopify"
+  },
+  {
+    "name": "Visibility Mesh",
+    "category": "SEO & Marketing",
+    "domain": "visibilitymesh.com",
+    "desc": "Shopify app that audits how well AI assistants and search engines can read your store and lists fixes for products, collections, pages, schema, llms.txt and crawler access, with a competitor comparison and backlink audit.",
+    "link": "https://platform.shoffi.app/r/rl_uzkwSQhl",
+    "platform": "shopify"
+  },
+  {
+    "name": "Netart",
+    "category": "IT & Productivity",
+    "domain": "netart.com",
+    "desc": "Cloud hosting provider (NetArt Group) with CloudHosting plans that include a CDN, PHP, Node.js and several database engines, plus domains, business email, VPS, backup and SSL services.",
+    "link": "https://www.tkqlhce.com/click-101832528-15853292-1720817427000"
   }
 ]
