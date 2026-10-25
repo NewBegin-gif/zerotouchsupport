@@ -9709,5 +9709,84 @@
   "verified": "2026-10-24",
   "catch": "One-time packs from $9, but the refund covers only the first purchase and films are deleted after 30 days.",
   "best": "Founders and small SaaS, AI-tool and ecommerce teams who need a narrated launch or promo video for a product page or a Product Hunt or LinkedIn launch."
+ },
+ "Landbot": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "€32",
+  "price_note": "Starter · billed annually (€40 paid monthly)",
+  "verified": "2026-10-25",
+  "catch": "Free plan has no AI chats, and AI conversations are metered separately at €0.10 each beyond the allowance.",
+  "best": "Marketing, sales and support teams that want a visual, no-code chatbot for lead capture or first-line answers on their website or WhatsApp."
+ },
+ "Recruit CRM": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "€79",
+  "price_note": "Pro · per user a month billed annually (€95 billed monthly)",
+  "verified": "2026-10-25",
+  "catch": "Seats are only part of the bill: outreach features run on credits, and unused annual time is not refunded.",
+  "best": "Recruitment and staffing agencies that want an applicant tracking system and a client CRM in one place, with a Chrome sourcing extension, a hiring manager portal and."
+ },
+ "Froonze": {
+  "verified": "2026-10-25",
+  "catch": "Each plugin is billed separately by order volume, and the 14-day trial is spent once for the whole app.",
+  "best": "Shopify stores that want loyalty points, VIP tiers, referrals and a wishlist with restock and price-drop alerts from one vendor, paying only for the modules they use."
+ },
+ "Visibility Mesh": {
+  "price": "$29",
+  "price_note": "Starter · per month, Shopify app billed every 30 days in USD",
+  "verified": "2026-10-25",
+  "catch": "Only the $179 Growth plan applies fixes for you, and the vendor promises no rankings or traffic.",
+  "best": "Shopify store owners who want a concrete list of what to change so AI assistants and search engines can read their products, collections and pages."
+ },
+ "Netart": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$18.75",
+  "price_note": "CloudHosting Start · standard monthly price, net (VAT added where it applies)",
+  "verified": "2026-10-25",
+  "catch": "The cheap first term is a promotion; renewals are at the standard price, and backup costs extra.",
+  "best": "Businesses and developers who want managed cloud hosting with a built-in CDN, PHP and Node.js, MariaDB, PostgreSQL, MongoDB and Redis on one platform."
  }
 }
