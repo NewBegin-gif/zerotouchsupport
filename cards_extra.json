@@ -5783,9 +5783,9 @@
     "free_tier"
    ]
   ],
-  "price": "$5.99",
-  "price_note": "Pro · per month, or $49.99 a year (30% less)",
-  "verified": "2026-10-20",
+  "price": "$19",
+  "price_note": "Pro · per month, or $159 a year",
+  "verified": "2026-10-25",
   "catch": "Blocking by country and IP is a blunt instrument and it cuts both ways: every rule that keeps out a fraudster also keeps out a customer travelling, using a corporate VPN, or living behind a carrier NAT.",
   "best": "Stores seeing real fraud or bot traffic that want country, IP, VPN and email-risk rules plus automatic holds on suspicious orders."
  },
