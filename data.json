@@ -462,7 +462,7 @@
     "category": "Operations & Workflow",
     "domain": "logbase.io",
     "desc": "Shopify appointment booking that lives in the storefront: Calendly-style slots for services, classes, rentals and events, with staff and multi-location schedules, deposits and partial payments, and the money taken at your own checkout. Bookings are unlimited on every tier — the ladder is gated on locations and team members.",
-    "link": "https://platform.shoffi.app/r/rl_gfIV1kJt",
+    "link": "https://apps.shopify.com/appointment-booking-bookeasy",
     "platform": "shopify"
   },
   {
@@ -3638,7 +3638,7 @@
     "category": "E-commerce",
     "domain": "logbase.io",
     "desc": "Shopify local pickup and delivery scheduler (by Logbase): customers pick a date and time slot, with cut-off and preparation times, blackout dates, per-slot order limits and zip-code checks, across one to twenty locations. Tiers are gated on locations and rate rules, and the app's own delivery rates need Shopify's carrier-calculated shipping.",
-    "link": "https://platform.shoffi.app/r/rl_ghBEvFHp",
+    "link": "https://apps.shopify.com/order-delivery-date-time",
     "platform": "shopify"
   },
   {
