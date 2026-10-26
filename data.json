@@ -4349,5 +4349,34 @@
     "domain": "design.com",
     "desc": "AI logo maker that also builds matching business cards, social graphics, a link-in-bio page and a simple website from one template library. Sold as a subscription that covers one logo.",
     "link": "https://www.awin1.com/cread.php?awinmid=101111&awinaffid=2880219"
+  },
+  {
+    "name": "EditEngine",
+    "category": "E-commerce",
+    "domain": "bulkeditor.app",
+    "desc": "Shopify bulk product editor (by Profitonium): filter products by collection, tag, vendor or status, then change prices, titles, tags, inventory, SEO fields and metafields in one run, with a preview first, scheduled runs for sales and an undo history. Plans are gated on products per task.",
+    "link": "https://platform.shoffi.app/r/rl_VA1zHLzi",
+    "platform": "shopify"
+  },
+  {
+    "name": "Lensmor",
+    "category": "Growth & Revenue",
+    "domain": "lensmor.com",
+    "desc": "Trade-show prospecting for B2B teams: search events for free, then spend credits to unlock exhibitor, attendee and visitor lists and to reveal verified emails and phone numbers, with an AI agent that shortlists shows that fit your ideal customer profile.",
+    "link": "https://www.awin1.com/cread.php?awinmid=128865&awinaffid=2880219"
+  },
+  {
+    "name": "Yaps",
+    "category": "Video & Audio",
+    "domain": "yaps.ai",
+    "desc": "Voice tools that run on your own device: dictation into any app, transcription of audio and video files with SRT captions, read-aloud voices and voice notes. Free on Android, iPhone and iPad; the desktop apps for Windows, macOS and Linux need Yaps Pro.",
+    "link": "https://www.awin1.com/cread.php?awinmid=131219&awinaffid=2880219"
+  },
+  {
+    "name": "pCloud",
+    "category": "IT & Productivity",
+    "domain": "pcloud.com",
+    "desc": "Swiss cloud storage for individuals, families and teams, best known for lifetime plans paid once instead of a subscription; includes file sync, versioning, shared folders and links, a media player, and optional client-side encryption as a paid add-on.",
+    "link": "https://www.awin1.com/cread.php?awinmid=89423&awinaffid=2880219"
   }
 ]
