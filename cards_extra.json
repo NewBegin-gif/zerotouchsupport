@@ -3799,7 +3799,7 @@
   "best": "Shopify merchants selling across several European marketplaces — Bol, Zalando, Allegro, Cdiscount, Miinto and the rest."
  },
  "Kopage": {
-  "verified": "2026-10-16",
+  "verified": "2026-10-25",
   "catch": "Solo covers 5 client sites; refunds are generally not given.",
   "best": "Freelancers and small agencies that build simple websites for local clients and want to sell them under their own brand, with hosting included."
  },
@@ -8815,7 +8815,7 @@
   ],
   "price": "$11",
   "price_note": "Starter · per month billed yearly ($132 a year), one website",
-  "verified": "2026-10-08",
+  "verified": "2026-10-25",
   "catch": "Starter stops at 10 pages with no blog or shop, and each subscription covers one site.",
   "best": "Small businesses and freelancers who want a template-based site with forms and integrations for one business, at a low yearly price."
  },
@@ -9073,7 +9073,7 @@
   ],
   "price": "$22",
   "price_note": "Launch · per month equivalent billed annually",
-  "verified": "2026-10-11",
+  "verified": "2026-10-25",
   "catch": "Pagecloud AI has no native blog or store on Launch, Grow or Optimize; AI usage is given only as multipliers.",
   "best": "Small businesses, consultants and creatives who want a brochure site with inquiry forms, built and edited by chatting with Pagecloud AI."
  },
@@ -9253,7 +9253,7 @@
   ],
   "price": "$9",
   "price_note": "Pro · per account per month, or $90 a year",
-  "verified": "2026-10-14",
+  "verified": "2026-10-25",
   "catch": "Paid fees are non-refundable, and the terms do not say which company runs it; Slack, PagerDuty and status pages need Pro.",
   "best": "Developers and small teams who want HTTP, API, SSL and keyword uptime checks plus a basic SEO audit in one cheap tool, with a free plan that covers 50 monitors."
  },
@@ -9327,7 +9327,7 @@
   ],
   "price": "$19.99",
   "price_note": "Starter · per month billed annually for 320 transcription minutes a month",
-  "verified": "2026-10-14",
+  "verified": "2026-10-25",
   "catch": "Starter's $2.80-an-hour claim works out to about $3.75; monthly billing doubles the price and fees are non-refundable.",
   "best": "Podcasters, YouTubers, researchers and small teams who transcribe a predictable number of hours a month, want unlimited users without seat fees."
  },
@@ -9788,5 +9788,12 @@
   "verified": "2026-10-25",
   "catch": "The cheap first term is a promotion; renewals are at the standard price, and backup costs extra.",
   "best": "Businesses and developers who want managed cloud hosting with a built-in CDN, PHP and Node.js, MariaDB, PostgreSQL, MongoDB and Redis on one platform."
+ },
+ "Design.com": {
+  "price": "$25",
+  "price_note": "Starter (Logo Pack) · per month, the purchasing FAQ's 'typically' figure, not a checkout quote: Starter…",
+  "verified": "2026-10-26",
+  "catch": "One logo per subscription; real price shown only at checkout.",
+  "best": "Founders and small businesses that want one logo plus matching business cards, social graphics and a simple website from the same template library."
  }
 }
