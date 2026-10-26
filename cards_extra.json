@@ -126,7 +126,9 @@
     "addons_extra"
    ]
   ],
-  "verified": "2026-09-11",
+  "price": "$20",
+  "price_note": "Core (per client) · per client per month billed annually",
+  "verified": "2026-10-26",
   "catch": "Cost rises with every client you add, and the most-cited complaint is data connectors that disconnect without a clear warning.",
   "best": "Marketing agencies that need white-label client reports from 85+ integrations — automated, on-brand and hands-off."
  },
