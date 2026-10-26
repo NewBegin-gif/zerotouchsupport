@@ -9795,5 +9795,81 @@
   "verified": "2026-10-26",
   "catch": "One logo per subscription; real price shown only at checkout.",
   "best": "Founders and small businesses that want one logo plus matching business cards, social graphics and a simple website from the same template library."
+ },
+ "EditEngine": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9.99",
+  "price_note": "Basic · per month, per store per 30 days on the Shopify App Store listing, billed in USD",
+  "verified": "2026-10-26",
+  "catch": "Undo does not cover deletes; repeated percentage edits stack.",
+  "best": "Shopify merchants with hundreds or thousands of products who change prices, tags."
+ },
+ "Lensmor": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$499",
+  "price_note": "Basic · flat price for a workspace of up to 5 seats with 35,000 credits a month",
+  "verified": "2026-10-26",
+  "catch": "From $499 a month; a full event unlock costs 5,000 credits.",
+  "best": "B2B sales and marketing teams that exhibit at or prospect around trade shows and want exhibitor and attendee lists per event."
+ },
+ "Yaps": {
+  "flags": [
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$144",
+  "price_note": "Yaps Pro · per year, annual billing, shown as $12 a month, for the desktop apps",
+  "verified": "2026-10-26",
+  "catch": "Desktop trial converts automatically; Windows still in beta.",
+  "best": "Writers, students and professionals who dictate or transcribe every day and want the speech processing on their own computer, across Windows, macOS and Linux."
+ },
+ "pCloud": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "€219",
+  "price_note": "Premium 500 GB Lifetime · one-time payment for 500 GB, read from a Netherlands connection…",
+  "verified": "2026-10-26",
+  "catch": "Client-side encryption costs extra; refunds can be refused on discounts.",
+  "best": "Individuals and families who want a large amount of cloud storage for years and would rather pay once than keep a subscription running."
  }
 }
