@@ -3177,17 +3177,12 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "📅",
-    "Annual commit",
-    "annual_lock"
    ]
   ],
-  "price": "$129",
-  "price_note": "Lite · per month, annual billing only",
-  "verified": "2026-10-06",
-  "catch": "Mind the fine print between tiers: the entry plan does not include your annual tax filing (a ~$750 one-off on Lite), it is annual billing only, and messy back-months cost extra as catch-up fees.",
+  "price": "$255",
+  "price_note": "from · per month",
+  "verified": "2026-10-27",
+  "catch": "Mind the fine print between tiers: the entry plan does not include your annual tax filing (a $750 add-on on Lite), month-to-month billing costs $20 to $50 a month more than the annual rate, and messy back-months cost extra as catch-up fees.",
   "best": "Therapists and health-and-wellness practice owners — SLPs, dieticians, chiropractors, audiologists, coaches, massage and physical therapists."
  },
  "Hello Bar": {
