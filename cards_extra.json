@@ -6076,6 +6076,11 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$10",
