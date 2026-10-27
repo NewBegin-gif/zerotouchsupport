@@ -9873,5 +9873,33 @@
   "verified": "2026-10-26",
   "catch": "Client-side encryption costs extra; refunds can be refused on discounts.",
   "best": "Individuals and families who want a large amount of cloud storage for years and would rather pay once than keep a subscription running."
+ },
+ "Sucuri": {
+  "price": "$229",
+  "price_note": "Basic Platform · one website, billed yearly",
+  "verified": "2026-10-27",
+  "catch": "Priced per site; cancelling takes a ticket; refund rules conflict.",
+  "best": "Site owners and small businesses who want a firewall in front of their site plus a security team that cleans up a hack for them, on WordPress or any other CMS and host."
+ },
+ "Compass": {
+  "price": "$49",
+  "price_note": "Compass · per month, one plan with every feature, billed in USD every 30 days through…",
+  "verified": "2026-10-27",
+  "catch": "Meta ads only; broad store permissions for an analytics app.",
+  "best": "Shopify merchants who spend on Meta ads and want one simple view of which campaigns turn into real store sales, with plain-English answers instead of Ads Manager reports."
+ },
+ "NexGen Virtual Office": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ]
+  ],
+  "price": "$25",
+  "price_note": "SMB Monthly · per user, paid monthly, for 1 to 100 employees with self implementation",
+  "verified": "2026-10-27",
+  "catch": "Little public documentation; no current free trial.",
+  "best": "Small and mid-sized remote or hybrid teams, up to 100 people, who want a visual virtual office with drop-in video and chat instead of scheduling every conversation."
  }
 }
