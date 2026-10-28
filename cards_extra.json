@@ -9673,6 +9673,10 @@
   "price_note": "from · per month or $71.99/yr",
   "verified": "2026-10-23",
   "catch": "Unused quota expires monthly; only annual Ultra is (mostly) unlimited.",
+  "coupon": {
+   "code": "DAAN15",
+   "label": "15% off FineVoice for AI Builder Marketplace readers"
+  },
   "best": "Solo creators, educators and small teams who want text to speech, voice changing, cloning, transcription and sound effects in one subscription."
  },
  "RoverLead": {
