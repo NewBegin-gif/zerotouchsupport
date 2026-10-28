@@ -6181,11 +6181,16 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$39",
   "price_note": "from · per month, monthly only (drops on annual billing)",
-  "verified": "2026-09-27",
+  "verified": "2026-10-27",
   "catch": "Smartli bundles nine AI tools — copy, SEO, images, logos — into one suite, and that breadth is also the honest catch: each individual tool is competent rather than best-in-class, so a team that leans hard on one job may outgrow it toward a specialist.",
   "best": "E-commerce sellers who want an affordable all-in-one AI suite to draft product listings, ad copy, SEO text and basic brand assets in one place."
  },
@@ -8491,7 +8496,7 @@
  "StoreLock": {
   "price": "$19",
   "price_note": "Premium · per month, 3-day free trial",
-  "verified": "2026-10-01",
+  "verified": "2026-10-27",
   "catch": "The copy protection cannot stop screenshots, developer tools or automated scrapers, which is how stores actually get cloned; the real work is detection and takedown.",
   "best": "Shopify merchants with their own product photography and a brand worth copying, especially those whose store has already been cloned."
  },
@@ -8529,6 +8534,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$20",
@@ -8573,7 +8583,7 @@
  "Create": {
   "price": "€9.99",
   "price_note": "Portfolio · per month billed monthly, excluding VAT, 10 pages and no shop",
-  "verified": "2026-10-03",
+  "verified": "2026-10-27",
   "catch": "Professional's shop stops at 250 products and leaves out digital downloads, basket recovery and Google Shopping; those start on Business at twice the price.",
   "best": "UK sole traders, makers and small shops that want a hosted website and a modest online shop with an account manager and UK-based support."
  },
