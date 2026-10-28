@@ -904,7 +904,7 @@
   ],
   "price": "$349",
   "price_note": "from · per month for 15,000 (Booster $799 for 50,000)",
-  "verified": "2026-09-13",
+  "verified": "2026-10-28",
   "catch": "Every email or phone the waterfall finds costs one to twelve credits depending on how many providers you let it try, so the same 15,000 credits are 15,000 enriched contacts or 1,250.",
   "best": "Sales and RevOps teams that already run enrichment across several vendors and want the waterfall, the signals and the CRM sync in one place."
  },
@@ -7220,7 +7220,7 @@
   ],
   "price": "$9",
   "price_note": "from · per month (FAQ-stated minimum)",
-  "verified": "2026-09-13",
+  "verified": "2026-10-28",
   "catch": "The tier jumps are steep and a lot is gated: analytics are capped at 60 days on the entry plan, scan limits apply across all tiers, and custom domains sit behind higher pricing.",
   "best": "Marketing teams that need dynamic QR codes with real analytics and enterprise compliance (SOC 2, GDPR, ISO 27001, optional HIPAA)."
  },
