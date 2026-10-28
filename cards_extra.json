@@ -7770,6 +7770,10 @@
   "price_note": "from · per month, billed annually",
   "verified": "2026-10-20",
   "catch": "The 'starting from' wording is doing real work: £166/mo is the floor of the cheapest module, billed annually, so a working setup for a brand that sells wholesale quickly stacks toward £332/mo and beyond — about £4,000 a year before add-ons.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: 15% off your first year with Zedonk"
+  },
   "best": "Small and mid-size fashion brands that need sales, production, inventory and wholesale in one system built around size curves, seasons and linesheets."
  },
  "Zeffy": {
