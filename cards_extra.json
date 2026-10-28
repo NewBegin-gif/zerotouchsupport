@@ -6794,7 +6794,7 @@
   ],
   "price": "$149",
   "price_note": "Essentials, up to $10K… · per month billed annually",
-  "verified": "2026-10-13",
+  "verified": "2026-10-28",
   "catch": "Read the Advanced tier carefully, because it is not a subscription — it is a subscription plus a percentage.",
   "best": "Amazon and Walmart sellers spending enough on ads that a few points of efficiency covers the fee — under $10K a month the flat $149 is straightforward."
  },
@@ -7964,7 +7964,7 @@
   ],
   "price": "$9",
   "price_note": "Pro · per month, or $99 a year",
-  "verified": "2026-10-03",
+  "verified": "2026-10-28",
   "catch": "It has no track record at all.",
   "best": "Shopify merchants who already care about being cited in ChatGPT, Gemini and Perplexity, and who want the audit, the schema deployment."
  },
@@ -8485,12 +8485,17 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "$169",
   "price_note": "from · per month",
-  "verified": "2026-10-01",
-  "catch": "The credit numbers on the plan cards shrink once you read the help centre's price list.",
+  "verified": "2026-10-28",
+  "catch": "The credit numbers on the plan cards shrink once you read the price list.",
   "best": "Small sales teams and agencies that want a B2B lead database, cold email with unlimited inboxes and warm-up, LinkedIn automation and a basic CRM under one login."
  },
  "StoreLock": {
@@ -8734,7 +8739,7 @@
   ],
   "price": "€29",
   "price_note": "Starter · billed monthly",
-  "verified": "2026-10-06",
+  "verified": "2026-10-28",
   "catch": "Designing is free but downloading is paid, and once you download you lose the refund; there is no one-off logo price.",
   "best": "Small businesses, solo founders and agencies that want a logo, a matching brand kit and on-brand social posts, bio pages and a simple website from one tool."
  },
@@ -9139,7 +9144,7 @@
   ],
   "price": "€2.49",
   "price_note": "from · per month (€1.99 yearly)",
-  "verified": "2026-10-12",
+  "verified": "2026-10-28",
   "catch": "No refunds once a payment is processed, and monthly AI credits reset to the plan allowance at renewal and fall to zero if you cancel.",
   "best": "People who edit photos and make quick social and marketing images in the browser and want a cheap ad-free editor, with optional AI image."
  },
