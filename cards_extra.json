@@ -9673,6 +9673,11 @@
     "usage_metered"
    ],
    [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -9680,7 +9685,7 @@
   ],
   "price": "$8.99",
   "price_note": "from · per month or $71.99/yr",
-  "verified": "2026-10-23",
+  "verified": "2026-10-29",
   "catch": "Unused quota expires monthly; only annual Ultra is (mostly) unlimited.",
   "coupon": {
    "code": "DAAN15",
