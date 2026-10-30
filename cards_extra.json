@@ -8131,21 +8131,16 @@
  "Selleasy": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
-  "price": "$15",
-  "price_note": "from · per month",
-  "verified": "2026-10-20",
-  "catch": "The meter is your whole store, not the app.",
-  "best": "Shopify stores that want bundles, add-ons, cart funnels and post-purchase offers out of one app and would rather be billed on order volume than hand over a share of the upsell revenue — and small stores in particular, since under 50 orders a month the full strategy set costs nothing."
+  "price": "$9",
+  "price_note": "Starter · per month, flat, unlimited orders and campaigns",
+  "verified": "2026-10-30",
+  "catch": "The pricing changed under this review in October 2026, and the vendor's own page has not caught up.",
+  "best": "Shopify stores that want bundles, add-ons, cart funnels and post-purchase offers out of one app on a flat fee that never takes a share of upsell revenue."
  },
  "Warn": {
   "price": "$6.99",
