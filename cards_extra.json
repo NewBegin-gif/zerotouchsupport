@@ -2374,7 +2374,7 @@
   ],
   "price": "$6",
   "price_note": "Starter · per month, billed monthly",
-  "verified": "2026-09-23",
+  "verified": "2026-10-30",
   "catch": "Credits are the meter and retakes are the tax — you are charged per generation request, and a regeneration is only free while the content and settings are unchanged, so real usage lands well above the calculator estimate.",
   "best": "Creators, developers and product teams that want the most realistic AI voices available — voiceovers, audiobooks, dubbing, conversational agents and a well-documented API."
  },
@@ -2735,7 +2735,7 @@
   ],
   "price": "$25",
   "price_note": "from · per month billed monthly or $17/mo billed yearly ($204/yr)",
-  "verified": "2026-09-22",
+  "verified": "2026-10-30",
   "catch": "The monthly response caps are the business model: 20 on free, 500 on Essentials, 2,000 on Premium and 25,000 on Enterprise -- one viral quiz or one big exam cohort and you're shopping a tier up.",
   "best": "Educators, trainers and small teams that want professional graded quizzes, exams and simple courses — with certificates, timed tests, question banks and analytics."
  },
@@ -3600,25 +3600,18 @@
  "Katana MRP": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
    ],
    [
-    "🆓",
-    "Free tier",
-    "free_tier"
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
-  "price": "$299",
-  "price_note": "from · per month",
-  "verified": "2026-09-23",
-  "catch": "The $299 headline is the floor.",
+  "verified": "2026-10-30",
+  "catch": "There is no public price above Free any more.",
   "best": "Product makers and small manufacturers who need live inventory, production scheduling and multi-channel order sync in one cloud platform."
  },
  "Keap": {
@@ -9091,6 +9084,10 @@
   "price_note": "Launch · per month equivalent billed annually",
   "verified": "2026-10-25",
   "catch": "Pagecloud AI has no native blog or store on Launch, Grow or Optimize; AI usage is given only as multipliers.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: 20% off your first payment"
+  },
   "best": "Small businesses, consultants and creatives who want a brochure site with inquiry forms, built and edited by chatting with Pagecloud AI."
  },
  "Vanity Number": {
@@ -9181,6 +9178,10 @@
   ],
   "verified": "2026-10-20",
   "catch": "Free covers 2,500 subscribers, but the paid prices on the cards are for 500; slide to your list size, and the 30% annual discount is for the first year only.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: black Friday pricing for new customers"
+  },
   "best": "Small businesses, shops and creators with lists up to a few thousand subscribers who want newsletters, automation, forms and SMS at a low price."
  },
  "xTiles": {
