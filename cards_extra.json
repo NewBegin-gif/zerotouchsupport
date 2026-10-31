@@ -1720,7 +1720,7 @@
   ],
   "price": "$14.99",
   "price_note": "from · per month",
-  "verified": "2026-09-16",
+  "verified": "2026-10-31",
   "catch": "Read the free plan's number twice, because the word doing the work is 'lifetime': it is 500 codes in total, not 500 a month.",
   "best": "Shopify stores that already run email or SMS campaigns and need thousands of unique, single-use codes generated out of one existing discount and handed over as a CSV."
  },
@@ -9925,5 +9925,12 @@
   "verified": "2026-10-27",
   "catch": "Little public documentation; no current free trial.",
   "best": "Small and mid-sized remote or hybrid teams, up to 100 people, who want a visual virtual office with drop-in video and chat instead of scheduling every conversation."
+ },
+ "Slasify": {
+  "price": "$250",
+  "price_note": "Employer of Record · per month, starting-at price on the pricing page",
+  "verified": "2026-10-31",
+  "catch": "Only starting prices are public: EOR from $250 a month and contractors from $50 a month, with no statement that these are per worker, and Global Payroll is quote-only.",
+  "best": "Companies hiring a few people in countries where they have no entity, especially in Southeast Asia."
  }
 }
