@@ -2184,7 +2184,7 @@
   ],
   "price": "$39",
   "price_note": "2,500 contacts · per month",
-  "verified": "2026-09-17",
+  "verified": "2026-11-01",
   "catch": "Unlimited sends hold only to 30,000 people; from 30,001 the allowance becomes twelve sends per contact per month, and Drip never flags the switch.",
   "best": "An online store on Shopify, WooCommerce or BigCommerce that already has order data worth segmenting and wants ecommerce playbooks."
  },
@@ -3723,7 +3723,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month",
-  "verified": "2026-09-17",
+  "verified": "2026-11-01",
   "catch": "The free plan covers only the first 50 discount orders a month, then $29 a month is billed, and Free and Starter are not for Shopify Advanced and Plus, whose entry tier is $49.",
   "best": "Shopify stores that want the discount mechanics themselves."
  },
@@ -6344,7 +6344,7 @@
  "Stackable": {
   "price": "$19.99",
   "price_note": "Growth · per month, or $199.99 a year",
-  "verified": "2026-09-17",
+  "verified": "2026-11-01",
   "catch": "The two halves of the pitch are priced five times apart.",
   "best": "Shopify stores running several promotions at once — an order discount, free shipping and a collection deal."
  },
