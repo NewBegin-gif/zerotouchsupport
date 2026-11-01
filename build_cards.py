@@ -337,6 +337,9 @@ def _alt_met_link(html_uit, root=None):
         doel, rel = f"/{sl}.html", ""
     elif sl in _AIBM_REVIEWS:
         doel = f"https://aibuildermarketplace.com/b2b/{sl}/"
+        # 1 nov 2026: verhuisde AIBM-reviews zijn een 301; link direct naar de zusterpagina
+        # (invariant geen-interne-links-301-410).
+        doel = _verhuisd().get(doel, doel)
         rel = ' target="_blank" rel="nofollow noopener"'
     else:
         return html_uit
@@ -344,6 +347,29 @@ def _alt_met_link(html_uit, root=None):
         m.group(0),
         f'<a href="{doel}"{rel} class="underline decoration-dotted '
         f'hover:text-indigo-300">{m.group(1)}</a>')
+
+
+_VERHUISD = None
+
+
+def _verhuisd():
+    """oude AIBM-review-URL -> nieuwe zuster-URL uit ops/verhuis_planning.json."""
+    global _VERHUISD
+    if _VERHUISD is None:
+        import json
+        _VERHUISD = {}
+        try:
+            d = json.load(open(Path(__file__).resolve().parent.parent / "ops" / "verhuis_planning.json", encoding="utf-8"))
+            for x in (d if isinstance(d, list) else d.get("rijen", [])):
+                if not isinstance(x, dict):
+                    continue
+                vm = x.get("voormeting") or {}
+                st = x.get("status") or (x.get("voorrang_historie") or {}).get("status")
+                if st == "verhuisd" and vm.get("oude_url") and vm.get("nieuwe_url"):
+                    _VERHUISD[vm["oude_url"]] = vm["nieuwe_url"]
+        except (OSError, ValueError):
+            pass
+    return _VERHUISD
 
 
 _AIBM_REVIEWS = set()
