@@ -765,18 +765,18 @@
    "domain": "helpcenterapp.com",
    "review_url": "https://aibuildermarketplace.com/b2b/helpcenter-review/",
    "from_price_usd_mo": null,
-   "entry_price": "$5.99",
-   "entry_price_terms": "Basic · per month, or $59.99 a year",
+   "entry_price": "$40",
+   "entry_price_terms": "Standard · per month, or $400 a year",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-08-29 on apps.shopify.com/helpcenter, re-verified unchanged 2026-10-14) Free to install, and the meter is tickets rather than agents — Basic already gives unlimited support agents, then bills for every ticket over the allowance. Free covers 10 tickets a month and charges $0.25 for each one after that. Basic is $5.99 a month or $59.99 a year, a 17% saving, and covers 50 tickets, then $0.16 each. Standard is $19.99 or $199.99 a year for 300 tickets, then $0.15. Advanced is $49.99 or $498.96 a year for 1,000 tickets, then $0.10. Every paid tier carries a 14-day free trial and all charges are billed in USD. Which means the headline $5.99 only holds to 50 tickets a month: at 300 tickets Basic works out at $45.99, because the 250 over the allowance add $40 — while Standard includes those same 300 for $19.99. Price the tier against your own ticket count rather than the entry rate. The App Store lists it as “SB: Helpdesk, Live Chat & FAQs” from Shark Byte, Inc — the product calls itself HelpCenter, so you will see both names. Rating 4.6 from 316 reviews on 14 October 2026.",
+   "price_note": "(re-verified 2026-11-01 on apps.shopify.com/helpcenter) Free to install, and the meter is tickets rather than agents. The plan ladder changed since our earlier reading: the small Basic tier is gone, so the first paid step is now Standard. Free covers 10 tickets a month and charges $0.25 for each one after that. Standard is $40 a month or $400 a year (the listing says this saves 17%) for 500 tickets, then $0.15 each, with unlimited seats. Advanced is $70 or $700 a year for 1,000 tickets, then $0.12. Enterprise is $120 or $1,200 a year for 2,000 tickets, then 0.1 per ticket, and adds a dedicated account manager. Every paid tier carries a 14-day free trial and all charges are billed in USD. Which means the jump from free to paid is now $0 to $40: on Free, 170 tickets a month cost $40 in overage, so below that volume staying on Free is cheaper than Standard. The App Store lists it as “SB: Helpdesk, Live Chat & FAQs” from Shark Byte, Inc — the product calls itself HelpCenter, so you will see both names. Rating 4.6 from 318 reviews on 1 November 2026.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(re-read 2026-08-29 on apps.shopify.com/helpcenter, re-verified unchanged 2026-10-14) Free to install, and the meter is tickets rather than agents — Basic already gives unlimited support agents, then bills for every ticket over the allowance.",
-     "evidence_excerpt": "(re-read 2026-08-29 on apps.shopify.com/helpcenter, re-verified unchanged 2026-10-14) Free to install, and the meter is tickets rather than agents — Basic already gives unlimited support agents, then…",
+     "evidence": "(re-verified 2026-11-01 on apps.shopify.com/helpcenter) Free to install, and the meter is tickets rather than agents.",
+     "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/helpcenter",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-14"
+     "verified_at": "2026-11-01"
     },
     {
      "flag": "free_tier",
@@ -784,12 +784,12 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/helpcenter",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-14"
+     "verified_at": "2026-11-01"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-14",
-   "first_observed_at": "2026-08-29"
+   "price_verified_at": "2026-11-01",
+   "first_observed_at": "2026-11-01"
   },
   {
    "name": "Jotform AI Agents",

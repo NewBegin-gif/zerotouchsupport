@@ -98,8 +98,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## HelpCenter
 - Review: https://zerotouchsupport.com/helpcenter-review.html
-- Verdict: HelpCenter: Free covers 10 tickets a month and charges $0.25 for each one after that. The free tier is the hook and the FAQ builder is the reason people stay.
-- Price: (re-read 2026-08-29 on apps.shopify.com/helpcenter, re-verified unchanged 2026-10-14) Free to install, and the meter is tickets rather than agents — Basic already gives unlimited support agents, then bills for every ticket over the allowance. Free covers 10 tickets a month and charges $0.25 for each one after that.
+- Verdict: HelpCenter: Free to install, and the meter is tickets rather than agents. The free tier is the hook and the FAQ builder is the reason people stay.
+- Price: (re-verified 2026-11-01 on apps.shopify.com/helpcenter) Free to install, and the meter is tickets rather than agents. The plan ladder changed since our earlier reading: the small Basic tier is gone, so the first paid step is now Standard.
 
 ## Jotform AI Agents
 - Review: https://zerotouchsupport.com/jotform-ai-agents-review.html

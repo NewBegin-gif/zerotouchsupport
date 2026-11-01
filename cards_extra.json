@@ -3217,10 +3217,10 @@
     "free_tier"
    ]
   ],
-  "price": "$5.99",
-  "price_note": "Basic · per month, or $59.99 a year",
-  "verified": "2026-10-14",
-  "catch": "The meter is tickets, not agents: Basic charges $0.16 for every ticket past fifty, so 300 tickets a month cost $45.99 against $19.99 on Standard.",
+  "price": "$40",
+  "price_note": "Standard · per month, or $400 a year",
+  "verified": "2026-11-01",
+  "catch": "No small paid tier any more: after Free (10 tickets, then $0.25 each) the next step is Standard at $40 a month for 500 tickets.",
   "best": "Small Shopify stores that want ticketing, live chat and a searchable FAQ page from one app rather than bolting three together.",
   "pw": "price held",
   "pw_soort": "held"
