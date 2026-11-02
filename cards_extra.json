@@ -9949,5 +9949,34 @@
   "verified": "2026-11-02",
   "catch": "No cloud on Essentials; 250 GB pre-selected on Advanced; renewal price not shown.",
   "best": "Home users and small home offices who want full-system image backup and disk cloning, with an optional cloud copy, on one to five computers."
+ },
+ "Hablaki": {
+  "price": "$9.99",
+  "price_note": "Hablaki licence · one-time lifetime licence for up to 2 computers, Mac or Windows…",
+  "verified": "2026-11-02",
+  "catch": "Six languages; internet needed for setup and licence checks.",
+  "coupon": {
+   "code": "AIBUILDER",
+   "label": "20% off the Hablaki licence with the code AIBUILDER at checkout"
+  },
+  "best": "People who write a lot on a Mac or Windows PC in one of its six languages and want dictation into any app, processed on their own computer, without a subscription."
+ },
+ "Petty Cash Manager": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$7",
+  "price_note": "Monthly · billed monthly, 2 devices",
+  "verified": "2026-11-02",
+  "catch": "Data stays per device unless you pay +$3/mo for Cloud sync.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: 50% off your first payment"
+  },
+  "best": "Small businesses that run an imprest petty cash float (shops, restaurants, site offices, clinics, schools) and want receipts."
  }
 }
