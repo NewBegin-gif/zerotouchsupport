@@ -9978,5 +9978,17 @@
    "label": "via our link: 50% off your first payment"
   },
   "best": "Small businesses that run an imprest petty cash float (shops, restaurants, site offices, clinics, schools) and want receipts."
+ },
+ "PrintSage": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "verified": "2026-11-02",
+  "catch": "US-only fulfillment; real cost per item shows only at checkout.",
+  "best": "Shopify, Etsy, TikTok Shop and Amazon sellers who sell custom apparel mainly to US customers and want in-house US printing with 2-day delivery and no subscription."
  }
 }
