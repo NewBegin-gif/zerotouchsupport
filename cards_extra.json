@@ -958,8 +958,8 @@
    ]
   ],
   "price": "$9.99",
-  "price_note": "Basic Plan · per month for country blocking only",
-  "verified": "2026-10-05",
+  "price_note": "Basic Plan · per month (or $59.94 a year) for country blocking only",
+  "verified": "2026-11-02",
   "catch": "Read the plan text before you read the badge. The App Store header says a free plan is available; that free plan is Development Stores, for development and partner stores only, and it starts charging the moment the store goes live.",
   "best": "Shopify stores below Plus that are losing time to bot traffic, repeat fraudsters or orders from regions they do not ship to."
  },
@@ -999,9 +999,9 @@
     "free_tier"
    ]
   ],
-  "price": "$9.99",
-  "price_note": "Starter · a month, or $107.99 a year, for five locations and team members…",
-  "verified": "2026-10-13",
+  "price": "$4.99",
+  "price_note": "Starter · a month, or $49.99 a year, for five locations and team members…",
+  "verified": "2026-11-02",
   "catch": "The free plan is a demonstration rather than a plan.",
   "best": "Shopify merchants running appointment-based services — salons, studios, clinics, rentals, classes and events."
  },
@@ -2159,7 +2159,7 @@
   ],
   "price": "$6.99",
   "price_note": "Pro · per month for the chat button and messages you send by hand",
-  "verified": "2026-09-18",
+  "verified": "2026-11-02",
   "catch": "The free plan is a chat button.",
   "best": "Shopify stores whose customers already live in WhatsApp — much of Europe, Latin America, the Middle East and Asia."
  },
@@ -2495,7 +2495,7 @@
   ],
   "price": "$10",
   "price_note": "Starter · per month for up to 500 loyalty-influenced orders",
-  "verified": "2026-09-18",
+  "verified": "2026-11-02",
   "catch": "Two things to read closely before you pay. The meter is honest — loyalty-influenced orders, not all orders — and that is genuinely in your favour, but it also means you cannot work out your tier from your order count.",
   "best": "Shopify stores with genuine repeat business that want a loyalty programme priced on the orders it influences rather than on total volume."
  },
@@ -5979,7 +5979,7 @@
   ],
   "price": "$9.99",
   "price_note": "Lite · per month for Lite, which exports CSV only ($107.88 a year)",
-  "verified": "2026-09-18",
+  "verified": "2026-11-02",
   "catch": "It is built around Central and Eastern European carriers such as Packeta, so a US or UK merchant should confirm their carrier is supported before the five-day trial starts.",
   "best": "Shopify merchants shipping in Central and Eastern Europe who want pickup points."
  },
@@ -6975,9 +6975,9 @@
  },
  "TiXel": {
   "price": "$19.99",
-  "price_note": "Unlimited Plan · per month, or $119.94 a year at a stated 50% saving, on a seven-day…",
-  "verified": "2026-09-18",
-  "catch": "The reviews are binary — 84 five-star and 6 one-star of 93 on 18 September 2026 — and the one-stars describe the same failure: the pixel is set up and no events ever arrive.",
+  "price_note": "Unlimited Plan · per month, or $119.94 a year at a stated 50% saving, on a one-day trial",
+  "verified": "2026-11-02",
+  "catch": "The free trial is now one day, and the one-star reviews describe a pixel that installs cleanly and then records nothing, so test events the day you install.",
   "best": "Shopify merchants running Meta and TikTok ads who need more than the free channel apps give them."
  },
  "TnC": {
@@ -7912,16 +7912,9 @@
   "best": "Shopify or BigCommerce merchants with a few hundred to a few thousand products who want on-page SEO cleaned up in bulk."
  },
  "Super": {
-  "flags": [
-   [
-    "📅",
-    "Annual commit",
-    "annual_lock"
-   ]
-  ],
-  "price": "$9.99",
-  "price_note": "from · a month or $83.92 a year, billed through Shopify, 7-day trial",
-  "verified": "2026-10-13",
+  "price": "$4.99",
+  "price_note": "from · a month or $47.90 a year, billed through Shopify, 7-day trial",
+  "verified": "2026-11-02",
   "catch": "If you are on Shopify Plus, the price block on the listing is not the one you pay from — the three published tiers exclude Plus stores in their own text, and the tier that covers you is $24.99 in a help-centre article.",
   "best": "Shopify stores with a real gifting season — jewellery, cosmetics, speciality food, anything bought for someone else."
  },
@@ -8046,9 +8039,9 @@
     "usage_metered"
    ]
   ],
-  "price": "$20",
-  "price_note": "Pro · per seat a month, plus $0.14 per testing minute beyond the 120 included",
-  "verified": "2026-09-18",
+  "price": "$24",
+  "price_note": "Pro · per seat a month, plus $0.08 per testing minute beyond the 360 included…",
+  "verified": "2026-11-02",
   "catch": "You do not control your own seat count.",
   "best": "Teams already living inside GitHub pull requests who want end-to-end tests to exist at all."
  },
@@ -8611,7 +8604,7 @@
     "renewal_jump"
    ]
   ],
-  "verified": "2026-10-04",
+  "verified": "2026-11-02",
   "catch": "The $99 registered agent price is a first-year rate that renews at $159, and annual report filing adds $199 per state each year.",
   "best": "Companies registered in several US states, and the accountants or law firms who manage entities for them, that want registered agent addresses."
  },
@@ -9776,7 +9769,7 @@
   ],
   "price": "€79",
   "price_note": "Pro · per user a month billed annually (€95 billed monthly)",
-  "verified": "2026-10-25",
+  "verified": "2026-11-02",
   "catch": "Seats are only part of the bill: outreach features run on credits, and unused annual time is not refunded.",
   "best": "Recruitment and staffing agencies that want an applicant tracking system and a client CRM in one place, with a Chrome sourcing extension, a hiring manager portal and."
  },

@@ -28,8 +28,8 @@ CometChat,usage_metered,"On overage CometChat charges $0.10 per extra MAU (falli
 CometChat,addons_extra,"Messages and storage are unlimited on every plan, and message retention is 6 months across the board, extendable at extra cost.",2026-07,2026-10-07,
 CometChat,free_tier,"The pricing cliff is the honest headline: from a 100-MAU free tier straight to ~$239/mo is a brutal jump for an early-stage app, and users report plan structures changing under them.",2026-07,2026-10-07,
 CrankWheel,free_tier,"(read on crankwheel.com/pricing, 2026-08-21, re-verified unchanged 2026-10-09) A free plan with no payment details required — unlimited usage for the first 15 days, then up to 15 sessions a month for life.",2026-07,2026-10-09,
-Dondy,usage_metered,meter: unit · WhatsApp messages,2026-07,2026-09-18,https://apps.shopify.com/dondy-marketing-ai
-Dondy,free_tier,"Free: a WhatsApp chat button with unlimited conversations, custom size and location, and prefilled messages.",2026-07,2026-09-18,https://apps.shopify.com/dondy-marketing-ai
+Dondy,usage_metered,meter: unit · WhatsApp messages,2026-07,2026-11-02,https://apps.shopify.com/dondy-marketing-ai
+Dondy,free_tier,"Free: a WhatsApp chat button with unlimited conversations, custom size and location, and prefilled messages.",2026-07,2026-11-02,https://apps.shopify.com/dondy-marketing-ai
 eDesk,per_seat,"Essential $39 per agent/mo, Growth $89, Professional $119 (the plan eDesk marks Most Popular), Enterprise custom — all billed annually.",2026-07,2026-10-07,
 eDesk,usage_metered,meter: unit · agent seats and resolved AI outcomes,2026-07,2026-10-07,
 eDesk,addons_extra,"eDesk claims the agent can automate up to 65% of support across channels, so model the outcome fee against your ticket volume — at 1,000 resolved tickets a month that is $990 on top of the seats.",2026-07,2026-10-07,
