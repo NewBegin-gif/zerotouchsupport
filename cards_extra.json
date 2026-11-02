@@ -9921,5 +9921,19 @@
   "verified": "2026-10-31",
   "catch": "Only starting prices are public: EOR from $250 a month and contractors from $50 a month, with no statement that these are per worker, and Global Payroll is quote-only.",
   "best": "Companies hiring a few people in countries where they have no entity, especially in Southeast Asia."
+ },
+ "Teachable": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$39",
+  "price_note": "Starter · billed monthly",
+  "verified": "2026-11-02",
+  "catch": "7.5% fee on Starter; processing extra; free students capped at 100.",
+  "best": "Course creators and coaches who sell to their own audience and want checkout, tax handling and student apps handled for them."
  }
 }
