@@ -1453,10 +1453,14 @@
     "renewal_jump"
    ]
   ],
-  "price": "$1.95",
-  "price_note": "from · per month on the 36-month term (Back to Build sale)",
-  "verified": "2026-10-17",
+  "price": "$1.49",
+  "price_note": "from · per month (Black Friday sale, until 7 December 2026)",
+  "verified": "2026-11-02",
   "catch": "The honest catch is the one every budget host shares: the headline price is an introductory rate, and renewals land roughly three times higher, so judge it on the renewal cost, not the sign-up teaser.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: black Friday pricing on ChemiCloud's own pages"
+  },
   "best": "Small businesses, freelancers and growing sites that want fast, well-supported managed shared or WordPress hosting at a low starting price."
  },
  "Circle": {
@@ -9670,7 +9674,7 @@
   ],
   "price": "$8.99",
   "price_note": "from · per month or $71.99/yr",
-  "verified": "2026-10-29",
+  "verified": "2026-11-02",
   "catch": "Unused quota expires monthly; only annual Ultra is (mostly) unlimited.",
   "coupon": {
    "code": "DAAN15",
