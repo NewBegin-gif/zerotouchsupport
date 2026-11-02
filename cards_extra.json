@@ -9935,5 +9935,19 @@
   "verified": "2026-11-02",
   "catch": "7.5% fee on Starter; processing extra; free students capped at 100.",
   "best": "Course creators and coaches who sell to their own audience and want checkout, tax handling and student apps handled for them."
+ },
+ "Acronis": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "€49.99",
+  "price_note": "Essentials · per year, one-year subscription for 1 computer, local backup only",
+  "verified": "2026-11-02",
+  "catch": "No cloud on Essentials; 250 GB pre-selected on Advanced; renewal price not shown.",
+  "best": "Home users and small home offices who want full-system image backup and disk cloning, with an optional cloud copy, on one to five computers."
  }
 }
