@@ -4812,16 +4812,16 @@
     "addons_extra"
    ],
    [
-    "📅",
-    "Annual commit",
-    "annual_lock"
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
-  "price": "$99",
-  "price_note": "from · per month for 2,000 or $297/mo for 9,000",
-  "verified": "2026-09-16",
-  "catch": "The free tier is genuinely free -- 50 credits a month, no card -- and it is the only way to answer the question the pricing page leaves open.",
-  "best": "Teams that want the sales, content and support agents in one place and will genuinely use the lead engine."
+  "price": "$29",
+  "price_note": "Starter · Starter billed monthly, unlimited AI work and leads under fair use…",
+  "verified": "2026-11-03",
+  "catch": "The usage limits are not published as numbers.",
+  "best": "Small teams and solo operators that want sales, content and support agents plus lead search and outreach in one place, at a flat monthly price."
  },
  "Parim": {
   "price": "£47",
