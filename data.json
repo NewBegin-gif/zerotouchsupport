@@ -4456,5 +4456,19 @@
     "domain": "orateur.ai",
     "desc": "AI phone receptionist for small businesses in Switzerland and French-speaking Europe: answers calls around the clock, books appointments in Google Calendar or Outlook, takes messages and transfers calls.",
     "link": "https://orateur.ai/?red=aibuil"
+  },
+  {
+    "name": "VideoUpload",
+    "category": "Marketing",
+    "domain": "videoupload.team",
+    "desc": "Production board for YouTube teams: scripts, edits, timestamped video review and publishing to YouTube in one place, with editor payment tracking. One price per workspace; editors join free.",
+    "link": "https://www.videoupload.team?aff=6NyDVn"
+  },
+  {
+    "name": "MK Website Assistant",
+    "category": "Customer Support",
+    "domain": "mksparkinteractive.com",
+    "desc": "Done-for-you AI assistant for small business websites from UK studio MK Spark Interactive: answers visitors from approved information, emails you every enquiry and can take appointment requests.",
+    "link": "https://www.mksparkinteractive.com/?aff=6NyDVn"
   }
 ]
