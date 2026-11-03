@@ -9962,12 +9962,12 @@
   "price": "$9.99",
   "price_note": "Hablaki licence · one-time lifetime licence for up to 2 computers, Mac or Windows…",
   "verified": "2026-11-02",
-  "catch": "Six languages; internet needed for setup and licence checks.",
+  "catch": "Six listed languages; internet needed for setup and licence checks.",
   "coupon": {
    "code": "AIBUILDER",
    "label": "20% off the Hablaki licence with the code AIBUILDER at checkout"
   },
-  "best": "People who write a lot on a Mac or Windows PC in one of its six languages and want dictation into any app, processed on their own computer, without a subscription."
+  "best": "People who write a lot on a Mac or Windows PC in one of its six listed languages and want dictation or file transcription in any app, processed on their own computer."
  },
  "Petty Cash Manager": {
   "flags": [
