@@ -9998,5 +9998,34 @@
   "verified": "2026-11-02",
   "catch": "US-only fulfillment; real cost per item shows only at checkout.",
   "best": "Shopify, Etsy, TikTok Shop and Amazon sellers who sell custom apparel mainly to US customers and want in-house US printing with 2-day delivery and no subscription."
+ },
+ "Ploy": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$50",
+  "price_note": "Starter · Starter billed monthly with 4,000 credits a month and 1 custom domain",
+  "verified": "2026-11-03",
+  "catch": "Credit use per build is not published; Pro jumps to $300/mo.",
+  "best": "Marketing teams and startups that want an AI-built marketing site plus SEO, visitor identification and outreach agents in one platform."
+ },
+ "Orateur": {
+  "verified": "2026-11-03",
+  "catch": "French-only site, Swiss franc pricing; annual totals not shown.",
+  "best": "Small businesses in Switzerland and French-speaking Europe, such as clinics, salons, fiduciaries and law offices, that miss calls and want an AI receptionist to answer."
  }
 }
