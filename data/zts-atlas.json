@@ -3,7 +3,7 @@
   "title": "The cost-trap atlas for customer support and voice software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 50,
+  "tools": 52,
   "flags": 115,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on zerotouchsupport.com. Every flag carries the dossier sentence it rests on."
  },
@@ -976,6 +976,21 @@
    "first_observed_at": "2026-10-30"
   },
   {
+   "name": "MK Website Assistant",
+   "category": "Customer Support",
+   "domain": "mksparkinteractive.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/mk-website-assistant-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-03 on mksparkinteractive.com, in pounds sterling) MK Website Assistant is a done-for-you service from MK Spark Interactive, a small UK studio, not a self-serve app. The AI Website Assistant, added to your existing website, costs from £290 to set up, with the first month included, and then £39 a month, cancel anytime. AI Assistant Plus also costs from £290 and then £59 a month; it adds appointment requests in the chat and removes the \"Powered by\" line. If you need a new website too, the Website + 24/7 AI Agent package costs from £1,800, with the first 3 months of hosting and updates included and then £69 a month. The site says founding clients get the monthly price fixed for 12 months (and Plus features free for 3 months). The prices are \"from\" amounts; the site promises fixed prices and a live demo before you pay.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-03",
+   "first_observed_at": "2026-11-03"
+  },
+  {
    "name": "NeuroAds",
    "category": "Customer Support",
    "domain": "neuroadsinc.com",
@@ -1006,6 +1021,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-09",
    "first_observed_at": "2026-08-19"
+  },
+  {
+   "name": "Orateur",
+   "category": "Communication & Voice",
+   "domain": "orateur.ai",
+   "review_url": "https://aibuildermarketplace.com/b2b/orateur-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-03 on orateur.ai/pricing, shown in Swiss francs on the French-language site; we did not see a price list in another currency) Orateur prices by plan, each with an allowance of AI agent time. Creator costs CHF 49 a month with 4 hours of agent time, 1 user, a free phone number, call history and analytics, and email support; extra minutes cost CHF 0.24. Pro costs CHF 99 a month with 9 hours, 2 users and priority support; extra minutes CHF 0.22. Scale costs CHF 199 a month with 19 hours and 5 users; extra minutes CHF 0.20. Enterprise is custom priced through sales. Paying annually gives two months free, according to the pricing toggle; we did not see the annual totals written out. You start with 100 free minutes and no commitment. The page has a cost calculator: at 500 minutes a month it recommends Pro, and shows Creator at CHF 111.40 once the extra minutes are added.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-03",
+   "first_observed_at": "2026-11-03"
   },
   {
    "name": "Pylon",
