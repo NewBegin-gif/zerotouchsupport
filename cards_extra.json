@@ -10027,5 +10027,24 @@
   "verified": "2026-11-03",
   "catch": "French-only site, Swiss franc pricing; annual totals not shown.",
   "best": "Small businesses in Switzerland and French-speaking Europe, such as clinics, salons, fiduciaries and law offices, that miss calls and want an AI receptionist to answer."
+ },
+ "VideoUpload": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$25",
+  "price_note": "Creator · Creator billed monthly: you + 2 team members, 1 channel, 50 GB, 100 AI…",
+  "verified": "2026-11-03",
+  "catch": "YouTube only; video files deleted 30 days after you stop paying.",
+  "best": "YouTube creators and small production teams that juggle editors, scripts and review over spreadsheets and chat, and want one board from idea to scheduled upload."
+ },
+ "MK Website Assistant": {
+  "verified": "2026-11-03",
+  "catch": "Done-for-you service; \"from\" prices, set-up fee on top.",
+  "best": "Small UK service businesses such as dental and physio practices, vets."
  }
 }
