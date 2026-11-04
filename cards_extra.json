@@ -10046,5 +10046,48 @@
   "verified": "2026-11-03",
   "catch": "Done-for-you service; \"from\" prices, set-up fee on top.",
   "best": "Small UK service businesses such as dental and physio practices, vets."
+ },
+ "UPDF": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$54.99",
+  "price_note": "UPDF Pro Yearly · per year, Black Friday sale price on 4 November 2026 (list US$89.99), auto-renews…",
+  "verified": "2026-11-04",
+  "catch": "Sale prices change per campaign; AI is a separate yearly subscription.",
+  "best": "Individuals and small teams who want a full PDF editor on Windows, Mac and mobile under one licence, and who like the option to pay once."
+ },
+ "Pixasocial": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "€29.99",
+  "price_note": "Start · billed monthly, prices shown in EUR for Germany with tax added…",
+  "verified": "2026-11-04",
+  "catch": "Prices changed between reads; usage limits given as multiples, not numbers.",
+  "best": "Small brands and solo marketers who want to create posts, images and short videos with AI and publish them to many networks from one plan, without paying per channel."
  }
 }
