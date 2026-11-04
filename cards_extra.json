@@ -10089,5 +10089,43 @@
   "verified": "2026-11-04",
   "catch": "Prices changed between reads; usage limits given as multiples, not numbers.",
   "best": "Small brands and solo marketers who want to create posts, images and short videos with AI and publish them to many networks from one plan, without paying per channel."
+ },
+ "Vynaris": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "verified": "2026-11-04",
+  "catch": "Early beta; routing fee comes on top of the model price.",
+  "best": "Developers running agents or apps on OpenAI- or Anthropic-compatible APIs who want requests routed to cheaper models where that is safe."
+ },
+ "EazyChat": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$29.99",
+  "price_note": "Launch · per user per month, 100 AI conversations a month, unlimited human…",
+  "verified": "2026-11-04",
+  "catch": "Priced per user; Launch has only 100 AI conversations a month.",
+  "best": "Small businesses that want an AI chat on their website and social channels that answers routine questions around the clock and hands over to a person with the full conversation."
+ },
+ "SeedProd": {
+  "price": "$39.50",
+  "price_note": "Basic · introductory first-year price, 1 site, normally $79 a year",
+  "verified": "2026-11-04",
+  "catch": "Introductory prices; renewals at full price, about double.",
+  "best": "WordPress site owners and small businesses who want to build landing pages, coming-soon pages or a full theme with drag and drop instead of code."
  }
 }
