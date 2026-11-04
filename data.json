@@ -4484,5 +4484,19 @@
     "domain": "pixasocial.com",
     "desc": "AI suite for social media: audience models, a studio for images, short videos and captions, and posting to 14 networks from one plan without per-channel fees.",
     "link": "https://www.awin1.com/cread.php?awinmid=131179&awinaffid=2880219"
+  },
+  {
+    "name": "Vynaris",
+    "category": "Developer Tools",
+    "domain": "vynaris.com",
+    "desc": "OpenAI- and Anthropic-compatible API gateway that routes each request to a cheaper model when evals allow it, with a receipt per request showing the model and cost. Prepaid credit, no overages.",
+    "link": "https://vynaris.com/?via=aibm"
+  },
+  {
+    "name": "EazyChat",
+    "category": "Customer Support",
+    "domain": "eazychat.io",
+    "desc": "AI chat for websites, WhatsApp, Instagram, Messenger and email that answers routine questions around the clock and hands over to your team with the full conversation, with tickets and voice in the same ecosystem.",
+    "link": "https://www.awin1.com/cread.php?awinmid=127785&awinaffid=2880219"
   }
 ]
