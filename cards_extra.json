@@ -9259,6 +9259,10 @@
   "price_note": "from · per month (250 message credits)",
   "verified": "2026-10-13",
   "catch": "You pay in message credits, roughly five per conversation by the page's own estimate, and the terms make fees non-refundable.",
+  "coupon": {
+   "code": "BLACKFRIDAY2026",
+   "label": "20% off one annual term of any Chatwith plan with the code…"
+  },
   "best": "Small and mid-sized businesses, SaaS teams and agencies that want an AI agent trained on their website, docs and connected apps to answer customer questions."
  },
  "PulseMonitor": {
