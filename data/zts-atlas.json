@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for customer support and voice software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 52,
-  "flags": 115,
+  "tools": 53,
+  "flags": 117,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on zerotouchsupport.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -478,6 +478,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-02",
    "first_observed_at": "2026-09-18"
+  },
+  {
+   "name": "EazyChat",
+   "category": "Customer Support",
+   "domain": "eazychat.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/eazychat-review/",
+   "from_price_usd_mo": 29.99,
+   "entry_price": "$29.99",
+   "entry_price_terms": "Launch · per user per month, 100 AI conversations a month, unlimited human…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-04 on eazychat.io/pricing.html, US dollars) EazyChat charges per user per month, and every plan includes AI, unlimited human chats and a 15-day free trial, with no long-term contract. Launch costs $29.99 per user a month for 100 AI conversations a month, 1 website with 1 multilingual widget, a website scan, Shopify and API integrations and basic analytics. Pro costs $59.99 per user a month for 1,000 AI conversations, 3 websites and widgets, advanced analytics, AI ticketing and the EazyDesk help desk. Infinity costs $79.99 per user a month for 20,000 AI conversations, unlimited websites and widgets, AI Advisor insights and priority support. If you need more AI capacity in a busy month, add-on packs cost $29 for 1,000, $69 for 5,000 and $129 for 20,000 extra AI conversations. The page does not say whether the AI quota is per user or per workspace, or whether the trial needs a card.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Launch costs $29.99 per user a month for 100 AI conversations a month, 1 website with 1 multilingual widget, a website scan, Shopify and API integrations and basic analytics.",
+     "evidence_excerpt": null,
+     "source_url": "https://eazychat.io/pricing.html",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-04"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "If you need more AI capacity in a busy month, add-on packs cost $29 for 1,000, $69 for 5,000 and $129 for 20,000 extra AI conversations.",
+     "evidence_excerpt": null,
+     "source_url": "https://eazychat.io/pricing.html",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-04"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-04",
+   "first_observed_at": "2026-11-04"
   },
   {
    "name": "eDesk",

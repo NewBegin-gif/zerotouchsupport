@@ -30,6 +30,8 @@ CometChat,free_tier,"The pricing cliff is the honest headline: from a 100-MAU fr
 CrankWheel,free_tier,"(read on crankwheel.com/pricing, 2026-08-21, re-verified unchanged 2026-10-09) A free plan with no payment details required — unlimited usage for the first 15 days, then up to 15 sessions a month for life.",2026-07,2026-10-09,
 Dondy,usage_metered,meter: unit · WhatsApp messages,2026-07,2026-11-02,https://apps.shopify.com/dondy-marketing-ai
 Dondy,free_tier,"Free: a WhatsApp chat button with unlimited conversations, custom size and location, and prefilled messages.",2026-07,2026-11-02,https://apps.shopify.com/dondy-marketing-ai
+EazyChat,per_seat,"Launch costs $29.99 per user a month for 100 AI conversations a month, 1 website with 1 multilingual widget, a website scan, Shopify and API integrations and basic analytics.",2026-07,2026-11-04,https://eazychat.io/pricing.html
+EazyChat,addons_extra,"If you need more AI capacity in a busy month, add-on packs cost $29 for 1,000, $69 for 5,000 and $129 for 20,000 extra AI conversations.",2026-07,2026-11-04,https://eazychat.io/pricing.html
 eDesk,per_seat,"Essential $39 per agent/mo, Growth $89, Professional $119 (the plan eDesk marks Most Popular), Enterprise custom — all billed annually.",2026-07,2026-10-07,
 eDesk,usage_metered,meter: unit · agent seats and resolved AI outcomes,2026-07,2026-10-07,
 eDesk,addons_extra,"eDesk claims the agent can automate up to 65% of support across channels, so model the outcome fee against your ticket volume — at 1,000 resolved tickets a month that is $990 on top of the seats.",2026-07,2026-10-07,
