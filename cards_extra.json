@@ -9012,6 +9012,10 @@
   "price_note": "Earth Bundle · per year, first year with the 50% introductory price, 1 active site",
   "verified": "2026-10-10",
   "catch": "Checkout add-ons need a paid bundle, and renewals cost double the first year.",
+  "coupon": {
+   "code": "BLACKFRIDAY26",
+   "label": "60% off the first year of any new LifterLMS order with the code…"
+  },
   "best": "Course creators and training businesses already on WordPress who want to own their course site and pay a yearly licence instead of a monthly platform fee."
  },
  "Samsara": {
