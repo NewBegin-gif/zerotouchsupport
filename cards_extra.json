@@ -7126,11 +7126,16 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
-  "price": "€29.99",
+  "price": "€36",
   "price_note": "Professional, 1 user · billed monthly",
-  "verified": "2026-10-16",
+  "verified": "2026-11-05",
   "catch": "You pay the Swiss-E2EE premium — noticeably above mainstream clouds and above Proton Drive per GB — and the encryption trade-offs are inherent: no server-side content search, more deliberate sharing flows, and credential/recovery discipline is on you.",
   "best": "Businesses and professionals with confidentiality obligations (legal, health, finance) that need end-to-end-encrypted storage."
  },
