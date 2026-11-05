@@ -484,7 +484,7 @@
     "name": "Bouncer",
     "category": "Growth & Revenue",
     "domain": "usebouncer.com",
-    "desc": "Email-list verification sold as credits that never expire, with a minimum purchase and a lower rate per 1,000 at higher volume. Unknowns and duplicates are not charged. Treat 'accept-all' domain results as unverified.",
+    "desc": "Email-list verification sold as credits that never expire, in bulk or through an API, with a minimum purchase and a lower rate per 1,000 at higher volume. Unknowns and duplicates are not charged. Treat 'accept-all' domain results as unverified. Around it Bouncer sells AutoClean (connect a CRM and it verifies contacts automatically), Shield (real-time checks on signup forms), a Deliverability Kit (inbox-placement tests, blocklist monitoring and authentication checks), Engagement Insights and an MCP server for verifying addresses from ChatGPT and Claude. New accounts get 100 free credits, and Bouncer offers a free single-email checker.",
     "link": "https://withlove.usebouncer.com/a4znwz9xj85p",
     "replaces": "ZeroBounce"
   },
