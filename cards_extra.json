@@ -10135,5 +10135,29 @@
   "verified": "2026-11-04",
   "catch": "Introductory prices; renewals at full price, about double.",
   "best": "WordPress site owners and small businesses who want to build landing pages, coming-soon pages or a full theme with drag and drop instead of code."
+ },
+ "AI for Database": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$10",
+  "price_note": "Pro · Pro billed monthly per user, excluding taxes",
+  "verified": "2026-11-05",
+  "catch": "AI usage runs on credits; no confirmed free AI allowance.",
+  "best": "Small teams without a data analyst who want to ask their own database questions in plain English and turn the answers into dashboards and scheduled alerts."
  }
 }
