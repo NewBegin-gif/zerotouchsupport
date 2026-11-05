@@ -10159,5 +10159,66 @@
   "verified": "2026-11-05",
   "catch": "AI usage runs on credits; no confirmed free AI allowance.",
   "best": "Small teams without a data analyst who want to ask their own database questions in plain English and turn the answers into dashboards and scheduled alerts."
+ },
+ "WPForms": {
+  "flags": [
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$49.50",
+  "price_note": "Basic · per year, Basic introductory price for the first year, 1 site",
+  "verified": "2026-11-05",
+  "catch": "Intro prices renew at double; free version adds 3% payment fee.",
+  "best": "WordPress site owners and small agencies that want a drag-and-drop form builder with templates, integrations and, on higher plans, payment forms."
+ },
+ "Elite Site Optimizer": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$49",
+  "price_note": "Basic · Basic billed monthly, shown with a dollar sign…",
+  "verified": "2026-11-05",
+  "catch": "Refund page contradicts the 30-day guarantee.",
+  "best": "Small businesses, freelancers and agencies that want rank tracking, site crawling and competitor reports in one SEO tool with a no-card trial."
+ },
+ "DataHawk": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price_state": "quote-only",
+  "verified": "2026-11-05",
+  "catch": "No public price; annual terms with two months' notice.",
+  "best": "Amazon and Walmart brands and agencies that want sales, advertising, search and inventory data in one analytics platform with daily alerts."
  }
 }
