@@ -4505,5 +4505,12 @@
     "domain": "seedprod.com",
     "desc": "Drag-and-drop page and theme builder plugin for WordPress: landing pages, coming-soon and maintenance pages, full website kits and a theme builder, plus an AI builder that drafts a site from a description.",
     "link": "https://www.awin1.com/cread.php?awinmid=88737&awinaffid=2880219"
+  },
+  {
+    "name": "AI for Database",
+    "category": "Developer Tools",
+    "domain": "aifordatabase.com",
+    "desc": "Natural-language access to your own databases: ask questions in plain English, get answers with charts, saved SQL, dashboards, scheduled workflows and alerts, with PostgreSQL, MySQL, MongoDB, SQL Server and Google Sheets connections.",
+    "link": "https://www.aifordatabase.com/?via=aibuildermarketplace"
   }
 ]
