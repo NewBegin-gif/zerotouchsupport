@@ -10262,5 +10262,31 @@
   "verified": "2026-11-06",
   "catch": "No free plan; hard monthly send cap.",
   "best": "Developers and small product teams that want a simple email API with fixed monthly plans and no overage billing, and that keep bounce and complaint rates low."
+ },
+ "SupportYourApp": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$1,200",
+  "price_note": "Pay-Per-Seat… · Pay-Per-Seat from $1,200 a month, given by SupportYourApp in a partner…",
+  "verified": "2026-10-23",
+  "catch": "No public prices; quote-based, 3-month minimum.",
+  "best": "Startups and scale-ups in SaaS, fintech and eCommerce that want an outsourced, human-led support team, with or without AI."
+ },
+ "Future Skills Academy": {
+  "price": "$25",
+  "price_note": "Standard · Standard shown as $25 a month billed yearly…",
+  "verified": "2026-11-06",
+  "catch": "Prices billed yearly; 7-day refund window.",
+  "best": "Individuals who want a self-paced AI certification, and small teams who want to train two or more people with an admin dashboard."
  }
 }
