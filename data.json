@@ -4547,5 +4547,12 @@
     "domain": "rankbolt.ai",
     "desc": "AI SEO platform that writes and publishes articles to WordPress, Webflow or Shopify, tracks keyword rankings and monitors how AI engines mention your brand, for site owners and agencies.",
     "link": "https://rankbolt.ai/?red=aibuil"
+  },
+  {
+    "name": "SendHQ",
+    "category": "Developer Tools",
+    "domain": "sendhq.cc",
+    "desc": "Email API for developers with transactional and marketing plans, verified-domain sending, inbound email, delivery events and hosted templates.",
+    "link": "https://sendhq.cc/?via=aibuildermarketplace"
   }
 ]
