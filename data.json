@@ -4533,5 +4533,19 @@
     "domain": "datahawk.co",
     "desc": "Marketplace analytics for Amazon and Walmart brands and agencies: sales, advertising, search and inventory data in one platform with dashboards, daily alerts and BI connections.",
     "link": "https://get.datahawk.co/pryb2q7klj1q-o5aq3q"
+  },
+  {
+    "name": "SocialDesk",
+    "category": "Marketing",
+    "domain": "socialdesk.ai",
+    "desc": "AI social media tool for scheduling posts, a unified inbox for comments and DMs, and AI auto-replies across Instagram, TikTok, X, LinkedIn, Facebook and Threads, for solo creators, teams and agencies.",
+    "link": "https://socialdesk.ai/?red=aibuil"
+  },
+  {
+    "name": "RankBolt",
+    "category": "SEO & Marketing",
+    "domain": "rankbolt.ai",
+    "desc": "AI SEO platform that writes and publishes articles to WordPress, Webflow or Shopify, tracks keyword rankings and monitors how AI engines mention your brand, for site owners and agencies.",
+    "link": "https://rankbolt.ai/?red=aibuil"
   }
 ]
