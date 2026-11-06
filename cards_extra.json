@@ -10229,5 +10229,24 @@
   "verified": "2026-11-05",
   "catch": "No public price; annual terms with two months' notice.",
   "best": "Amazon and Walmart brands and agencies that want sales, advertising, search and inventory data in one analytics platform with daily alerts."
+ },
+ "SocialDesk": {
+  "price": "$19",
+  "price_note": "Starter · Starter billed monthly, shown with a dollar sign…",
+  "verified": "2026-11-06",
+  "catch": "Yearly prices not published; no currency named.",
+  "best": "Solo creators, small brands and agencies that want scheduling, a shared DMs and comments inbox and AI auto-replies across six platforms for under $100 a month."
+ },
+ "RankBolt": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "verified": "2026-11-06",
+  "catch": "Priced in CHF; only a 3-day trial.",
+  "best": "Site owners and small agencies that want AI-written SEO articles, rank tracking and AI-search visibility reports in one subscription with auto-publishing."
  }
 }
