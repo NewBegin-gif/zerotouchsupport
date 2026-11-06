@@ -10248,5 +10248,19 @@
   "verified": "2026-11-06",
   "catch": "Priced in CHF; only a 3-day trial.",
   "best": "Site owners and small agencies that want AI-written SEO articles, rank tracking and AI-search visibility reports in one subscription with auto-publishing."
+ },
+ "SendHQ": {
+  "flags": [
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "Starter Transactional · Starter Transactional billed monthly, 50,000 emails a month…",
+  "verified": "2026-11-06",
+  "catch": "No free plan; hard monthly send cap.",
+  "best": "Developers and small product teams that want a simple email API with fixed monthly plans and no overage billing, and that keep bounce and complaint rates low."
  }
 }
