@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for customer support and voice software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 53,
-  "flags": 117,
+  "tools": 54,
+  "flags": 119,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on zerotouchsupport.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -488,7 +488,7 @@
    "entry_price": "$29.99",
    "entry_price_terms": "Launch · per user per month, 100 AI conversations a month, unlimited human…",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-04 on eazychat.io/pricing.html, US dollars) EazyChat charges per user per month, and every plan includes AI, unlimited human chats and a 15-day free trial, with no long-term contract. Launch costs $29.99 per user a month for 100 AI conversations a month, 1 website with 1 multilingual widget, a website scan, Shopify and API integrations and basic analytics. Pro costs $59.99 per user a month for 1,000 AI conversations, 3 websites and widgets, advanced analytics, AI ticketing and the EazyDesk help desk. Infinity costs $79.99 per user a month for 20,000 AI conversations, unlimited websites and widgets, AI Advisor insights and priority support. If you need more AI capacity in a busy month, add-on packs cost $29 for 1,000, $69 for 5,000 and $129 for 20,000 extra AI conversations. The page does not say whether the AI quota is per user or per workspace, or whether the trial needs a card.",
+   "price_note": "(read 2026-11-04 on eazychat.io/pricing.html, US dollars) EazyChat charges per user per month, and every plan includes AI, unlimited human chats and a 15-day free trial, with no long-term contract. Launch costs $29.99 per user a month for 100 AI conversations a month, 1 website with 1 multilingual widget, a website scan, Shopify and API integrations and basic analytics. Pro costs $59.99 per user a month for 1,000 AI conversations, 3 websites and widgets, advanced analytics, AI ticketing and the EazyDesk help desk. Infinity costs $79.99 per user a month for 20,000 AI conversations, unlimited websites and widgets, AI Advisor insights and priority support. If you need more AI capacity in a busy month, add-on packs cost $29 for 1,000, $69 for 5,000 and $129 for 20,000 extra AI conversations. The page does not say whether the AI quota is per user or per workspace, or whether the trial needs a card. EazyChat's team told us by email on 6 November 2026 that the free trial lasts 15 days or 500 AI interactions, whichever comes first; the pricing page does not show the 500 limit.",
    "flags": [
     {
      "flag": "per_seat",
@@ -1372,6 +1372,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-06",
    "first_observed_at": "2026-08-27"
+  },
+  {
+   "name": "SupportYourApp",
+   "category": "Customer Support",
+   "domain": "supportyourapp.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/supportyourapp-review/",
+   "from_price_usd_mo": 1200.0,
+   "entry_price": "$1,200",
+   "entry_price_terms": "Pay-Per-Seat… · Pay-Per-Seat from $1,200 a month, given by SupportYourApp in a partner…",
+   "pricing_status": "public",
+   "price_note": "(vendor answer, 23 October 2026; pricing page re-read 6 November 2026 shows no amounts) SupportYourApp does not publish prices: its pricing page says to get custom pricing. In a message to us on 23 October 2026 the company said its Pay-Per-Seat model starts from $1,200 a month and that this model is being reviewed, so treat the figure as a starting point, not a quote. It did not say whether the figure is per seat or for a team. Round-the-clock coverage needs at least 5 seats. Language mix and ticket volume change the price. Contracts run 3 months first and can then be cancelled, or 12 months; you can scale up or down within 30 days. New clients pay a one-time setup fee that is quoted per project. The pricing page also names a Pay-As-You-Go billing model. AI text agents are priced per resolution and AI voice agents per minute and per resolution. SupportCRM, the vendor's inbox, is free alongside another service, or $45 per seat with 1,000 AI responses on its own.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "In a message to us on 23 October 2026 the company said its Pay-Per-Seat model starts from $1,200 a month and that this model is being reviewed, so treat the figure as a starting point, not a quote.",
+     "evidence_excerpt": null,
+     "source_url": "https://supportyourapp.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-23"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "AI text agents are priced per resolution and AI voice agents per minute and per resolution.",
+     "evidence_excerpt": null,
+     "source_url": "https://supportyourapp.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-23"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-23",
+   "first_observed_at": null
   },
   {
    "name": "Textline",
