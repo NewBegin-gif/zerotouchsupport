@@ -10354,5 +10354,17 @@
   "verified": "2026-11-07",
   "catch": "Usage and add-on fees come on top of the plan.",
   "best": "Marketing agencies and consultants who manage several clients and want CRM, funnels, texting, email and automation in one white-label platform."
+ },
+ "Upwork": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ]
+  ],
+  "verified": "2026-10-23",
+  "catch": "Fees on every payment, no flat plan price.",
+  "best": "Small businesses and teams that need to find and pay freelancers on a project basis and want one place for contracts and payments."
  }
 }
