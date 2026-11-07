@@ -10335,5 +10335,24 @@
   "verified": "2026-11-07",
   "catch": "Priced by prospect slots; list size decides your plan.",
   "best": "Founders, agencies and small sales teams that run cold outreach from many mailboxes and want warmup, rotation and AI help under one fixed price."
+ },
+ "HighLevel": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$97",
+  "price_note": "Starter · Starter billed monthly, for one business or a few clients",
+  "verified": "2026-11-07",
+  "catch": "Usage and add-on fees come on top of the plan.",
+  "best": "Marketing agencies and consultants who manage several clients and want CRM, funnels, texting, email and automation in one white-label platform."
  }
 }
