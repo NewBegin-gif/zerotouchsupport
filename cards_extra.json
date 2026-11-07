@@ -1251,8 +1251,8 @@
   ],
   "price": "$79",
   "price_note": "from · per seat a month (500 credits/mo, billed monthly)",
-  "verified": "2026-09-30",
-  "catch": "Two meters run at once: seats AND credits — the seat price includes a credit allowance (500 a month on Core, 5,000 on AI Employee, read 5 September 2026), and real outbound volume means credit packages on top, so budget past the sticker.",
+  "verified": "2026-11-07",
+  "catch": "Two meters run at once: seats AND credits — the seat price includes a credit allowance (500 a month on Core, 5,000 on AI Employee, read 7 November 2026), and real outbound volume means credit packages on top, so budget past the sticker.",
   "best": "GTM teams that want AI to run outbound end-to-end — prompt-driven prospecting of intent-ready buyers.",
   "pw": "plans rebuilt Sep 2026",
   "pw_soort": "restructure"
@@ -7706,6 +7706,10 @@
   "price_note": "from · per year for one site",
   "verified": "2026-10-02",
   "catch": "It's a subscription, not a lifetime license — you keep your settings if you stop paying but lose updates and support, and a technically-minded user can get most of the way there with a free caching plugin.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: wP Rocket's own Black Friday sale"
+  },
   "best": "WordPress owners who want near-instant page-speed gains out of the box without touching cache config."
  },
  "Wrike": {
@@ -10288,5 +10292,29 @@
   "verified": "2026-11-06",
   "catch": "Prices billed yearly; 7-day refund window.",
   "best": "Individuals who want a self-paced AI certification, and small teams who want to train two or more people with an admin dashboard."
+ },
+ "B12": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$24",
+  "price_note": "Website · Website plan shown as $24 / month with 100 AI credits a month…",
+  "verified": "2026-11-07",
+  "catch": "AI credits are capped; domain free for year one only.",
+  "best": "Freelancers, consultants and small businesses that want an AI-generated site they can edit by chat, with optional intake forms."
  }
 }
