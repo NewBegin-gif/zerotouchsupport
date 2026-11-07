@@ -10316,5 +10316,24 @@
   "verified": "2026-11-07",
   "catch": "AI credits are capped; domain free for year one only.",
   "best": "Freelancers, consultants and small businesses that want an AI-generated site they can edit by chat, with optional intake forms."
+ },
+ "Mystrika": {
+  "flags": [
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$30",
+  "price_note": "Growth · Growth billed monthly, 2,500 prospect slots, unlimited senders…",
+  "verified": "2026-11-07",
+  "catch": "Priced by prospect slots; list size decides your plan.",
+  "best": "Founders, agencies and small sales teams that run cold outreach from many mailboxes and want warmup, rotation and AI help under one fixed price."
  }
 }
