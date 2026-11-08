@@ -9720,7 +9720,7 @@
   "price_note": "Starter (per user) · per user per month, 5,000 credits",
   "verified": "2026-10-23",
   "catch": "Per user from $149 a month; credits not explained; fees non-refundable.",
-  "best": "Founders and small sales teams who want leads chosen by a recent signal (a funding round, a new role."
+  "best": "B2B sales teams first, and founders who do their own selling second, who want leads chosen by a recent signal (a funding round, a new role."
  },
  "Brandify": {
   "price": "$479",
@@ -10393,5 +10393,19 @@
   "verified": "2026-11-08",
   "catch": "Usage allowance is shown only as a percentage.",
   "best": "People who already compare the answers of several AI models by hand and want one subscription with side-by-side answers, web search."
+ },
+ "Tradelle": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$29.99",
+  "price_note": "Lite · Lite billed monthly, 1 connected store, 25 product imports…",
+  "verified": "2026-11-08",
+  "catch": "Fulfilled orders and VAT are billed on top of the plan.",
+  "best": "New and growing Shopify dropshippers who want product research, competitor store data and fulfillment in one tool, and who will use the tier quotas."
  }
 }

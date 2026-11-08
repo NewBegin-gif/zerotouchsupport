@@ -8,255 +8,306 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## 800.com
 - Review: https://zerotouchsupport.com/800-com-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: 800.com: Startup $19/mo and Small Business $49/mo. The 250-minute cap on Startup (it was 1,000 in August) matters for any real call volume.
 - Price: (re-verified 2026-10-06, read on their own plans page with the full comparison open) No free tier, and the line-up is down to two self-serve plans plus Enterprise. On yearly billing: Startup $19/mo and Small Business $49/mo; month to month the same two are $23 and $59.
 
 ## Aircall
 - Review: https://zerotouchsupport.com/aircall-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Aircall: Essentials is $30 per license a month and Professional $50, both on annual billing. 'Unlimited calling' covers listed regions — check yours.
 - Price: (read 2026-10-10 on aircall.io/pricing in a live browser, with Aircall's own country selector on United States) Essentials is $30 per license a month and Professional $50, both on annual billing, which the page marks as 25% off monthly. Flip that toggle and the monthly rates read $40 and $70 per license.
 
 ## Answering Service Care
 - Review: https://zerotouchsupport.com/answering-service-care-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Answering Service Care: $161, $296 and $575 for the three larger plans. Do the arithmetic before you pick a tier, because their own page does not.
 - Price: (2026-09-10, re-verified 13 October 2026 on their own pricing page, both billing toggles) Four plans, priced on included minutes. Billed monthly: Starter $40 with zero minutes included and $1.75 per minute after that; Small Business $179 for 100 minutes, then $1.70; Pro $329 for 250 minutes, then $1.60; Enterprise $639 for 500 minutes, then $1.35.
 
 ## AskNest
 - Review: https://zerotouchsupport.com/asknest-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: AskNest: All charges are billed in USD and recur every 30 days, and no paid tier shows a free trial — the free plan is the trial.
 - Price: (read 2026-08-19 on apps.shopify.com/asknest-ai-faq-product-bot, re-verified unchanged 2026-09-28 and 2026-10-09) Four tiers, priced by AI replies per month, and the cheapest ladder in this category. Free: 50 AI replies a month, replies in one language you select, answers drawn from your FAQs, policy pages and product data, translated storefront widget, product finder and usage tracking.
 
 ## bOnline
 - Review: https://zerotouchsupport.com/bonline-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: bOnline: AI For Business Calls is £19.95, shown against a struck-through £21.95. BOnline does not put its contract length on the pricing page.
 - Price: (read 2026-10-06 on bonline.com/pricing, prices in GBP excluding VAT) Three plans, priced per user a month. Starter is £7.00 and gives a digital phone line and number, unlimited inbound calls, 100 outbound landline minutes and 40+ VoIP features.
 
 ## Calilio
 - Review: https://zerotouchsupport.com/calilio-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Calilio: Standard $15 per user/mo, or $12 billed annually ($144 a year). The subscription is the platform, not the talking.
 - Price: (re-verified 2026-08-17; plan prices unchanged on 2026-10-06, included allowance changed) Standard $15 per user/mo, or $12 billed annually ($144 a year); Premium $35 per user/mo, or $28 annually ($336 a year); Enterprise custom. Annual billing saves 20%.
 
 ## CallHippo
 - Review: https://zerotouchsupport.com/callhippo-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: CallHippo: Read the tab before the number. 'Unlimited calling' is unlimited to the US and Canada — international minutes meter separately.
 - Price: (re-verified 2026-10-14 in a browser on callhippo.com/pricing, currency selector switched to USD, phone-number region US/CA: plan grid, both billing tabs and fair-usage notes re-read; the add-on prices below were last read on 15 September 2026) Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55. Read the tab before the number: the grid opens…
 
 ## Chatwith
 - Review: https://zerotouchsupport.com/chatwith-review.html
+- Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: Onboarding has four steps: Train, Brand, Test and Install. Training sources are a website (with linked pages on the same domain, or a sitemap), files, text or YouTube, against a counter of '0 / 500K…
 - Verdict: Chatwith: Starter is $9 a month or $90 a year. The real price depends on credits, and the conversation estimates assume five replies at one credit each.
 - Price: (read 2026-10-13 in a live browser on chatwith.tools/pricing and in the terms at chatwith.tools/terms) Four plans in US dollars, excluding taxes, with annual billing at ten times the monthly price. Starter is $9 a month or $90 a year: 250 message credits a month, about 50 conversations by the page's estimate, 1 agent and 2 million training characters.
 
 ## CloudTalk
 - Review: https://zerotouchsupport.com/cloudtalk-review.html
+- Hands-on: tested by us on 2026-10-24. Measured 2026-10-24: On sign-up day the dashboard showed 'Your demo will EXPIRE in 14 days.' No card was asked.
 - Verdict: CloudTalk: Lite €19, Starter €25, Essential €29 and Expert €49 per user/mo on annual billing, or €27, €34, €39 and €69 billed monthly.
 - Price: Lite €19, Starter €25, Essential €29 and Expert €49 per user/mo on annual billing, or €27, €34, €39 and €69 billed monthly, and Expert needs at least 3 licences (re-verified 2026-08-16 and 2026-10-06). The toggle promises 'save 3+ months (≈ 30% off)'; on those figures annual billing saves 25.6% on Essential, 26.5% on Starter, 29.0% on Expert and 29.6% on Lite, between three and four months of the monthly fee.
 
 ## Cloze
 - Review: https://zerotouchsupport.com/cloze-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Cloze: Free forever with 50 conversations a month, Pro $29 a month and Business $79 a month. The second is the track record, or the absence of one.
 - Price: (read 2026-08-19, re-verified unchanged 2026-09-04 on apps.shopify.com/cloze, listed as “Cloze: AI Shopping Assistant”) Free plan available: 25 AI conversations a month, up to 100 synced products, core assistant customisation and 7 days of conversation history. Paid tiers are Starter $49, Pro $99 and Scale $199 a month, each with $0.10 per additional AI conversation and a 3-day free trial.
 
 ## CometChat
 - Review: https://zerotouchsupport.com/cometchat-review.html
+- Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: The builder opened without an account on a demo chat (Chats, Calls, Users, Groups) with sample conversations. Customize offers a layout with or without sidebar (default with) and the tabs Conversations,…
 - Verdict: CometChat — Billed yearly, shown as a monthly equivalent: at 1,000 MAU Basic is $239 and Advanced $359. The pricing cliff is the honest headline.
 - Price: (re-verified 2026-08-17 and 2026-10-07 against CometChat's own machine-readable pricing reference, which they publish for AI agents and last verified themselves on 2026-05-20, and on 2026-10-07 also against the live pricing page; USD) Build is free for development: all features, up to 100 users and 25 concurrent connections, no card. Paid Chat plans are priced by monthly active users.
 
 ## CrankWheel
 - Review: https://zerotouchsupport.com/crankwheel-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: CrankWheel: A free plan with no payment details required. If you want an all-purpose meeting platform, this isn't it.
 - Price: (read on crankwheel.com/pricing, 2026-08-21, re-verified unchanged 2026-10-09) A free plan with no payment details required — unlimited usage for the first 15 days, then up to 15 sessions a month for life. Solo is $29/month for one user with unlimited usage, up to 30 viewers per share and up to 10 video-conferencing participants.
 
 ## EazyChat
 - Review: https://zerotouchsupport.com/eazychat-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: EazyChat charges per user per month. Pricing is per user, so a team of five pays five times the plan price.
 - Price: (read 2026-11-04 on eazychat.io/pricing.html, US dollars) EazyChat charges per user per month, and every plan includes AI, unlimited human chats and a 15-day free trial, with no long-term contract. Launch costs $29.99 per user a month for 100 AI conversations a month, 1 website with 1 multilingual widget, a website scan, Shopify and API integrations and basic analytics.
 
 ## eDesk
 - Review: https://zerotouchsupport.com/edesk-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: eDesk — No free plan: 'Start for free' opens a 14-day full-feature trial with no credit card. The per-agent price is the entry ticket.
 - Price: (re-verified 2026-09-29) No free plan: 'Start for free' opens a 14-day full-feature trial with no credit card. Essential $39 per agent/mo, Growth $89, Professional $119 (the plan eDesk marks Most Popular), Enterprise custom — all billed annually.
 
 ## Fireflies.ai
 - Review: https://zerotouchsupport.com/fireflies-ai-review.html
+- Hands-on: tested by us on 2026-10-09
 - Verdict: Fireflies.ai: Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits.
 - Price: (price re-verified 2026-10-23 against the vendor's own pricing page and help guide) Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits. Pro $18/seat/mo month-to-month or $10/seat/mo billed annually — unlimited AI summaries, 8,000 mins of storage per seat, 20 AI credits.
 
 ## Freshchat
 - Review: https://zerotouchsupport.com/freshchat-review.html
+- Hands-on: tested by us on 2026-10-08
 - Verdict: Freshchat: Free is $0 for up to 10 agents. The free tier is genuinely useful for small teams.
 - Price: Read 1 Sep 2026 and re-read 16 Oct 2026 on freshworks.com/live-chat-software/pricing/ (USD, both the Annually and Monthly views). Free is $0 for up to 10 agents.
 
 ## Freshworks
 - Review: https://zerotouchsupport.com/freshworks-review.html
+- Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: The sign-up page promised a '14-day all-access free trial'; inside the app the banner said 'your 15-day trial starts today', next to a 'Buy now' button. Our own company domain was accepted without a…
 - Verdict: Freshworks — On Freshdesk the annual rates are unchanged since 1 August 2026: Growth $19 per agent per month, Pro $55, Enterprise $89, billed annually.
 - Price: (2026-08-29, read on their own pricing pages) The main Freshworks pricing page still carries no prices at all — it lists the products and links out to each one, and that list has grown to nine: Freshdesk Omni, Freshdesk, Freshchat, Freshcaller, Freshservice, Freshservice for Business Teams, Freshsales, Freshsales Suite and Freshmarketer. On Freshdesk the annual rates are unchanged since 1 August 2026: Growth $19…
 
 ## Gorgias
 - Review: https://zerotouchsupport.com/gorgias-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Gorgias: Not priced per agent -- their own line -- but the seats are capped. Never priced per agent is a real advantage, but it starts one tier up.
 - Price: (re-verified 7 October 2026 on their own pricing page; figures unchanged since 8 September) Not priced per agent -- their own line -- but the seats are capped: the comparison table gives Starter 3 user seats and Basic, Pro and Advanced 500 each. Two meters stack.
 
 ## Help Scout
 - Review: https://zerotouchsupport.com/help-scout-review.html
+- Hands-on: tested by us on 2026-10-20. Measured 2026-10-20: Signing up did not start on Free. The account landed on a Plus trial ('Trial Period Oct 20 - Nov 03', 1 user, $54/user, 'First monthly payment on Nov 4, 2026') plus a 92-day AI Answers trial, without…
 - Verdict: Help Scout: Standard is $25 per user a month billed annually or $30 monthly, for up to 25 users. The Free plan caps you at 100 contacts a month and one Inbox.
 - Price: (read 2026-10-10 on helpscout.com/pricing with the monthly and annual toggles, USD) Free covers up to 5 users, 1 Inbox, 1 Docs site and 100 contacts a month, with 10 saved replies and 10 tags (in our test on 20 October 2026 the saved-reply limit held, but an eleventh tag was accepted). A contact is someone who got a reply from your team or the AI assistant; several conversations with the same person count once.
 
 ## HelpCenter
 - Review: https://zerotouchsupport.com/helpcenter-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: HelpCenter: Free to install, and the meter is tickets rather than agents. The free tier is the hook and the FAQ builder is the reason people stay.
 - Price: (re-verified 2026-11-01 on apps.shopify.com/helpcenter) Free to install, and the meter is tickets rather than agents. The plan ladder changed since our earlier reading: the small Basic tier is gone, so the first paid step is now Standard.
 
 ## Jotform AI Agents
 - Review: https://zerotouchsupport.com/jotform-ai-agents-review.html
+- Hands-on: tested by us on 2026-10-09
 - Verdict: Jotform AI Agents: Bronze is $34 a month, Silver $39 and Gold $99, each billed annually, with 'save up to 20%' against monthly billing; Enterprise is quoted.
 - Price: (re-verified 24 Sep 2026 on jotform.com/ai/agents/pricing from the plan data embedded in the page, and 4 Sep 2026 on the yearly tab; the same figures were read from a US exit on 26 Aug 2026. The page localises its currency — it quotes $34 / $39 / $99 to a US visitor and €34 / €39 / €99 to a Dutch one, the same numerals either way.) Starter is free.
 
 ## Kixie
 - Review: https://zerotouchsupport.com/kixie-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Kixie: Texts from $0.011 each ($11 per 1,000) on a registered 10DLC number, inbound free. Read the contract term before you sign.
 - Price: (2026-10-13, read on their own pricing page) No seat price is published. Three plans are listed — Professional, Single-Line PowerDialer and Multi-Line PowerDialer — and no amount is rendered anywhere on the page; the billing toggle that used to sit above the cards has gone too, so there is now no path from this page to a number.
 
 ## KrispCall
 - Review: https://zerotouchsupport.com/krispcall-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: KrispCall: Advance $32 or $40, up to 50 users. Same honest math as most budget VoIP: the plan buys the platform, the meter buys the conversations.
 - Price: (re-verified 2026-08-17 and 2026-10-07 against the vendor's own pricing page) Since our August reading the plans have been renamed and a tier added: Starter $12 per user/mo billed annually or $15 monthly, for teams up to 5 users; Advance $32 or $40, up to 50 users; Max $48 or $60, with no member limit; Enterprise custom, quoted as volume pricing for 50+ seats. Annual saves 20%, which the page puts at $36, $96 and…
 
 ## Landbot
 - Review: https://zerotouchsupport.com/landbot-review.html
+- Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: The builder showed fourteen trial days remaining.
 - Verdict: Landbot: Free is €0 for 100 chats a month, one seat, the full builder and templates. Starter keeps Landbot branding and has no own WhatsApp number.
 - Price: (read 2026-10-25 on landbot.io/pricing with both the Annual and the Monthly toggle clicked, and in Landbot's billing FAQ at help.landbot.io) Free is €0 for 100 chats a month, one seat, the full builder and templates, and a WhatsApp test number, but no AI chats. Starter is €32 a month billed annually or €40 paid monthly, with 500 chats, 100 AI chats and 2 seats.
 
 ## Lucrovox
 - Review: https://zerotouchsupport.com/lucrovox-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Lucrovox: The phone agent has three published tiers and the plan table is back on the page. The ‘callers can’t tell it’s AI’ claim is the vendor’s own.
 - Price: (re-verified 2026-10-30 on lucrovox.com/#pricing in a real browser, phone-agent tiers unchanged; lucrovox.com/lucrochat last read 2026-09-15) The phone agent has three published tiers and the plan table is back on the page: Starter $199 a month for up to 100 AI-handled calls, Pro $499 for up to 500 calls with CRM integration and advanced lead qualification, Enterprise $999 for up to 2,000 calls with white-label…
 
 ## MK Website Assistant
 - Review: https://zerotouchsupport.com/mk-website-assistant-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: MK Website Assistant: AI Assistant Plus also costs from £290 and then £59 a month. Prices are "from" amounts, so the final set-up fee can be higher.
 - Price: (read 2026-11-03 on mksparkinteractive.com, in pounds sterling) MK Website Assistant is a done-for-you service from MK Spark Interactive, a small UK studio, not a self-serve app. The AI Website Assistant, added to your existing website, costs from £290 to set up, with the first month included, and then £39 a month, cancel anytime.
 
 ## NeuroAds
 - Review: https://zerotouchsupport.com/neuroads-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: NeuroAds: Growth $49 a month or $468 a year (save 20%). Nothing about that is suspicious on its face; new apps have new reviews.
 - Price: (read 2026-08-19 and re-verified unchanged 2026-10-09 on apps.shopify.com/neuroads-chatbot) Four tiers, priced by conversations per month. Free: 200 conversations, AI answers about products, collections and orders, rich product cards with add-to-cart, order status and tracking in chat, replies in the shopper's language.
 
 ## Orateur
 - Review: https://zerotouchsupport.com/orateur-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Orateur prices by plan, each with an allowance of AI agent time. The site is in French only and prices are in Swiss francs.
 - Price: (read 2026-11-03 on orateur.ai/pricing, shown in Swiss francs on the French-language site; we did not see a price list in another currency) Orateur prices by plan, each with an allowance of AI agent time. Creator costs CHF 49 a month with 4 hours of agent time, 1 user, a free phone number, call history and analytics, and email support; extra minutes cost CHF 0.24.
 
 ## Pylon
 - Review: https://zerotouchsupport.com/pylon-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Pylon no longer publishes rates. The per-seat sticker is the entry ticket; the AI that makes the platform sing is metered separately.
 - Price: (checked 2026-09-01) Pylon no longer publishes rates. usepylon.com/pricing was republished on 1 September 2026 as a "Book a Demo" page carrying no plans, no per-seat rates and no seat minimums; the route to a number is a scheduled demo.
 
 ## Quo
 - Review: https://zerotouchsupport.com/quo-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Quo — (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly. Call reliability is the recurring complaint.
 - Price: (price re-verified 2026-08-31 against the vendor's own pricing page; all prices are quoted on the page in USD) (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly; Business $23 annual ($276/yr) or $33 monthly; Scale $35 annual ($420/yr) or $47 monthly. 7-day free trial.
 
 ## Readymode
 - Review: https://zerotouchsupport.com/readymode-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Readymode: Starter $239 billed monthly or $199 billed annually, for 1+ licenses. The per-seat price is premium, and the model rewards scale.
 - Price: (re-verified 2026-10-15 on readymode.com/demo/pricing-readymode/, the page titled 'Readymode Pricing and Flexible Plans'; first read at $239/$299 on 2026-08-17, after the vendor announced a price change effective 1 Aug 2026) Two published plans, priced per license per month, with a Monthly/Annual toggle: Starter $239 billed monthly or $199 billed annually, for 1+ licenses, and iQ $299 billed monthly or $249…
 
 ## respond.io
 - Review: https://zerotouchsupport.com/respond-io-review.html
+- Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: Growth Trial showed seven days remaining and an end date of November 7.
 - Verdict: respond.io — Four tiers, billed on monthly active contacts rather than seats: Starter $79/month, Growth $159, Advanced $279, and Enterprise on quote.
 - Price: (2026-08-13, read off respond.io/pricing) Four tiers, billed on monthly active contacts rather than seats: Starter $79/month, Growth $159, Advanced $279, and Enterprise on quote. Paying yearly takes roughly 20% off — $948, $1,908 and $3,348 a year against $1,188, $2,388 and $4,188 monthly.
 
 ## Ruby
 - Review: https://zerotouchsupport.com/ruby-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Ruby: $5.00 a minute at the bottom, $3.45 at the top. You're paying premium rates for real human receptionists billed per minute.
 - Price: Read on their own plans-and-pricing page, 6 September 2026, and unchanged on 6 October 2026. Virtual receptionist plans are sold by monthly minutes: 50 minutes $250, 100 minutes $395, 200 minutes $720, 500 minutes $1,725 — $5.00 a minute at the bottom, $3.45 at the top.
 
 ## Salesmessage
 - Review: https://zerotouchsupport.com/salesmessage-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Salesmsg — Monthly billing: Basic is $25 a month for 500 credits a month; Pro is $329 a month for 10,000 credits a month. Size the credits, not the headcount.
 - Price: (2026-08-08, re-verified 10 September 2026 and again 13 October 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, metered in message credits. Monthly billing: Basic is $25 a month for 500 credits a month; Pro is $329 a month for 10,000 credits a month; Enterprise is contact-for-pricing with custom credits.
 
 ## Signal House
 - Review: https://zerotouchsupport.com/signal-house-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Signal House: $0.0050 from 500k segments a month, $0.0045 from 1m, $0.0040 from 2m, $0.0035 from 5m and $0.0030 from 10m. Take the entry rate with no minimum.
 - Price: (2026-09-11, re-read on their own pricing page and again on 13 October 2026) Usage-based, no platform subscription. SMS on a 10DLC local number costs $0.0065 per segment with no minimum, falling on volume: $0.0050 from 500k segments a month, $0.0045 from 1m, $0.0040 from 2m, $0.0035 from 5m and $0.0030 from 10m.
 
 ## SimpleTexting
 - Review: https://zerotouchsupport.com/simpletexting-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: SimpleTexting: The credit plans themselves are $29 (500 credits), $49 (1,000), $79 (2,000), $109 (3,000), $229 (7,500), $399 (15,000).
 - Price: (re-verified 2026-10-03 on simpletexting.com/pricing) Credit-based by monthly volume, and the headline is not the plan price: the page's "estimated monthly cost" bundles a $10/mo local number into every figure. The credit plans themselves are $29 (500 credits), $49 (1,000), $79 (2,000), $109 (3,000), $229 (7,500), $399 (15,000), $549 (25,000) and $899 (50,000) a month, so the printed $39 to $909 range is those…
 
 ## StoreFAQ
 - Review: https://zerotouchsupport.com/storefaq-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: StoreFAQ: Enterprise $49.99 a month or $479.90 a year, a 20% saving. The meter is FAQ page views, and that is the thing this app exists to increase.
 - Price: (read 2026-08-21 and re-verified unchanged 2026-10-09 on apps.shopify.com/storefaq) Four tiers, metered on FAQ page views and AI chatbot conversations rather than on the number of FAQs. Free: 100 FAQ page views, unlimited FAQs and FAQ groups, the AI chatbot and AI-written FAQs, 25 AI conversations for the lifetime of the account, AI training on up to 50 products, export and import, instant answer with live chat…
 
 ## SupportBee
 - Review: https://zerotouchsupport.com/supportbee-review.html
+- Hands-on: tested by us on 2026-10-20. Measured 2026-10-20: The '+ Ticket' action is blocked until a mailbox is connected: 'Please connect an email address to create tickets. New tickets can't be created without a connected email address.' Incoming tickets through…
 - Verdict: SupportBee: Month to month, Startup is $20/seat/month and Enterprise is $25/seat/month. Enterprise is listed as everything in Startup plus five named items.
 - Price: (read 2026-08-27 on supportbee.com/pricing) Two plans, both priced per seat, and no free tier. Month to month, Startup is $20/seat/month and Enterprise is $25/seat/month.
 
 ## SupportYourApp
 - Review: https://zerotouchsupport.com/supportyourapp-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: SupportYourApp does not publish prices. No prices are published, only a starting point given in a partner message and described as under review.
 - Price: (vendor answer, 23 October 2026; pricing page re-read 6 November 2026 shows no amounts) SupportYourApp does not publish prices: its pricing page says to get custom pricing. In a message to us on 23 October 2026 the company said its Pay-Per-Seat model starts from $1,200 a month and that this model is being reviewed, so treat the figure as a starting point, not a quote.
 
 ## Textline
 - Review: https://zerotouchsupport.com/textline-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Textline: Add-on message credits $0.03 each, bought in advance; backup message credits $0.04 each. Two costs are easy to miss and both are monthly.
 - Price: (price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit) Amounts unchanged since 2026-08-01. Add-on message credits $0.03 each, bought in advance; backup message credits $0.04 each, Textline's automatic fallback when you run out mid-conversation.
 
 ## Tidio
 - Review: https://zerotouchsupport.com/tidio-review.html
+- Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: Sign-up requires a website URL ('Can't be empty!'). Within minutes Tidio read 71 pages of the site we entered into Lyro's knowledge on its own. The source list can delete or set an audience in bulk, but…
 - Verdict: Tidio: The free plan carries 50 billable conversations, 100 Flows visitors reached and 50 Lyro AI conversations.
 - Price: (read 2026-08-24 on www.tidio.com/pricing/ with both billing columns clicked, and on www.tidio.com) The plan table opens on the annual column, so the first figures on the page are not what month-to-month costs. Starter is 24.17 a month billed annually against 29 paid monthly, Growth starts at 49.17 annually against 59 monthly, and the two stand-alone add-ons follow the same 20 percent step: the Lyro AI Agent from…
 
 ## Trackr
 - Review: https://zerotouchsupport.com/trackr-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Trackr: Four tiers and no free plan, billed in USD every 30 days through Shopify. The rating is 4.1 over 56 reviews on 12 September 2026.
 - Price: (price re-read 2026-10-13) Four tiers and no free plan, billed in USD every 30 days through Shopify: Basic $10 a month or $96 a year for 400 shipments a month, Standard $45 or $432 for 2,000, Advanced $150 or $1,440 for 9,000 and Enterprise $250 or $2,400 for 18,000. Annual billing saves 20% and every tier carries a 14-day trial.
 
 ## Typewise
 - Review: https://zerotouchsupport.com/typewise-review.html
+- Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: On the day of sign-up, Plan & limits showed 'Trial · 92 days remaining' with no payment method.
 - Verdict: Typewise: Starter is $99 a month or $999 a year with 1 user, email and chat. The bill has two parts and both are published.
 - Price: (re-read 2026-09-23 and again, unchanged, 2026-09-27 on typewise.app/pricing) A base plan plus a per-resolution rate. Starter is $99 a month or $999 a year with 1 user, email and chat, a $20 monthly AI Operator budget and pay-as-you-go resolutions at $2 each.
 
 ## UniTel Voice
 - Review: https://zerotouchsupport.com/unitel-voice-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: UniTel Voice: Solo $9.99/mo, Team $19.99/mo and Office $29.99/mo, each with one toll-free or local number and unlimited calling and texting.
 - Price: (re-verified 2026-10-24 on signup.unitelvoice.com/pick-plan, where unitelvoice.com/pricing now lands) Three plans, no contracts: Solo $9.99/mo, Team $19.99/mo and Office $29.99/mo, each with one toll-free or local number and unlimited calling and texting. Yearly billing is charged as $84, $168 and $252 a year (the cards say "Save $36/year", $72 and $108); the comparison table shows that as $6.99, $13.99 and…
 
 ## Vanity Number
 - Review: https://zerotouchsupport.com/vanity-number-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Vanity Number: The catalogue is browsable by price band, from under $250 through $251 to $500, $501 to $1,000. You are buying the number only.
 - Price: (read 2026-10-11 on vanitynumber.com and its FAQ page, USD) VanityNumber.com sells memorable North American local and toll-free phone numbers as a one-time purchase, not phone service. The FAQ says the price is a single search and acquisition fee to source the number, secure it and transfer it to the carrier you choose; there is no monthly subscription, renewal or fee for keeping the number, and your carrier…
 
 ## Vida AI
 - Review: https://zerotouchsupport.com/vida-ai-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Vida AI: Starter is $250 a month with 1 agent and no included usage. Business allowances do not roll over, and the terms rule out refunds.
 - Price: (re-verified 2026-10-17 in a browser on vida.io/pricing with its FAQ and on vida.io/rate-card; the page has changed since our reading of 13 October 2026, when it published no plans and only a scoped pilot from $1,500, and the rate card says its rates took effect on 14 October 2026) Vida now publishes a monthly plan ladder. Starter is $250 a month with 1 agent and no included usage: you pay for usage as you go.
 
 ## Voye
 - Review: https://zerotouchsupport.com/voye-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Voye: $2.00 down to $1.20 per gigabyte, with 2, 8, 12, 25 and 50 eSIMs included. ESIM data pooling genuinely beats classic roaming for traveling teams.
 - Price: Published plans (read 13 October 2026 on voyedatapool.com/plans, which now has two switches). Monthly data allowance, billed monthly, 30-day validity: $9.99 for 5 GB, $19.99 for 12 GB, $39.99 for 30 GB, $69.99 for 55 GB, $119.99 for 100 GB — $2.00 down to $1.20 per gigabyte, with 2, 8, 12, 25 and 50 eSIMs included.
 
 ## Wati
 - Review: https://zerotouchsupport.com/wati-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Wati: Growth €59/mo, Pro €119/mo and Business €279/mo billed annually, or €69, €149 and €349 billed monthly. The plan price is the smallest part of the bill.
 - Price: (re-verified 2026-09-12, read on their own pricing page — which again served us euros, not dollars) Growth €59/mo, Pro €119/mo and Business €279/mo billed annually, or €69, €149 and €349 billed monthly, with a 7-day free trial and no setup fee. Users are capped per tier: Growth includes 3 and lets you add none at all; Pro and Business include 5, with extra seats at €39 and €89 per user per month.
 
 ## Weave
 - Review: https://zerotouchsupport.com/weave-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Weave's plans page (getweave.com/plans, read 13 October 2026) is now a configurator: the base plan starts at $199 a month.
 - Price: Weave's plans page (getweave.com/plans, read 13 October 2026) is now a configurator: the base plan starts at $199 a month, and two pre-built bundles cost $149 a month each — Coordinate (online scheduling, digital forms, reminders and follow-ups, appointment confirmations, recall and reactivation) and Attract (reviews, Text Connect, email marketing with 10,000 emails, bulk texting with 5,000 texts). The AI…
 
 ## Zendesk
 - Review: https://zerotouchsupport.com/zendesk-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Zendesk — Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. The prices shown are annual-billed.
 - Price: (re-verified 2026-08-12, read on their own pricing page from two countries) Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. Suite Enterprise + Copilot is quote-only.
 
 ## ZenZap
 - Review: https://zerotouchsupport.com/zenzap-review.html
+- Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: Sign-up works only with a mobile number and a six-digit SMS code ('Sign in with email' is for existing users). Onboarding now presents Zenzap as an agent platform: after the workspace it asks who you are…
 - Verdict: ZenZap: Free at $0 with 'every feature, every integration', unlimited users and 100 AI credits a month. The pricing genuinely undercuts Slack.
 - Price: (re-read 2026-10-07 on the vendor's own pricing page; unchanged on 2026-10-15) The per-seat prices are gone. On 1 September the page sold Pro at $3 a user a month billed yearly ($4 monthly) and Business+ at $8 ($10 monthly), with flat team bundles beside them; our 1 October capture and the page on 7 October sell flat monthly packages only, in two tabs.
