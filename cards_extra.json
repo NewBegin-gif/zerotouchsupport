@@ -4029,10 +4029,8 @@
     "usage_metered"
    ]
   ],
-  "price": "$29.99",
-  "price_note": "from · per month per user for 3,000 credits",
-  "verified": "2026-10-02",
-  "catch": "Cost tracks headcount rather than output: every colleague who so much as @mentions Lindy in Slack takes a paid seat, and a seat you remove runs to the end of the cycle with no mid-cycle proration.",
+  "verified": "2026-11-08",
+  "catch": "Cost tracks headcount as well as output: every colleague who so much as @mentions Lindy in Slack takes a seat, and a seat you remove runs to the end of the cycle with no mid-cycle proration.",
   "best": "Teams that live in Slack and want one shared teammate that sits in their meetings, runs scheduled routines and drafts replies inside the tools they already use.",
   "pw": "plans rebuilt Sep 2026",
   "pw_soort": "restructure"
@@ -10483,5 +10481,27 @@
   "verified": "2026-11-08",
   "catch": "Windows licence not included; one licence covers one Mac.",
   "best": "Mac users who need to run Windows apps next to macOS apps, from home users on Standard to developers on Pro and small teams on Business."
+ },
+ "Finmo": {
+  "flags": [
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "verified": "2026-11-06",
+  "catch": "Free account, but the 0.07% FX rate is introductory and needs USD 10,000 a month in conversions.",
+  "best": "Startups, scale-ups and mid-market companies that collect and pay in several currencies and convert at least USD 10,000 a month on major pairs."
  }
 }
