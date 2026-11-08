@@ -245,7 +245,9 @@
   "price_note": "from · per person contacted (charged daily, no subscription)",
   "verified": "2026-10-15",
   "catch": "Judge it on cost per meeting, not the sticker.",
-  "best": "Sales teams with a clear ICP and offer that want autonomous AI to qualify leads, personalize outreach and book meetings around the clock."
+  "best": "Sales teams with a clear ICP and offer that want autonomous AI to qualify leads, personalize outreach and book meetings around the clock.",
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "AISQ": {
   "flags": [
@@ -621,7 +623,9 @@
   "price_note": "ReCapture · minimum per month",
   "verified": "2026-10-14",
   "catch": "The pricing has moved within two months.",
-  "best": "Stores already running Klaviyo or Omnisend at volume, with enough traffic for identity resolution to work and a recovery figure they can check against their own email platform before a 10% share of it becomes the bill."
+  "best": "Stores already running Klaviyo or Omnisend at volume, with enough traffic for identity resolution to work and a recovery figure they can check against their own email platform before a 10% share of it becomes the bill.",
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "Audionotes": {
   "flags": [
@@ -1254,8 +1258,8 @@
   "verified": "2026-11-07",
   "catch": "Two meters run at once: seats AND credits — the seat price includes a credit allowance (500 a month on Core, 5,000 on AI Employee, read 7 November 2026), and real outbound volume means credit packages on top, so budget past the sticker.",
   "best": "GTM teams that want AI to run outbound end-to-end — prompt-driven prospecting of intent-ready buyers.",
-  "pw": "plans rebuilt Sep 2026",
-  "pw_soort": "restructure"
+  "pw": "rates withdrawn Nov 2026",
+  "pw_soort": "withdrawn"
  },
  "Bybit": {
   "verified": "2026-10-16",
@@ -1576,7 +1580,9 @@
   "price_note": "from · per user per month billed yearly ($10 monthly)",
   "verified": "2026-09-30",
   "catch": "The everything-app breadth is also the downside — it's feature-dense with a real learning curve, and teams can drown in options.",
-  "best": "Teams that want one highly customizable app for tasks, docs, goals and reporting and will invest in setting it up."
+  "best": "Teams that want one highly customizable app for tasks, docs, goals and reporting and will invest in setting it up.",
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "Clonable": {
   "flags": [
@@ -1662,8 +1668,8 @@
   "verified": "2026-10-06",
   "catch": "The per-seat price is only part of it — number rental, outbound minutes and the AI add-ons stack on top, so a call-heavy team's real bill runs above the plan rate.",
   "best": "Support and sales teams that want a cloud call center with strong CRM integrations and call analytics.",
-  "pw": "price held",
-  "pw_soort": "held"
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "CloudTask": {
   "verified": "2026-10-08",
@@ -2209,7 +2215,9 @@
   "price_note": "Basic (per user) · per user per month billed annually",
   "verified": "2026-10-10",
   "catch": "Understand what you are buying before the price matters: LinkedIn prohibits this entire product category.",
-  "best": "Sales teams that already run LinkedIn outreach, understand that automation breaches LinkedIn's terms, and accept that risk with their eyes open."
+  "best": "Sales teams that already run LinkedIn outreach, understand that automation breaches LinkedIn's terms, and accept that risk with their eyes open.",
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "Dripshipper": {
   "flags": [
@@ -2342,7 +2350,9 @@
   "price_note": "Essential, per agent · per agent per month billed annually ($49 billed monthly)",
   "verified": "2026-10-07",
   "catch": "The per-agent price is the entry ticket, but the AI Agent charges $0.99 for every automated resolution on top, a variable line that scales with your ticket volume.",
-  "best": "E-commerce and marketplace sellers who want one unified inbox across Amazon, eBay, Shopify and email."
+  "best": "E-commerce and marketplace sellers who want one unified inbox across Amazon, eBay, Shopify and email.",
+  "pw": "price up Nov 2026",
+  "pw_soort": "increase"
  },
  "ElevateForward": {
   "flags": [
@@ -3226,8 +3236,8 @@
   "verified": "2026-11-01",
   "catch": "No small paid tier any more: after Free (10 tickets, then $0.25 each) the next step is Standard at $40 a month for 500 tickets.",
   "best": "Small Shopify stores that want ticketing, live chat and a searchable FAQ page from one app rather than bolting three together.",
-  "pw": "price held",
-  "pw_soort": "held"
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "HiBob": {
   "flags": [
@@ -3616,7 +3626,9 @@
   ],
   "verified": "2026-10-30",
   "catch": "There is no public price above Free any more.",
-  "best": "Product makers and small manufacturers who need live inventory, production scheduling and multi-channel order sync in one cloud platform."
+  "best": "Product makers and small manufacturers who need live inventory, production scheduling and multi-channel order sync in one cloud platform.",
+  "pw": "rates withdrawn Nov 2026",
+  "pw_soort": "withdrawn"
  },
  "Keap": {
   "flags": [
@@ -4817,14 +4829,18 @@
   "price_note": "Starter · Starter billed monthly, unlimited AI work and leads under fair use…",
   "verified": "2026-11-03",
   "catch": "The usage limits are not published as numbers.",
-  "best": "Small teams and solo operators that want sales, content and support agents plus lead search and outreach in one place, at a flat monthly price."
+  "best": "Small teams and solo operators that want sales, content and support agents plus lead search and outreach in one place, at a flat monthly price.",
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "Parim": {
   "price": "£47",
   "price_note": "from · a month (published floor)",
   "verified": "2026-10-05",
   "catch": "Unlimited users sounds like the generous part, and it is — until you notice what replaces per-seat pricing: a bill that scales with shifts scheduled.",
-  "best": "Staffing agencies, security firms and event operators with large rosters of shift workers."
+  "best": "Staffing agencies, security firms and event operators with large rosters of shift workers.",
+  "pw": "rates withdrawn Nov 2026",
+  "pw_soort": "withdrawn"
  },
  "PartnerStack": {
   "verified": "2026-10-16",
@@ -5017,7 +5033,9 @@
   ],
   "verified": "2026-09-19",
   "catch": "The 2.5% comes off revenue, not margin.",
-  "best": "Shopify stores that want post-purchase upsells with no fixed monthly cost, where the bill only exists once the app has already added revenue."
+  "best": "Shopify stores that want post-purchase upsells with no fixed monthly cost, where the bill only exists once the app has already added revenue.",
+  "pw": "price up Nov 2026",
+  "pw_soort": "increase"
  },
  "Postscript": {
   "flags": [
@@ -5468,7 +5486,9 @@
   "price_note": "EOR Flex, per employee · billed monthly with no commitment, no setup fee and no minimum headcount",
   "verified": "2026-10-09",
   "catch": "Every rate is a 'from' price with no country-level figure, and recruitment fees charged as a share of salary can dwarf the subscription.",
-  "best": "Small and mid-size teams hiring a handful of people abroad who want to pay monthly, keep the option to stop."
+  "best": "Small and mid-size teams hiring a handful of people abroad who want to pay monthly, keep the option to stop.",
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "Replit": {
   "flags": [
@@ -5628,7 +5648,7 @@
   "verified": "2026-09-24",
   "catch": "Serverless runs roughly 1.7x the pod rate per compute-hour ($4.79 against $2.89 for an H100), and an idle pod you forgot keeps billing.",
   "best": "Developers and ML teams that want cheap, per-second GPU compute for inference and experiments without committing to hyperscaler contracts.",
-  "pw": "price up Oct 2026",
+  "pw": "price up Nov 2026",
   "pw_soort": "increase"
  },
  "Salesflare": {
@@ -6019,7 +6039,9 @@
   "price_note": "from · per year, or $9/mo (50 digital scans/mo)",
   "verified": "2026-10-11",
   "catch": "Its unique trick is the Magic Envelope, where you literally mail a stuffed envelope of paper receipts and humans digitize them.",
-  "best": "Businesses drowning in PAPER receipts — trades, field crews, owners with shoeboxes of history — who want them humanly digitized, verified and IRS-ready."
+  "best": "Businesses drowning in PAPER receipts — trades, field crews, owners with shoeboxes of history — who want them humanly digitized, verified and IRS-ready.",
+  "pw": "price down Nov 2026",
+  "pw_soort": "decrease"
  },
  "Shorby": {
   "price": "$15",
@@ -6651,7 +6673,9 @@
   "price_note": "Starter · billed monthly",
   "verified": "2026-10-01",
   "catch": "The minute caps are tight: Starter's 1,250 credits a month is roughly 10 to 12 minutes of finished video, and the meter counts seconds.",
-  "best": "Teams making talking-head training, explainer and onboarding videos without cameras, actors or editing."
+  "best": "Teams making talking-head training, explainer and onboarding videos without cameras, actors or editing.",
+  "pw": "price down Nov 2026",
+  "pw_soort": "decrease"
  },
  "Tapform": {
   "flags": [
@@ -6854,7 +6878,9 @@
   "price_note": "from · per month billed annually",
   "verified": "2026-10-15",
   "catch": "The Assessments bill is set by credits, and the page does not say how many credits its 'from' prices include.",
-  "best": "Companies that screen enough candidates to use a credit pool every month, and who will use the 350+ test library rather than writing their own questions."
+  "best": "Companies that screen enough candidates to use a credit pool every month, and who will use the 350+ test library rather than writing their own questions.",
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "TextExpander": {
   "flags": [
@@ -6914,7 +6940,9 @@
   "price_state": "quote-only",
   "verified": "2026-09-19",
   "catch": "The price is the knock, because there isn't one.",
-  "best": "Enterprises running AI across several departments, models and applications that cannot answer what the bill bought."
+  "best": "Enterprises running AI across several departments, models and applications that cannot answer what the bill bought.",
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "Thordata": {
   "flags": [
@@ -7239,7 +7267,9 @@
   "price_note": "from · per month (1 user, unlimited minutes, one phone number)",
   "verified": "2026-10-24",
   "catch": "It's a virtual phone layer, not a full unified-comms suite — you won't find the deep team messaging, video meetings and contact-center features pricier platforms bundle.",
-  "best": "Solopreneurs and small teams that want a professional toll-free or local number, auto-attendant and call routing on their existing phones — no hardware."
+  "best": "Solopreneurs and small teams that want a professional toll-free or local number, auto-attendant and call routing on their existing phones — no hardware.",
+  "pw": "price down Nov 2026",
+  "pw_soort": "decrease"
  },
  "Unleashed Software": {
   "flags": [
@@ -7273,8 +7303,8 @@
   "verified": "2026-09-19",
   "catch": "The ladder is public now, and that removes the complaint we had in September, but it leaves a cliff where the old one had a gap.",
   "best": "Shopify merchants who want one funnel covering product page, cart, post-purchase and thank-you offers with AI recommendations and A/B testing.",
-  "pw": "plans rebuilt Oct 2026",
-  "pw_soort": "restructure"
+  "pw": "price up Nov 2026",
+  "pw_soort": "increase"
  },
  "UpsellPlus": {
   "flags": [
@@ -7366,8 +7396,8 @@
   "verified": "2026-10-17",
   "catch": "The $250 Starter fee buys the platform and one agent, not the calls: every voice minute is $0.15, AI tokens are billed on top by model, a second agent is another $250 a month, and one-time setup fees may come in a quote.",
   "best": "Service businesses, agencies and MSPs that want AI phone agents to answer, qualify or schedule calls.",
-  "pw": "rates withdrawn Aug 2026",
-  "pw_soort": "withdrawn"
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "VideoScribe": {
   "flags": [
@@ -7744,7 +7774,9 @@
   "price_note": "Early · standard monthly price after the promotion",
   "verified": "2026-10-09",
   "catch": "Read the second number, not the first. Every plan on the US page is 80% off for three months, and the price after that is five times what the button says: $27, $59 and $97 a month.",
-  "best": "Small businesses whose bookkeeper or accountant already works in Xero."
+  "best": "Small businesses whose bookkeeper or accountant already works in Xero.",
+  "pw": "price up Nov 2026",
+  "pw_soort": "increase"
  },
  "Your Company Formations": {
   "flags": [
@@ -8052,7 +8084,9 @@
   "price_note": "Pro · per seat a month, plus $0.08 per testing minute beyond the 360 included…",
   "verified": "2026-11-02",
   "catch": "You do not control your own seat count.",
-  "best": "Teams already living inside GitHub pull requests who want end-to-end tests to exist at all."
+  "best": "Teams already living inside GitHub pull requests who want end-to-end tests to exist at all.",
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "Influencer Hero": {
   "flags": [
@@ -8135,7 +8169,9 @@
   "price_note": "Starter · per month, flat, unlimited orders and campaigns",
   "verified": "2026-10-30",
   "catch": "The pricing changed under this review in October 2026, and the vendor's own page has not caught up.",
-  "best": "Shopify stores that want bundles, add-ons, cart funnels and post-purchase offers out of one app on a flat fee that never takes a share of upsell revenue."
+  "best": "Shopify stores that want bundles, add-ons, cart funnels and post-purchase offers out of one app on a flat fee that never takes a share of upsell revenue.",
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "Warn": {
   "price": "$6.99",
@@ -9808,7 +9844,9 @@
   "price_note": "Starter · per month, Shopify app billed every 30 days in USD",
   "verified": "2026-10-25",
   "catch": "Only the $179 Growth plan applies fixes for you, and the vendor promises no rankings or traffic.",
-  "best": "Shopify store owners who want a concrete list of what to change so AI assistants and search engines can read their products, collections and pages."
+  "best": "Shopify store owners who want a concrete list of what to change so AI assistants and search engines can read their products, collections and pages.",
+  "pw": "price up Nov 2026",
+  "pw_soort": "increase"
  },
  "Netart": {
   "flags": [
