@@ -1,6 +1,6 @@
 # ZeroTouch Support
 
-> Independent reviews of customer support, business phone and AI voice software. 51 full reviews live here as the canonical version, 14 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-08.
+> Independent reviews of customer support, business phone and AI voice software. 52 full reviews live here as the canonical version, 14 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-08.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -32,7 +32,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Jotform AI Agents](https://zerotouchsupport.com/jotform-ai-agents-review.html): tested 2026-10-09
 - [Freshchat](https://zerotouchsupport.com/freshchat-review.html): tested 2026-10-08
 
-## Reviews (51) — canonical versions
+## Reviews (52) — canonical versions
 - [800.com Review (2026): From $19/mo, Checked Oct 2026](https://zerotouchsupport.com/800-com-review.html): 800.com: Startup $19/mo and Small Business $49/mo. The 250-minute cap on Startup (it was 1,000 in August) matters for any real call volume.
 - [Aircall Review (2026): From $30/mo, Checked Oct 2026](https://zerotouchsupport.com/aircall-review.html): Aircall: Essentials is $30 per license a month and Professional $50, both on annual billing. 'Unlimited calling' covers listed regions — check yours.
 - [Answering Service Care Review (2026): Price & Limits](https://zerotouchsupport.com/answering-service-care-review.html): Answering Service Care: $161, $296 and $575 for the three larger plans. Do the arithmetic before you pick a tier, because their own page does not.
@@ -74,6 +74,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [SupportYourApp Review (2026): Outsourced Support From $1,200/mo](https://zerotouchsupport.com/supportyourapp-review.html): SupportYourApp does not publish prices. No prices are published, only a starting point given in a partner message and described as under review.
 - [Textline Review (2026): Backup Credits Cost 33% More](https://zerotouchsupport.com/textline-review.html): Textline: Add-on message credits $0.03 each, bought in advance; backup message credits $0.04 each. Two costs are easy to miss and both are monthly.
 - [Tidio Review (2026): Free Tier, Then $29/mo](https://zerotouchsupport.com/tidio-review.html) (tested hands-on): Tidio: The free plan carries 50 billable conversations, 100 Flows visitors reached and 50 Lyro AI conversations.
+- [Tossable Digits Review (2026): Virtual Phone Numbers From $7/mo](https://zerotouchsupport.com/tossable-digits-review.html): Tossable Digits: Extra US or Canada numbers cost $3.49, $2.99, $2.19 or $1.49 a month and extra minutes $0.12, $0.10. Annual plans get no pro-rated re
 - [Trackr Review (2026): From $10/mo, Checked Oct 2026](https://zerotouchsupport.com/trackr-review.html): Trackr: Four tiers and no free plan, billed in USD every 30 days through Shopify. The rating is 4.1 over 56 reviews on 12 September 2026.
 - [Typewise Review (2026): From $99/mo Plus $1-2 a Resolution](https://zerotouchsupport.com/typewise-review.html) (tested hands-on): Typewise: Starter is $99 a month or $999 a year with 1 user, email and chat. The bill has two parts and both are published.
 - [UniTel Voice Review (2026): Extra Users Cost $9.99](https://zerotouchsupport.com/unitel-voice-review.html): UniTel Voice: Solo $9.99/mo, Team $19.99/mo and Office $29.99/mo, each with one toll-free or local number and unlimited calling and texting.
