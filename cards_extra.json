@@ -10374,5 +10374,24 @@
   "verified": "2026-11-07",
   "catch": "Set-up cost plus volume-based price; no list price.",
   "best": "Fintechs, payment firms and compliance teams that need sanctions, PEP and adverse-media screening through a dashboard or an API, from a small volume upward."
+ },
+ "Shortcut Chat": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$20",
+  "price_note": "Pro · Pro billed monthly",
+  "verified": "2026-11-08",
+  "catch": "Usage allowance is shown only as a percentage.",
+  "best": "People who already compare the answers of several AI models by hand and want one subscription with side-by-side answers, web search."
  }
 }
