@@ -3711,10 +3711,6 @@
   "price_note": "Creator · billed monthly",
   "verified": "2026-10-15",
   "catch": "Three honest notes. Subscriber-based pricing counts everyone on your list — cold subscribers cost the same as fans, so prune before you price.",
-  "coupon": {
-   "code": "",
-   "label": "via our link: kit's own limited-time offer on Pro"
-  },
   "best": "Creators, writers and coaches building an audience-first business who want email, landing pages, digital products and a creator network in one."
  },
  "Kite": {
@@ -10366,5 +10362,17 @@
   "verified": "2026-10-23",
   "catch": "Fees on every payment, no flat plan price.",
   "best": "Small businesses and teams that need to find and pay freelancers on a project basis and want one place for contracts and payments."
+ },
+ "AML Watcher": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "verified": "2026-11-07",
+  "catch": "Set-up cost plus volume-based price; no list price.",
+  "best": "Fintechs, payment firms and compliance teams that need sanctions, PEP and adverse-media screening through a dashboard or an API, from a small volume upward."
  }
 }
