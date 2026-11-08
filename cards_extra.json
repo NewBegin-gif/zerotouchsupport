@@ -4029,6 +4029,8 @@
     "usage_metered"
    ]
   ],
+  "price": "$29.99",
+  "price_note": "from · per user per month (the page also serves $49.99/mo for 5,000 credits)",
   "verified": "2026-11-08",
   "catch": "Cost tracks headcount as well as output: every colleague who so much as @mentions Lindy in Slack takes a seat, and a seat you remove runs to the end of the cycle with no mid-cycle proration.",
   "best": "Teams that live in Slack and want one shared teammate that sits in their meetings, runs scheduled routines and drafts replies inside the tools they already use.",
