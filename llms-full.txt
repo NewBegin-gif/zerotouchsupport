@@ -15,7 +15,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Aircall
 - Review: https://zerotouchsupport.com/aircall-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Aircall: Essentials is $30 per license a month and Professional $50, both on annual billing. 'Unlimited calling' covers listed regions — check yours.
+- Verdict: Aircall: Essentials is $30 per license a month and Professional $50, both on annual billing. 'Unlimited calling' covers listed regions, check yours.
 - Price: (read 2026-10-10 on aircall.io/pricing in a live browser, with Aircall's own country selector on United States) Essentials is $30 per license a month and Professional $50, both on annual billing, which the page marks as 25% off monthly. Flip that toggle and the monthly rates read $40 and $70 per license.
 
 ## Answering Service Care
@@ -45,7 +45,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## CallHippo
 - Review: https://zerotouchsupport.com/callhippo-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: CallHippo: Read the tab before the number. 'Unlimited calling' is unlimited to the US and Canada — international minutes meter separately.
+- Verdict: CallHippo: Read the tab before the number. 'Unlimited calling' is unlimited to the US and Canada: international minutes meter separately.
 - Price: (re-verified 2026-10-14 in a browser on callhippo.com/pricing, currency selector switched to USD, phone-number region US/CA: plan grid, both billing tabs and fair-usage notes re-read; the add-on prices below were last read on 15 September 2026) Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55. Read the tab before the number: the grid opens…
 
 ## Chatwith
@@ -99,7 +99,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Freshchat
 - Review: https://zerotouchsupport.com/freshchat-review.html
 - Hands-on: tested by us on 2026-10-08
-- Verdict: Freshchat: Free is $0 for up to 10 agents. The free tier is genuinely useful for small teams.
+- Verdict: Freshchat: Free is $0 for up to 10 agents. The free tier is useful for small teams, but AI features and higher-tier routing sit behind paid plans and add-ons.
 - Price: Read 1 Sep 2026 and re-read 16 Oct 2026 on freshworks.com/live-chat-software/pricing/ (USD, both the Annually and Monthly views). Free is $0 for up to 10 agents.
 
 ## Freshworks
@@ -291,7 +291,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Voye
 - Review: https://zerotouchsupport.com/voye-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Voye: $2.00 down to $1.20 per gigabyte, with 2, 8, 12, 25 and 50 eSIMs included. ESIM data pooling genuinely beats classic roaming for traveling teams.
+- Verdict: Voye: $9.99 for 5 GB, $19.99 for 12 GB, $39.99 for 30 GB, $69.99 for 55 GB, $119.99 for 100 GB. ESIM data pooling beats classic roaming for traveling teams.
 - Price: Published plans (read 13 October 2026 on voyedatapool.com/plans, which now has two switches). Monthly data allowance, billed monthly, 30-day validity: $9.99 for 5 GB, $19.99 for 12 GB, $39.99 for 30 GB, $69.99 for 55 GB, $119.99 for 100 GB — $2.00 down to $1.20 per gigabyte, with 2, 8, 12, 25 and 50 eSIMs included.
 
 ## Wati
@@ -315,5 +315,5 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## ZenZap
 - Review: https://zerotouchsupport.com/zenzap-review.html
 - Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: Sign-up works only with a mobile number and a six-digit SMS code ('Sign in with email' is for existing users). Onboarding now presents Zenzap as an agent platform: after the workspace it asks who you are…
-- Verdict: ZenZap: Free at $0 with 'every feature, every integration', unlimited users and 100 AI credits a month. The pricing genuinely undercuts Slack.
+- Verdict: ZenZap: The per-seat prices are gone. The pricing undercuts Slack: the honest question is ecosystem: team chat lives or dies on integrations and habit.
 - Price: (re-read 2026-10-07 on the vendor's own pricing page; unchanged on 2026-10-15) The per-seat prices are gone. On 1 September the page sold Pro at $3 a user a month billed yearly ($4 monthly) and Business+ at $8 ($10 monthly), with flat team bundles beside them; our 1 October capture and the page on 7 October sell flat monthly packages only, in two tabs.
