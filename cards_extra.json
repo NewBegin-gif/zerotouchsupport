@@ -10407,5 +10407,43 @@
   "verified": "2026-11-08",
   "catch": "Fulfilled orders and VAT are billed on top of the plan.",
   "best": "New and growing Shopify dropshippers who want product research, competitor store data and fulfillment in one tool, and who will use the tier quotas."
+ },
+ "KillerPlayer": {
+  "flags": [
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$2",
+  "price_note": "from · per month",
+  "verified": "2026-11-08",
+  "catch": "Introductory prices apply to the first period only; renewals bill at the standard rate.",
+  "best": "Bloggers, course creators and small publishers whose videos already live on YouTube and who want a branded embed without the YouTube title, logo and suggested videos."
+ },
+ "Tossable Digits": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "verified": "2026-11-08",
+  "catch": "Business SMS is not allowed; included minutes cover US and Canada calls only.",
+  "best": "Expats, travelers and individuals who want to keep or park a US or Canadian number and forward calls and personal texts to their own phone cheaply."
+ },
+ "Parallels": {
+  "price": "€99.99",
+  "price_note": "Standard · Standard subscription list price per year for one Mac, 8 GB vRAM…",
+  "verified": "2026-11-08",
+  "catch": "Windows licence not included; one licence covers one Mac.",
+  "best": "Mac users who need to run Windows apps next to macOS apps, from home users on Standard to developers on Pro and small teams on Business."
  }
 }
