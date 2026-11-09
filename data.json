@@ -700,7 +700,7 @@
     "category": "Marketing",
     "domain": "cloro.dev",
     "link": "https://cloro.dev?fpr=d3dq9l",
-    "desc": "API that reads AI search engines — ChatGPT, Perplexity, Copilot, Gemini, Grok, AI Overview and Google Search — and returns the sources and citations behind every query as structured JSON."
+    "desc": "API that reads AI search engines — ChatGPT, Gemini, Google AI Mode, Bing AI Mode, AI Overview and Google Search — and returns the sources and citations behind every query as structured JSON."
   },
   {
     "name": "Close",
