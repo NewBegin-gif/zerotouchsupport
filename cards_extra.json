@@ -7299,9 +7299,9 @@
    ]
   ],
   "price": "$9.99",
-  "price_note": "Growth · per month from the 51st order or $51 of upsell revenue…",
-  "verified": "2026-09-19",
-  "catch": "The ladder is public now, and that removes the complaint we had in September, but it leaves a cliff where the old one had a gap.",
+  "price_note": "Growth · per month for 51-100 monthly store orders or upsell revenue…",
+  "verified": "2026-11-09",
+  "catch": "Growth is banded and cheap up to 500 orders, but the step after Growth is steep.",
   "best": "Shopify merchants who want one funnel covering product page, cart, post-purchase and thank-you offers with AI recommendations and A/B testing.",
   "pw": "price up Nov 2026",
   "pw_soort": "increase"
@@ -10534,5 +10534,10 @@
   "verified": "2026-11-09",
   "catch": "Dedicated virtual assistants, quote on request.",
   "best": "Small businesses that want a dedicated remote assistant for admin, support or bookkeeping and are happy to get a quote from a specialist first."
+ },
+ "Adwave": {
+  "verified": "2026-11-09",
+  "catch": "Prepaid-wallet ads across phone, TV and search.",
+  "best": "Small businesses that want ads on phones, TV, search and social planned from their website, paid from a prepaid wallet that cannot go into debt."
  }
 }
