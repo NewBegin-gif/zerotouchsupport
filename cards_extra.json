@@ -10517,5 +10517,17 @@
   "verified": "2026-11-09",
   "catch": "Own store with Etsy sync, price shown at signup.",
   "best": "Makers and small sellers who want their own store, with two-way Etsy sync, and no platform transaction fees."
+ },
+ "Movavi": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "verified": "2026-11-09",
+  "catch": "Desktop video editor with AI subtitles, yearly plan.",
+  "best": "Solo creators and small teams who want a desktop video editor with one-click AI subtitles, background removal and noise reduction, without a heavy learning curve."
  }
 }
