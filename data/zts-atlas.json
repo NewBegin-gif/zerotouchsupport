@@ -3,7 +3,7 @@
   "title": "The cost-trap atlas for customer support and voice software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 55,
+  "tools": 56,
   "flags": 120,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on zerotouchsupport.com. Every flag carries the dossier sentence it rests on."
  },
@@ -1164,6 +1164,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-15",
    "first_observed_at": "2026-10-15"
+  },
+  {
+   "name": "Remote CoWorker",
+   "category": "Communication & Voice",
+   "domain": "remotecoworker.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/remote-coworker-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-09 on remotecoworker.com) The homepage says plans start at $7.99 an hour. The pricing page does not list a rate card: it holds a four-step quote form that asks how many staff you want to outsource, your company size, your sector and the roles you need, and a calculator where you pick a category, role, experience level (entry, mid or senior) and a full-time (160 hours a month) or part-time (80 hours a month) schedule. When we opened the calculator without a selection it showed zero values, so we have no role-level rates. The page says the rate is all-inclusive and lists recruitment and vetting, IT support, quality assurance, payroll and benefits, HR management and 24/7 operations. The page does not name the currency behind the dollar sign, a minimum number of hours, a contract length or a cancellation term.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-09",
+   "first_observed_at": "2026-11-09"
   },
   {
    "name": "respond.io",
