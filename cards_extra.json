@@ -1613,9 +1613,9 @@
   ],
   "price": "$30",
   "price_note": "Lite · per month for 37,500 credits",
-  "verified": "2026-10-19",
+  "verified": "2026-11-09",
   "catch": "The free tier is a sampler, not a trial of the real thing: 500 credits is about 100 async ChatGPT answers at the 5-credit rate we were actually charged, and their table lists 7 for a full response.",
-  "best": "SEO and marketing teams who need AI-search visibility as structured data: who gets cited for which query on ChatGPT, Perplexity, Copilot."
+  "best": "SEO and marketing teams who need AI-search visibility as structured data: who gets cited for which query on ChatGPT, Gemini."
  },
  "Close": {
   "flags": [
@@ -4057,10 +4057,10 @@
     "usage_metered"
    ]
   ],
-  "price": "$199",
-  "price_note": "Starter · per month for up to 100 AI-handled calls, with a 14-day free trial",
-  "verified": "2026-10-30",
-  "catch": "The meter is AI-handled calls: Starter’s 100 calls a month is roughly three a day, so a busy shop outgrows it quickly, and the steps are steep ($199 → $499 → $999).",
+  "price": "$139",
+  "price_note": "Starter · per month for up to 250 AI-handled calls, with a 14-day free trial",
+  "verified": "2026-11-09",
+  "catch": "The meter is AI-handled calls: Starter’s 250 calls a month is about eight a day, and the jump from there is steep ($139 → $349 → $999).",
   "coupon": {
    "code": "AIBUILDER25",
    "label": "25% off your first month on any LucroVox or LucroChat plan"
