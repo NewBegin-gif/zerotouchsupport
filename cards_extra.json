@@ -10565,5 +10565,10 @@
   "verified": "2026-11-10",
   "catch": "Hourly bare metal and VPS; spot servers have no SLA.",
   "best": "Developers and small teams who want a single-tenant bare-metal or KVM server billed by the hour, with root access, in European data centres."
+ },
+ "LocalTry": {
+  "verified": "2026-11-10",
+  "catch": "All-in-one CRM with AI; card needed for the trial.",
+  "best": "Small service businesses and agencies that want customers, jobs, invoices, reviews and marketing in one CRM and would like to connect their own AI tool."
  }
 }
