@@ -10553,5 +10553,17 @@
   "verified": "2026-11-10",
   "catch": "Free Pinterest stats in your browser; the pricing page disagrees with itself.",
   "best": "Pinterest bloggers, Etsy and Shopify sellers and social media managers who want to see which pins perform before they create their own."
+ },
+ "Cherry Servers": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "verified": "2026-11-10",
+  "catch": "Hourly bare metal and VPS; spot servers have no SLA.",
+  "best": "Developers and small teams who want a single-tenant bare-metal or KVM server billed by the hour, with root access, in European data centres."
  }
 }
