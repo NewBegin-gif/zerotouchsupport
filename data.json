@@ -4701,5 +4701,19 @@
   "domain": "localtry.com",
   "desc": "CRM for service businesses and agencies that combines customers, jobs, scheduling, invoices, reviews and marketing with an AI assistant that can also be reached through MCP.",
   "link": "https://www.awin1.com/cread.php?awinmid=129735&awinaffid=2880219"
+ },
+ {
+  "name": "SurvIQ",
+  "category": "IT & Productivity",
+  "domain": "surviqapp.com",
+  "desc": "Survey and form builder with cross-tab analysis, AI to write surveys and summarise answers, and a free plan; also has a thesis mode and 360 feedback.",
+  "link": "https://surviqapp.com?aff=6NyDVn"
+ },
+ {
+  "name": "MotionUI",
+  "category": "Video & Audio",
+  "domain": "motionui.net",
+  "desc": "After Effects plugin for animating interface designs, with a Figma import and Claude-driven scene building, for Mac and Windows.",
+  "link": "https://motionui.net?aff=6NyDVn"
  }
 ]
