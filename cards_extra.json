@@ -10570,5 +10570,43 @@
   "verified": "2026-11-10",
   "catch": "All-in-one CRM with AI; card needed for the trial.",
   "best": "Small service businesses and agencies that want customers, jobs, invoices, reviews and marketing in one CRM and would like to connect their own AI tool."
+ },
+ "SurvIQ": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "Basic · 1,000 responses a month and 1 user",
+  "verified": "2026-11-10",
+  "catch": "Surveys with analysis and AI; free plan, then $9 to $79 a month.",
+  "best": "Freelancers, consultants, small teams and students who want a survey builder with built-in cross-tab analysis and AI summaries without paying for every feature separately."
+ },
+ "MotionUI": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$19",
+  "price_note": "Pro monthly · Pro billed monthly, cancel any time",
+  "verified": "2026-11-10",
+  "catch": "After Effects plugin for UI animation; free plan, Pro $19 a month.",
+  "best": "Motion designers and product designers who animate interface screens in After Effects and want to bring Figma frames in and let Claude help build the scenes."
  }
 }

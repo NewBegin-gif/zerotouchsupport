@@ -369,6 +369,14 @@ def _verhuisd():
                     _VERHUISD[vm["oude_url"]] = vm["nieuwe_url"]
         except (OSError, ValueError):
             pass
+        # 10 nov 2026: ook het volledige verhuisregister (ops/verplaatst.json), niet alleen de planning
+        try:
+            reg = json.load(open(Path(__file__).resolve().parent.parent / "ops" / "verplaatst.json", encoding="utf-8"))
+            for k, v in reg.items():
+                if isinstance(v, dict) and v.get("url"):
+                    _VERHUISD.setdefault(f"https://aibuildermarketplace.com/b2b/{k}-review/", v["url"])
+        except (OSError, ValueError, AttributeError):
+            pass
     return _VERHUISD
 
 
