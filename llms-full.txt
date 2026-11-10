@@ -154,7 +154,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://zerotouchsupport.com/lucrovox-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Lucrovox: Starter is $139 a month for up to 250 AI-handled calls. The meter is AI-handled calls: Starter’s 250 calls a month is about eight a day.
-- Price: (re-verified 2026-11-09 on lucrovox.com/#pricing in a real browser; the phone-agent prices dropped since our 30 October reading; lucrovox.com/lucrochat last read 2026-09-15, and the LucroChat table on the homepage still showed $29, $59 and $199 on 9 November) The phone agent has three published tiers. Starter is $139 a month for up to 250 AI-handled calls.
+- Price: (re-verified 2026-11-09 on lucrovox.com/#pricing in a real browser; the phone-agent prices dropped since our 30 October reading; lucrovox.com/lucrochat re-read 2026-11-10 and still showing $29, $59 and $199) The phone agent has three published tiers. Starter is $139 a month for up to 250 AI-handled calls.
 
 ## MK Website Assistant
 - Review: https://zerotouchsupport.com/mk-website-assistant-review.html
