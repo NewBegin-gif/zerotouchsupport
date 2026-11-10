@@ -88,7 +88,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://zerotouchsupport.com/edesk-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: eDesk — No free plan: 'Start for free' opens a 14-day full-feature trial with no credit card. The per-agent price is the entry ticket.
-- Price: (re-verified 2026-09-29) No free plan: 'Start for free' opens a 14-day full-feature trial with no credit card. Essential $39 per agent/mo, Growth $89, Professional $119 (the plan eDesk marks Most Popular), Enterprise custom — all billed annually.
+- Price: (re-verified 2026-11-10) No free plan: 'Start for free' opens a 14-day full-feature trial with no credit card. Essential $45 per agent/mo, Growth $99, Professional $129 (the plan eDesk marks Most Popular), Enterprise custom — all billed annually.
 
 ## Fireflies.ai
 - Review: https://zerotouchsupport.com/fireflies-ai-review.html

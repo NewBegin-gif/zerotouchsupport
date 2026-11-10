@@ -516,19 +516,19 @@
    "category": "Communication & Voice",
    "domain": "edesk.com",
    "review_url": "https://aibuildermarketplace.com/b2b/edesk-review/",
-   "from_price_usd_mo": 39.0,
-   "entry_price": "$39",
-   "entry_price_terms": "Essential, per agent · per agent per month billed annually ($49 billed monthly)",
+   "from_price_usd_mo": 45.0,
+   "entry_price": "$45",
+   "entry_price_terms": "Essential, per agent · per agent per month billed annually ($55 billed monthly)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-29) No free plan: 'Start for free' opens a 14-day full-feature trial with no credit card. Essential $39 per agent/mo, Growth $89, Professional $119 (the plan eDesk marks Most Popular), Enterprise custom — all billed annually. Billed monthly the same plans cost $49, $115 and $149; the annual rate is the '20% off' eDesk advertises. The AI Agent is included on every plan, but its automated resolutions bill separately at $0.99 per outcome: you pay when it actually resolves a query, not per attempt. eDesk claims the agent can automate up to 65% of support across channels, so model the outcome fee against your ticket volume — at 1,000 resolved tickets a month that is $990 on top of the seats.",
+   "price_note": "(re-verified 2026-11-10) No free plan: 'Start for free' opens a 14-day full-feature trial with no credit card. Essential $45 per agent/mo, Growth $99, Professional $129 (the plan eDesk marks Most Popular), Enterprise custom — all billed annually. Billed monthly the same plans cost $55, $125 and $159; the annual rate is the '20% off' eDesk advertises. The AI Agent is included on every plan, but its automated resolutions bill separately at $0.99 per outcome: you pay when it actually resolves a query, not per attempt. eDesk claims the agent can automate up to 65% of support across channels, so model the outcome fee against your ticket volume — at 1,000 resolved tickets a month that is $990 on top of the seats.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "Essential $39 per agent/mo, Growth $89, Professional $119 (the plan eDesk marks Most Popular), Enterprise custom — all billed annually.",
+     "evidence": "Essential $45 per agent/mo, Growth $99, Professional $129 (the plan eDesk marks Most Popular), Enterprise custom — all billed annually.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-11-10"
     },
     {
      "flag": "usage_metered",
@@ -536,7 +536,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-11-10"
     },
     {
      "flag": "addons_extra",
@@ -544,12 +544,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-11-10"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
-   "first_observed_at": "2026-09-29"
+   "price_verified_at": "2026-11-10",
+   "first_observed_at": "2026-11-10"
   },
   {
    "name": "Fireflies.ai",
@@ -992,7 +992,7 @@
    "entry_price": "$139",
    "entry_price_terms": "Starter · per month for up to 250 AI-handled calls, with a 14-day free trial",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-11-09 on lucrovox.com/#pricing in a real browser; the phone-agent prices dropped since our 30 October reading; lucrovox.com/lucrochat last read 2026-09-15, and the LucroChat table on the homepage still showed $29, $59 and $199 on 9 November) The phone agent has three published tiers. Starter is $139 a month for up to 250 AI-handled calls. Pro is $349 for up to 600 calls with CRM integration and advanced lead qualification, and Enterprise $999 for up to 2,000 calls with white-label branding and multi-location support. Higher volume is quote-only. The two lower tiers got cheaper and larger at once, since our 30 October reading had Starter at $199 for 100 calls and Pro at $499 for 500 calls; Enterprise did not move. Starter and Pro carry a 14-day trial, Enterprise 30 days. Paying up front goes through Stripe checkout with a card, but each tier now also offers “Start Free — No Credit Card” with the line “We build your agent first. Pay only if you keep it.” The FAQ further down still says “all plans include a 14-day free trial”, which undersells the 30 days the Enterprise card shows. On our 17 August reading the pricing page opened with a missed-call ROI calculator and the tier list could not be retrieved at all; the plan table on this site comes and goes, and the calculator's outputs ($500 average job value producing $750 a week and $39,000 a year of lost revenue) are illustrations rather than prices.\n\nLucroChat, the website chat product from the same vendor, sits on lucrovox.com/lucrochat with its own table metered on monthly conversations rather than calls: Starter $29 for up to 1,000 conversations on one website, Growth $59 for up to 3,000 conversations on up to three websites, Professional $199 for up to 10,000 conversations on unlimited websites, each with a 14-day trial and no card required. Its own FAQ agrees, describing pricing as starting at $29 a month for 1,000 conversations. One number on that page does not agree with the rest: the ROI calculator above the table reports its result “Based on Growth plan ($99/mo)” while the table prices Growth at $59. Read the plan table, not the calculator. LucroVox's partnerships team told us on 15 September 2026 that LucroChat had moved to $49, $99 and $249 and that the calculator now matches the table; we read both pages that same day and neither had happened. The table still prints $29, $59 and $199, the FAQ still says pricing starts at $29, and the calculator still reports $99. Those higher figures may well be where the product is heading, so if checkout quotes you $49, that is the vendor running ahead of its own pricing page. We publish what the page shows. Two products, two meters, one domain — price them separately.",
+   "price_note": "(re-verified 2026-11-09 on lucrovox.com/#pricing in a real browser; the phone-agent prices dropped since our 30 October reading; lucrovox.com/lucrochat re-read 2026-11-10 and still showing $29, $59 and $199) The phone agent has three published tiers. Starter is $139 a month for up to 250 AI-handled calls. Pro is $349 for up to 600 calls with CRM integration and advanced lead qualification, and Enterprise $999 for up to 2,000 calls with white-label branding and multi-location support. Higher volume is quote-only. The two lower tiers got cheaper and larger at once, since our 30 October reading had Starter at $199 for 100 calls and Pro at $499 for 500 calls; Enterprise did not move. Starter and Pro carry a 14-day trial, Enterprise 30 days. Paying up front goes through Stripe checkout with a card, but each tier now also offers “Start Free — No Credit Card” with the line “We build your agent first. Pay only if you keep it.” The FAQ further down still says “all plans include a 14-day free trial”, which undersells the 30 days the Enterprise card shows. On our 17 August reading the pricing page opened with a missed-call ROI calculator and the tier list could not be retrieved at all; the plan table on this site comes and goes, and the calculator's outputs ($500 average job value producing $750 a week and $39,000 a year of lost revenue) are illustrations rather than prices.\n\nLucroChat, the website chat product from the same vendor, sits on lucrovox.com/lucrochat with its own table metered on monthly conversations rather than calls: Starter $29 for up to 1,000 conversations on one website, Growth $59 for up to 3,000 conversations on up to three websites, Professional $199 for up to 10,000 conversations on unlimited websites, each with a 14-day trial and no card required. Its own FAQ agrees, describing pricing as starting at $29 a month for 1,000 conversations. One number on that page does not agree with the rest: the ROI calculator above the table reports its result “Based on Growth plan ($99/mo)” while the table prices Growth at $59. Read the plan table, not the calculator. LucroVox's partnerships team told us on 15 September 2026 that LucroChat had moved to $49, $99 and $249 and that the calculator now matches the table; we read both pages that same day and neither had happened. The table still prints $29, $59 and $199, the FAQ still says pricing starts at $29, and the calculator still reports $99. Those higher figures may well be where the product is heading, so if checkout quotes you $49, that is the vendor running ahead of its own pricing page. We publish what the page shows. On 9 November 2026 the vendor's own announcement mail also priced LucroChat as a standalone product “from just $29/mo (1,000 conversations), $59 (3,000) and $199 (10,000)”, and the page on 10 November still agreed, so the higher September figures did not arrive. The calculator still says “Based on Growth plan ($99/mo)”. Two products, two meters, one domain — price them separately.",
    "flags": [
     {
      "flag": "usage_metered",

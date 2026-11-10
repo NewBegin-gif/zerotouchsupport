@@ -2346,9 +2346,9 @@
     "addons_extra"
    ]
   ],
-  "price": "$39",
-  "price_note": "Essential, per agent · per agent per month billed annually ($49 billed monthly)",
-  "verified": "2026-10-07",
+  "price": "$45",
+  "price_note": "Essential, per agent · per agent per month billed annually ($55 billed monthly)",
+  "verified": "2026-11-10",
   "catch": "The per-agent price is the entry ticket, but the AI Agent charges $0.99 for every automated resolution on top, a variable line that scales with your ticket volume.",
   "best": "E-commerce and marketplace sellers who want one unified inbox across Amazon, eBay.",
   "pw": "price up Nov 2026",
@@ -10143,6 +10143,10 @@
   "price_note": "Start · billed monthly, prices shown in EUR for Germany with tax added…",
   "verified": "2026-11-04",
   "catch": "Prices changed between reads; usage limits given as multiples, not numbers.",
+  "coupon": {
+   "code": "4D7JPCY6YR52",
+   "label": "25% off any Pixasocial plan with the code 4D7JPCY6YR52"
+  },
   "best": "Small brands and solo marketers who want to create posts, images and short videos with AI and publish them to many networks from one plan, without paying per channel."
  },
  "Vynaris": {
