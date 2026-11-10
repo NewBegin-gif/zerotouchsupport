@@ -10539,5 +10539,19 @@
   "verified": "2026-11-09",
   "catch": "Prepaid-wallet ads across phone, TV and search.",
   "best": "Small businesses that want ads on phones, TV, search and social planned from their website, paid from a prepaid wallet that cannot go into debt."
+ },
+ "PinBee": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "from · a month, $49 a year (3-day trial) or $99 once",
+  "verified": "2026-11-10",
+  "catch": "Free Pinterest stats in your browser; the pricing page disagrees with itself.",
+  "best": "Pinterest bloggers, Etsy and Shopify sellers and social media managers who want to see which pins perform before they create their own."
  }
 }
