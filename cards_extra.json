@@ -10612,5 +10612,26 @@
   "verified": "2026-11-10",
   "catch": "After Effects plugin for UI animation; free plan, Pro $19 a month.",
   "best": "Motion designers and product designers who animate interface screens in After Effects and want to bring Figma frames in and let Claude help build the scenes."
+ },
+ "Kedra AI Index": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$10",
+  "price_note": "Starter · Starter is $10 a month or $100 a year",
+  "verified": "2026-11-11",
+  "catch": "AI visibility checks for Shopify; free plan, then $10 to $79 a month.",
+  "best": "Shopify store owners who want to see whether AI assistants recommend their products and want llms.txt and agents.md files kept up to date from the catalog."
+ },
+ "P2COS": {
+  "price": "$19.99",
+  "price_note": "Starter · Standard monthly prices",
+  "verified": "2026-11-11",
+  "catch": "Local-first prospecting desktop app; early access, from $19.99 a month.",
+  "best": "Owner-operators and small teams who want a local-first desktop tool for finding prospects, tracking outreach and moving them through a pipeline."
  }
 }
