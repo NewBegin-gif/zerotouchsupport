@@ -57,8 +57,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## CloudTalk
 - Review: https://zerotouchsupport.com/cloudtalk-review.html
 - Hands-on: tested by us on 2026-10-24. Measured 2026-10-24: On sign-up day the dashboard showed 'Your demo will EXPIRE in 14 days.' No card was asked.
-- Verdict: CloudTalk: Lite €19, Starter €25, Essential €29 and Expert €49 per user/mo on annual billing, or €27, €34, €39 and €69 billed monthly.
-- Price: Lite €19, Starter €25, Essential €29 and Expert €49 per user/mo on annual billing, or €27, €34, €39 and €69 billed monthly, and Expert needs at least 3 licences (re-verified 2026-08-16 and 2026-10-06). The toggle promises 'save 3+ months (≈ 30% off)'; on those figures annual billing saves 25.6% on Essential, 26.5% on Starter, 29.0% on Expert and 29.6% on Lite, between three and four months of the monthly fee.
+- Verdict: CloudTalk: Starter €25, Essential €29 and Expert €49 per user/mo on annual billing, or €34, €39 and €69 billed monthly. The per-seat price is only part of it.
+- Price: Starter €25, Essential €29 and Expert €49 per user/mo on annual billing, or €34, €39 and €69 billed monthly, and Expert needs at least 3 licences (re-verified 2026-10-06 and 2026-11-11). The Lite plan we listed earlier (€19 annual, €27 monthly) no longer appears on the pricing page on 11 November 2026.
 
 ## Cloze
 - Review: https://zerotouchsupport.com/cloze-review.html

@@ -1663,9 +1663,9 @@
     "addons_extra"
    ]
   ],
-  "price": "€19",
-  "price_note": "Lite · per user per month on annual billing",
-  "verified": "2026-10-06",
+  "price": "€25",
+  "price_note": "Starter · per user per month on annual billing",
+  "verified": "2026-11-11",
   "catch": "The per-seat price is only part of it: number rental, outbound minutes and the AI add-ons stack on top, so a call-heavy team's real bill runs above the plan rate.",
   "best": "Support and sales teams that want a cloud call center with strong CRM integrations and call analytics.",
   "pw": "plans rebuilt Nov 2026",
@@ -5014,7 +5014,7 @@
  "Plesk": {
   "price": "$16.99",
   "price_note": "Web Admin Edition (VPS) · per server per month billed monthly for 10 domains, or 15.57 a month…",
-  "verified": "2026-09-20",
+  "verified": "2026-11-11",
   "catch": "Two honest notes. Plesk has been raising prices steadily (the 2026 round averaged ~26%), so budget for the renewal trajectory, not today's invoice: it's a recurring theme in the ecosystem since the acquisition era.",
   "best": "Agencies and hosters managing multiple sites on their own servers who want a mature control panel with per-domain management, security and one-click stacks."
  },
@@ -6631,7 +6631,7 @@
   ],
   "price": "$56",
   "price_note": "Growth (100 responses) · per month, billed annually",
-  "verified": "2026-09-26",
+  "verified": "2026-11-11",
   "catch": "The plan is metered by response volume, not by surveys: a viral NPS month can push you a tier up, and the free plan's 30-day retention quietly deletes your history.",
   "best": "Product and CX teams running always-on feedback (NPS, CSAT and in-app surveys) piped into the CRM and analytics stack they already use."
  },
