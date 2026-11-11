@@ -10633,5 +10633,38 @@
   "verified": "2026-11-11",
   "catch": "Local-first prospecting desktop app; early access, from $19.99 a month.",
   "best": "Owner-operators and small teams who want a local-first desktop tool for finding prospects, tracking outreach and moving them through a pipeline."
+ },
+ "RankSlide": {
+  "price": "$48",
+  "price_note": "Starter yearly · Starter is $48 a year for 1 site",
+  "verified": "2026-11-11",
+  "catch": "Search Console drop alerts; 14-day trial, from $48 a year.",
+  "best": "Bloggers, in-house SEOs and agencies who want a daily alert when a page or keyword loses Google traffic, with a likely cause attached."
+ },
+ "BulkCertPDF": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "verified": "2026-11-11",
+  "catch": "Certificates from Excel; free for 25 a month, Batch Pass $19.",
+  "best": "Training providers, course organisers and HR teams who need named PDF certificates from a spreadsheet without designing each one."
+ },
+ "Pagely": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$99",
+  "price_note": "StartPress · StartPress $99 a month for 5 WordPress sites",
+  "verified": "2026-11-11",
+  "catch": "Managed WordPress hosting; plans from $99 a month.",
+  "best": "Agencies and businesses running several WordPress sites that want managed hosting with expert support and a clear path to high availability."
  }
 }
