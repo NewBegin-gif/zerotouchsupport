@@ -1,6 +1,6 @@
 # ZeroTouch Support — Full Review Catalog
 
-> All 53 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-10.
+> All 53 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-11.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -171,8 +171,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Orateur
 - Review: https://zerotouchsupport.com/orateur-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Orateur prices by plan, each with an allowance of AI agent time. The site is in French only and prices are in Swiss francs.
-- Price: (read 2026-11-03 on orateur.ai/pricing, shown in Swiss francs on the French-language site; we did not see a price list in another currency) Orateur prices by plan, each with an allowance of AI agent time. Creator costs CHF 49 a month with 4 hours of agent time, 1 user, a free phone number, call history and analytics, and email support; extra minutes cost CHF 0.24.
+- Verdict: Orateur: Creator costs CHF 49 a month with 4 hours of agent time, 1 user, a free phone number, call history and analytics, and email support.
+- Price: (read 2026-11-03 on orateur.ai/pricing, shown in Swiss francs on the French-language site; on 10 November 2026 the English-language version of the same page showed the same plan figures in pounds, £49, £99 and £199 a month, and no euro or dollar list) Orateur prices by plan, each with an allowance of AI agent time. Creator costs CHF 49 a month with 4 hours of agent time, 1 user, a free phone number, call history…
 
 ## Pylon
 - Review: https://zerotouchsupport.com/pylon-review.html
