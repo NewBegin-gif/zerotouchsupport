@@ -10694,5 +10694,19 @@
   "verified": "2026-11-12",
   "catch": "Branded short links and QR codes; free for 20 a month.",
   "best": "Marketers and small teams who want branded short links and dynamic QR codes with click reports, and who are fine staying within a monthly link allowance."
+ },
+ "eReleases": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$399",
+  "price_note": "Buzz Builder · one-off, Per press release distributed: Buzz Builder…",
+  "verified": "2026-11-12",
+  "catch": "Press release distribution through PR Newswire; from $399 a release.",
+  "best": "Small businesses that want a single press release sent over a national newswire with a targeted journalist list and are happy to pay per release."
  }
 }
