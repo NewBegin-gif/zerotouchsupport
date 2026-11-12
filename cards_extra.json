@@ -81,7 +81,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-10-11",
+  "verified": "2026-11-12",
   "catch": "The quote-only posture is normal in payroll, so the honest complaint is not that ADP hides its price: it is what that does to you as a buyer.",
   "best": "Small and mid-sized employers who want payroll, tax filing and compliance handled by the largest and oldest provider in the category: over 75 years."
  },
@@ -722,9 +722,9 @@
     "free_tier"
    ]
   ],
-  "price": "$12.50",
+  "price": "$12.49",
   "price_note": "from · per month billed annually ($15 monthly) at 0-500 subscribers",
-  "verified": "2026-10-09",
+  "verified": "2026-11-12",
   "catch": "The free and low tiers are generous, but Lite and Plus prices climb with your subscriber count, so budget for growth.",
   "best": "Small businesses and creators who want reliable, simple email marketing with a usable free tier."
  },
@@ -1954,10 +1954,10 @@
     "annual_lock"
    ]
   ],
-  "price": "$71",
-  "price_note": "from · a month billed annually (1 user, 5 sources, 150 AI credits)",
-  "verified": "2026-10-20",
-  "catch": "Each plan includes a fixed number of data sources and going over means moving up a whole tier, so one extra integration can mean the $199 Team Core to $319 Team Scale step.",
+  "price": "$399",
+  "price_note": "from · per month billed annually ($499 monthly)",
+  "verified": "2026-11-12",
+  "catch": "There is no free plan any more and one self-serve plan, Business at $399 a month billed annually, so a one-person setup pays the same entry price as a ten-person team.",
   "best": "SMBs and agencies that want clean KPI dashboards from 130+ one-click integrations without building them by hand.",
   "pw": "plans rebuilt Oct 2026",
   "pw_soort": "restructure"
@@ -1997,7 +1997,7 @@
   "price_note": "from · a month per worker for Find talent (hiring)",
   "verified": "2026-10-09",
   "catch": "Every price is a ‘starting at’ and every button says ‘book a demo’ — the real bill depends on countries, benefits and add-ons, and only firms up in a sales conversation.",
-  "best": "Companies hiring internationally without local entities: contractors paid compliantly in 150+ countries, or full EOR employment where you need someone on the ground fast."
+  "best": "Companies hiring internationally without local entities: contractors paid compliantly in 150+ countries."
  },
  "Deputy": {
   "flags": [
@@ -3357,7 +3357,7 @@
   ],
   "price": "$4.99",
   "price_note": "Starter, per seat · per seat per month billed annually ($7 billed monthly)",
-  "verified": "2026-09-19",
+  "verified": "2026-11-12",
   "catch": "The seat definition is the whole story and they state it plainly, which deserves credit: you pay for every seat you have created, not every person actually being tracked.",
   "best": "Agencies and distributed teams that bill clients for hours and need defensible time records: the proof is the product."
  },
@@ -3999,8 +3999,8 @@
   "price": "$69",
   "price_note": "from · per month ($55 billed yearly) for unlimited users",
   "verified": "2026-10-05",
-  "catch": "The per-seat plus per-email-account model makes total cost unpredictable as you scale, and reviews flag support response times and the LinkedIn Chrome-extension's reliability.",
-  "best": "Outbound teams that live in cold email and want multichannel sequences, warm-up and a big template community in one per-seat tool.",
+  "catch": "The Multichannel plan is priced per user and contact data is a paid credit add-on, so total cost is hard to predict as you scale, and reviews flag support response times and the LinkedIn Chrome-extension's reliability.",
+  "best": "Outbound teams that live in cold email and want multichannel sequences, warm-up and a big template community in one tool (unlimited users on the Email plan.",
   "pw": "plans rebuilt Oct 2026",
   "pw_soort": "restructure"
  },
@@ -5486,11 +5486,11 @@
     "annual_lock"
    ]
   ],
-  "price": "$199",
-  "price_note": "EOR Flex, per employee · billed monthly with no commitment, no setup fee and no minimum headcount",
-  "verified": "2026-10-09",
+  "price": "$499",
+  "price_note": "from · per employee per month (EOR Select from $199 in selected countries and salary ranges)",
+  "verified": "2026-11-12",
   "catch": "Every rate is a 'from' price with no country-level figure, and recruitment fees charged as a share of salary can dwarf the subscription.",
-  "best": "Small and mid-size teams hiring a handful of people abroad who want to pay monthly, keep the option to stop.",
+  "best": "Small and mid-size teams hiring a handful of people abroad, above all in the countries and salary ranges that EOR Select covers. Read on 12 November 2026.",
   "pw": "plans rebuilt Nov 2026",
   "pw_soort": "restructure"
  },
@@ -6597,7 +6597,7 @@
   ],
   "price": "$30",
   "price_note": "from · per user a month, billed annually",
-  "verified": "2026-10-01",
+  "verified": "2026-11-12",
   "catch": "Response caps on the self-serve plans trigger $0.15-per-response overages (US rate), and much of the good analytics and logic sits behind higher tiers.",
   "best": "Teams that need research-grade survey logic (skip logic, randomisation, quotas) with compliance (HIPAA, GDPR, SOC 2) and 200+ integrations."
  },
@@ -6673,9 +6673,9 @@
     "free_tier"
    ]
   ],
-  "price": "$29",
+  "price": "$19",
   "price_note": "Starter · billed monthly",
-  "verified": "2026-10-01",
+  "verified": "2026-11-12",
   "catch": "The minute caps are tight: Starter's 1,250 credits a month is roughly 10 to 12 minutes of finished video, and the meter counts seconds.",
   "best": "Teams making talking-head training, explainer and onboarding videos without cameras, actors or editing.",
   "pw": "price down Nov 2026",
@@ -7929,7 +7929,7 @@
   ],
   "price_state": "quote-only",
   "verified": "2026-10-08",
-  "catch": "The contract is the most-cited frustration: annual lock-in with a strict 60–90 day cancellation window and 10–20% renewal increases.",
+  "catch": "The contract is the most-cited frustration: annual lock-in; buyers report a 60 to 90 day cancellation window and 10 to 20% renewal increases, which we could not confirm from ZoomInfo's own terms.",
   "best": "Enterprise go-to-market teams that need the deepest US database, buyer-intent signals and conversation intelligence, and can absorb the contract."
  },
  "SEOKart": {

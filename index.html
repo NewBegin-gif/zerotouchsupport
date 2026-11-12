@@ -800,6 +800,8 @@ document.addEventListener('click',function(e){if(!n.contains(e.target)){zetMeer(
 
 
 
+
+
     <main>
         <div class="zm-stage"><!--SOFTWARE-MOTION--><canvas id="hero-motion" class="zm-motion" data-software-motion="support" data-layout="network" data-speed="0.6" data-intensity="0.9" aria-hidden="true"></canvas><div class="zm-veil" aria-hidden="true"></div><header class="hero">
             <div class="hero-content">
@@ -981,7 +983,7 @@ var STOP={the:1,and:1,for:1,our:1,you:1,your:1,with:1,that:1,this:1,are:1,too:1,
 function woorden(s){return String(s||'').toLowerCase().replace(/[^a-z0-9 ]+/g,' ').split(/\s+/).filter(function(w){return w.length>2&&!STOP[w];});}
 function kaart(x){var n=e(x.n);var img=x.s?'<img src="'+e(x.s)+'" alt="'+n+' homepage" loading="lazy" width="1100" height="616">':'<span class="hp-mono">'+e(x.n.charAt(0))+'</span>';
 var knop=x.l?'<a class="hp-try" href="'+e(x.l)+'" target="_blank" rel="sponsored noopener nofollow" data-loc="home-zoek" data-tool="'+n+'">Try '+n+' &rarr;</a>':'';
-return '<article class="hp-k"><a class="hp-shot" href="'+x.u+'" tabindex="-1" aria-hidden="true">'+img+'</a><div class="hp-body"><div class="hp-kop"><a class="hp-naam" href="'+x.u+'">'+n+'</a>'+(x.d?'<a class="hp-deal" href="/black-friday.html">Black Friday deal</a>':'')+'</div><p class="hp-wie">Best for '+e(x.w)+'</p>'+(x.p?'<blockquote class="hp-quote"><span>Sounds like you?</span> &ldquo;'+e(kort(x.p,150))+'&rdquo;</blockquote>':'')+'<p class="hp-plan"><b>Plan that fits:</b> '+e(kort(x.pl,140))+'</p><div class="hp-acties">'+knop+'<a class="hp-lees" href="'+x.u+'">Read the review</a></div></div></article>';}
+return '<article class="hp-k"><a class="hp-shot" href="'+x.u+'" tabindex="-1" aria-hidden="true">'+img+'</a><div class="hp-body"><div class="hp-kop"><a class="hp-naam" href="'+x.u+'">'+n+'</a>'+(x.d?'<a class="hp-deal" href="/black-friday.html">'+(typeof x.d==='string'?e(x.d):'Black Friday deal')+'</a>':'')+'</div><p class="hp-wie">Best for '+e(x.w)+'</p>'+(x.p?'<blockquote class="hp-quote"><span>Sounds like you?</span> &ldquo;'+e(kort(x.p,150))+'&rdquo;</blockquote>':'')+'<p class="hp-plan"><b>Plan that fits:</b> '+e(kort(x.pl,140))+'</p><div class="hp-acties">'+knop+'<a class="hp-lees" href="'+x.u+'">Read the review</a></div></div></article>';}
 function zoek(){var q=woorden(inp.value);if(!q.length){res.hidden=true;var a=S.querySelector('.hp-tab[aria-selected=true]');if(a)kies(a.dataset.pijn,0);return;}
 if(!idx){laad();return;}
 var sc=[];for(var i=0;i<idx.length;i++){var x=idx[i],hp=woorden(x.p+' '+x.w),hc=woorden(x.c+' '+x.n),s=0;
