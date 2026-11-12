@@ -403,3 +403,34 @@ var __AIBM_GROEN = (location.pathname.indexOf('/marketplace/') === 0) ? '#10b981
     }catch(_){}
   }, true);
 }catch(_){}})();
+
+/* ===== PIJN-BANDIT (12 nov 2026, pijn-eerst) =====
+   A/B-test van de knoptekst in het pijnblok (a.pijn-knop). Per bezoeker vast in localStorage
+   (aibm_pijn_variant). A = "Try <tool> ->" (zoals gebouwd), B = "See plans and prices ->".
+   Meting zonder custom dimensie, net als de CTA-bandit: cro_pijnview_<v> (1x per pagina met pijnblok)
+   en cro_pijnklik_<v> (klik op een pijnknop). /root/felix_hq/bandit_pijn.py kiest wekelijks de
+   leader uit GA4 en zet de regel hieronder; epsilon 1.0 = koude start (50/50). */
+(function(){try{
+  var PIJNBANDIT = { leader: 'A', epsilon: 1.0, updated: '2026-11-12' }; /* PIJN-BANDIT-CONFIG */
+  var TEKST = { B: 'See plans and prices' };
+  function klaar(fn){ if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', fn); else fn(); }
+  klaar(function(){
+    var knoppen = document.querySelectorAll('a.pijn-knop');
+    if (!knoppen.length) return;
+    var v = null;
+    try { v = localStorage.getItem('aibm_pijn_variant'); } catch(_){}
+    if (v !== 'A' && v !== 'B') {
+      v = Math.random() < PIJNBANDIT.epsilon ? (Math.random() < 0.5 ? 'A' : 'B') : PIJNBANDIT.leader;
+      try { localStorage.setItem('aibm_pijn_variant', v); } catch(_){}
+    }
+    if (TEKST[v]) for (var i = 0; i < knoppen.length; i++) knoppen[i].innerHTML = TEKST[v] + ' &rarr;';
+    for (var j = 0; j < knoppen.length; j++) knoppen[j].setAttribute('data-variant', v);
+    try { window.__ga4wacht = window.__ga4wacht || []; window.__ga4wacht.push(function(){ if (window.gtag) gtag('event', 'cro_pijnview_' + v.toLowerCase(), {transport_type:'beacon'}); }); } catch(_){}
+    document.addEventListener('click', function(e){
+      try {
+        var a = e.target && e.target.closest ? e.target.closest('a.pijn-knop') : null;
+        if (a && window.gtag) gtag('event', 'cro_pijnklik_' + v.toLowerCase(), {transport_type:'beacon'});
+      } catch(_){}
+    }, true);
+  });
+}catch(_){}})();
