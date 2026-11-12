@@ -3237,7 +3237,7 @@
   ],
   "price": "$40",
   "price_note": "Standard · per month, or $400 a year",
-  "verified": "2026-11-01",
+  "verified": "2026-11-12",
   "catch": "No small paid tier any more: after Free (10 tickets, then $0.25 each) the next step is Standard at $40 a month for 500 tickets.",
   "best": "Small Shopify stores that want ticketing, live chat and a searchable FAQ page from one app rather than bolting three together.",
   "pw": "plans rebuilt Nov 2026",
@@ -4275,7 +4275,7 @@
   ],
   "price": "$19",
   "price_note": "Starter · per month for 100 AI images",
-  "verified": "2026-10-04",
+  "verified": "2026-11-12",
   "catch": "The economics are flat: at roughly $0.19 to $0.20 an image on every tier, moving up the ladder buys resolution, custom presets and support, never a cheaper image.",
   "best": "Shopify fashion, jewellery and homeware sellers who need consistent on-model."
  },
@@ -5785,7 +5785,7 @@
   ],
   "price": "$9",
   "price_note": "Starter · per month for 25 credits and access to the full section library, billed…",
-  "verified": "2026-10-05",
+  "verified": "2026-11-12",
   "catch": "Almost three years on the App Store and one review.",
   "best": "Shopify merchants who want ready-made theme sections and the occasional AI-generated layout inside the native theme editor."
  },
@@ -5946,7 +5946,7 @@
   ],
   "price": "$15",
   "price_note": "Starter · per month for up to 500 products, billed in USD every 30 days",
-  "verified": "2026-09-28",
+  "verified": "2026-11-12",
   "catch": "This app is eleven years old and has 151 reviews (28 September 2026; it was 114 in August).",
   "best": "Shopify stores under 5,000 products that want image compression, alt text, auto-generated meta tags, schema and sitemaps from one app on a flat monthly fee."
  },
@@ -6438,9 +6438,9 @@
     "free_tier"
    ]
   ],
-  "price": "$14.99",
+  "price": "$19.99",
   "price_note": "Lite · per month for 100 products",
-  "verified": "2026-09-28",
+  "verified": "2026-11-12",
   "catch": "It fixes the mechanical layer, meta tags, alt text, images and sitemaps, but none of that creates demand, and on 25 products the free tier already does most of it.",
   "best": "Shopify stores with a few hundred products and no in-house SEO help, who want metadata, schema, alt text and indexing handled in bulk and reported against Search Console."
  },

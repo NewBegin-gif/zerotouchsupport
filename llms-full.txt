@@ -124,7 +124,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://zerotouchsupport.com/helpcenter-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: HelpCenter: Free to install, and the meter is tickets rather than agents. The free tier is the hook and the FAQ builder is the reason people stay.
-- Price: (re-verified 2026-11-01 on apps.shopify.com/helpcenter) Free to install, and the meter is tickets rather than agents. The plan ladder changed since our earlier reading: the small Basic tier is gone, so the first paid step is now Standard.
+- Price: (re-verified 2026-11-01 and again, unchanged, on 2026-11-12 on apps.shopify.com/helpcenter) Free to install, and the meter is tickets rather than agents. The plan ladder changed since our earlier reading: the small Basic tier is gone, so the first paid step is now Standard.
 
 ## Jotform AI Agents
 - Review: https://zerotouchsupport.com/jotform-ai-agents-review.html
