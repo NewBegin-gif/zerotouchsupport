@@ -762,7 +762,9 @@ document.addEventListener('click',function(e){if(!n.contains(e.target)){zetMeer(
 })();</script></nav>
 <!-- ZCATALOGUS:START -->
 <section style="padding:64px 16px 8px"><div style="max-width:64rem;margin:0 auto;text-align:center"><p style="font-size:.75rem;font-weight:600;letter-spacing:.15em;text-transform:uppercase;color:#818cf8;margin:0 0 12px"><a href="/" style="color:inherit;text-decoration:none">ZeroTouch Support</a> &rsaquo; All software</p><h1 style="font-size:clamp(1.9rem,4vw,2.4rem);font-weight:700;letter-spacing:-.02em;color:#fff;margin:0 0 16px;text-wrap:balance">All customer support and phone software we track</h1><p style="color:#94a3b8;max-width:48rem;margin:0 auto;line-height:1.7">Every tool in our customer support and phone directory: the price we read with the date we read it, what it does, who it suits and the catch. Search by name or job, or filter by category.</p></div></section><!--cs-strook--><section class="cs-sec" id="cs-catalogus" data-loc="catalogus" aria-label="Too many options? Start with your problem."><style id="cs-css">
-.cs-sec{margin:26px auto 30px;color:inherit;max-width:1120px;padding:0 16px;box-sizing:border-box}
+.cs-sec{margin:26px auto 30px;color:inherit;max-width:1120px;padding:0 16px;box-sizing:border-box;container-type:inline-size}
+@container (min-width:600px) and (max-width:899px){.cs-sec .cs-grid:not(.cs-een){grid-template-columns:repeat(3,minmax(0,1fr))!important}.cs-sec .cs-k:nth-child(n+4){display:none}}
+@container (min-width:900px){.cs-sec .cs-grid:not(.cs-een){grid-template-columns:repeat(4,minmax(0,1fr))!important}}
 .cs-sec .cs-tag{display:inline-block;font-size:.72rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:#34d399;border:1px solid rgba(52,211,153,.4);border-radius:99px;padding:3px 10px}
 .cs-sec .cs-h{font-size:clamp(1.25rem,2.6vw,1.65rem);line-height:1.25;margin:10px 0 6px;color:inherit}
 .cs-sec .cs-sub{margin:0 0 16px;opacity:.78;font-size:.98rem;max-width:760px}
