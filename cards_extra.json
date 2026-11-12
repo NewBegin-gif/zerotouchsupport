@@ -10666,5 +10666,33 @@
   "verified": "2026-11-11",
   "catch": "Managed WordPress hosting; plans from $99 a month.",
   "best": "Agencies and businesses running several WordPress sites that want managed hosting with expert support and a clear path to high availability."
+ },
+ "Ship.com": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$4.99",
+  "price_note": "Starter · Starter $4.99 a month (monthly billing only, up to 10 shipments a month)",
+  "verified": "2026-11-12",
+  "catch": "Shipping labels with UPS and USPS rates; plans from $4.99 a month.",
+  "best": "Small online sellers who ship US parcels with UPS or USPS and want one tool for labels, tracking emails and basic marketing emails."
+ },
+ "LinkShortener.io": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$13",
+  "price_note": "Basic · Basic $13 a month or $130 a year",
+  "verified": "2026-11-12",
+  "catch": "Branded short links and QR codes; free for 20 a month.",
+  "best": "Marketers and small teams who want branded short links and dynamic QR codes with click reports, and who are fine staying within a monthly link allowance."
  }
 }
