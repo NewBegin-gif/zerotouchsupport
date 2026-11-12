@@ -3050,7 +3050,7 @@
   "price": "$90",
   "price_note": "from · per year",
   "verified": "2026-10-21",
-  "catch": "Two things about this pricing are worth reading twice. The first is that seven products means seven subscriptions, and most of them are now per seat.",
+  "catch": "One product's plan does not include the others: decks, articles and proposals together mean Lumen plus Quill plus Arc, $69 a month for one person at the entry tiers.",
   "best": "Teams that want one dedicated, source-grounded tool per deliverable (a deck tool, a content tool."
  },
  "Glide": {
@@ -3183,6 +3183,10 @@
   "price_note": "Core · billed monthly — $18 is the yearly rate",
   "verified": "2026-09-28",
   "catch": "Two honest limits: it's pricier than alternatives with thin mid-tier options, and several users report slow customer service (sometimes a week or more to reply).",
+  "coupon": {
+   "code": "",
+   "label": "via our link: 10% off your first six months if you upgrade before your free…"
+  },
   "best": "Growing group practices (10+ clinicians) in health, wellness and nutrition that need multi-provider scheduling, telehealth and a real API to automate operations."
  },
  "Heard": {
@@ -10486,6 +10490,10 @@
   "price_note": "Standard · Standard subscription list price per year for one Mac, 8 GB vRAM…",
   "verified": "2026-11-08",
   "catch": "Windows licence not included; one licence covers one Mac.",
+  "coupon": {
+   "code": "PD50",
+   "label": "50% off Parallels Desktop Standard and Pro Edition with the…"
+  },
   "best": "Mac users who need to run Windows apps next to macOS apps, from home users on Standard to developers on Pro and small teams on Business."
  },
  "Finmo": {
