@@ -415,7 +415,7 @@ var __AIBM_GROEN = (location.pathname.indexOf('/marketplace/') === 0) ? '#10b981
    en cro_pijnklik_<v> (klik op een pijnknop). /root/felix_hq/bandit_pijn.py kiest wekelijks de
    leader uit GA4 en zet de regel hieronder; epsilon 1.0 = koude start (50/50). */
 (function(){try{
-  var PIJNBANDIT = { leader: 'A', epsilon: 1.0, updated: '2026-11-12' }; /* PIJN-BANDIT-CONFIG */
+  var PIJNBANDIT = { leader: 'B', epsilon: 0, updated: '2026-11-12' }; /* PIJN-BANDIT-CONFIG */ /* test gestopt 12 nov (te weinig bezoek): vast B */
   var TEKST = { B: 'See plans and prices' };
   function klaar(fn){ if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', fn); else fn(); }
   klaar(function(){
@@ -423,7 +423,8 @@ var __AIBM_GROEN = (location.pathname.indexOf('/marketplace/') === 0) ? '#10b981
     if (!knoppen.length) return;
     var v = null;
     try { v = localStorage.getItem('aibm_pijn_variant'); } catch(_){}
-    if (v !== 'A' && v !== 'B') {
+    if (PIJNBANDIT.epsilon === 0) v = PIJNBANDIT.leader;
+    else if (v !== 'A' && v !== 'B') {
       v = Math.random() < PIJNBANDIT.epsilon ? (Math.random() < 0.5 ? 'A' : 'B') : PIJNBANDIT.leader;
       try { localStorage.setItem('aibm_pijn_variant', v); } catch(_){}
     }
