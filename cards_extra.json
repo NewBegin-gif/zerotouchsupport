@@ -10708,5 +10708,19 @@
   "verified": "2026-11-12",
   "catch": "Press release distribution through PR Newswire; from $399 a release.",
   "best": "Small businesses that want a single press release sent over a national newswire with a targeted journalist list and are happy to pay per release."
+ },
+ "SwitchStation": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$24",
+  "price_note": "Rail · Rail $24 one-time",
+  "verified": "2026-11-12",
+  "catch": "Mac rail for Claude Code and Codex sessions; free plan, one-time licences.",
+  "best": "Mac users who run several Claude Code or Codex sessions at once and want to see which one is waiting for them, then jump to the right window in one click."
  }
 }
