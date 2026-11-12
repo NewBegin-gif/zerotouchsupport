@@ -157,14 +157,14 @@ var __AIBM_GROEN = (location.pathname.indexOf('/marketplace/') === 0) ? '#10b981
             bar.style.cssText = common + ';left:0;right:0;bottom:0;background:#0b0f17;border-top:1px solid #2a2f3a;padding:10px 14px;display:flex;align-items:center;gap:10px;transform:translateY(110%);transition:transform .35s ease';
             bar.innerHTML =
               '<div style="flex:1;color:#e5e7eb;font-size:12.5px;line-height:1.3"><strong>' + (tool || 'Our recommended pick') + '</strong><br><span style="opacity:.65">Via our partner link · check current pricing</span></div>' +
-              '<a href="' + ctaLink + '" target="_blank" rel="nofollow sponsored noopener" id="aibm-cta-btn" style="background:'+__AIBM_GROEN+';color:#fff;padding:11px 16px;border-radius:8px;text-decoration:none;font-weight:700;font-size:13px;white-space:nowrap">' + btnTxt + '</a>' +
+              '<a href="' + ctaLink + '" target="_blank" rel="nofollow sponsored noopener" id="aibm-cta-btn" data-loc="sticky" style="background:'+__AIBM_GROEN+';color:#fff;padding:11px 16px;border-radius:8px;text-decoration:none;font-weight:700;font-size:13px;white-space:nowrap">' + btnTxt + '</a>' +
               '<button id="aibm-cta-x" aria-label="Dismiss" style="background:none;border:none;color:#64748b;font-size:20px;line-height:1;padding:0 4px;cursor:pointer">×</button>';
           } else {
             bar.style.cssText = common + ';right:22px;bottom:22px;max-width:330px;background:#0b0f17;border:1px solid #2a2f3a;border-radius:14px;padding:14px 16px;transform:translateY(140%);transition:transform .4s ease';
             bar.innerHTML =
               '<button id="aibm-cta-x" aria-label="Dismiss" style="position:absolute;top:6px;right:9px;background:none;border:none;color:#64748b;font-size:18px;line-height:1;cursor:pointer">×</button>' +
               '<div style="color:#e5e7eb;font-size:13px;line-height:1.4;margin-bottom:10px">' + (tool ? '<strong>' + tool + '</strong> — ' : '') + 'ready to try it?<br><span style="opacity:.6;font-size:12px">Our partner link · see current pricing</span></div>' +
-              '<a href="' + ctaLink + '" target="_blank" rel="nofollow sponsored noopener" id="aibm-cta-btn" style="display:block;text-align:center;background:'+__AIBM_GROEN+';color:#fff;padding:11px 16px;border-radius:9px;text-decoration:none;font-weight:700;font-size:13.5px">' + btnTxt + '</a>';
+              '<a href="' + ctaLink + '" target="_blank" rel="nofollow sponsored noopener" id="aibm-cta-btn" data-loc="sticky" style="display:block;text-align:center;background:'+__AIBM_GROEN+';color:#fff;padding:11px 16px;border-radius:9px;text-decoration:none;font-weight:700;font-size:13.5px">' + btnTxt + '</a>';
           }
           document.body.appendChild(bar);
           if (isMobile) document.body.style.paddingBottom = '78px';
@@ -374,9 +374,29 @@ var __AIBM_GROEN = (location.pathname.indexOf('/marketplace/') === 0) ? '#10b981
         if (!u.searchParams.has('sid')) u.searchParams.set('sid', sid);
         a.href = u.toString();
       } catch(_){}
+      /* link_location (12 nov 2026, pijn-eerst): welke knop op de pagina verdient.
+         Volgorde: data-loc op de link of een ouder, de sticky balk, de reviewkop,
+         anders de sectie (id van de laatste h2 erboven), anders 'tekst'. */
+      var loc = 'tekst';
+      try {
+        var dl = a.closest('[data-loc]');
+        if (dl) loc = dl.getAttribute('data-loc');
+        else if (a.id === 'aibm-cta-btn') loc = 'sticky';
+        else if (a.closest('.rv-kop')) loc = 'boven';
+        else {
+          var hs = document.querySelectorAll('h2'), sec = '';
+          for (var i = 0; i < hs.length; i++) {
+            if (hs[i].compareDocumentPosition(a) & 4) sec = hs[i].id || hs[i].textContent; else break;
+          }
+          if (/^pricing$|pricing|price|plans/i.test(sec)) loc = 'prijs';
+          else if (sec) loc = 'sectie-' + String(sec).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 40);
+        }
+      } catch(_){}
       if (window.gtag) gtag('event', 'affiliate_click', {
         partner: h,
         link_url: a.href.split('?')[0],
+        link_location: loc,
+        location: loc,
         variant: variant,
         transport_type: 'beacon'
       });
