@@ -86,6 +86,10 @@ var __AIBM_GROEN = (location.pathname.indexOf('/marketplace/') === 0) ? '#10b981
       // 7 okt 2026: overzichten (deals) zetten de vaste productbalk uit; die wees naar de eerste partnerlink,
       // niet naar wat de bezoeker zocht (Bolt op AIBM, Lucrovox op ZTS).
       if (document.querySelector('meta[name="aibm-sticky-cta"][content="off"]')) return null;
+      /* 12 nov 2026 (plan-kiezer): eerst de hoofdknop van de review, niet de eerste sponsored-link op de pagina
+         (de plankiezer en "Not a fit for you?" zetten partnerlinks van een ALTERNATIEF op de pagina). */
+      var hoofd = document.querySelector('a.cta[data-loc="boven"][rel~="sponsored"][href^="http"], .rv-acts a.cta[rel~="sponsored"][href^="http"]');
+      if (hoofd) return hoofd.href;
       var a = document.querySelector('a[rel~="sponsored"][href^="http"]');
       if (a) return a.href;
       var B = ['kinsta.com','beehiiv','bitvavo','synthesia','invideo','replit','clay.com','murf.ai','wp-rocket','rankmath','jotform','chemicloud','frase.io','hostinger','foxit','keap','tresorit','partnerstack','partnerlinks'];
@@ -158,7 +162,7 @@ var __AIBM_GROEN = (location.pathname.indexOf('/marketplace/') === 0) ? '#10b981
             bar.innerHTML =
               '<div style="flex:1;color:#e5e7eb;font-size:12.5px;line-height:1.3"><strong>' + (tool || 'Our recommended pick') + '</strong><br><span style="opacity:.65">Via our partner link · check current pricing</span></div>' +
               '<a href="' + ctaLink + '" target="_blank" rel="nofollow sponsored noopener" id="aibm-cta-btn" data-loc="sticky" style="background:'+__AIBM_GROEN+';color:#fff;padding:11px 16px;border-radius:8px;text-decoration:none;font-weight:700;font-size:13px;white-space:nowrap">' + btnTxt + '</a>' +
-              '<button id="aibm-cta-x" aria-label="Dismiss" style="background:none;border:none;color:#64748b;font-size:20px;line-height:1;padding:0 4px;cursor:pointer">×</button>';
+              '<button id="aibm-cta-x" aria-label="Close" style="background:none;border:none;color:#94a3b8;font-size:24px;line-height:1;min-width:44px;min-height:44px;padding:0;margin-right:-8px;cursor:pointer">×</button>';
           } else {
             bar.style.cssText = common + ';right:22px;bottom:22px;max-width:330px;background:#0b0f17;border:1px solid #2a2f3a;border-radius:14px;padding:14px 16px;transform:translateY(140%);transition:transform .4s ease';
             bar.innerHTML =
