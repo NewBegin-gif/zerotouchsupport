@@ -8418,7 +8418,7 @@
  "FBtrack": {
   "price": "$10",
   "price_note": "Basic · per month for one active pixel",
-  "verified": "2026-09-28",
+  "verified": "2026-11-12",
   "catch": "The critical reviews are about tracking that stopped without warning or events that never arrived, and with 22 reviews in eight years there is little else to weigh them against.",
   "best": "Shopify stores that advertise on Meta plus TikTok, Snapchat or Pinterest and want several pixels, for example one per collection or a backup pixel."
  },
@@ -8438,8 +8438,8 @@
  },
  "GCheck": {
   "price": "$18.95",
-  "price_note": "Basic · per background check, current county of residence only",
-  "verified": "2026-10-16",
+  "price_note": "Basic · per year, per background check, current county of residence only",
+  "verified": "2026-11-12",
   "catch": "The pricing page reads like self-serve and is not.",
   "best": "US employers running a steady number of hires, especially in healthcare, nonprofits, education and staffing."
  },
@@ -8526,16 +8526,16 @@
     "addons_extra"
    ]
   ],
-  "price": "$169",
-  "price_note": "from · per month",
-  "verified": "2026-10-28",
+  "price": "$30",
+  "price_note": "Email Outreach Growth · per month for 10,000 emails, email module only, 1 user",
+  "verified": "2026-11-12",
   "catch": "The credit numbers on the plan cards shrink once you read the price list.",
   "best": "Small sales teams and agencies that want a B2B lead database, cold email with unlimited inboxes and warm-up, LinkedIn automation and a basic CRM under one login."
  },
  "StoreLock": {
   "price": "$19",
   "price_note": "Premium · per month, 3-day free trial",
-  "verified": "2026-10-27",
+  "verified": "2026-11-12",
   "catch": "The copy protection cannot stop screenshots, developer tools or automated scrapers, which is how stores actually get cloned; the real work is detection and takedown.",
   "best": "Shopify merchants with their own product photography and a brand worth copying, especially those whose store has already been cloned."
  },
@@ -8563,7 +8563,7 @@
   ],
   "price": "$19",
   "price_note": "Starter · per month for 200 quiz submissions and 500 chats a month, 30 days…",
-  "verified": "2026-10-02",
+  "verified": "2026-11-12",
   "catch": "Read the free plan as a trial, not a tier. Its 100 quiz submissions and 100 chats are lifetime totals, not monthly, so a store with real traffic uses them up in days or weeks and then has to pay.",
   "best": "Shopify stores with a catalogue where shoppers need help choosing, such as skincare, supplements or gifts, that want a product-finder quiz."
  },
