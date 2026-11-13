@@ -4792,5 +4792,12 @@
   "domain": "addresshero.com",
   "desc": "Address validation for Shopify stores: checks delivery addresses at checkout and, on the Pro plan, corrects them automatically.",
   "link": "https://platform.shoffi.app/r/rl_jSn2FB05"
+ },
+ {
+  "name": "ShopTrueProfit",
+  "category": "E-commerce",
+  "domain": "shoptrueprofit.com",
+  "desc": "Profit reports for Etsy, eBay and Amazon sellers: upload your sales reports and see profit per order, product and month after fees and ads, processed in the browser.",
+  "link": "https://shoptrueprofit.lemonsqueezy.com?aff=6NyDVn"
  }
 ]
