@@ -846,7 +846,7 @@
   "name": "Databox",
   "category": "Operations & Workflow",
   "domain": "databox.com",
-  "desc": "Centralized KPI dashboards. Pull data from all your software tools into one clean interface to monitor your business health. A free Skills Marketplace adds guided analyses on top: the paid-ads skill standardizes every ad channel into one efficiency table with CPA gauges against your own targets, judged per funnel role. A native MCP server (mcp.databox.com) puts those metrics inside ChatGPT or Claude — ingest data and query it in plain language. It runs on every paid plan, not on Free, and its queries spend from the same monthly AI-credit pool as Genie.",
+  "desc": "Centralized KPI dashboards. Pull data from all your software tools into one clean interface to monitor your business health. A free Skills Marketplace adds guided analyses on top: the paid-ads skill standardizes every ad channel into one efficiency table with CPA gauges against your own targets, judged per funnel role. A native MCP server (mcp.databox.com) puts those metrics inside ChatGPT or Claude — ingest data and query it in plain language. It is listed on the Business plan, and its queries spend from the same monthly AI-credit pool as Genie.",
   "link": "https://join.databox.com/2re8xsf55qj4"
  },
  {
@@ -861,7 +861,7 @@
   "domain": "deel.com",
   "link": "https://get.deel.com/83eqcym3j4gx",
   "category": "HR & People",
-  "desc": "Global hiring, payroll and EOR platform — pay contractors and employees compliantly in 150+ countries, priced per contractor or employee, with HR tools and US PEO options."
+  "desc": "Global hiring, payroll and EOR platform — pay contractors in 150+ countries and employ people through EOR in 130+ countries, priced per contractor or employee, with HR tools and US PEO options."
  },
  {
   "name": "Deputy",
@@ -1251,7 +1251,7 @@
   "name": "FullEnrich",
   "category": "Growth & Revenue",
   "domain": "fullenrich.com",
-  "desc": "B2B contact enrichment with waterfall data. Find verified emails and direct phone numbers for prospects by combining 15+ data sources in one lookup.",
+  "desc": "B2B contact enrichment with waterfall data. Find verified emails and direct phone numbers for prospects by combining 20+ data providers in one lookup.",
   "link": "https://fullenrich.partnerlinks.io/a824mq4mnaha",
   "replaces": "ZoomInfo"
  },
@@ -2298,7 +2298,7 @@
   "name": "ReachStream",
   "category": "Sales & CRM",
   "domain": "reachstream.com",
-  "desc": "B2B contact database with a published price instead of a quote: unlimited contact and company views on every tier, with the meter running on exports rather than on looking. Annual billing takes 20% off the price and changes nothing about the allowance. Read on their own pricing page on 10 September 2026.",
+  "desc": "B2B contact database with a published price instead of a quote: unlimited contact and company views on every tier, with the meter running on exports rather than on looking. Annual billing takes 20% off the price and changes nothing about the allowance. Read on their own pricing page, re-read 12 November 2026.",
   "link": "https://www.awin1.com/cread.php?awinmid=116059&awinaffid=2880219"
  },
  {
@@ -2333,7 +2333,7 @@
   "name": "Replit",
   "category": "IT & Productivity",
   "domain": "replit.com",
-  "desc": "Browser-based coding environment with instant deploys and an AI agent. Billing is effort-based: each plan includes monthly credits that the Agent draws down at a rate you do not set, the credits expire monthly, and a complex agent session burns them fast, which makes production costs hard to budget.",
+  "desc": "Browser-based coding environment with instant deploys and an AI agent. Billing is effort-based: each plan includes monthly credits that the Agent draws down at a rate you do not set, the credits are monthly (on Pro, unused credits roll over for two months), and a complex agent session burns them fast, which makes production costs hard to budget.",
   "link": "https://replit.com/signup?referral=dglhaket",
   "replaces": "GitHub Codespaces"
  },
@@ -4778,5 +4778,12 @@
   "domain": "switchstation.sssflow.com",
   "desc": "Mac app that shows which Claude Code and Codex sessions are waiting for you across projects and terminals, with a lightweight project workspace and a free plan.",
   "link": "https://switchstation.sssflow.com?aff=6NyDVn"
+ },
+ {
+  "name": "ChristianSteven",
+  "category": "Operations & Workflow",
+  "domain": "christiansteven.com",
+  "desc": "Report automation for Power BI, SSRS, Tableau and Crystal Reports: schedule, personalise and deliver reports by email, folders or cloud storage, with a 30-day free trial.",
+  "link": "https://partner.christiansteven.com/mjazjlx53pk9"
  }
 ]

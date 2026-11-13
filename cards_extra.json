@@ -10730,5 +10730,12 @@
   "verified": "2026-11-12",
   "catch": "Mac rail for Claude Code and Codex sessions; free plan, one-time licences.",
   "best": "Mac users who run several Claude Code or Codex sessions at once and want to see which one is waiting for them, then jump to the right window in one click."
+ },
+ "ChristianSteven": {
+  "price": "$249.59",
+  "price_note": "PBRS up to 100 peak… · per month, PBRS Option 1, up to 100 peak outputs and 1 installation, shown…",
+  "verified": "2026-11-12",
+  "catch": "Report scheduling for Power BI, Tableau and Crystal Reports; 30-day trial.",
+  "best": "IT and reporting teams that already run Power BI, SSRS, Tableau or Crystal Reports and need scheduled, personalised report delivery by email."
  }
 }
