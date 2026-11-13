@@ -86,7 +86,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Wati Review (2026): From €59/mo, Checked Sep 2026](https://zerotouchsupport.com/wati-review.html): Wati: Growth €59/mo, Pro €119/mo and Business €279/mo billed annually, or €69, €149 and €349 billed monthly. The plan price is the smallest part of th
 - [Weave Review (2026): From $199 a Month, $149 Bundles](https://zerotouchsupport.com/weave-review.html): Weave's plans page (getweave.com/plans, read 13 October 2026) is now a configurator: the base plan starts at $199 a month.
 - [Zendesk Review (Tested 2026): Copilot Needs the $115 Tier](https://zerotouchsupport.com/zendesk-review.html) (tested hands-on): Zendesk — Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. The prices shown are annual
-- [ZenZap Review (Tested Oct 2026): Flat Packages Replace Seats](https://zerotouchsupport.com/zenzap-review.html) (tested hands-on): ZenZap: The per-seat prices are gone. The pricing undercuts Slack: the honest question is ecosystem: team chat lives or dies on integrations and habit
+- [ZenZap Review (Tested Oct 2026): Flat Packages Replace Seats](https://zerotouchsupport.com/zenzap-review.html) (tested hands-on): ZenZap: The per-seat prices are gone. The pricing undercuts Slack: the honest question is integrations: team chat lives or dies on integrations and ha
 
 ## Free calculators (3)
 - [Free NPS Calculator (Net Promoter Score, 2026)](https://zerotouchsupport.com/tools/nps-calculator/)

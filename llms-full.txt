@@ -321,5 +321,5 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## ZenZap
 - Review: https://zerotouchsupport.com/zenzap-review.html
 - Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: Sign-up works only with a mobile number and a six-digit SMS code ('Sign in with email' is for existing users). Onboarding now presents Zenzap as an agent platform: after the workspace it asks who you are…
-- Verdict: ZenZap: The per-seat prices are gone. The pricing undercuts Slack: the honest question is ecosystem: team chat lives or dies on integrations and habit.
+- Verdict: ZenZap: The per-seat prices are gone. The pricing undercuts Slack: the honest question is integrations: team chat lives or dies on integrations and habit.
 - Price: (re-read 2026-10-07 on the vendor's own pricing page; unchanged on 2026-10-15) The per-seat prices are gone. On 1 September the page sold Pro at $3 a user a month billed yearly ($4 monthly) and Business+ at $8 ($10 monthly), with flat team bundles beside them; our 1 October capture and the page on 7 October sell flat monthly packages only, in two tabs.
