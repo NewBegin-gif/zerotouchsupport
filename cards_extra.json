@@ -959,12 +959,17 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
-  "price": "$9.99",
-  "price_note": "Basic Plan · per month (or $59.94 a year) for country blocking only",
-  "verified": "2026-11-02",
-  "catch": "Read the plan text before you read the badge. The App Store header says a free plan is available; that free plan is Development Stores, for development and partner stores only, and it starts charging the moment the store goes live.",
+  "price": "$7.99",
+  "price_note": "Basic Plan · per month for unlimited country and IP blocking plus the Bot Killer",
+  "verified": "2026-11-13",
+  "catch": "Read the plan text before you pick a tier. The listing now has a real Free plan, but it stops at 4 country and IP rules, so treat it as a trial of the idea rather than a working fraud filter.",
   "best": "Shopify stores below Plus that are losing time to bot traffic, repeat fraudsters or orders from regions they do not ship to."
  },
  "Bokun": {
@@ -6090,16 +6095,11 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$10",
   "price_note": "from · per month billed yearly ($120/yr), single seat",
-  "verified": "2026-10-04",
+  "verified": "2026-11-13",
   "catch": "The $10 Personal plan is annual-billed and single-seat, and note that sign-unlimited is not send-unlimited: proper unlimited sending starts at Business, $20 per seat on a yearly commitment, while contract-management features gate at Business Pro, $30 per seat.",
   "best": "Small teams that want straightforward unlimited sending and signing per seat, with contract management one tier up."
  },
@@ -6384,16 +6384,9 @@
   "best": "Mid-market Shopify brands that want reviews and loyalty in one platform instead of juggling separate apps."
  },
  "Stampezee": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$29.99",
   "price_note": "Stamp Lite · per month for 1 branch and 1 active stamp card, with a 14-day free trial",
-  "verified": "2026-10-19",
+  "verified": "2026-11-13",
   "catch": "The category is honest and proven (digital stamp cards beat lost paper cards), and the platform is young with limited public review coverage.",
   "coupon": {
    "code": "STAMP98",
@@ -6670,7 +6663,7 @@
   ],
   "price": "$19",
   "price_note": "Starter · billed monthly",
-  "verified": "2026-11-12",
+  "verified": "2026-11-13",
   "catch": "The minute caps are tight: Starter's 1,250 credits a month is roughly 10 to 12 minutes of finished video, and the meter counts seconds.",
   "best": "Teams making talking-head training, explainer and onboarding videos without cameras, actors or editing.",
   "pw": "price down Nov 2026",
@@ -7264,7 +7257,7 @@
   ],
   "price": "$9.99",
   "price_note": "from · per month (1 user, unlimited minutes, one phone number)",
-  "verified": "2026-10-24",
+  "verified": "2026-11-13",
   "catch": "It's a virtual phone layer, not a full unified-comms suite: you won't find the deep team messaging, video meetings and contact-center features pricier platforms bundle.",
   "best": "Solopreneurs and small teams that want a professional toll-free or local number, auto-attendant and call routing on their existing phones: no hardware.",
   "pw": "price down Nov 2026",
@@ -7954,7 +7947,7 @@
  "Super": {
   "price": "$4.99",
   "price_note": "from · a month or $47.90 a year, billed through Shopify, 7-day trial",
-  "verified": "2026-11-02",
+  "verified": "2026-11-13",
   "catch": "If you are on Shopify Plus, the price block on the listing is not the one you pay from: the three published tiers exclude Plus stores in their own text, and the tier that covers you is $24.99 in a help-centre article.",
   "best": "Shopify stores with a real gifting season (jewellery, cosmetics, speciality food, anything bought for someone else) that want paid or free gift wrap."
  },
@@ -8027,10 +8020,10 @@
   "best": "Shopify merchants on a standard plan who need wholesale prices for named customer groups, with CSV price lists and a registration form that someone approves."
  },
  "MX AI": {
-  "price": "$2.99",
+  "price": "$4.99",
   "price_note": "Monthly Plan · per month for the whole app, with no usage tier above it",
-  "verified": "2026-10-03",
-  "catch": "A free app from RoarTheme does the core job with the same 4.8 rating, so the $2.99 buys player controls, extra sources and AI-generated seasonal tracks, not the background music itself.",
+  "verified": "2026-11-13",
+  "catch": "A free app from RoarTheme does the core job with the same 4.8 rating, so the $4.99 buys player controls, extra sources and AI-generated seasonal tracks, not the background music itself.",
   "best": "Shopify merchants who want seasonal or ambient audio on the storefront, want a say in how the player looks and behaves."
  },
  "Helm": {
