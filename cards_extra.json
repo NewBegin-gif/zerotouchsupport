@@ -5319,16 +5319,11 @@
     "📅",
     "Annual commit",
     "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$5",
   "price_note": "from · per user a month ($48/yr), unlimited documents",
-  "verified": "2026-10-20",
+  "verified": "2026-11-13",
   "catch": "The price is the argument, and the legal ceiling is the limit.",
   "coupon": {
    "code": "AIBUILDER5",
