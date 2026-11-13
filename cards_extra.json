@@ -10737,5 +10737,12 @@
   "verified": "2026-11-12",
   "catch": "Report scheduling for Power BI, Tableau and Crystal Reports; 30-day trial.",
   "best": "IT and reporting teams that already run Power BI, SSRS, Tableau or Crystal Reports and need scheduled, personalised report delivery by email."
+ },
+ "AddressHero": {
+  "price": "$9.99",
+  "price_note": "Lite · Lite $9.99 a month flat",
+  "verified": "2026-11-13",
+  "catch": "Address checks for Shopify checkout; from $9.99 a month.",
+  "best": "Shopify store owners who lose money on mistyped or incomplete delivery addresses and want checks at checkout, with automatic correction as a paid step up."
  }
 }
