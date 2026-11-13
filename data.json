@@ -3,14 +3,14 @@
   "name": "1Password",
   "category": "IT & Productivity",
   "domain": "1password.com",
-  "desc": "Password manager and security platform for teams: store and share passwords, passkeys and secrets with autofill, breach monitoring and developer secrets management — enterprise-grade vaults with simple admin controls.",
+  "desc": "Password manager and security platform for teams: store and share passwords, passkeys and secrets with autofill, breach monitoring and developer secrets management. Vaults come with simple admin controls.",
   "link": "https://1password.partnerlinks.io/jvm7u5ka0ctm"
  },
  {
   "name": "800.com",
   "category": "Communication & Voice",
   "domain": "800.com",
-  "desc": "Toll-free and vanity phone numbers for business, with call tracking, routing and analytics — plus 800 AI Agents (launched 2026) that answer calls, book appointments and filter spam when nobody picks up.",
+  "desc": "Toll-free and vanity phone numbers for business, with call tracking, routing and analytics. Also offers 800 AI Agents (launched 2026) that answer calls, book appointments and filter spam when nobody picks up.",
   "link": "https://try.800.com/twux0enbbfpj"
  },
  {
@@ -18,7 +18,7 @@
   "domain": "accessibe.com",
   "link": "https://try.accessibe.com/g102j14bqso5",
   "category": "IT & Productivity",
-  "desc": "Web-accessibility widget (accessWidget) that scans a site every 24 hours and adjusts it in the browser — contrast, text sizing, keyboard hints — plus an accessibility statement. An aid, not WCAG conformance — for that the same vendor sells accessFlow (developer audits with ready-to-commit code fixes) and accessServices (VPATs, file remediation, expert audits), both quoted rather than priced publicly."
+  "desc": "Web-accessibility widget (accessWidget) that scans a site every 24 hours and adjusts it in the browser (contrast, text sizing, keyboard hints), plus an accessibility statement. It is an aid, not WCAG conformance. For that the same vendor sells accessFlow (developer audits with ready-to-commit code fixes) and accessServices (VPATs, file remediation, expert audits), both quoted rather than priced publicly."
  },
  {
   "name": "ActiveCampaign",
@@ -40,7 +40,7 @@
   "name": "ADP",
   "category": "HR & People",
   "domain": "adp.com",
-  "desc": "Payroll, tax filing and HR for small and mid-sized employers, sold as four RUN packages: Essential, Enhanced, Complete and HR Pro. No public pricing anywhere — /pricing is a 404 and every tier on the comparison page says “Get pricing”, so budgeting means a sales call.",
+  "desc": "Payroll, tax filing and HR for small and mid-sized employers, sold as four RUN packages: Essential, Enhanced, Complete and HR Pro. There is no public pricing: /pricing is a 404 and every tier on the comparison page says “Get pricing”, so budgeting means a sales call.",
   "link": "https://www.adp.com/"
  },
  {
@@ -55,7 +55,7 @@
   "name": "AfterSell",
   "category": "Growth & Revenue",
   "domain": "aftersell.com",
-  "desc": "Post-purchase upsell and cross-sell app for Shopify (by Rokt): one-click upsells, downsells and thank-you-page offers plus checkout customization to lift average order value — no extra ad spend.",
+  "desc": "Post-purchase upsell and cross-sell app for Shopify (by Rokt): one-click upsells, downsells and thank-you-page offers plus checkout customization to lift average order value, with no extra ad spend.",
   "link": "https://try.aftersell.app/vv4g49ide6z2",
   "platform": "shopify"
  },
@@ -71,7 +71,7 @@
   "name": "AgentNest",
   "category": "SEO & Marketing",
   "domain": "ecommercestorez.us",
-  "desc": "Scans your Shopify catalogue for the product-data gaps AI shopping surfaces trip over — status, category, description, image alt text — and applies the eligible ones in a click. Launched 6 August 2026 with no reviews yet.",
+  "desc": "Scans your Shopify catalogue for the product-data gaps AI shopping surfaces trip over (status, category, description, image alt text) and applies the eligible ones in a click. Launched 6 August 2026 with no reviews yet.",
   "link": "https://apps.shopify.com/agentnest",
   "platform": "shopify"
  },
@@ -80,7 +80,7 @@
   "domain": "ahaslides.com",
   "link": "https://ahaslides.com/?red=aibuil&utm_source=aibuil&utm_medium=revshare&utm_affiliate_network=reditus",
   "category": "Design & Content",
-  "desc": "Interactive presentation platform — live polls, quizzes, word clouds and audience Q&A, free for up to 50 participants."
+  "desc": "Interactive presentation platform with live polls, quizzes, word clouds and audience Q&A, free for up to 50 participants."
  },
  {
   "name": "Aira",
@@ -101,7 +101,7 @@
   "name": "Airia",
   "category": "IT & Productivity",
   "domain": "airia.com",
-  "desc": "Enterprise AI security and governance platform. Read on 1 September 2026, the vendor leads with finding AI rather than building it: Airia says it discovers every AI tool, model, agent and MCP server running across an organisation, including the ones nobody approved, enforces policy at the execution layer before a tool call fires or an email sends, and generates continuous governance documentation mapped to the EU AI Act, NIST AI RMF, SR 11-7, HIPAA, ISO 42001 and SOC 2. The no-code/low-code/pro-code agent builder, connectors and MCP support are still there, but now sit under Optimize alongside model routing and cost controls. Its July 2026 update, as the vendor describes it, added Model Change Management, which warns up to 90 days before a model deprecation so agents do not break silently; Advanced Context Engineering, aimed at running governed AI over complex, permission-sensitive enterprise data; and cost controls that watch budgets in real time, attribute spend per provider, model, agent and team, and flag runaway agent loops. Read again on 22 September 2026, the security pillar now also lists Agent Red Teaming: the vendor says it simulates multi-step attacks across prompts, tools, APIs and memory layers — prompt injection, tool manipulation and chained attack scenarios — using framework-aligned attack libraries, and maps what it finds back to recognised security frameworks so the findings return as guardrail, constraint and policy changes before agents reach production. We have not tested it.",
+  "desc": "Enterprise AI security and governance platform. Read on 1 September 2026, the vendor leads with finding AI rather than building it: Airia says it discovers every AI tool, model, agent and MCP server running across an organisation, including the ones nobody approved, enforces policy at the execution layer before a tool call fires or an email sends, and generates continuous governance documentation mapped to the EU AI Act, NIST AI RMF, SR 11-7, HIPAA, ISO 42001 and SOC 2. The no-code/low-code/pro-code agent builder, connectors and MCP support are still there, but now sit under Optimize alongside model routing and cost controls. Its July 2026 update, as the vendor describes it, added Model Change Management, which warns up to 90 days before a model deprecation so agents do not break silently; Advanced Context Engineering, aimed at running governed AI over complex, permission-sensitive enterprise data; and cost controls that watch budgets in real time, attribute spend per provider, model, agent and team, and flag runaway agent loops. Read again on 22 September 2026, the security pillar now also lists Agent Red Teaming: the vendor says it simulates multi-step attacks across prompts, tools, APIs and memory layers (prompt injection, tool manipulation and chained attack scenarios) using framework-aligned attack libraries, and maps what it finds back to recognised security frameworks so the findings return as guardrail, constraint and policy changes before agents reach production. We have not tested it.",
   "link": "https://try.airia.com/63zm3k6oocba"
  },
  {
@@ -130,13 +130,13 @@
   "domain": "algomo.com",
   "link": "https://www.algomo.com/?red=aibuil",
   "category": "Sales & CRM",
-  "desc": "AI inbound agent and website personalization for B2B — qualifies visitors by identity, holds contextual conversations and books meetings from your existing traffic."
+  "desc": "AI inbound agent and website personalization for B2B. It qualifies visitors by identity, holds contextual conversations and books meetings from your existing traffic."
  },
  {
   "name": "Alidrop",
   "category": "Growth & Revenue",
   "domain": "alidrop.co",
-  "desc": "Dropshipping automation — product sourcing, fulfilment and inventory sync, with access to faster-shipping US and EU suppliers. The subscription sits on top of wholesale cost, so margins still turn on product selection and ad efficiency.",
+  "desc": "Dropshipping automation: product sourcing, fulfilment and inventory sync, with access to faster-shipping US and EU suppliers. The subscription sits on top of wholesale cost, so margins still turn on product selection and ad efficiency.",
   "link": "https://get.alidrop.co/uwv5ldbg7zss"
  },
  {
@@ -144,13 +144,13 @@
   "domain": "alliai.com",
   "link": "https://www.alliai.com/?red=aibuil",
   "category": "Marketing",
-  "desc": "Agency-grade SEO automation — bulk on-page optimizations, rules and keyword tracking across multiple sites and CMSes from one dashboard."
+  "desc": "Agency-grade SEO automation: bulk on-page optimizations, rules and keyword tracking across multiple sites and CMSes from one dashboard."
  },
  {
   "name": "Alohi",
   "category": "Operations & Workflow",
   "domain": "alohi.com",
-  "desc": "One secure ecosystem for document workflows: Sign.Plus e-signatures, Fax.Plus online faxing and Scan.Plus scanning — paperwork handled, compliance included.",
+  "desc": "Document workflow tools from one company: Sign.Plus e-signatures, Fax.Plus online faxing and Scan.Plus scanning. Paperwork is handled and compliance is included.",
   "link": "https://ref.alohi.com/i94t0wafno1b"
  },
  {
@@ -165,14 +165,14 @@
   "name": "Alvys",
   "category": "Operations & Workflow",
   "domain": "alvys.com",
-  "desc": "Cloud-native transportation management system (TMS) unifying trucking carriers and freight brokers in one platform — dispatch, billing, DOT/IFTA compliance, real-time load visibility and native EDI (no third-party middleware), so new shippers connect in hours rather than weeks.",
+  "desc": "Cloud-native transportation management system (TMS) for trucking carriers and freight brokers in one platform: dispatch, billing, DOT/IFTA compliance, real-time load visibility and native EDI (no third-party middleware), so new shippers connect in hours rather than weeks.",
   "link": "https://get.alvys.com/nuay0lqxew7c"
  },
  {
   "name": "Amplemarket",
   "category": "Growth & Revenue",
   "domain": "amplemarket.com",
-  "desc": "An all-in-one AI sales platform: an AI 'Searcher' that turns a plain-English ICP into verified contacts, 100+ contact-level buying-intent signals, and social prospecting from LinkedIn, plus multichannel outreach and deliverability tooling — drawing on a large multi-source contact database it refreshes continuously. Its Duo copilot proactively surfaces prioritized leads from 20+ real-time signal types, and an MCP server puts the platform inside ChatGPT or Claude — where it can triage the Unibox, update or remove leads, and since July run a whole account-based play end to end: research the account, pull enriched profiles, and enrol every contact into one sequence with copy written per person and per step, without leaving the chat, and a GTM Skills Library opens the rest of the platform along the same route. Duo Voice is the audio arm of the same copilot: you read one short sample aloud, it clones your voice, and a voice-message step can then be dropped into any sequence, with the message written per prospect from their data and adapted to their language — LinkedIn voice notes rather than another block of text. Since June you can also describe a workflow in plain English and have it built for you in the normal editor, and meeting notes from Fathom and Attention flow into the activity feed. Deliverability is a named toolkit rather than a footnote: a Domain Health Center for SPF/DKIM/DMARC, inbox-to-outbox ratio, spam-list and mailbox-age monitoring; automated warm-up and recovery for flagged Gmail or Outlook mailboxes; weekly spam-placement tests before a campaign goes out; and Duo rotating the sending mailbox per email against that same health data. Workflows, the automation layer, is included for every customer rather than sold as a premium add-on: triggers (a sequence finishing with no reply, a bounce, a meeting booked, a call logged, a CRM field changing), filters for who qualifies, branching paths and actions (enrol in another sequence, update CRM fields, create tasks, manage lists, enrich, add to exclusion lists), assembled on a visual canvas so the whole logic is readable at a glance. Twenty ready-made Recipes cover lead routing, keeping non-responders warm, account plays, CRM hygiene and do-not-contact enforcement. It runs against Salesforce and HubSpot out of the box, and without a CRM connected the triggers and actions that don't depend on one still work. The browser extension carries the same work into whatever page you are on: adding and editing notes, creating and running tasks, and filtering the activity feed without switching tabs.",
+  "desc": "An AI sales platform: an AI 'Searcher' that turns a plain-English ICP into verified contacts, 100+ contact-level buying-intent signals, and social prospecting from LinkedIn, plus multichannel outreach and deliverability tooling, drawing on a large multi-source contact database it refreshes continuously. Its Duo copilot proactively surfaces prioritized leads from 20+ real-time signal types, and an MCP server puts the platform inside ChatGPT or Claude, where it can triage the Unibox, update or remove leads, and since July run a whole account-based play end to end: research the account, pull enriched profiles, and enrol every contact into one sequence with copy written per person and per step, without leaving the chat. A GTM Skills Library opens the rest of the platform along the same route. Duo Voice is the audio arm of the same copilot: you read one short sample aloud, it clones your voice, and a voice-message step can then be dropped into any sequence, with the message written per prospect from their data and adapted to their language. These are LinkedIn voice notes rather than another block of text. Since June you can also describe a workflow in plain English and have it built for you in the normal editor, and meeting notes from Fathom and Attention flow into the activity feed. Deliverability is a named toolkit rather than a footnote: a Domain Health Center for SPF/DKIM/DMARC, inbox-to-outbox ratio, spam-list and mailbox-age monitoring; automated warm-up and recovery for flagged Gmail or Outlook mailboxes; weekly spam-placement tests before a campaign goes out; and Duo rotating the sending mailbox per email against that same health data. Workflows, the automation layer, is included for every customer rather than sold as a premium add-on: triggers (a sequence finishing with no reply, a bounce, a meeting booked, a call logged, a CRM field changing), filters for who qualifies, branching paths and actions (enrol in another sequence, update CRM fields, create tasks, manage lists, enrich, add to exclusion lists), assembled on a visual canvas so the whole logic is readable at a glance. Twenty ready-made Recipes cover lead routing, keeping non-responders warm, account plays, CRM hygiene and do-not-contact enforcement. It runs against Salesforce and HubSpot out of the box, and without a CRM connected the triggers and actions that don't depend on one still work. The browser extension carries the same work into whatever page you are on: adding and editing notes, creating and running tasks, and filtering the activity feed without switching tabs.",
   "link": "https://grow.amplemarket.com/ddkfb65s7t1r",
   "replaces": "Outreach"
  },
@@ -209,7 +209,7 @@
   "name": "Arbor",
   "category": "Financial Operations",
   "domain": "joinarbor.com",
-  "desc": "Free US service that automatically finds and switches you to a cheaper electricity supply rate in the 12 states plus Washington DC that its FAQ lists (Northeast and Midwest; Texas is not on the list). Your utility and wiring stay the same, no service interruption, cancel anytime — Arbor is paid a referral fee by the supplier, so households pay nothing.",
+  "desc": "Free US service that automatically finds and switches you to a cheaper electricity supply rate in the 12 states plus Washington DC that its FAQ lists (Northeast and Midwest; Texas is not on the list). Your utility and wiring stay the same, there is no service interruption, and you can cancel anytime. Arbor is paid a referral fee by the supplier, so households pay nothing.",
   "link": "https://get.joinarbor.com/1br17seg3993",
   "replaces": "Arcadia"
  },
@@ -225,7 +225,7 @@
   "name": "Aspire",
   "category": "Financial Operations",
   "domain": "aspireapp.com",
-  "desc": "All-in-one finance stack for global businesses: multi-currency accounts (30+ currencies), corporate cards with 1.2% cashback, expense management, bill pay, payments and payroll — with AI fraud detection and multi-admin approval workflows.",
+  "desc": "Finance stack for global businesses: multi-currency accounts (30+ currencies), corporate cards with 1.2% cashback, expense management, bill pay, payments and payroll, with AI fraud detection and multi-admin approval workflows.",
   "link": "https://partners.aspireapp.com/AIBuilder"
  },
  {
@@ -248,7 +248,7 @@
   "category": "E-commerce",
   "domain": "helloatlas.io",
   "link": "https://platform.shoffi.app/r/rl_GvKfZcQh",
-  "desc": "Shopify app that builds a full store or product page from a single product link — layout, copy and images generated automatically, plus bundle and cart upsells.",
+  "desc": "Shopify app that builds a full store or product page from a single product link, with layout, copy and images generated automatically, plus bundle and cart upsells.",
   "platform": "shopify"
  },
  {
@@ -270,7 +270,7 @@
   "category": "Growth & Revenue",
   "domain": "attribuly.com",
   "link": "https://platform.shoffi.app/r/rl_eroQWgHx",
-  "desc": "Recovers abandoned carts Klaviyo misses — identifies visitors, syncs intent signals back into Klaviyo and lets an AI agent send a personalised recovery email.",
+  "desc": "Recovers abandoned carts Klaviyo misses: identifies visitors, syncs intent signals back into Klaviyo and lets an AI agent send a personalised recovery email.",
   "platform": "shopify"
  },
  {
@@ -285,11 +285,11 @@
   "domain": "audiorista.com",
   "link": "https://www.audiorista.com/?red=aibuil",
   "category": "Content & Media",
-  "desc": "No-code platform for launching branded audio apps — podcasts, audiobooks, meditation and courses with subscriptions, on iOS, Android and web."
+  "desc": "No-code platform for launching branded audio apps (podcasts, audiobooks, meditation and courses with subscriptions) on iOS, Android and web."
  },
  {
   "category": "E-commerce",
-  "desc": "Dynamic repricing for Amazon and Walmart sellers — automated price strategy across marketplaces.",
+  "desc": "Dynamic repricing for Amazon and Walmart sellers, with automated price strategy across marketplaces.",
   "domain": "goaura.com",
   "link": "https://goaura.com",
   "name": "Aura"
@@ -306,7 +306,7 @@
   "name": "Auware",
   "category": "Growth & Revenue",
   "domain": "auware.com",
-  "desc": "AI-built, audience-specific Shopify pages: automatically generates a personalized page per buyer persona — not just landing pages but advertorials, listicles, comparison and product (PDP) pages — with targeted headlines, social proof and FAQs, plus per-segment analytics. Built to lift ad conversion for DTC brands. No code.",
+  "desc": "AI-built, audience-specific Shopify pages: it automatically generates a personalized page per buyer persona, not just landing pages but also advertorials, listicles, comparison pages and product (PDP) pages, with targeted headlines, social proof and FAQs, plus per-segment analytics. Built to lift ad conversion for DTC brands. No code.",
   "link": "https://get.auware.com/3bbijs3hb8rg",
   "platform": "shopify"
  },
@@ -314,7 +314,7 @@
   "name": "Ava AI",
   "category": "E-commerce",
   "domain": "avasales.ai",
-  "desc": "AI phone agent for Shopify stores: answers support calls 24/7 — order lookup, edits and refunds mid-call — and runs outbound abandoned-cart recovery calls, with recordings, transcripts and its own business number. Priced by call minutes.",
+  "desc": "AI phone agent for Shopify stores: answers support calls 24/7 (order lookup, edits and refunds mid-call) and runs outbound abandoned-cart recovery calls, with recordings, transcripts and its own business number. Priced by call minutes.",
   "link": "https://www.avasales.ai/",
   "platform": "shopify"
  },
@@ -330,7 +330,7 @@
   "domain": "babylovegrowth.ai",
   "link": "https://www.babylovegrowth.ai/?red=aibuil",
   "category": "Marketing",
-  "desc": "AI SEO/GEO content automation — auto-publishes optimized articles, builds backlinks and runs keyword research, aimed at fast hands-off organic growth for lean teams."
+  "desc": "AI SEO/GEO content automation: auto-publishes optimized articles, builds backlinks and runs keyword research, aimed at fast hands-off organic growth for lean teams."
  },
  {
   "name": "BackupMaster",
@@ -359,7 +359,7 @@
   "name": "Beefree",
   "category": "Growth & Revenue",
   "domain": "beefree.io",
-  "desc": "RGE Studio (formerly Beefree — renamed 14 May 2026): drag-and-drop email and landing-page design. Build responsive, on-brand emails fast and export clean HTML to any major ESP, no coding required. Beefree remains the company name and the name of its separate developer SDK; the builder itself now lives under reallygoodemails.com.",
+  "desc": "RGE Studio (formerly Beefree, renamed 14 May 2026): drag-and-drop email and landing-page design. Build responsive, on-brand emails fast and export clean HTML to any major ESP, no coding required. Beefree remains the company name and the name of its separate developer SDK; the builder itself now lives under reallygoodemails.com.",
   "link": "https://partners.beefree.io/o4iguobqzx2q"
  },
  {
@@ -389,13 +389,13 @@
   "domain": "billingnow.com",
   "link": "https://billingnow.com/?red=aibuil",
   "category": "Finance & Accounting",
-  "desc": "Invoicing and expense tracking with AI — unlimited invoices, expenses, clients and users on one flat plan, monthly or yearly, made in Geneva."
+  "desc": "Invoicing and expense tracking with AI: unlimited invoices, expenses, clients and users on one flat plan, monthly or yearly, made in Geneva."
  },
  {
   "name": "Birch",
   "category": "Growth & Revenue",
   "domain": "bir.ch",
-  "desc": "Ad automation for performance marketers (formerly Revealbot): rule-based optimization, automated scaling and creative insights across Meta, Google, TikTok and Snapchat — run and optimize ad campaigns on autopilot.",
+  "desc": "Ad automation for performance marketers (formerly Revealbot): rule-based optimization, automated scaling and creative insights across Meta, Google, TikTok and Snapchat, so ad campaigns run and optimize on autopilot.",
   "link": "https://join.bir.ch/aje5arihw6cw"
  },
  {
@@ -447,7 +447,7 @@
   "name": "Bokun",
   "category": "Operations & Workflow",
   "domain": "bokun.io",
-  "desc": "Booking management for tours and activities, by Tripadvisor. Manage availability, channel sales and online bookings in one place — built for experience businesses.",
+  "desc": "Booking management for tours and activities, by Tripadvisor. Manage availability, channel sales and online bookings in one place, built for experience businesses.",
   "link": "https://join.bokun.io/krrda8zfzjxg"
  },
  {
@@ -461,7 +461,7 @@
   "name": "BookX",
   "category": "Operations & Workflow",
   "domain": "logbase.io",
-  "desc": "Shopify appointment booking that lives in the storefront: Calendly-style slots for services, classes, rentals and events, with staff and multi-location schedules, deposits and partial payments, and the money taken at your own checkout. Bookings are unlimited on every tier — the ladder is gated on locations and team members.",
+  "desc": "Shopify appointment booking that lives in the storefront: Calendly-style slots for services, classes, rentals and events, with staff and multi-location schedules, deposits and partial payments, and the money taken at your own checkout. Bookings are unlimited on every tier; the ladder is gated on locations and team members.",
   "link": "https://apps.shopify.com/appointment-booking-bookeasy",
   "platform": "shopify"
  },
@@ -500,7 +500,7 @@
   "domain": "breadbutter.io",
   "link": "https://try.breadbutter.io/nz5buw0ecmo8",
   "category": "Marketing",
-  "desc": "Lead-intelligence platform with server-side tracking: captures the full visitor journey from the first visit, then enriches, scores and nurtures the moment someone submits an email — verified identities instead of IP-based company guesses."
+  "desc": "Lead-intelligence platform with server-side tracking: it captures the full visitor journey from the first visit, then enriches, scores and nurtures the moment someone submits an email, using verified identities instead of IP-based company guesses."
  },
  {
   "name": "Breezy HR",
@@ -513,7 +513,7 @@
   "name": "Brevo",
   "category": "Growth & Revenue",
   "domain": "brevo.com",
-  "desc": "Email, SMS and a light CRM, priced by monthly send volume rather than contact count — cheaper for a large list you email selectively. Model your real send volume if you mail frequently.",
+  "desc": "Email, SMS and a light CRM, priced by monthly send volume rather than contact count, which is cheaper for a large list you email selectively. Model your real send volume if you mail frequently.",
   "link": "https://get.brevo.com/1fja6u7hu62y",
   "replaces": "Mailchimp"
  },
@@ -521,7 +521,7 @@
   "name": "Bright Data",
   "category": "IT & Productivity",
   "domain": "brightdata.com",
-  "desc": "The web data platform trusted by enterprises. Collect public web data at scale with proxies, ready-made datasets and scraping APIs — fuel for your market research and AI projects.",
+  "desc": "Web data platform used by enterprises. Collect public web data at scale with proxies, ready-made datasets and scraping APIs, for your market research and AI projects.",
   "link": "https://get.brightdata.com/vnvncunqr9rj"
  },
  {
@@ -556,14 +556,14 @@
   "name": "Buzz.ai",
   "category": "Sales & CRM",
   "domain": "buzz.ai",
-  "desc": "AI-powered outbound platform: prompt it and it finds intent-ready buyers, writes multichannel sequences and books the meetings — per-seat plans with monthly credit allowances and a free start.",
+  "desc": "AI-powered outbound platform: prompt it and it finds intent-ready buyers, writes multichannel sequences and books the meetings. Per-seat plans with monthly credit allowances and a free start.",
   "link": "https://buzz.ai/?red=aibuil"
  },
  {
   "name": "Bybit",
   "category": "Financial Operations",
   "domain": "bybit.com",
-  "desc": "Crypto exchange covering spot, perpetuals and options. No subscription — spot is 0.1% maker and taker for non-VIP, derivatives around 0.02% and 0.055%, with volume tiers cutting lower. Funding rates on perpetuals are a recurring cost the fee table does not show, and availability differs per country.",
+  "desc": "Crypto exchange covering spot, perpetuals and options. No subscription: spot is 0.1% maker and taker for non-VIP, derivatives around 0.02% and 0.055%, with volume tiers cutting lower. Funding rates on perpetuals are a recurring cost the fee table does not show, and availability differs per country.",
   "link": "https://www.bybit.eu/invite?ref=43R9RJE",
   "replaces": "Binance"
  },
@@ -578,7 +578,7 @@
   "name": "CallHippo",
   "category": "Communication & Voice",
   "domain": "callhippo.com",
-  "desc": "AI-driven business phone system. Virtual numbers in 50+ countries, power dialer, call analytics and AI agents — set up your sales and support calling in minutes. Its omnichannel inbox threads voice, WhatsApp, SMS, email, Instagram and Telegram into one conversation per customer.",
+  "desc": "AI-driven business phone system. Virtual numbers in 50+ countries, power dialer, call analytics and AI agents, so you can set up sales and support calling in minutes. Its omnichannel inbox threads voice, WhatsApp, SMS, email, Instagram and Telegram into one conversation per customer.",
   "link": "https://join.callhippo.com/acacgh9cnvo1",
   "replaces": "RingCentral"
  },
@@ -586,7 +586,7 @@
   "name": "CallRail",
   "category": "Growth & Revenue",
   "domain": "callrail.com",
-  "desc": "Call tracking and attribution — which campaigns, keywords and ads produce phone calls and form leads. It is an attribution layer, not a phone system or CRM.",
+  "desc": "Call tracking and attribution: which campaigns, keywords and ads produce phone calls and form leads. It is an attribution layer, not a phone system or CRM.",
   "link": "https://partners.callrail.com/nvve8beie0o6"
  },
  {
@@ -609,7 +609,7 @@
   "name": "Capsule",
   "category": "Growth & Revenue",
   "domain": "capsulecrm.com",
-  "desc": "Deliberately simple CRM for small businesses: contacts, pipeline and tasks. The simplicity is the product — advanced automation, deep reporting and integrations thin out, and a scaling sales org can outgrow it.",
+  "desc": "Deliberately simple CRM for small businesses: contacts, pipeline and tasks. The simplicity is the product: advanced automation, deep reporting and integrations thin out, and a scaling sales org can outgrow it.",
   "link": "https://get.capsulenow.io/q99x0fa3klb8",
   "replaces": "Salesforce"
  },
@@ -617,7 +617,7 @@
   "name": "Carbon6",
   "category": "Operations & Workflow",
   "domain": "carbon6.io",
-  "desc": "A suite of Amazon seller tools sold per product rather than as one subscription: Seller Investigators (FBA reimbursement recovery), ChargeGuard (1P vendor recovery for chargeback fees, shortages and accruals), PixelMe, DSP Prime and PPC Entourage (advertising), SoStocked (demand and inventory planning), ScanUnlimited (wholesale sourcing), plus ManageByStats, D8aDriven, AMZAlert and SellerAssist. Ownership matters here: SPS Commerce bought Carbon6 in Feb 2025 and folded the 1P deduction-recovery work into spscommerce.com, then transferred the 3P Amazon-seller business to Carbon6 on 30 Jun 2026 — the suite is sold under the Carbon6 brand again, with the partner programme rebranding from SPS to Carbon6 on 24 Aug 2026 and commission terms unchanged.",
+  "desc": "A suite of Amazon seller tools sold per product rather than as one subscription: Seller Investigators (FBA reimbursement recovery), ChargeGuard (1P vendor recovery for chargeback fees, shortages and accruals), PixelMe, DSP Prime and PPC Entourage (advertising), SoStocked (demand and inventory planning), ScanUnlimited (wholesale sourcing), plus ManageByStats, D8aDriven, AMZAlert and SellerAssist. Ownership matters here: SPS Commerce bought Carbon6 in Feb 2025 and folded the 1P deduction-recovery work into spscommerce.com, then transferred the 3P Amazon-seller business to Carbon6 on 30 Jun 2026. The suite is sold under the Carbon6 brand again, with the partner programme rebranding from SPS to Carbon6 on 24 Aug 2026 and commission terms unchanged.",
   "link": "https://ps.carbon6.io/d2uxhs1usng6"
  },
  {
@@ -639,7 +639,7 @@
   "name": "Checkr",
   "category": "Operations & Workflow",
   "domain": "checkr.com",
-  "desc": "AI-powered background check and screening platform for hiring: fast criminal, employment and identity verification with automated adjudication and ATS integrations — speeds up onboarding while staying FCRA-compliant.",
+  "desc": "AI-powered background check and screening platform for hiring: fast criminal, employment and identity verification with automated adjudication and ATS integrations, which speeds up onboarding while staying FCRA-compliant.",
   "link": "https://get.checkr.com/dlmrvlliqgxm"
  },
  {
@@ -653,7 +653,7 @@
   "name": "Circle",
   "category": "Growth & Revenue",
   "domain": "circle.so",
-  "desc": "Community platform for creator businesses: discussions, courses, events, memberships and messaging in one branded home — plus a no-code website builder, branded iOS/Android apps, email marketing, a member CRM, built-in payments and AI agents that answer member questions.",
+  "desc": "Community platform for creator businesses: discussions, courses, events, memberships and messaging in one branded home, plus a no-code website builder, branded iOS/Android apps, email marketing, a member CRM, built-in payments and AI agents that answer member questions.",
   "link": "https://try.circle.so/qquhcg8869bj",
   "replaces": null
  },
@@ -668,7 +668,7 @@
   "name": "Claude",
   "category": "IT & Productivity",
   "domain": "claude.ai",
-  "desc": "Anthropic's AI assistant for writing, coding, analysis and long-document work — strong reasoning and a careful, direct tone rather than an eager-to-please one. Free tier plus Pro, Max, Team and Enterprise plans, and a per-token API (Opus, Sonnet, Haiku) for builders.",
+  "desc": "Anthropic's AI assistant for writing, coding, analysis and long-document work, with strong reasoning and a careful, direct tone rather than an eager-to-please one. Free tier plus Pro, Max, Team and Enterprise plans, and a per-token API (Opus, Sonnet, Haiku) for builders.",
   "link": "https://claude.ai/",
   "replaces": null
  },
@@ -693,14 +693,14 @@
   "domain": "clonable.net",
   "link": "https://clonable.net/?red=aibuil",
   "category": "Design & Content",
-  "desc": "Creates a continuously-translated clone of your existing website — fast multilingual versions that stay synced as your site changes, without rebuilding it."
+  "desc": "Creates a continuously translated clone of your existing website: fast multilingual versions that stay synced as your site changes, without rebuilding it."
  },
  {
   "name": "Cloro",
   "category": "Marketing",
   "domain": "cloro.dev",
   "link": "https://cloro.dev?fpr=d3dq9l",
-  "desc": "API that reads AI search engines — ChatGPT, Gemini, Google AI Mode, Bing AI Mode, AI Overview and Google Search — and returns the sources and citations behind every query as structured JSON."
+  "desc": "API that reads AI search engines (ChatGPT, Gemini, Google AI Mode, Bing AI Mode, AI Overview and Google Search) and returns the sources and citations behind every query as structured JSON."
  },
  {
   "name": "Close",
@@ -722,7 +722,7 @@
   "name": "CloudTask",
   "category": "HR & People",
   "domain": "cloudtask.com",
-  "desc": "Managed marketplace for LATAM go-to-market hires — SDRs, BDRs and similar — with payroll and compliance handled. Direct Hire instead costs 30% of first-year salary.",
+  "desc": "Managed marketplace for LATAM go-to-market hires (SDRs, BDRs and similar), with payroll and compliance handled. Direct Hire instead costs 30% of first-year salary.",
   "link": "https://get.cloudtask.com/6puug6ro1f8e"
  },
  {
@@ -730,7 +730,7 @@
   "domain": "cloudways.com",
   "link": "https://www.awin1.com/cread.php?awinmid=89935&awinaffid=2880219&ued=https%3A%2F%2Fwww.awin1.com%2Fcread.php%3Fs%3D4430136%26v%3D89935%26q%3D574000%26r%3D2880219",
   "category": "IT & Productivity",
-  "desc": "Managed-hosting layer that rents you servers on DigitalOcean, Vultr, Linode, AWS or Google Cloud through one dashboard, with the stack, caching, staging, cloning, backups and 24/7 platform support pre-built on top. You buy a server and put as many sites on it as it holds — no per-site plans and no visit metering — billed hourly and invoiced monthly in arrears with no contract. The trade is control: Cloudways' own documentation states there is no root access and no bring-your-own cloud account, so the server lives in Cloudways' name. Owned by DigitalOcean since September 2022."
+  "desc": "Managed-hosting layer that rents you servers on DigitalOcean, Vultr, Linode, AWS or Google Cloud through one dashboard, with the stack, caching, staging, cloning, backups and 24/7 platform support pre-built on top. You buy a server and put as many sites on it as it holds, with no per-site plans and no visit metering; billing is hourly and invoiced monthly in arrears with no contract. The trade is control: Cloudways' own documentation states there is no root access and no bring-your-own cloud account, so the server lives in Cloudways' name. Owned by DigitalOcean since September 2022."
  },
  {
   "name": "Cloze",
@@ -745,7 +745,7 @@
   "domain": "clutch.co",
   "link": "https://start.clutch.co/76rethb2evjx",
   "category": "Operations & Workflow",
-  "desc": "B2B services marketplace — submit a free project brief and get matched with verified, best-fit agencies for your project, no research required."
+  "desc": "B2B services marketplace: submit a free project brief and get matched with verified, best-fit agencies for your project, with no research required."
  },
  {
   "name": "Code Bulk Discounts",
@@ -758,7 +758,7 @@
  },
  {
   "category": "Sales & CRM",
-  "desc": "B2B contact data with a GDPR focus — phone-verified mobile numbers and intent signals.",
+  "desc": "B2B contact data with a GDPR focus, including phone-verified mobile numbers and intent signals.",
   "domain": "cognism.com",
   "link": "https://get.cognism.com/a9b3igp648j0",
   "name": "Cognism"
@@ -767,7 +767,7 @@
   "name": "CometChat",
   "category": "Communication & Voice",
   "domain": "cometchat.com",
-  "desc": "In-app text, voice and video chat infrastructure to embed into your own software — secure and scalable, with a free developer plan and, via the new Air release, fully on-prem or air-gapped deployment for regulated enterprises.",
+  "desc": "In-app text, voice and video chat infrastructure to embed into your own software, secure and scalable, with a free developer plan and, via the new Air release, fully on-prem or air-gapped deployment for regulated enterprises.",
   "link": "https://try.cometchat.com/155dumgioc1q"
  },
  {
@@ -781,7 +781,7 @@
   "name": "Connecteam",
   "category": "Operations & Workflow",
   "domain": "connecteam.com",
-  "desc": "All-in-one app for managing deskless teams. Scheduling, time clock, tasks, training and team chat for hourly and frontline workforces.",
+  "desc": "App for managing deskless teams. Scheduling, time clock, tasks, training and team chat for hourly and frontline workforces.",
   "link": "https://partners.connecteam.com/ff7km2y3lp10"
  },
  {
@@ -795,7 +795,7 @@
   "name": "Consentmo",
   "category": "E-commerce",
   "domain": "consentmo.com",
-  "desc": "Shopify consent app that geolocates the visitor and shows the right GDPR, CCPA, PIPEDA or LGPD banner, with Google Consent Mode v2 and Meta, Microsoft and TikTok signals, cookie scanning and data-request pages — plus an accessibility widget and scanner from the Plus tier. Banner impressions are unlimited on every tier.",
+  "desc": "Shopify consent app that geolocates the visitor and shows the right GDPR, CCPA, PIPEDA or LGPD banner, with Google Consent Mode v2 and Meta, Microsoft and TikTok signals, cookie scanning and data-request pages, plus an accessibility widget and scanner from the Plus tier. Banner impressions are unlimited on every tier.",
   "link": "https://www.consentmo.com/",
   "platform": "shopify"
  },
@@ -803,7 +803,7 @@
   "name": "Contractor Foreman",
   "category": "Operations & Workflow",
   "domain": "contractorforeman.com",
-  "desc": "Construction management — estimating, scheduling, daily logs and financial tracking — priced per company rather than per seat, with unlimited projects on every tier.",
+  "desc": "Construction management (estimating, scheduling, daily logs and financial tracking), priced per company rather than per seat, with unlimited projects on every tier.",
   "link": "https://try.contractorforeman.com/cawglgaebpxr"
  },
  {
@@ -811,20 +811,20 @@
   "domain": "convert.com",
   "link": "https://www.convert.com/free-trial/?red=aibuil",
   "category": "Marketing",
-  "desc": "Privacy-first A/B testing platform — experiments, personalization and feature rollouts, priced by tested users. Via our link: an exclusive 30-day full-access trial (standard is 15 days)."
+  "desc": "Privacy-first A/B testing platform: experiments, personalization and feature rollouts, priced by tested users. Via our link: an exclusive 30-day full-access trial (standard is 15 days)."
  },
  {
   "name": "CrankWheel",
   "category": "Communication & Voice",
   "domain": "crankwheel.com",
-  "desc": "No-download screen sharing for sales calls — a prospect clicks a link and sees your screen on any device. Deliberately narrow: no video conferencing, webinars or collaboration.",
+  "desc": "No-download screen sharing for sales calls: a prospect clicks a link and sees your screen on any device. Deliberately narrow, with no video conferencing, webinars or collaboration.",
   "link": "https://try.crankwheel.com/0coqsbab00ua"
  },
  {
   "name": "Crazy Egg",
   "category": "Growth & Revenue",
   "domain": "crazyegg.com",
-  "desc": "Website optimization with heatmaps, scroll maps, session recordings and A/B testing — see how visitors behave and lift conversions with data.",
+  "desc": "Website optimization with heatmaps, scroll maps, session recordings and A/B testing, so you can see how visitors behave and lift conversions with data.",
   "link": "https://www.crazyegg.com/signup?via=aibuildermarketplace",
   "replaces": "Hotjar"
  },
@@ -846,7 +846,7 @@
   "name": "Databox",
   "category": "Operations & Workflow",
   "domain": "databox.com",
-  "desc": "Centralized KPI dashboards. Pull data from all your software tools into one clean interface to monitor your business health. A free Skills Marketplace adds guided analyses on top: the paid-ads skill standardizes every ad channel into one efficiency table with CPA gauges against your own targets, judged per funnel role. A native MCP server (mcp.databox.com) puts those metrics inside ChatGPT or Claude — ingest data and query it in plain language. It is listed on the Business plan, and its queries spend from the same monthly AI-credit pool as Genie.",
+  "desc": "Centralized KPI dashboards. Pull data from all your software tools into one clean interface to monitor your business health. A free Skills Marketplace adds guided analyses on top: the paid-ads skill standardizes every ad channel into one efficiency table with CPA gauges against your own targets, judged per funnel role. A native MCP server (mcp.databox.com) puts those metrics inside ChatGPT or Claude, where you can ingest data and query it in plain language. It is listed on the Business plan, and its queries spend from the same monthly AI-credit pool as Genie.",
   "link": "https://join.databox.com/2re8xsf55qj4"
  },
  {
@@ -861,7 +861,7 @@
   "domain": "deel.com",
   "link": "https://get.deel.com/83eqcym3j4gx",
   "category": "HR & People",
-  "desc": "Global hiring, payroll and EOR platform — pay contractors in 150+ countries and employ people through EOR in 130+ countries, priced per contractor or employee, with HR tools and US PEO options."
+  "desc": "Global hiring, payroll and EOR platform: pay contractors in 150+ countries and employ people through EOR in 130+ countries, priced per contractor or employee, with HR tools and US PEO options."
  },
  {
   "name": "Deputy",
@@ -874,7 +874,7 @@
   "name": "Descript",
   "category": "Operations & Workflow",
   "domain": "descript.com",
-  "desc": "AI-powered video and podcast editor: edit media by editing the text transcript — cut, overdub and remove filler words like editing a doc — with screen recording, AI voice cloning and an AI assistant (Underlord) built in.",
+  "desc": "AI-powered video and podcast editor: edit media by editing the text transcript (cut, overdub and remove filler words like editing a doc), with screen recording, AI voice cloning and an AI assistant (Underlord) built in.",
   "link": "https://get.descript.com/lt9i7t1hqzpb",
   "replaces": null
  },
@@ -942,7 +942,7 @@
   "domain": "drip.com",
   "link": "https://www.drip.com/",
   "category": "Marketing",
-  "desc": "Ecommerce email and onsite marketing built around your store's order data — segments, abandoned-cart and welcome playbooks, pop-ups and A/B testing, with one-click links to Shopify, WooCommerce and BigCommerce.",
+  "desc": "Ecommerce email and onsite marketing built around your store's order data: segments, abandoned-cart and welcome playbooks, pop-ups and A/B testing, with one-click links to Shopify, WooCommerce and BigCommerce.",
   "platform": "shopify"
  },
  {
@@ -950,7 +950,7 @@
   "domain": "dripify.com",
   "link": "https://try.dripify.com/zrv66msfm6yy",
   "category": "Sales & CRM",
-  "desc": "Cloud-based LinkedIn outreach automation — drip sequences of connection requests, messages, InMails and profile views, with configurable daily limits and a built-in email finder."
+  "desc": "Cloud-based LinkedIn outreach automation: drip sequences of connection requests, messages, InMails and profile views, with configurable daily limits and a built-in email finder."
  },
  {
   "name": "Dripshipper",
@@ -964,7 +964,7 @@
   "name": "DropGenius",
   "category": "Growth & Revenue",
   "domain": "dropgenius.com",
-  "desc": "Generates a Shopify dropshipping store — products, branding and copy — as a starting template, not a finished business. Public buyer reviews cluster on one complaint: charges continuing after cancellation, with no route to a refund.",
+  "desc": "Generates a Shopify dropshipping store (products, branding and copy) as a starting template, not a finished business. Public buyer reviews cluster on one complaint: charges continuing after cancellation, with no route to a refund.",
   "link": "https://dropgenius.partnerlinks.io/e38toiu5ul2g",
   "platform": "shopify"
  },
@@ -972,7 +972,7 @@
   "name": "Dryground AI",
   "category": "IT & Productivity",
   "domain": "dryground.ai",
-  "desc": "Full-stack AI implementation services: helps businesses design and integrate AI across their tech stack — for teams that want AI built and shipped, not just advised.",
+  "desc": "Full-stack AI implementation services: helps businesses design and integrate AI across their tech stack, for teams that want AI built and shipped, not just advised.",
   "link": "https://dryground.ai/"
  },
  {
@@ -994,7 +994,7 @@
  },
  {
   "category": "Security",
-  "desc": "DMARC, SPF and DKIM monitoring — stop others sending email as your domain.",
+  "desc": "DMARC, SPF and DKIM monitoring to stop others sending email as your domain.",
   "domain": "easydmarc.com",
   "link": "https://partners.easydmarc.com/r4hlk5r7tqr6",
   "name": "EasyDMARC"
@@ -1019,14 +1019,14 @@
   "name": "ElevateForward",
   "category": "Operations & Workflow",
   "domain": "elevateforward.ai",
-  "desc": "An operational execution and alignment platform (Elevate Studio) for scaling companies, structured in three layers — Strategy (set priorities and initiatives), Execution (track initiatives, workstreams, ownership and KPIs), and Momentum (adoption, change management and follow-through). It turns strategy into structured, visible execution rather than task lists.",
+  "desc": "An operational execution and alignment platform (Elevate Studio) for scaling companies, structured in three layers: Strategy (set priorities and initiatives), Execution (track initiatives, workstreams, ownership and KPIs), and Momentum (adoption, change management and follow-through). It turns strategy into structured, visible execution rather than task lists.",
   "link": "https://partners.elevateforward.ai/clwv8r6l4xj5"
  },
  {
   "name": "ElevenLabs",
   "category": "Content & Media",
   "domain": "elevenlabs.io",
-  "desc": "Market-leading AI voice platform: hyper-realistic text-to-speech (Eleven v4 and the low-latency v4 Turbo since September 2026), voice cloning, dubbing, sound effects and conversational agents — plus a developer API and, since August 2026, a hosted MCP connector that runs inside Claude, ChatGPT and Cursor. Free tier to test voices before you pay.",
+  "desc": "AI voice platform with hyper-realistic text-to-speech (Eleven v4 and the low-latency v4 Turbo since September 2026), voice cloning, dubbing, sound effects and conversational agents. It also has a developer API and, since August 2026, a hosted MCP connector that runs inside Claude, ChatGPT and Cursor. Free tier to test voices before you pay.",
   "link": "https://try.elevenlabs.io/zwowb7xj774d"
  },
  {
@@ -1034,13 +1034,13 @@
   "domain": "emaillistverify.com",
   "link": "https://www.emaillistverify.com/?red=aibuil",
   "category": "Marketing",
-  "desc": "Email verification with never-expiring pay-as-you-go credits — bulk list cleaning, real-time API, inbox-placement testing and free DMARC/SPF tools, plus a credit-based email finder."
+  "desc": "Email verification with never-expiring pay-as-you-go credits: bulk list cleaning, real-time API, inbox-placement testing and free DMARC/SPF tools, plus a credit-based email finder."
  },
  {
   "name": "Emergent",
   "category": "IT & Productivity",
   "domain": "emergent.sh",
-  "desc": "AI app builder. Describe what you want and Emergent builds full-stack web apps for you — an agentic, credit-based platform that turns prompts into working software with no manual coding.",
+  "desc": "AI app builder. Describe what you want and Emergent builds full-stack web apps for you. It is an agentic, credit-based platform that turns prompts into working software with no manual coding.",
   "link": "https://get.emergent.sh/0c8xb55q18c0"
  },
  {
@@ -1055,7 +1055,7 @@
   "domain": "engagebay.com",
   "link": "https://www.awin1.com/cread.php?awinmid=127075&awinaffid=2880219&campaign=AffiliatePricingPush2026&ued=https%3A%2F%2Fwww.engagebay.com%2Fpricing%2Fall-in-one",
   "category": "Sales & CRM",
-  "desc": "All-in-one CRM, marketing, helpdesk and live chat for small teams — a genuine free tier (250 contacts) and per-user suites that undercut the big names."
+  "desc": "CRM, marketing, helpdesk and live chat in one suite for small teams, with a genuine free tier (250 contacts) and per-user suites that undercut the big names."
  },
  {
   "category": "Business Operations",
@@ -1083,7 +1083,7 @@
   "name": "Evolve",
   "category": "Operations & Workflow",
   "domain": "evolveplatform.ai",
-  "desc": "AI-native training and enablement platform for enterprises: an LMS with branded academies, an AI course generator, job-skill simulations with AI counterparts, an assessment center and performance analytics — used by 100+ deployed enterprises.",
+  "desc": "AI-native training and enablement platform for enterprises: an LMS with branded academies, an AI course generator, job-skill simulations with AI counterparts, an assessment center and performance analytics, used by 100+ deployed enterprises.",
   "link": "https://go.evolveplatform.ai/6ddrk9hmjzhs"
  },
  {
@@ -1091,20 +1091,20 @@
   "domain": "expandi.io",
   "link": "https://expandi.io/?red=aibuil",
   "category": "Sales & CRM",
-  "desc": "LinkedIn and email outreach automation for sales teams and agencies — smart limits, warm-up and multi-account management."
+  "desc": "LinkedIn and email outreach automation for sales teams and agencies, with smart limits, warm-up and multi-account management."
  },
  {
   "name": "ExpertEx",
   "category": "IT & Productivity",
   "domain": "expertex.ai",
-  "desc": "A unified AI studio: chat across multiple models (GPT-4, Gemini), generate images, video and voice, and reuse prompts — multilingual, all in one workspace.",
+  "desc": "A unified AI studio: chat across multiple models (GPT-4, Gemini), generate images, video and voice, and reuse prompts. It is multilingual and everything sits in one workspace.",
   "link": "https://try.expertex.ai/0e5xivitpivy"
  },
  {
   "name": "Expertise AI",
   "category": "IT & Productivity",
   "domain": "expertise.ai",
-  "desc": "AI sales agent for B2B websites. Replaces a static chatbot with a live, RAG-grounded agent that holds buying conversations, qualifies visitors and routes them to reps or calendar slots — HubSpot-first, with visitor intelligence.",
+  "desc": "AI sales agent for B2B websites. Replaces a static chatbot with a live, RAG-grounded agent that holds buying conversations, qualifies visitors and routes them to reps or calendar slots. HubSpot-first, with visitor intelligence.",
   "link": "https://expertiseai.partnerlinks.io/e2k8ggh9klcg"
  },
  {
@@ -1118,7 +1118,7 @@
   "name": "Fast Bundle",
   "category": "Growth & Revenue",
   "domain": "fastbundle.co",
-  "desc": "Shopify app that covers every bundle format from one place — fixed bundles, mix-and-match, build-your-own, BOGO, volume breaks and AI frequently-bought-together — on product pages, in the cart and in POS. Shopify pulled the app after a July 2026 security incident and relisted it on 30 July.",
+  "desc": "Shopify app that covers every bundle format from one place (fixed bundles, mix-and-match, build-your-own, BOGO, volume breaks and AI frequently-bought-together) on product pages, in the cart and in POS. Shopify pulled the app after a July 2026 security incident and relisted it on 30 July.",
   "link": "https://fastbundle.partnerlinks.io/9mnlvh4bs4me",
   "platform": "shopify"
  },
@@ -1126,7 +1126,7 @@
   "name": "Fastmail",
   "category": "IT & Productivity",
   "domain": "fastmail.com",
-  "desc": "Private, ad-free email hosting with your own domain. Fast, secure email, calendars and contacts from an independent provider that doesn't mine your data. From 1 August 2026 you pick EU (Amsterdam) or US data residency, encrypted at rest on Fastmail's own servers — note that EU data is initially still replicated and backed up to the US while that infrastructure matures.",
+  "desc": "Private, ad-free email hosting with your own domain. Fast, secure email, calendars and contacts from an independent provider that doesn't mine your data. From 1 August 2026 you pick EU (Amsterdam) or US data residency, encrypted at rest on Fastmail's own servers. Note that EU data is initially still replicated and backed up to the US while that infrastructure matures.",
   "link": "https://www.fastmail.com/",
   "replaces": "Gmail"
  },
@@ -1163,7 +1163,7 @@
   "name": "Fireflies.ai",
   "category": "Communication & Voice",
   "domain": "fireflies.ai",
-  "desc": "AI meeting assistant that records, transcribes and summarizes your calls across Zoom, Google Meet and Teams — searchable notes, action items and CRM sync, so nobody takes minutes by hand.",
+  "desc": "AI meeting assistant that records, transcribes and summarizes your calls across Zoom, Google Meet and Teams, with searchable notes, action items and CRM sync, so nobody takes minutes by hand.",
   "link": "https://www.awin1.com/cread.php?awinmid=118085&awinaffid=2880219",
   "replaces": "Otter.ai"
  },
@@ -1178,7 +1178,7 @@
   "name": "FlexiQuiz",
   "category": "Operations & Workflow",
   "domain": "flexiquiz.com",
-  "desc": "Online quiz and test maker for educators, trainers and businesses: build graded exams, assessments and simple courses with certificates, timed tests, question banks and analytics — from a genuinely free tier.",
+  "desc": "Online quiz and test maker for educators, trainers and businesses: build graded exams, assessments and simple courses with certificates, timed tests, question banks and analytics. There is a free tier.",
   "link": "https://try.flexiquiz.com/hikhofaezqi2"
  },
  {
@@ -1192,7 +1192,7 @@
   "name": "Flocksy",
   "category": "Growth & Revenue",
   "domain": "flocksy.com",
-  "desc": "A dedicated creative team for one flat monthly fee. Unlimited graphic design, video editing, motion graphics and web design — your marketing never waits on a freelancer again.",
+  "desc": "A dedicated creative team for one flat monthly fee. Unlimited graphic design, video editing, motion graphics and web design, so your marketing never waits on a freelancer.",
   "link": "https://join.flocksy.com/gkm4cd2nj6km"
  },
  {
@@ -1215,7 +1215,7 @@
   "name": "Frase",
   "category": "Growth & Revenue",
   "domain": "frase.io",
-  "desc": "AI-powered SEO content writing and optimization. Research, outline, write, and optimize articles that rank — all in one place.",
+  "desc": "AI-powered SEO content writing and optimization: research, outline, write and optimize articles that rank, all in one place.",
   "link": "https://www.frase.io/?utm_source=firstpromoter&utm_medium=affiliate&utm_campaign=affiliate_program&via=daniel46",
   "replaces": "Surfer"
  },
@@ -1267,7 +1267,7 @@
   "name": "Gelato",
   "category": "Growth & Revenue",
   "domain": "gelato.com",
-  "desc": "Global print-on-demand platform: design, produce and ship custom products (apparel, wall art, mugs, photo books) locally in 30+ countries with no inventory — integrates with Shopify, Etsy and WooCommerce.",
+  "desc": "Global print-on-demand platform: design, produce and ship custom products (apparel, wall art, mugs, photo books) locally in 30+ countries with no inventory. Integrates with Shopify, Etsy and WooCommerce.",
   "link": "https://try.gelato.com/c9ioyi0ycvpz",
   "platform": "shopify"
  },
@@ -1284,7 +1284,7 @@
   "domain": "geotargetly.com",
   "link": "https://geotargetly.com/?red=aibuil",
   "category": "Marketing",
-  "desc": "Geo-targeting toolkit — location-based redirects, content swaps, popups and personalization by country, state and city, priced by traffic volume."
+  "desc": "Geo-targeting toolkit with location-based redirects, content swaps, popups and personalization by country, state and city, priced by traffic volume."
  },
  {
   "name": "GetResponse",
@@ -1298,7 +1298,7 @@
   "name": "Getscreen",
   "category": "IT & Productivity",
   "domain": "getscreen.me",
-  "desc": "Browser-based remote desktop and remote-support software: connect to any computer with no client install, share one-click access links, transfer files and record sessions — for IT teams, MSPs and remote support.",
+  "desc": "Browser-based remote desktop and remote-support software: connect to any computer with no client install, share one-click access links, transfer files and record sessions. Built for IT teams, MSPs and remote support.",
   "link": "https://try.getscreen.me/9dvak6w573be",
   "replaces": "TeamViewer"
  },
@@ -1306,7 +1306,7 @@
   "name": "Gixo",
   "category": "Design & Content",
   "domain": "gixo.ai",
-  "desc": "Seven separate AI workspaces — decks, articles, visuals, briefs, proposals, legal drafts and books — each sold on its own plan.",
+  "desc": "Seven separate AI workspaces (decks, articles, visuals, briefs, proposals, legal drafts and books), each sold on its own plan.",
   "link": "https://gixo.ai/?red=aibuil"
  },
  {
@@ -1314,7 +1314,7 @@
   "domain": "glideapps.com",
   "link": "https://join.glideapps.com/bpkt7j2hkzk5",
   "category": "IT & Productivity",
-  "desc": "No-code app builder — now sold as Glide Classic, next to the newer GlideOS — that turns spreadsheets and databases into working business apps: internal tools, client portals and field apps, with workflows and an API."
+  "desc": "No-code app builder, now sold as Glide Classic next to the newer GlideOS, that turns spreadsheets and databases into working business apps: internal tools, client portals and field apps, with workflows and an API."
  },
  {
   "name": "Goflow",
@@ -1335,7 +1335,7 @@
   "domain": "grapeleads.com",
   "link": "https://grapeleads.com/?gr_pk=OG4A",
   "category": "Sales & CRM",
-  "desc": "Lead-finding for web developers and agencies — surfaces local businesses without websites from Google Maps, with contact details, on signup credits."
+  "desc": "Lead-finding for web developers and agencies: surfaces local businesses without websites from Google Maps, with contact details, on signup credits."
  },
  {
   "name": "Grapevine",
@@ -1363,7 +1363,7 @@
   "name": "Gusto",
   "category": "Financial Operations",
   "domain": "gusto.com",
-  "desc": "Payroll, benefits and HR in one friendly platform. Automated tax filings, employee onboarding and time tracking — run payroll for your whole team in just a few clicks.",
+  "desc": "Payroll, benefits and HR on one platform. Automated tax filings, employee onboarding and time tracking, so you can run payroll for your whole team in just a few clicks.",
   "link": "https://get.gusto.com/bz0jei7y1zzh",
   "replaces": "ADP"
  },
@@ -1371,7 +1371,7 @@
   "name": "Healthie",
   "category": "Operations & Workflow",
   "domain": "gethealthie.com",
-  "desc": "All-in-one practice management and EHR for health, wellness and nutrition providers: scheduling, telehealth, secure messaging, billing and a branded client portal — plus a full API (GraphQL + webhooks) for automation. Built to scale with group practices.",
+  "desc": "Practice management and EHR for health, wellness and nutrition providers: scheduling, telehealth, secure messaging, billing and a branded client portal, plus a full API (GraphQL + webhooks) for automation. Built to scale with group practices.",
   "link": "https://refer.gethealthie.com/fwvt80nnt1fq",
   "replaces": "SimplePractice"
  },
@@ -1379,7 +1379,7 @@
   "name": "Heard",
   "category": "Financial Operations",
   "domain": "joinheard.com",
-  "desc": "Done-for-you bookkeeping and taxes built for therapists and a growing range of health-and-wellness practices — SLPs, dieticians, chiropractors, audiologists, coaches, massage and physical therapists: monthly books, quarterly tax estimates, annual filing and S-corp support by specialists who know the niche.",
+  "desc": "Done-for-you bookkeeping and taxes built for therapists and a growing range of health-and-wellness practices (SLPs, dieticians, chiropractors, audiologists, coaches, massage and physical therapists): monthly books, quarterly tax estimates, annual filing and S-corp support by specialists who know the niche.",
   "link": "https://affiliate.joinheard.com/slaxy5o988ny",
   "replaces": null
  },
@@ -1419,14 +1419,14 @@
   "name": "Hopp",
   "category": "IT & Productivity",
   "domain": "gethopp.com",
-  "desc": "Business travel management from Bolt, branded Hopp: book and control company rides from one dashboard, with per-person and per-group spend limits, automated ride reports, expensing integrations and a single consolidated monthly invoice. No activation cost and no minimum commitment — you pay per ride.",
+  "desc": "Business travel management from Bolt, branded Hopp: book and control company rides from one dashboard, with per-person and per-group spend limits, automated ride reports, expensing integrations and a single consolidated monthly invoice. No activation cost and no minimum commitment; you pay per ride.",
   "link": "https://get.business.gethopp.com/bzi57c8cghwg"
  },
  {
   "name": "Hostinger",
   "category": "IT & Productivity",
   "domain": "hostinger.com",
-  "desc": "Affordable, fast hosting with an AI website builder built in. Free domain, free SSL and 24/7 support — perfect for founders launching their first MVP or side project.",
+  "desc": "Affordable, fast hosting with an AI website builder built in. Free domain, free SSL and 24/7 support, suited to founders launching their first MVP or side project.",
   "link": "https://www.hostinger.com?REFERRALCODE=UZUDGLHAKW67",
   "replaces": "Bluehost"
  },
@@ -1478,7 +1478,7 @@
   "name": "Imgify",
   "category": "Design & Content",
   "domain": "effectify.io",
-  "desc": "Shopify app that drops your own logo — or snow, hearts and dozens of holiday presets — down the storefront, with a marquee slider for partner, payment and press logos and an AI logo maker for the artwork.",
+  "desc": "Shopify app that drops your own logo, or snow, hearts and dozens of holiday presets, down the storefront, with a marquee slider for partner, payment and press logos and an AI logo maker for the artwork.",
   "link": "https://platform.shoffi.app/r/rl_ow1RPnmR",
   "platform": "shopify"
  },
@@ -1486,14 +1486,14 @@
   "name": "InboxAlly",
   "category": "Growth & Revenue",
   "domain": "inboxally.com",
-  "desc": "Email deliverability tool that trains your sender reputation: engagement-based signals keep your campaigns and cold outreach out of spam and in the primary inbox — works alongside any ESP or email platform.",
+  "desc": "Email deliverability tool that trains your sender reputation: engagement-based signals keep your campaigns and cold outreach out of spam and in the primary inbox. Works alongside any ESP or email platform.",
   "link": "https://get.inboxally.com/anvbioq7ns18"
  },
  {
   "name": "Increff",
   "category": "Operations & Workflow",
   "domain": "increff.com",
-  "desc": "Warehouse management plus algorithm-driven merchandising and inventory optimisation for omnichannel retail. There is no public pricing and no flat fee — every deal is quoted case by case against warehouses, users and modules, so budget for an enterprise implementation.",
+  "desc": "Warehouse management plus algorithm-driven merchandising and inventory optimisation for omnichannel retail. There is no public pricing and no flat fee; every deal is quoted case by case against warehouses, users and modules, so budget for an enterprise implementation.",
   "link": "https://partners.increff.com/qaohl2x2de5c"
  },
  {
@@ -1501,13 +1501,13 @@
   "domain": "insightful.io",
   "link": "https://www.insightful.io/trial?red=aibuil&utm_source=reditus&utm_medium=affiliate&utm_campaign=aibuil",
   "category": "HR & People",
-  "desc": "A work intelligence platform: workforce analytics plus AI process capture — time tracking, how work actually flows, and insider-threat detection as a paid add-on, priced per seat."
+  "desc": "A work intelligence platform: workforce analytics plus AI process capture, covering time tracking, how work actually flows, and insider-threat detection as a paid add-on, priced per seat."
  },
  {
   "name": "Instapage",
   "category": "Growth & Revenue",
   "domain": "instapage.com",
-  "desc": "Enterprise landing-page and conversion platform: build, personalize and A/B-test post-click landing pages at scale, with ad-to-page mapping, heatmaps and fast AMP pages — built for paid-ads and demand-gen teams.",
+  "desc": "Enterprise landing-page and conversion platform: build, personalize and A/B-test post-click landing pages at scale, with ad-to-page mapping, heatmaps and fast AMP pages. Built for paid-ads and demand-gen teams.",
   "link": "https://get.instapage.com/2lq0k4uhv1pj"
  },
  {
@@ -1544,13 +1544,13 @@
   "domain": "joiin.co",
   "link": "https://joiin.co/?red=aibuil&utm_source=aibuil&utm_medium=revshare&utm_affiliate_network=reditus",
   "category": "Finance & Accounting",
-  "desc": "Financial consolidation and group reporting for multi-entity, multi-currency organisations — connects Xero, QuickBooks, Sage, FreeAgent, Zoho Books, Fortnox, MYOB, Pennylane and Puzzle, with unlimited users and reports on every plan; since October 2026 sold as Core, Pro and Max, with multi-currency and forecasting from Pro. Forecasting gives linked P&L, balance sheet and cash flow up to 60 months out, with an AI assistant that drafts the assumptions. Integration list read on joiin.co/integrations, 15 Sep 2026."
+  "desc": "Financial consolidation and group reporting for multi-entity, multi-currency organisations. It connects Xero, QuickBooks, Sage, FreeAgent, Zoho Books, Fortnox, MYOB, Pennylane and Puzzle, with unlimited users and reports on every plan; since October 2026 sold as Core, Pro and Max, with multi-currency and forecasting from Pro. Forecasting gives linked P&L, balance sheet and cash flow up to 60 months out, with an AI assistant that drafts the assumptions. Integration list read on joiin.co/integrations, 15 Sep 2026."
  },
  {
   "name": "Jotform AI Agents",
   "category": "Customer Support",
   "domain": "jotform.com",
-  "desc": "Build AI chatbots and customer-service agents in minutes — no code required. Handles leads, support tickets and bookings 24/7. Integrates with your existing forms and CRMs.",
+  "desc": "Build AI chatbots and customer-service agents in minutes, no code required. Handles leads, support tickets and bookings 24/7. Integrates with your existing forms and CRMs.",
   "link": "https://www.jotform.com/ai/agents/?partner=aibuildermarketplace"
  },
  {
@@ -1564,7 +1564,7 @@
   "name": "Kartra",
   "category": "Growth & Revenue",
   "domain": "kartra.com",
-  "desc": "All-in-one platform for selling online: landing pages, email automation, funnels, memberships and checkout in one tool — no plugins to stitch together.",
+  "desc": "Platform for selling online: landing pages, email automation, funnels, memberships and checkout in one tool, with no plugins to stitch together.",
   "link": "https://go.kartra.com/sxa99ix0lhnh",
   "replaces": "ClickFunnels"
  },
@@ -1572,7 +1572,7 @@
   "name": "Katana MRP",
   "category": "Operations & Workflow",
   "domain": "katanamrp.com",
-  "desc": "Cloud manufacturing and inventory platform for product businesses. Live inventory control, production scheduling and order syncing across your sales channels — know exactly what to make and when.",
+  "desc": "Cloud manufacturing and inventory platform for product businesses. Live inventory control, production scheduling and order syncing across your sales channels, so you know exactly what to make and when.",
   "link": "https://psref.katanamrp.com/gn4sa2lpjjph"
  },
  {
@@ -1610,7 +1610,7 @@
   "name": "Kit",
   "category": "Growth & Revenue",
   "domain": "kit.com",
-  "desc": "Email marketing built for creators (formerly ConvertKit). Grow your list with landing pages and forms, then automate newsletters and sell digital products from one place; a beta Kit MCP connects AI assistants like Claude directly to your account. Recent additions: a new landing-page editor, Dynamic Content, Newsletter Sponsorships, and App Store integrations on paid plans — SMS via SlickText, Patreon member sync (tier and support data in automations), Luma/Eventbrite event sync, and two-way HubSpot CRM sync on Pro.",
+  "desc": "Email marketing built for creators (formerly ConvertKit). Grow your list with landing pages and forms, then automate newsletters and sell digital products from one place; a beta Kit MCP connects AI assistants like Claude directly to your account. Recent additions: a new landing-page editor, Dynamic Content, Newsletter Sponsorships, and App Store integrations on paid plans: SMS via SlickText, Patreon member sync (tier and support data in automations), Luma/Eventbrite event sync, and two-way HubSpot CRM sync on Pro.",
   "link": "https://partners.kit.com/3m3blymamusy",
   "replaces": "Mailchimp"
  },
@@ -1724,7 +1724,7 @@
   "name": "LettrLabs",
   "category": "Growth & Revenue",
   "domain": "lettrlabs.com",
-  "desc": "Automated direct-mail marketing: design, personalise and send physical mailers — handwritten letters, postcards — at scale, synced with your digital campaigns and tracked for ROI.",
+  "desc": "Automated direct-mail marketing: design, personalise and send physical mailers (handwritten letters, postcards) at scale, synced with your digital campaigns and tracked for ROI.",
   "link": "https://affiliate.lettrlabs.com/r6mxpf1g87s0"
  },
  {
@@ -1748,7 +1748,7 @@
   "domain": "lucrovox.com",
   "link": "https://try.lucrovox.com/0whtc6de3h9c",
   "category": "Communication & Voice",
-  "desc": "AI phone agent for local service businesses — answers missed calls, books jobs and captures leads 24/7 for trades like HVAC, plumbing and roofing."
+  "desc": "AI phone agent for local service businesses: answers missed calls, books jobs and captures leads 24/7 for trades like HVAC, plumbing and roofing."
  },
  {
   "name": "ManyChat",
@@ -1761,21 +1761,21 @@
   "name": "MarketerHire",
   "category": "Growth & Revenue",
   "domain": "marketerhire.com",
-  "desc": "Hire pre-vetted expert marketing talent on demand: growth marketers, paid ads specialists, email pros and more — matched to your business within days.",
+  "desc": "Hire pre-vetted expert marketing talent on demand (growth marketers, paid ads specialists, email pros and more), matched to your business within days.",
   "link": "https://try.marketerhire.com/ybfi0nx3i7r7"
  },
  {
   "name": "Marketing 360",
   "category": "Growth & Revenue",
   "domain": "marketing360.com",
-  "desc": "All-in-one marketing platform for small business. Websites, CRM, ads, email and reputation management under one roof, with a unified reporting dashboard (their 'Intelligence' analytics) that pulls every channel, lead and sale into one view — and real humans to help run it.",
+  "desc": "Marketing platform for small business. Websites, CRM, ads, email and reputation management under one roof, with a unified reporting dashboard (their 'Intelligence' analytics) that pulls every channel, lead and sale into one view, and real humans to help run it.",
   "link": "https://marketing360.partnerlinks.io/6d40krecy1fg"
  },
  {
   "name": "Meeri",
   "domain": "meeritech.com",
   "category": "Marketing",
-  "desc": "Shopify app that recovers abandoned carts with AI-written web push notifications instead of email or SMS — no address or phone needed to subscribe, and no commission on recovered revenue.",
+  "desc": "Shopify app that recovers abandoned carts with AI-written web push notifications instead of email or SMS. No address or phone is needed to subscribe, and there is no commission on recovered revenue.",
   "link": "https://platform.shoffi.app/r/rl_vSqzYDCx",
   "platform": "shopify"
  },
@@ -1813,7 +1813,7 @@
   "name": "Miro",
   "category": "Operations & Workflow",
   "domain": "miro.com",
-  "desc": "Visual collaboration platform: an infinite online whiteboard for brainstorms, diagrams, workshops and planning — with templates, voting and AI that generates diagrams and summaries, built for real-time and async teamwork.",
+  "desc": "Visual collaboration platform: an infinite online whiteboard for brainstorms, diagrams, workshops and planning, with templates, voting and AI that generates diagrams and summaries, built for real-time and async teamwork.",
   "link": "https://miro.com/?red=aibuil&utm_source=aibuil&utm_medium=revshare&utm_affiliate_network=reditus",
   "replaces": null
  },
@@ -1821,7 +1821,7 @@
   "name": "Mktg.ai",
   "category": "Marketing",
   "domain": "mktg.ai",
-  "desc": "Always-on AI marketing analyst: unified creative visibility, live performance signals and plain-language questions over your own spend data — no public pricing, demo-first.",
+  "desc": "Always-on AI marketing analyst: unified creative visibility, live performance signals and plain-language questions over your own spend data. No public pricing, demo-first.",
   "link": "https://mktg.ai/?red=aibuil"
  },
  {
@@ -1843,13 +1843,13 @@
   "name": "Momence",
   "category": "Operations & Workflow",
   "domain": "momence.com",
-  "desc": "Booking and business management for class-based businesses — yoga and fitness studios, gyms, salons and schools: scheduling, memberships, payments, marketing automations and a member app in one place.",
+  "desc": "Booking and business management for class-based businesses (yoga and fitness studios, gyms, salons and schools): scheduling, memberships, payments, marketing automations and a member app in one place.",
   "link": "https://partners.momence.com/32hj5w4tap0s",
   "replaces": null
  },
  {
   "category": "Project Management",
-  "desc": "Work management platform with boards, automations and views — plus separately-priced CRM, Dev and Service products.",
+  "desc": "Work management platform with boards, automations and views, plus separately priced CRM, Dev and Service products.",
   "domain": "monday.com",
   "link": "https://try.monday.com/lmhera35s5r6",
   "name": "monday.com"
@@ -1859,7 +1859,7 @@
   "domain": "moosend.com",
   "link": "https://trymoo.moosend.com/10v55otv87lh",
   "category": "Marketing",
-  "desc": "Email marketing and automation platform — drag-and-drop campaigns, automation workflows, landing pages and subscription forms, priced by contact-list size with a 30-day free trial and pay-as-you-go email credits as an alternative."
+  "desc": "Email marketing and automation platform with drag-and-drop campaigns, automation workflows, landing pages and subscription forms, priced by contact-list size with a 30-day free trial and pay-as-you-go email credits as an alternative."
  },
  {
   "category": "Business Operations",
@@ -1888,7 +1888,7 @@
   "category": "Security",
   "domain": "mycroft.io",
   "link": "https://try.mycroft.io/tlfhcxheacia",
-  "desc": "Security and compliance platform plus managed service for companies without a security department: a GRC platform mapped to CMMC, FedRAMP, SOC 2, ISO 27001, HIPAA and GDPR, bundled with cloud and application security, device management, third-party risk and awareness training, and backed by a Risk Operations Center staffed by its own experts around the clock. 150+ native integrations across AWS, Azure, GCP and the major code hosts. Three packages — Platform, Scale, Managed — and none of them is publicly priced. Mycroft Technologies Inc.; not the Mycroft AI voice assistant."
+  "desc": "Security and compliance platform plus managed service for companies without a security department: a GRC platform mapped to CMMC, FedRAMP, SOC 2, ISO 27001, HIPAA and GDPR, bundled with cloud and application security, device management, third-party risk and awareness training, and backed by a Risk Operations Center staffed by its own experts around the clock. 150+ native integrations across AWS, Azure, GCP and the major code hosts. Three packages (Platform, Scale, Managed), and none of them is publicly priced. Mycroft Technologies Inc.; not the Mycroft AI voice assistant."
  },
  {
   "name": "Navan",
@@ -1910,14 +1910,14 @@
   "name": "Nextify.ai",
   "category": "Marketing",
   "domain": "nextify.ai",
-  "desc": "AI ad-video generator for advertisers and e-commerce sellers: turn a product image, a script or a brief into a vertical or landscape video ad, with avatar presenters, lip-sync, product image sets and image cloning in the same workspace. Eight tools in one credit pool — Create Video Ad, Viral Video, Video Cloning, UGC Product Video, Lip-sync, Image Generator, Listing Images and Image Cloning — running on Seedance, Kling, MiniMax, HeyGen, GPT Image and Nano Banana models you pick per generation. Metered in credits per second of output rather than per finished video, with the cost shown on the generate button before you commit.",
+  "desc": "AI ad-video generator for advertisers and e-commerce sellers: turn a product image, a script or a brief into a vertical or landscape video ad, with avatar presenters, lip-sync, product image sets and image cloning in the same workspace. Eight tools in one credit pool (Create Video Ad, Viral Video, Video Cloning, UGC Product Video, Lip-sync, Image Generator, Listing Images and Image Cloning) running on Seedance, Kling, MiniMax, HeyGen, GPT Image and Nano Banana models you pick per generation. Metered in credits per second of output rather than per finished video, with the cost shown on the generate button before you commit.",
   "link": "https://www.nextify.ai/?ref=AIBM"
  },
  {
   "name": "Ngram",
   "category": "IT & Productivity",
   "domain": "ngram.com",
-  "desc": "AI video creation for product and marketing teams. Turn docs, screenshots and recordings into polished, on-brand videos — scripted, storyboarded and produced with AI on a credit-based model, with a brand kit, captions and subtitles, AI voiceover and an AI avatar presenter. A published blog post or doc URL is a valid starting point in its own right: paste the link and it handles the research, script, storyboard, voice and style choice and the render in one sitting, with no editor in the loop, and hands back a shareable public link or an embed.",
+  "desc": "AI video creation for product and marketing teams. Turn docs, screenshots and recordings into on-brand videos, scripted, storyboarded and produced with AI on a credit-based model, with a brand kit, captions and subtitles, AI voiceover and an AI avatar presenter. A published blog post or doc URL is a valid starting point in its own right: paste the link and it handles the research, script, storyboard, voice and style choice and the render in one sitting, with no editor in the loop, and hands back a shareable public link or an embed.",
   "link": "https://partner.ngram.com/32s9nqdqy7lr"
  },
  {
@@ -1955,7 +1955,7 @@
   "domain": "nouswise.com",
   "link": "https://try.nouswise.com/lbetfx210x9a",
   "category": "IT & Productivity",
-  "desc": "AI research agent that answers only from a library you curate — your documents plus vetted sources — with reports, flashcards and audio recaps on every tier, and MCP tools, web search and a shared workspace only from Pro up. Built for knowledge-intensive and regulated organisations: SOC 1 / SOC 2 Type I/II, data in Europe or the US, and an on-premises install for confidential material. The “100% verifiable, zero fabrication” claim is the vendor's own."
+  "desc": "AI research agent that answers only from a library you curate (your documents plus vetted sources), with reports, flashcards and audio recaps on every tier, and MCP tools, web search and a shared workspace only from Pro up. Built for knowledge-intensive and regulated organisations: SOC 1 / SOC 2 Type I/II, data in Europe or the US, and an on-premises install for confidential material. The “100% verifiable, zero fabrication” claim is the vendor's own."
  },
  {
   "name": "Nutshell",
@@ -1969,7 +1969,7 @@
   "name": "Omniseo",
   "category": "Growth & Revenue",
   "domain": "omniseo.com",
-  "desc": "AI search visibility (GEO) tracking. Monitor and improve how your brand shows up in AI answers across ChatGPT, Google AI and other channels — track prompts, competitors and citations to grow AI-driven discovery.",
+  "desc": "AI search visibility (GEO) tracking. Monitor and improve how your brand shows up in AI answers across ChatGPT, Google AI and other channels, tracking prompts, competitors and citations to grow AI-driven discovery.",
   "link": "https://get.omniseo.com/yy2uzt37r491"
  },
  {
@@ -1977,7 +1977,7 @@
   "domain": "oneflow.com",
   "link": "https://oneflow.com/product-tour/?red=aibuil&utm_source=aibuil&utm_medium=revshare&utm_affiliate_network=reditus",
   "category": "Sales & CRM",
-  "desc": "Digital contract platform for the full lifecycle — create, negotiate, e-sign and archive interactive contracts, with AI-assisted contract features and CRM/HR/ATS integrations (HubSpot, Salesforce), sold per user on annual billing."
+  "desc": "Digital contract platform for the full lifecycle: create, negotiate, e-sign and archive interactive contracts, with AI-assisted contract features and CRM/HR/ATS integrations (HubSpot, Salesforce), sold per user on annual billing."
  },
  {
   "name": "Optizen",
@@ -1999,7 +1999,7 @@
   "name": "Ownr",
   "category": "Operations & Workflow",
   "domain": "ownr.co",
-  "desc": "Register or incorporate your business in Canada online and manage the legal admin: sole proprietorship or incorporation in minutes, plus contracts and documents — without a lawyer for every step. Canada-only, RBC-owned. Through our partner link, readers save 15% on registration or incorporation.",
+  "desc": "Register or incorporate your business in Canada online and manage the legal admin: sole proprietorship or incorporation in minutes, plus contracts and documents, without a lawyer for every step. Canada-only, RBC-owned. Through our partner link, readers save 15% on registration or incorporation.",
   "link": "https://partners.ownr.co/jymang6sssn2"
  },
  {
@@ -2020,7 +2020,7 @@
   "name": "Pangram",
   "category": "Operations & Workflow",
   "domain": "pangram.com",
-  "desc": "AI content detector. Identifies AI-generated text with a focus on minimizing false positives — used by educators, publishers and platforms to verify whether writing is human or machine, via web app and API. The vendor's Pangram 4.0 release (July 2026) claims a false-positive rate of 1 in 10,000, detection of output from the newest frontier models, resistance to \"humanized\" text written to evade detection, and improved boundary detection between human and AI passages. An early research preview adds AI image detection, flagging which segments of an image appear AI-generated and verifying C2PA content credentials where present.",
+  "desc": "AI content detector. Identifies AI-generated text with a focus on minimizing false positives, used by educators, publishers and platforms to verify whether writing is human or machine, via web app and API. The vendor's Pangram 4.0 release (July 2026) claims a false-positive rate of 1 in 10,000, detection of output from the newest frontier models, resistance to \"humanized\" text written to evade detection, and improved boundary detection between human and AI passages. An early research preview adds AI image detection, flagging which segments of an image appear AI-generated and verifying C2PA content credentials where present.",
   "link": "https://affiliate.pangram.com/x1xctagyhhbz"
  },
  {
@@ -2028,7 +2028,7 @@
   "domain": "papayaglobal.com",
   "link": "https://get.papayaglobal.com/jask07ch1ho5",
   "category": "HR & People",
-  "desc": "Enterprise workforce-payments platform unifying global payroll, EOR hiring, contractor management and cross-border payments in one system — finance-first, with same-day local payouts on owned payment rails and deep ERP/HRIS integration. Premium, quote-only pricing."
+  "desc": "Enterprise workforce-payments platform combining global payroll, EOR hiring, contractor management and cross-border payments in one system. Finance-first, with same-day local payouts on owned payment rails and deep ERP/HRIS integration. Premium, quote-only pricing."
  },
  {
   "name": "Parallel AI",
@@ -2041,7 +2041,7 @@
   "name": "Parim",
   "category": "HR & People",
   "domain": "parim.co",
-  "desc": "Workforce management for shift-heavy operations — staffing agencies, security, events — with unlimited users on every plan.",
+  "desc": "Workforce management for shift-heavy operations (staffing agencies, security, events), with unlimited users on every plan.",
   "link": "https://parimworkforcesoftware.partnerlinks.io/5vlq354x8uqb"
  },
  {
@@ -2055,7 +2055,7 @@
   "name": "Passpack",
   "category": "IT & Productivity",
   "domain": "passpack.com",
-  "desc": "Team password manager for small businesses and MSPs. Store, share and organize credentials with zero-knowledge encryption, role-based access, MFA, device registration, full audit trails and shared team vaults — at a low per-user price. An iOS app arrived in August 2026; Android is announced but not yet out.",
+  "desc": "Team password manager for small businesses and MSPs. Store, share and organize credentials with zero-knowledge encryption, role-based access, MFA, device registration, full audit trails and shared team vaults, at a low per-user price. An iOS app arrived in August 2026; Android is announced but not yet out.",
   "link": "https://try.passpack.com/1ueahem79erx",
   "replaces": "1Password"
  },
@@ -2093,13 +2093,13 @@
   "domain": "pingtree.com",
   "link": "https://try.pingtree.com/mhb6q392bk9w",
   "category": "Growth & Revenue",
-  "desc": "AI-assisted funnel builder and lead-distribution platform — build funnels and forms by prompt, then route, track and monetise the leads across lead-gen, affiliate and media-buying campaigns."
+  "desc": "AI-assisted funnel builder and lead-distribution platform: build funnels and forms by prompt, then route, track and monetise the leads across lead-gen, affiliate and media-buying campaigns."
  },
  {
   "name": "Pipedrive",
   "category": "Growth & Revenue",
   "domain": "pipedrive.com",
-  "desc": "Sales-first CRM built around a visual pipeline: track deals, automate follow-ups and forecast revenue — designed for small and mid-size sales teams. A native MCP server (launched mid-2026) connects it to AI assistants like ChatGPT and Claude for natural-language CRM actions.",
+  "desc": "Sales-first CRM built around a visual pipeline: track deals, automate follow-ups and forecast revenue. Designed for small and mid-size sales teams. A native MCP server (launched mid-2026) connects it to AI assistants like ChatGPT and Claude for natural-language CRM actions.",
   "link": "https://aff.trypipedrive.com/aqpvm5cn8eu0"
  },
  {
@@ -2107,13 +2107,13 @@
   "domain": "pippit.ai",
   "category": "Marketing",
   "link": "https://www.pippit.ai/",
-  "desc": "AI marketing-content maker by CapCut — turns a product link into marketing videos, avatar presenters, talking photos and sales posters, with scheduling and multi-platform publishing. Credit-based, with a free tier that needs no card. Seedance 2.5 is now listed among its video models: clips up to 30 seconds, text timestamps to pin key moments, footage extension for longer scenes and reference inputs to steer the direction — although their own model page still describes it with \"upcoming\" wording (checked 4 Aug 2026). A separate Story Studio section has since appeared in their own navigation, grouping AI Drama, AI film, AI Movie, AI Script and AI Workflow (checked 3 Sep 2026)."
+  "desc": "AI marketing-content maker by CapCut: turns a product link into marketing videos, avatar presenters, talking photos and sales posters, with scheduling and multi-platform publishing. Credit-based, with a free tier that needs no card. Seedance 2.5 is now listed among its video models: clips up to 30 seconds, text timestamps to pin key moments, footage extension for longer scenes and reference inputs to steer the direction, although their own model page still describes it with \"upcoming\" wording (checked 4 Aug 2026). A separate Story Studio section has since appeared in their own navigation, grouping AI Drama, AI film, AI Movie, AI Script and AI Workflow (checked 3 Sep 2026)."
  },
  {
   "name": "Pixel Union",
   "category": "Growth & Revenue",
   "domain": "pixelunion.net",
-  "desc": "Premium Shopify themes bought once rather than by subscription, from Pixel Union and its sister brand Out of the Sandbox. A theme is a starting point — the conversion lift comes from how you configure and populate it, not from the purchase.",
+  "desc": "Premium Shopify themes bought once rather than by subscription, from Pixel Union and its sister brand Out of the Sandbox. A theme is a starting point; the conversion lift comes from how you configure and populate it, not from the purchase.",
   "link": "https://partners.pixelunion.net/iv57khdrl4uh",
   "platform": "shopify"
  },
@@ -2128,7 +2128,7 @@
   "name": "Plansom",
   "category": "Operations & Workflow",
   "domain": "plansom.com",
-  "desc": "AI-assisted planning for tasks, goals and team collaboration. A smaller player next to Asana and ClickUp, with fewer integrations and a smaller ecosystem around it. No public price: plans show only after signing in.",
+  "desc": "AI-assisted planning for tasks, goals and team collaboration. A smaller player next to Asana and ClickUp, with fewer integrations and less third-party support around it. No public price: plans show only after signing in.",
   "link": "https://get.plansom.com/rbq5isz20va4",
   "replaces": "Asana"
  },
@@ -2136,7 +2136,7 @@
   "name": "Plesk",
   "category": "IT & Productivity",
   "domain": "plesk.com",
-  "desc": "Server control panel for agencies and hosters running many sites — per-domain management, security and one-click stacks. Domain caps drive the tier, and a roughly 26% average price rise took effect in January 2026.",
+  "desc": "Server control panel for agencies and hosters running many sites: per-domain management, security and one-click stacks. Domain caps drive the tier, and a roughly 26% average price rise took effect in January 2026.",
   "link": "https://try.plesk.com/bhj2s1yu28h0",
   "replaces": "cPanel"
  },
@@ -2160,7 +2160,7 @@
   "name": "Prezi",
   "category": "Operations & Workflow",
   "domain": "prezi.com",
-  "desc": "AI presentation maker for dynamic, non-linear decks that stand out from standard slides — turn ideas into polished, interactive presentations fast.",
+  "desc": "AI presentation maker for dynamic, non-linear decks that differ from standard slides: turn ideas into interactive presentations fast.",
   "link": "https://try.prezi.com/rkzfgy3kd8th",
   "replaces": "PowerPoint"
  },
@@ -2169,7 +2169,7 @@
   "domain": "pricefy.io",
   "link": "https://www.pricefy.io/?red=aibuil",
   "category": "E-commerce",
-  "desc": "Competitor price monitoring and dynamic repricing for e-commerce — AI product matching, price-intelligence dashboards, feed channels and autopilot repricing."
+  "desc": "Competitor price monitoring and dynamic repricing for e-commerce, with AI product matching, price-intelligence dashboards, feed channels and autopilot repricing."
  },
  {
   "name": "Printify",
@@ -2199,7 +2199,7 @@
   "domain": "proton.me",
   "link": "https://now.getproton.me/xtd5ynchlrma",
   "category": "IT & Productivity",
-  "desc": "Privacy-first suite from the makers of ProtonMail — encrypted mail, calendar, drive, VPN and password manager under one account, with a free tier and paid bundles."
+  "desc": "Privacy-first suite from the makers of ProtonMail: encrypted mail, calendar, drive, VPN and password manager under one account, with a free tier and paid bundles."
  },
  {
   "name": "Proton Drive",
@@ -2213,7 +2213,7 @@
   "name": "Pumper Bundles",
   "category": "Growth & Revenue",
   "domain": "pumper.run",
-  "desc": "Shopify bundle app by Profit Pumper: unlimited product bundles, quantity breaks, volume and cart discounts, BOGO and free-gift offers, with cart drawer and page builder integrations. The plans are a revenue ceiling rather than a feature ladder — all four carry identical features.",
+  "desc": "Shopify bundle app by Profit Pumper: unlimited product bundles, quantity breaks, volume and cart discounts, BOGO and free-gift offers, with cart drawer and page builder integrations. The plans are a revenue ceiling rather than a feature ladder: all four carry identical features.",
   "link": "https://platform.shoffi.app/r/rl_Q3sl1CJT",
   "platform": "shopify"
  },
@@ -2221,7 +2221,7 @@
   "name": "PushOwl",
   "category": "Growth & Revenue",
   "domain": "pushowl.com",
-  "desc": "Shopify web-push and omnichannel marketing, now part of Brevo. One-click push lets stores re-engage shoppers who never leave an email — recovering abandoned carts and browsing sessions — then layer in email, SMS and WhatsApp on Brevo's deliverability stack. Usage-based pricing: you pay for what you send, not list size.",
+  "desc": "Shopify web-push and omnichannel marketing, now part of Brevo. One-click push lets stores re-engage shoppers who never leave an email, recovering abandoned carts and browsing sessions, then add email, SMS and WhatsApp on Brevo's deliverability stack. Usage-based pricing: you pay for what you send, not list size.",
   "link": "https://pushowl.partnerlinks.io/q6pgekp20d5r",
   "replaces": null,
   "platform": "shopify"
@@ -2238,7 +2238,7 @@
   "domain": "pythago.io",
   "link": "https://pythago.io/?red=aibuil",
   "category": "E-commerce",
-  "desc": "AI analytics and ROI tracking for dropshippers — real-time ROAS optimization, product research and competitor tools across one or more Shopify stores.",
+  "desc": "AI analytics and ROI tracking for dropshippers: real-time ROAS optimization, product research and competitor tools across one or more Shopify stores.",
   "platform": "shopify"
  },
  {
@@ -2260,13 +2260,13 @@
   "domain": "quickbooks.intuit.com",
   "link": "https://www.tkqlhce.com/click-101832528-17250302-1771877066000",
   "category": "Finance & Accounting",
-  "desc": "Intuit's accounting platform for the UK market — bookkeeping, VAT and Making Tax Digital submissions, invoicing and payroll as a paid add-on."
+  "desc": "Intuit's accounting platform for the UK market: bookkeeping, VAT and Making Tax Digital submissions, invoicing and payroll as a paid add-on."
  },
  {
   "name": "QuickSigner",
   "category": "IT & Productivity",
   "domain": "quicksigner.com",
-  "desc": "Legally-binding e-signatures with unlimited documents and no per-envelope caps: send a secure link and recipients sign from any device without creating an account. ISO/IEC 27001-certified, AATL signatures, valid across the US, UK and EU — a fair-priced DocuSign alternative.",
+  "desc": "Legally binding e-signatures with unlimited documents and no per-envelope caps: send a secure link and recipients sign from any device without creating an account. ISO/IEC 27001-certified, AATL signatures, valid across the US, UK and EU; a fair-priced DocuSign alternative.",
   "link": "https://get.quicksigner.com/rovxkyohvtcb",
   "replaces": "DocuSign"
  },
@@ -2371,7 +2371,7 @@
   "name": "Rippling",
   "category": "HR & People",
   "domain": "rippling.com",
-  "desc": "Workforce platform that unifies HR, IT and Finance in one system of record: run payroll and benefits, manage hiring, onboarding and time tracking, and provision devices and app access automatically — with policy-driven automation across employee data, approvals and compliance. Three additions the vendor announced during 2026, read on rippling.com on 22 September 2026 and not something we have tested: Helpdesk (announced 1 September), an agent that resolves routine IT requests — app access, password resets, device replacements — through deterministic, admin-approved steps across Rippling's own device, inventory and identity tools; AI Governance (announced 20 August), which breaks AI spend down by employee attribute and governs how staff connect LLMs to other tools; and Data Cloud, an AI-powered BI layer over the same employee record. Check availability before you buy the middle one: on Rippling's own AI Governance page only the AI Spend Console invites you to try it, while the AI Gateway and the discovery of unsanctioned AI use are waitlists and the MCP Gateway routes to sales.",
+  "desc": "Workforce platform that unifies HR, IT and Finance in one system of record: run payroll and benefits, manage hiring, onboarding and time tracking, and provision devices and app access automatically, with policy-driven automation across employee data, approvals and compliance. Three additions the vendor announced during 2026, read on rippling.com on 22 September 2026 and not something we have tested: Helpdesk (announced 1 September), an agent that resolves routine IT requests (app access, password resets, device replacements) through deterministic, admin-approved steps across Rippling's own device, inventory and identity tools; AI Governance (announced 20 August), which breaks AI spend down by employee attribute and governs how staff connect LLMs to other tools; and Data Cloud, an AI-powered BI layer over the same employee record. Check availability before you buy the middle one: on Rippling's own AI Governance page only the AI Spend Console invites you to try it, while the AI Gateway and the discovery of unsanctioned AI use are waitlists and the MCP Gateway routes to sales.",
   "link": "https://try.rippling.com/02bwxo4t3avf"
  },
  {
@@ -2416,13 +2416,13 @@
   "domain": "salesflow.io",
   "category": "Sales & CRM",
   "link": "https://salesflow.io/?red=aibuil",
-  "desc": "LinkedIn outreach automation for outbound sales teams — connection requests, follow-up sequences and Open InMails, with email steps for multichannel campaigns, plus an admin panel and seat management for agencies."
+  "desc": "LinkedIn outreach automation for outbound sales teams: connection requests, follow-up sequences and Open InMails, with email steps for multichannel campaigns, plus an admin panel and seat management for agencies."
  },
  {
   "name": "Salesmessage",
   "category": "Communication & Voice",
   "domain": "salesmessage.com",
-  "desc": "Business texting and SMS marketing in one shared inbox. Reach customers where they actually reply — two-way texting, automation and team collaboration.",
+  "desc": "Business texting and SMS marketing in one shared inbox. Reach customers where they actually reply with two-way texting, automation and team collaboration.",
   "link": "https://join.salesmessage.com/y1pdhmogp2y0",
   "brand": "Salesmsg"
  },
@@ -2437,7 +2437,7 @@
   "name": "Scarcity.AI",
   "domain": "effectify.io",
   "category": "E-commerce",
-  "desc": "Three Shopify urgency apps — low stock counter, countdown timer and live visitors counter — that read real data but let you choose which true number the shopper sees.",
+  "desc": "Three Shopify urgency apps (low stock counter, countdown timer and live visitors counter) that read real data but let you choose which true number the shopper sees.",
   "link": "https://platform.shoffi.app/r/rl_ylAWuNjW",
   "platform": "shopify"
  },
@@ -2478,7 +2478,7 @@
   "domain": "seel.com",
   "link": "https://seelinc.partnerlinks.io/72rbemm1cqhd",
   "category": "E-commerce",
-  "desc": "Shopper-paid returns and shipping protection for Shopify, BigCommerce and Adobe Commerce. Customers add Worry-Free Purchase at checkout and Seel pays the refund instead of you — free for the merchant.",
+  "desc": "Shopper-paid returns and shipping protection for Shopify, BigCommerce and Adobe Commerce. Customers add Worry-Free Purchase at checkout and Seel pays the refund instead of you, free for the merchant.",
   "platform": "shopify"
  },
  {
@@ -2501,13 +2501,13 @@
   "domain": "sellersnap.io",
   "link": "https://referrals.sellersnap.io/l/AIBUILDER/",
   "category": "E-commerce",
-  "desc": "AI repricer and seller-analytics platform for Amazon and Walmart — what the vendor calls game-theory repricing, aimed at Buy Box share rather than racing to the bottom, plus min/max profit calculation, 80+ analytics data points and imports from tools like InventoryLab and SkuVault. 15-day free trial, no credit card. A July 2026 interface release adds live Buy Box insight with SKU-level filters, multi-store management from one screen including bulk cost updates, repricing from mobile, historical inventory-value tracking, saved views, customizable columns and a dark mode."
+  "desc": "AI repricer and seller-analytics platform for Amazon and Walmart: what the vendor calls game-theory repricing, aimed at Buy Box share rather than racing to the bottom, plus min/max profit calculation, 80+ analytics data points and imports from tools like InventoryLab and SkuVault. 15-day free trial, no credit card. A July 2026 interface release adds live Buy Box insight with SKU-level filters, multi-store management from one screen including bulk cost updates, repricing from mobile, historical inventory-value tracking, saved views, customizable columns and a dark mode."
  },
  {
   "name": "Sellfy",
   "category": "Growth & Revenue",
   "domain": "sellfy.com",
-  "desc": "No-code store builder for creators to sell digital products, subscriptions and print-on-demand merch — with zero transaction fees and built-in social-media selling.",
+  "desc": "No-code store builder for creators to sell digital products, subscriptions and print-on-demand merch, with zero transaction fees and built-in social-media selling.",
   "link": "https://get.sellfy.com/vbstfilwqb5p",
   "replaces": "Gumroad"
  },
@@ -2515,7 +2515,7 @@
   "name": "Sendcloud",
   "category": "Operations & Workflow",
   "domain": "sendcloud.com",
-  "desc": "European e-commerce shipping platform: connect 160+ carriers, print labels in batches, show delivery options at checkout, send branded tracking (email, WhatsApp, SMS) and run a self-service returns portal — with rules-based shipping automation. Available to online retailers in 8 countries (Netherlands, Belgium, UK, France, Germany, Austria, Italy, Spain). Free plan available.",
+  "desc": "European e-commerce shipping platform: connect 160+ carriers, print labels in batches, show delivery options at checkout, send branded tracking (email, WhatsApp, SMS) and run a self-service returns portal, with rules-based shipping automation. Available to online retailers in 8 countries (Netherlands, Belgium, UK, France, Germany, Austria, Italy, Spain). Free plan available.",
   "link": "https://sendcloud.getsc.eu/smge2ar5przm",
   "replaces": "ShipStation"
  },
@@ -2523,7 +2523,7 @@
   "name": "Sentaro",
   "category": "IT & Productivity",
   "domain": "sentaro.com",
-  "desc": "Email threat detection that flags phishing, risky and malicious messages right in your inbox. Surfaces the dangerous emails that look perfectly normal — before anyone clicks.",
+  "desc": "Email threat detection that flags phishing, risky and malicious messages right in your inbox. It surfaces the dangerous emails that look perfectly normal, before anyone clicks.",
   "link": "https://join.sentaro.com/o73rglywcalc"
  },
  {
@@ -2546,7 +2546,7 @@
   "domain": "serpstat.com",
   "link": "https://www.awin1.com/cread.php?awinmid=122238&awinaffid=2880219",
   "category": "Marketing",
-  "desc": "All-in-one SEO platform — keyword research, competitor analysis, rank tracking, site audit and backlink data — cheaper on annual billing, with a 7-day trial that takes a card and auto-renews."
+  "desc": "SEO platform covering keyword research, competitor analysis, rank tracking, site audit and backlink data, cheaper on annual billing, with a 7-day trial that takes a card and auto-renews."
  },
  {
   "category": "Operations & Workflow",
@@ -2574,7 +2574,7 @@
   "name": "Shippo",
   "category": "Operations & Workflow",
   "domain": "goshippo.com",
-  "desc": "Multi-carrier shipping software for e-commerce. Compare rates, print discounted labels and automate tracking across carriers — shipping that scales with your store.",
+  "desc": "Multi-carrier shipping software for e-commerce. Compare rates, print discounted labels and automate tracking across carriers, with shipping that scales with your store.",
   "link": "https://try.shippo.com/bt14md940onh",
   "replaces": "ShipStation"
  },
@@ -2582,7 +2582,7 @@
   "name": "Shoeboxed",
   "category": "Financial Operations",
   "domain": "shoeboxed.com",
-  "desc": "Turn paper and digital receipts into organized, IRS-ready expense data with OCR plus human verification — syncs with QuickBooks and Xero.",
+  "desc": "Turns paper and digital receipts into organized, IRS-ready expense data with OCR plus human verification, and syncs with QuickBooks and Xero.",
   "link": "https://referrals.shoeboxed.com/kac02mcjuo9d",
   "replaces": "Expensify"
  },
@@ -2598,7 +2598,7 @@
   "name": "Shore",
   "category": "Operations & Workflow",
   "domain": "shore.com",
-  "desc": "Booking and business software for local service businesses (salons, barbers, wellness, coaches): 24/7 online appointments via your website, Google and Instagram, calendar and staff scheduling, client profiles, automated reminders that cut no-shows, plus email marketing and POS. Fixed monthly price with unlimited bookings — no per-booking commission.",
+  "desc": "Booking and business software for local service businesses (salons, barbers, wellness, coaches): 24/7 online appointments via your website, Google and Instagram, calendar and staff scheduling, client profiles, automated reminders that cut no-shows, plus email marketing and POS. Fixed monthly price with unlimited bookings and no per-booking commission.",
   "link": "https://try.shore.com/cdwievnt6wb5",
   "replaces": "Fresha"
  },
@@ -2621,19 +2621,19 @@
   "domain": "signeasy.com",
   "link": "https://signeasy.com/?red=aibuil",
   "category": "Productivity",
-  "desc": "E-signature and contract management for SMBs — unlimited signing and sending, templates, audit trails and integrations, priced per seat."
+  "desc": "E-signature and contract management for SMBs: unlimited signing and sending, templates, audit trails and integrations, priced per seat."
  },
  {
   "name": "SignNow",
   "category": "Operations & Workflow",
   "domain": "signnow.com",
-  "desc": "Electronic signatures and custom eSignature workflows by airSlate. Send, sign and manage documents on any device — legally binding and team-friendly.",
+  "desc": "Electronic signatures and custom eSignature workflows by airSlate. Send, sign and manage documents on any device, legally binding and team-friendly.",
   "link": "https://partnerstack.signnow.com/gfoy0vr9uwnr",
   "replaces": "DocuSign"
  },
  {
   "category": "SEO & Marketing",
-  "desc": "Competitive intelligence on web traffic, search and ads — what your competitors' visitors do.",
+  "desc": "Competitive intelligence on web traffic, search and ads: what your competitors' visitors do.",
   "domain": "similarweb.com",
   "link": "https://similarweb.partnerlinks.io/nikoa7tzrhcs",
   "name": "Similarweb"
@@ -2650,7 +2650,7 @@
   "domain": "simplybook.me",
   "category": "Operations & Workflow",
   "link": "https://simplybook.me/?red=aibuil",
-  "desc": "Online booking and scheduling system for service businesses — booking website and widget, provider calendars, automated reminders and online payments."
+  "desc": "Online booking and scheduling system for service businesses: booking website and widget, provider calendars, automated reminders and online payments."
  },
  {
   "name": "Smartli",
@@ -2663,7 +2663,7 @@
   "name": "SmartSuite",
   "category": "Operations & Workflow",
   "domain": "smartsuite.com",
-  "desc": "One flexible work management platform to plan, track and automate any process. Projects, CRM and operations side by side — replace a stack of scattered tools with a single source of truth.",
+  "desc": "Flexible work management platform to plan, track and automate any process. Projects, CRM and operations side by side, replacing a stack of scattered tools with a single source of truth.",
   "link": "https://partners.smartsuite.com/3o9qow98qlja",
   "replaces": "Airtable"
  },
@@ -2679,7 +2679,7 @@
   "name": "SMTP.com",
   "category": "IT & Productivity",
   "domain": "smtp.com",
-  "desc": "Reliable transactional and bulk email delivery via SMTP relay and API: high-deliverability sending for app notifications, receipts and campaigns, with real-time analytics and dedicated IPs — built for volume senders.",
+  "desc": "Transactional and bulk email delivery via SMTP relay and API: high-deliverability sending for app notifications, receipts and campaigns, with real-time analytics and dedicated IPs. Built for volume senders.",
   "link": "https://pstk.smtp.com/aav1yxqg0i9h"
  },
  {
@@ -2710,7 +2710,7 @@
   "domain": "spiky.ai",
   "link": "https://get.spiky.ai/k4gfcalpqoju",
   "category": "Sales & CRM",
-  "desc": "AI meeting intelligence for revenue teams — records and analyses sales calls, tracks keywords and talk patterns, and coaches reps."
+  "desc": "AI meeting intelligence for revenue teams: records and analyses sales calls, tracks keywords and talk patterns, and coaches reps."
  },
  {
   "name": "Spocket",
@@ -2763,7 +2763,7 @@
   "name": "Storista",
   "domain": "storista.io",
   "category": "Marketing",
-  "desc": "Shopify app that turns TikTok, Reels and UGC clips into shoppable video widgets — carousels, stories, grids and spotlights — with auto-sync from TikTok and Instagram.",
+  "desc": "Shopify app that turns TikTok, Reels and UGC clips into shoppable video widgets (carousels, stories, grids and spotlights), with auto-sync from TikTok and Instagram.",
   "link": "https://platform.shoffi.app/r/rl_Koyaq7Kj",
   "platform": "shopify"
  },
@@ -2778,7 +2778,7 @@
   "name": "Streak",
   "category": "Growth & Revenue",
   "domain": "streak.com",
-  "desc": "CRM built directly inside Gmail: manage pipelines, leads and deals from your inbox with email tracking, mail merge and shared views — ideal for teams that live in Google Workspace.",
+  "desc": "CRM built directly inside Gmail: manage pipelines, leads and deals from your inbox with email tracking, mail merge and shared views. A fit for teams that live in Google Workspace.",
   "link": "https://get.streak.com/jssfh6jx2eqa"
  },
  {
@@ -2808,7 +2808,7 @@
   "name": "Superfiliate",
   "category": "Growth & Revenue",
   "domain": "superfiliate.com",
-  "desc": "Creator-led growth for D2C brands: run influencer, affiliate and referral programs in one platform across Shopify, Meta and TikTok Shop — discovery, automation, gifting and revenue tracking.",
+  "desc": "Creator-led growth for D2C brands: run influencer, affiliate and referral programs in one platform across Shopify, Meta and TikTok Shop, with discovery, automation, gifting and revenue tracking.",
   "link": "https://ps.superfiliate.com/z350tf5gg5u4",
   "platform": "shopify"
  },
@@ -2845,7 +2845,7 @@
   "name": "Survicate",
   "category": "Operations & Workflow",
   "domain": "survicate.com",
-  "desc": "Customer feedback platform for continuous surveys: NPS, CSAT and in-product micro-surveys across web, in-app, email and link — with templates, audience targeting and native integrations (Segment and RudderStack among them) that pipe feedback straight into your CRM and analytics.",
+  "desc": "Customer feedback platform for continuous surveys: NPS, CSAT and in-product micro-surveys across web, in-app, email and link, with templates, audience targeting and native integrations (Segment and RudderStack among them) that pipe feedback straight into your CRM and analytics.",
   "link": "https://survicate.com",
   "replaces": null
  },
@@ -2875,7 +2875,7 @@
   "name": "Tapita AI SEO Blog Builder",
   "category": "SEO & Marketing",
   "domain": "tapita.io",
-  "desc": "AI blog builder for Shopify: generates SEO-oriented posts with titles, images and keyword suggestions, embeds your products, and schedules bulk publishing from a drag-and-drop editor. The Shopify listing published no plan block and no credit allowance when we re-read it on 19 September 2026 — its pricing field reads Free.",
+  "desc": "AI blog builder for Shopify: generates SEO-oriented posts with titles, images and keyword suggestions, embeds your products, and schedules bulk publishing from a drag-and-drop editor. The Shopify listing published no plan block and no credit allowance when we re-read it on 19 September 2026; its pricing field reads Free.",
   "link": "https://platform.shoffi.app/r/rl_YezE0WYL",
   "platform": "shopify"
  },
@@ -2883,7 +2883,7 @@
   "name": "Tapita SEO Optimizer",
   "category": "SEO & Marketing",
   "domain": "tapita.io",
-  "desc": "All-in-one Shopify SEO app: site audits with LLMs.txt for AI search engines, bulk and AI-written metadata, image alt text and compression, JSON-LD schema, broken-link auto-redirects and one-click speed fixes.",
+  "desc": "Shopify SEO app combining site audits with LLMs.txt for AI search engines, bulk and AI-written metadata, image alt text and compression, JSON-LD schema, broken-link auto-redirects and one-click speed fixes.",
   "link": "https://platform.shoffi.app/r/rl_CHreIi9B",
   "platform": "shopify"
  },
@@ -2891,7 +2891,7 @@
   "name": "Tapstitch",
   "category": "Growth & Revenue",
   "domain": "tapstitch.com",
-  "desc": "Fashion-first print-on-demand for brand-builders: premium heavyweight blanks (streetwear tees, oversized hoodies), bigger print areas and made-to-order apparel with no inventory — integrates with Shopify.",
+  "desc": "Fashion-first print-on-demand for brand-builders: premium heavyweight blanks (streetwear tees, oversized hoodies), bigger print areas and made-to-order apparel with no inventory. Integrates with Shopify.",
   "link": "https://affiliate.tapstitch.com/45ovsuzucqqg",
   "replaces": "Printify",
   "platform": "shopify"
@@ -2928,7 +2928,7 @@
   "name": "Tellent",
   "category": "Operations & Workflow",
   "domain": "tellent.com",
-  "desc": "Modular people-management platform — applicant tracking (Recruitee), core HR and performance management with AI automation, for hiring and managing teams.",
+  "desc": "Modular people-management platform: applicant tracking (Recruitee), core HR and performance management with AI automation, for hiring and managing teams.",
   "link": "https://join.tellent.com/bom2nc513eer",
   "replaces": "BambooHR"
  },
@@ -2936,7 +2936,7 @@
   "name": "Tenable",
   "category": "IT & Productivity",
   "domain": "tenable.com",
-  "desc": "Exposure and vulnerability management (makers of Nessus): scan, prioritize and remediate security weaknesses across IT, cloud and OT — for security teams of any size.",
+  "desc": "Exposure and vulnerability management (makers of Nessus): scan, prioritize and remediate security weaknesses across IT, cloud and OT, for security teams of any size.",
   "link": "https://shop.tenable.com/134ck77eqv64"
  },
  {
@@ -2951,7 +2951,7 @@
   "domain": "textexpander.com",
   "link": "https://textexpander.com/?red=aibuil&utm_source=aibuil&utm_medium=revshare&utm_affiliate_network=reditus",
   "category": "Productivity",
-  "desc": "Text-expansion tool: you type a short abbreviation and it expands into a stored snippet system-wide on macOS and Windows and in Chrome, with fill-in fields, nested snippets, date maths and scripting. The real product is the team layer — a shared snippet library with permissions, sign-up by email domain, auto-subscribe for new hires, usage statistics and SSO — aimed at support, clinical-admin, recruiting and sales teams that need everyone sending the same approved wording. The vendor self-attests SOC 2/SOC 3 and HIPAA compliance with a BAA available, which is the clearest argument for paying rather than using a free expander."
+  "desc": "Text-expansion tool: you type a short abbreviation and it expands into a stored snippet system-wide on macOS and Windows and in Chrome, with fill-in fields, nested snippets, date maths and scripting. The real product is the team layer: a shared snippet library with permissions, sign-up by email domain, auto-subscribe for new hires, usage statistics and SSO, aimed at support, clinical-admin, recruiting and sales teams that need everyone sending the same approved wording. The vendor self-attests SOC 2/SOC 3 and HIPAA compliance with a BAA available, which is the clearest argument for paying rather than using a free expander."
  },
  {
   "category": "Communication & Voice",
@@ -2964,7 +2964,7 @@
   "name": "TheTop",
   "category": "IT & Productivity",
   "domain": "thetop.com",
-  "desc": "An enterprise layer in front of your AI providers: it attributes spend by department, reuses repeated work, routes each task to a cheaper model and applies policy before execution. Sold by demo only — no published price since the pricing page went.",
+  "desc": "An enterprise layer in front of your AI providers: it attributes spend by department, reuses repeated work, routes each task to a cheaper model and applies policy before execution. Sold by demo only, with no published price since the pricing page went.",
   "link": "https://join.thetop.com/bvtsnmltfl93"
  },
  {
@@ -2972,11 +2972,11 @@
   "domain": "thordata.com",
   "link": "https://affiliate.thordata.com/ecwzewzmthol",
   "category": "Developer Tools",
-  "desc": "Proxy infrastructure and scraping stack — residential, mobile, ISP and datacenter proxies plus SERP/web-scraper APIs, priced per GB, IP or 1K requests."
+  "desc": "Proxy infrastructure and scraping stack: residential, mobile, ISP and datacenter proxies plus SERP/web-scraper APIs, priced per GB, IP or 1K requests."
  },
  {
   "category": "Business Operations",
-  "desc": "All-in-one platform for small service businesses: CRM, scheduling, invoicing, reviews and marketing.",
+  "desc": "Platform for small service businesses that combines CRM, scheduling, invoicing, reviews and marketing.",
   "domain": "thryv.com",
   "link": "https://partner.thryv.com/fgli7iwxiv3p",
   "name": "Thryv"
@@ -3068,7 +3068,7 @@
   "name": "Turbotic",
   "category": "Operations & Workflow",
   "domain": "turbotic.com",
-  "desc": "Enterprise automation orchestration. Manage your entire ecosystem of RPA, AI, and scripts from a single control tower.",
+  "desc": "Enterprise automation orchestration. Manage all of your RPA, AI and scripts from a single control tower.",
   "link": "https://try.turbotic.com/9bsnqewlv0qm"
  },
  {
@@ -3089,7 +3089,7 @@
   "name": "UltaHost",
   "category": "IT & Productivity",
   "domain": "ultahost.com",
-  "desc": "Budget-friendly web hosting across shared, VPS, WordPress and dedicated plans — NVMe SSD storage, free SSL and migration, DDoS protection and 24/7 multilingual support, from 30+ global data centers.",
+  "desc": "Budget-friendly web hosting across shared, VPS, WordPress and dedicated plans, with NVMe SSD storage, free SSL and migration, DDoS protection and 24/7 multilingual support, from 30+ global data centers.",
   "link": "https://ultahost.partnerlinks.io/abbakj2xux9m",
   "replaces": null
  },
@@ -3105,7 +3105,7 @@
   "name": "Uniqode",
   "category": "Growth & Revenue",
   "domain": "uniqode.com",
-  "desc": "Dynamic QR codes and digital business cards with real-time scan analytics — connect offline touchpoints to measurable results and capture leads.",
+  "desc": "Dynamic QR codes and digital business cards with real-time scan analytics, to connect offline touchpoints to measurable results and capture leads.",
   "link": "https://try.uniqode.com/1r2z1l0icwaa",
   "replaces": "Bitly"
  },
@@ -3113,7 +3113,7 @@
   "name": "UniTel Voice",
   "category": "Communication & Voice",
   "domain": "unitelvoice.com",
-  "desc": "Virtual business phone system for small teams. Get a toll-free or local number with auto-attendant, call routing and a mobile app — no hardware.",
+  "desc": "Virtual business phone system for small teams. Get a toll-free or local number with auto-attendant, call routing and a mobile app, with no hardware.",
   "link": "https://unitelvoice.partnerlinks.io/pez7g9obn4ti"
  },
  {
@@ -3121,7 +3121,7 @@
   "category": "Operations & Workflow",
   "domain": "unleashedsoftware.com",
   "link": "https://try.unleashedsoftware.com/xeg4thx9277o",
-  "desc": "Inventory and MRP software for manufacturers and wholesalers — real-time stock across warehouses, purchasing, sales orders and batch or serial tracking. The entry price covers 3 users and 100 sales orders a month; past that the bill stacks up."
+  "desc": "Inventory and MRP software for manufacturers and wholesalers: real-time stock across warehouses, purchasing, sales orders and batch or serial tracking. The entry price covers 3 users and 100 sales orders a month; past that the bill stacks up."
  },
  {
   "name": "Upsell.com",
@@ -3144,20 +3144,20 @@
   "domain": "uptimerobot.com",
   "link": "https://uptimerobot.com/?red=aibuil",
   "category": "Developer Tools",
-  "desc": "Uptime monitoring with a generous free tier — website, port, keyword and API checks down to 60-second intervals, status pages, integrations and mobile apps."
+  "desc": "Uptime monitoring with a generous free tier: website, port, keyword and API checks down to 60-second intervals, status pages, integrations and mobile apps."
  },
  {
   "name": "VEA",
   "category": "Operations & Workflow",
   "domain": "vea.ai",
-  "desc": "AI built for entrepreneurs, not enterprises: VEA learns your business like a great employee would, finds the constraint keeping you stuck, and helps you solve it — then finds the next one.",
+  "desc": "AI built for entrepreneurs, not enterprises: VEA learns your business like a great employee would, finds the constraint keeping you stuck and helps you solve it, then finds the next one.",
   "link": "https://get.vea.ai/2bxekg1t5ec9"
  },
  {
   "name": "Velora",
   "category": "Operations & Workflow",
   "domain": "joinvelora.com",
-  "desc": "Unified operations platform for nonprofits: Keela (donor CRM), Aplos (fund accounting) and Raisely (online fundraising) as one connected suite — donor management, campaigns and finances built for charities instead of adapted from business software.",
+  "desc": "Operations platform for nonprofits: Keela (donor CRM), Aplos (fund accounting) and Raisely (online fundraising) as one connected suite, with donor management, campaigns and finances built for charities instead of adapted from business software.",
   "link": "https://partnerstack.joinvelora.com/w52wdps7sva8",
   "replaces": "Blackbaud"
  },
@@ -3202,7 +3202,7 @@
   "name": "Voye",
   "category": "Communication & Voice",
   "domain": "voyedatapool.com",
-  "desc": "Pooled eSIM data for travelling teams, billed on actual usage rather than prepaid bundles, with per-user spend controls. Coverage and speed vary by country and carrier partner, so pilot your heaviest routes first — the vendor's roaming-savings figures stay claims until your invoice confirms them.",
+  "desc": "Pooled eSIM data for travelling teams, billed on actual usage rather than prepaid bundles, with per-user spend controls. Coverage and speed vary by country and carrier partner, so pilot your heaviest routes first; the vendor's roaming-savings figures stay claims until your invoice confirms them.",
   "link": "https://affiliate.voyedatapool.com/1hxkqaqeqiow"
  },
  {
@@ -3218,13 +3218,13 @@
   "domain": "warmupinbox.com",
   "link": "https://www.warmupinbox.com/?red=aibuil",
   "category": "Marketing",
-  "desc": "Standalone email warm-up service — automated inbox warming, deliverability monitoring and integrations for Google, Outlook, Zoho and SendGrid."
+  "desc": "Standalone email warm-up service with automated inbox warming, deliverability monitoring and integrations for Google, Outlook, Zoho and SendGrid."
  },
  {
   "name": "Wati",
   "category": "Communication & Voice",
   "domain": "wati.io",
-  "desc": "WhatsApp Business API platform for sales and support: shared team inbox, bulk broadcasts and no-code chatbots — plus Astra, its AI agent builder for agents that actually resolve conversations (orders, refunds, bookings, lead qualification) across WhatsApp, web and voice. Its omnichannel inbox now also carries TikTok DMs natively (all plans, no extra cost) alongside Instagram and RCS — with ad-to-chat context that shows exactly which TikTok ad triggered a conversation. It now ships its own MCP server as well: connect Claude or ChatGPT once and manage contacts, send WhatsApp campaigns, read past chats and build agents in plain language, while sends still run on your own approved templates and the full history stays in the Wati dashboard. Wati's own page puts the cost like this: free for current paid Astra customers with no usage cap during launch, and full MCP access on every Astra plan for new customers (checked 4 Aug 2026).",
+  "desc": "WhatsApp Business API platform for sales and support: shared team inbox, bulk broadcasts and no-code chatbots, plus Astra, its AI agent builder for agents that actually resolve conversations (orders, refunds, bookings, lead qualification) across WhatsApp, web and voice. Its omnichannel inbox now also carries TikTok DMs natively (all plans, no extra cost) alongside Instagram and RCS, with ad-to-chat context that shows exactly which TikTok ad triggered a conversation. It now ships its own MCP server as well: connect Claude or ChatGPT once and manage contacts, send WhatsApp campaigns, read past chats and build agents in plain language, while sends still run on your own approved templates and the full history stays in the Wati dashboard. Wati's own page puts the cost like this: free for current paid Astra customers with no usage cap during launch, and full MCP access on every Astra plan for new customers (checked 4 Aug 2026).",
   "link": "https://affiliates.wati.io/pzd090owoazz"
  },
  {
@@ -3246,12 +3246,12 @@
   "name": "WebCatalog",
   "category": "IT & Productivity",
   "domain": "webcatalog.io",
-  "desc": "Turn web apps into tidy desktop apps and manage multiple accounts side by side. Less tab chaos, more focus — your whole stack organized in one place.",
+  "desc": "Turn web apps into tidy desktop apps and manage multiple accounts side by side. Less tab chaos, more focus, with your whole stack organized in one place.",
   "link": "https://try.webcatalog.io/powenno3ohno"
  },
  {
   "category": "Website Builders",
-  "desc": "Visual website builder that writes production code — design, CMS, hosting and ecommerce in one place.",
+  "desc": "Visual website builder that writes production code: design, CMS, hosting and ecommerce in one place.",
   "domain": "webflow.com",
   "link": "https://try.webflow.com/r6fsjtguujqo",
   "name": "Webflow"
@@ -3261,14 +3261,14 @@
   "domain": "webinargeek.com",
   "link": "https://webinargeek.com/?red=aibuil",
   "category": "Marketing",
-  "desc": "European live and automated webinar platform — viewer-tier pricing, engagement tools, CRM integrations and GDPR-friendly hosting. The vendor states you can now generate a full webinar — including polls, quizzes and a registration page — from a plain-text description, with UTM tracking and post-webinar redirects on the registration page (vendor mail, August 2026)."
+  "desc": "European live and automated webinar platform with viewer-tier pricing, engagement tools, CRM integrations and GDPR-friendly hosting. The vendor states you can now generate a full webinar (including polls, quizzes and a registration page) from a plain-text description, with UTM tracking and post-webinar redirects on the registration page (vendor mail, August 2026)."
  },
  {
   "name": "Wegic",
   "domain": "wegic.ai",
   "link": "https://try.wegic.ai/4ewzds",
   "category": "Design & Content",
-  "desc": "AI website builder that generates and hosts sites from a conversation — credit-based, with custom domains and code export on higher tiers. Wegic's own help center documents images only by upload or external URL; the built-in image generation the vendor promotes, including a product-photo-to-product-page pass, is not in that documentation, and our visitor-mode test on 5 November 2026 did not cover it. A one-click optimize pass audits a published site for SEO and site-health problems and applies the fixes itself — vendor-announced in July 2026, and not something we have tested."
+  "desc": "AI website builder that generates and hosts sites from a conversation, credit-based, with custom domains and code export on higher tiers. Wegic's own help center documents images only by upload or external URL; the built-in image generation the vendor promotes, including a product-photo-to-product-page pass, is not in that documentation, and our visitor-mode test on 5 November 2026 did not cover it. A one-click optimize pass audits a published site for SEO and site-health problems and applies the fixes itself. It was vendor-announced in July 2026, and we have not tested it."
  },
  {
   "name": "WhatConverts",
@@ -3281,7 +3281,7 @@
   "name": "Wholesale Gorilla",
   "category": "E-commerce",
   "domain": "wholesalegorilla.com",
-  "desc": "B2B wholesale inside an ordinary Shopify store: custom prices per customer group, a signup and approval flow, net payment terms, wholesale-only shipping rules and a quick-order form, so trade buyers order from the same storefront as retail customers. Nothing is metered — the three tiers gate features, not volume. Read on the App Store and the vendor's own comparison chart on 8 September 2026.",
+  "desc": "B2B wholesale inside an ordinary Shopify store: custom prices per customer group, a signup and approval flow, net payment terms, wholesale-only shipping rules and a quick-order form, so trade buyers order from the same storefront as retail customers. Nothing is metered: the three tiers gate features, not volume. Read on the App Store and the vendor's own comparison chart on 8 September 2026.",
   "link": "https://platform.shoffi.app/r/rl_5ISWDdVm"
  },
  {
@@ -3293,7 +3293,7 @@
  },
  {
   "category": "Video & Audio",
-  "desc": "Video hosting built for marketing — player customisation, viewer analytics and lead capture.",
+  "desc": "Video hosting built for marketing, with player customisation, viewer analytics and lead capture.",
   "domain": "wistia.com",
   "link": "https://wistia.com/",
   "name": "Wistia"
@@ -3311,14 +3311,14 @@
   "domain": "woodpecker.co",
   "link": "https://woodpecker.co/?red=aibuil",
   "category": "Sales & CRM",
-  "desc": "Cold email and LinkedIn outreach platform priced by contacted prospects — unlimited team seats and email accounts, built-in warm-ups, deliverability tooling and a lead finder."
+  "desc": "Cold email and LinkedIn outreach platform priced by contacted prospects, with unlimited team seats and email accounts, built-in warm-ups, deliverability tooling and a lead finder."
  },
  {
   "name": "World Businesses for Sale",
   "domain": "worldbusinessesforsale.com",
   "link": "https://www.awin1.com/cread.php?awinmid=116725&awinaffid=2880219&ued=https%3A%2F%2Fwww.awin1.com%2Fcread.php%3Fs%3D3960279%26v%3D116725%26q%3D520967%26r%3D2880219",
   "category": "Financial Operations",
-  "desc": "International marketplace for buying and selling established businesses — restaurants, shops, services and manufacturers — free for buyers, with broker plans (listing fee plus 1-3% commission) or no-commission pay-as-you-go listings, and 24/7 guidance for sellers."
+  "desc": "International marketplace for buying and selling established businesses (restaurants, shops, services and manufacturers), free for buyers, with broker plans (listing fee plus 1-3% commission) or no-commission pay-as-you-go listings, and 24/7 guidance for sellers."
  },
  {
   "name": "WP Rocket",
@@ -3354,7 +3354,7 @@
   "domain": "zedonk.co.uk",
   "link": "https://affiliate.zedonk.us/l65kqgq69s5q",
   "category": "Operations & Workflow",
-  "desc": "Fashion-industry ERP for small and mid-size brands — modular sales, production, inventory and wholesale management with a B2B digital showroom, priced per module on annual billing."
+  "desc": "Fashion-industry ERP for small and mid-size brands: modular sales, production, inventory and wholesale management with a B2B digital showroom, priced per module on annual billing."
  },
  {
   "name": "Zeffy",
@@ -3368,7 +3368,7 @@
   "domain": "zenbusiness.com",
   "link": "https://www.awin1.com/cread.php?awinmid=102801&awinaffid=2880219",
   "category": "Operations & Workflow",
-  "desc": "US business-formation service — LLC, S corp and C corp filings with no service fee beyond the state's own, and the money in the recurring stack around it: registered agent, compliance service, operating agreement and EIN, each priced individually rather than bundled into tiers."
+  "desc": "US business-formation service covering LLC, S corp and C corp filings with no service fee beyond the state's own. The money is in the recurring stack around it: registered agent, compliance service, operating agreement and EIN, each priced individually rather than bundled into tiers."
  },
  {
   "category": "Customer Support",
@@ -3389,7 +3389,7 @@
   "name": "ZenZap",
   "category": "Communication & Voice",
   "domain": "zenzap.co",
-  "desc": "Secure work-chat for teams — organized channels, built-in tasks and workflows, AI agents and admin controls, as easy to use as texting.",
+  "desc": "Secure work chat for teams: organized channels, built-in tasks and workflows, AI agents and admin controls, as easy to use as texting.",
   "link": "https://try.zenzap.co/piw5krp2j8vw",
   "replaces": "Slack"
  },
@@ -3467,7 +3467,7 @@
   "name": "Helm",
   "category": "Analytics",
   "domain": "pactai.app",
-  "desc": "Shopify business-intelligence app — sold on the vendor's own site under the GrowGiant brand, by PactAI, LLC of Texas — that reads Shopify, QuickBooks Online, Meta Ads, Google Ads and GA4 together and flags what is costing money: discount and pricing drift, unexplained cost movements, inventory risk, ad performance deteriorating beyond normal variation, and sales anomalies against day, week, month and last year. Adds a drag-and-drop KPI dashboard, scenario modelling and a recurring management review. Integrations are read-only; the listing requests view permissions only. Launched 7 September 2026, still no reviews as of 16 Sep 2026.",
+  "desc": "Shopify business-intelligence app (sold on the vendor's own site under the GrowGiant brand, by PactAI, LLC of Texas) that reads Shopify, QuickBooks Online, Meta Ads, Google Ads and GA4 together and flags what is costing money: discount and pricing drift, unexplained cost movements, inventory risk, ad performance deteriorating beyond normal variation, and sales anomalies against day, week, month and last year. Adds a drag-and-drop KPI dashboard, scenario modelling and a recurring management review. Integrations are read-only; the listing requests view permissions only. Launched 7 September 2026, still no reviews as of 16 Sep 2026.",
   "link": "https://platform.shoffi.app/r/rl_w0nUPKoB",
   "platform": "shopify",
   "brand": "Helm (GrowGiant)"
@@ -3499,21 +3499,21 @@
   "name": "TestDriver.ai",
   "category": "Developer Tools",
   "domain": "testdriver.ai",
-  "desc": "AI QA engineer that lives in GitHub: mention @testdriverai in a pull request or issue and it starts a real desktop sandbox, runs your application, writes and runs an end-to-end UI test, posts a recording, and commits the test file to your repository — then reruns it on every pull request that touches the same ground. Tests are written against behaviour rather than selectors (find “signup button”, assert “dashboard is visible”). Covers web apps, Chrome and VSCode extensions, Windows desktop and Linux; Mac, iOS and Android are Enterprise-only and marked coming soon. By Haxor Inc.",
+  "desc": "AI QA engineer that lives in GitHub: mention @testdriverai in a pull request or issue and it starts a real desktop sandbox, runs your application, writes and runs an end-to-end UI test, posts a recording, and commits the test file to your repository, then reruns it on every pull request that touches the same ground. Tests are written against behaviour rather than selectors (find “signup button”, assert “dashboard is visible”). Covers web apps, Chrome and VSCode extensions, Windows desktop and Linux; Mac, iOS and Android are Enterprise-only and marked coming soon. By Haxor Inc.",
   "link": "https://get.testdriver.ai/gc1hssxgvwa8"
  },
  {
   "name": "Influencer Hero",
   "category": "Marketing",
   "domain": "influencer-hero.com",
-  "desc": "All-in-one influencer marketing platform: AI creator discovery, automated outreach, an influencer CRM, UGC tracking and affiliate management on one record per creator, with 45-plus native integrations and payouts run through bank debit at 0.1-0.4% rather than 2-3% card fees. Every plan carries the full toolset — the ladder is gated on quota and seats. A reach-out is counted once when a new influencer is first contacted — all later messaging with that creator is unlimited. Three-month minimum on every plan and no free trial.",
+  "desc": "Influencer marketing platform combining AI creator discovery, automated outreach, an influencer CRM, UGC tracking and affiliate management on one record per creator, with 45-plus native integrations and payouts run through bank debit at 0.1-0.4% rather than 2-3% card fees. Every plan carries the full toolset; the ladder is gated on quota and seats. A reach-out is counted once when a new influencer is first contacted, and all later messaging with that creator is unlimited. Three-month minimum on every plan and no free trial.",
   "link": "https://influencerhero.partnerlinks.io/jkswf1mg3zyf-b9bh0a"
  },
  {
   "name": "Niural AI",
   "category": "HR & People",
   "domain": "niural.com",
-  "desc": "Payroll, benefits, HR, PEO and global hiring from one vendor, and — rare in this category — every product carries a published price. Every tier is demo-led with no self-serve sign-up, and the pricing page asks your headcount band before it shows a ladder.",
+  "desc": "Payroll, benefits, HR, PEO and global hiring from one vendor, and (rare in this category) every product carries a published price. Every tier is demo-led with no self-serve sign-up, and the pricing page asks your headcount band before it shows a ladder.",
   "link": "https://affiliate.niural.com/w0yzolgbfn7l"
  },
  {
@@ -3527,7 +3527,7 @@
   "name": "rePete",
   "category": "E-commerce",
   "domain": "repete.me",
-  "desc": "Shopify app by Bold that predicts when each customer is due to reorder and nudges them at that moment by email, SMS, WhatsApp or on-site, with a one-click Smart Cart and tiered loyalty discounts instead of a subscription. Priced purely on results: free to install, then 3% of reorders completed within 24 hours of a nudge, 1% within seven days, and 5% on anything added beyond the reorder product — with no SMS, email, per-contact, push or app fees and no minimum. No ceiling and no volume discount either, so the bill scales with the result indefinitely. Launched 4 July 2025, 5.0 from nine reviews.",
+  "desc": "Shopify app by Bold that predicts when each customer is due to reorder and nudges them at that moment by email, SMS, WhatsApp or on-site, with a one-click Smart Cart and tiered loyalty discounts instead of a subscription. Priced purely on results: free to install, then 3% of reorders completed within 24 hours of a nudge, 1% within seven days, and 5% on anything added beyond the reorder product, with no SMS, email, per-contact, push or app fees and no minimum. There is no ceiling and no volume discount either, so the bill scales with the result indefinitely. Launched 4 July 2025, 5.0 from nine reviews.",
   "link": "https://platform.shoffi.app/r/rl_tsd9mx5J",
   "platform": "shopify"
  },
@@ -3535,7 +3535,7 @@
   "name": "Warn",
   "domain": "effectify.io",
   "category": "E-commerce",
-  "desc": "Shopify app from Effective Apps that adds customizable warnings — Prop 65 labels, shipping-delay alerts, age-verification and withdrawal disclaimers — to product, cart and checkout pages, as text or pop-ups, targeted globally or by product, collection, country or US state. On the App Store since December 2019.",
+  "desc": "Shopify app from Effective Apps that adds customizable warnings (Prop 65 labels, shipping-delay alerts, age-verification and withdrawal disclaimers) to product, cart and checkout pages, as text or pop-ups, targeted globally or by product, collection, country or US state. On the App Store since December 2019.",
   "link": "https://platform.shoffi.app/r/rl_ovOui0KR",
   "platform": "shopify"
  },
@@ -3699,7 +3699,7 @@
   "name": "SalesTarget.ai",
   "category": "Sales & CRM",
   "domain": "salestarget.ai",
-  "desc": "All-in-one B2B outbound platform: a lead database of 840M+ professional profiles with credit-based enrichment, cold email with unlimited inboxes and warm-up, LinkedIn automation, and a built-in CRM and dialer, sold as separate modules or one bundle per team.",
+  "desc": "B2B outbound platform combining a lead database of 840M+ professional profiles with credit-based enrichment, cold email with unlimited inboxes and warm-up, LinkedIn automation, and a built-in CRM and dialer. Sold as separate modules or one bundle per team.",
   "link": "https://salestarget.ai/?red=aibuil"
  },
  {
@@ -4354,7 +4354,7 @@
   "name": "Lensmor",
   "category": "Growth & Revenue",
   "domain": "lensmor.com",
-  "desc": "Trade-show prospecting for B2B teams: search events for free, then spend credits to unlock exhibitor, attendee and visitor lists and to reveal verified emails and phone numbers, with an AI agent that shortlists shows that fit your ideal customer profile.",
+  "desc": "Trade-show prospecting for B2B teams: search events for free, then spend credits to open exhibitor, attendee and visitor lists and to reveal verified emails and phone numbers, with an AI agent that shortlists shows that fit your ideal customer profile.",
   "link": "https://www.awin1.com/cread.php?awinmid=128865&awinaffid=2880219"
  },
  {
@@ -4488,7 +4488,7 @@
   "name": "EazyChat",
   "category": "Customer Support",
   "domain": "eazychat.io",
-  "desc": "AI chat for websites, WhatsApp, Instagram, Messenger and email that answers routine questions around the clock and hands over to your team with the full conversation, with tickets and voice in the same ecosystem.",
+  "desc": "AI chat for websites, WhatsApp, Instagram, Messenger and email that answers routine questions around the clock and hands over to your team with the full conversation, with tickets and voice in the same product.",
   "link": "https://www.awin1.com/cread.php?awinmid=127785&awinaffid=2880219"
  },
  {
@@ -4579,7 +4579,7 @@
   "name": "HighLevel",
   "category": "Sales & CRM",
   "domain": "gohighlevel.com",
-  "desc": "All-in-one CRM, funnel, texting, email and automation platform for agencies, with white-label options and a 14-day free trial.",
+  "desc": "CRM, funnel, texting, email and automation platform for agencies, with white-label options and a 14-day free trial.",
   "link": "https://www.gohighlevel.com/?fp_ref=daniel-af32e7"
  },
  {
