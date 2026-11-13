@@ -3551,7 +3551,7 @@
    ]
   ],
   "price": "€1.79",
-  "price_note": "Essentieel · per user a month billed annually",
+  "price_note": "Essential · per user a month billed annually",
   "verified": "2026-09-25",
   "catch": "Free forever with unlimited users holds up: the plan a new account lands on is Free, €0, with no card.",
   "best": "Teams that need clock-ins, overtime calculations and payroll exports for unlimited people at no cost."
@@ -7814,13 +7814,6 @@
   "best": "Small and mid-size nonprofits that want donations, ticketing, memberships and payments without any fee eating the mission's money."
  },
  "ZenBusiness": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
   "price": "$199",
   "price_note": "from · a year and Worry-Free Compliance $199 a year",
   "verified": "2026-09-22",
@@ -10786,5 +10779,26 @@
   "verified": "2026-11-13",
   "catch": "Email-first CRM with contacts, tracking and mail merge; Pro from $17 a month billed yearly.",
   "best": "Freelancers, consultants and small sales teams who live in their inbox and want contacts, notes and follow-ups kept in one place."
+ },
+ "AI Autocomplete": {
+  "price": "$10",
+  "price_note": "Starter · per monthly, Starter is $10 a month with 20,000 predictions…",
+  "verified": "2026-11-13",
+  "catch": "Filter suggestions as shoppers type; from $10 a month plus usage, 30-day trial.",
+  "best": "Shopify store owners with large catalogues who want filter suggestions to appear as shoppers type in the search box."
+ },
+ "Seonix": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$49",
+  "price_note": "Starter · per monthly, Starter is $49 a month, listed against a $100 regular price…",
+  "verified": "2026-11-13",
+  "catch": "Free SEO audit with 98 keyword ideas; AI articles from $49 a month.",
+  "best": "Site owners who want a free audit and keyword ideas first, and small teams ready to pay for 30 AI articles a month on a single site."
  }
 }

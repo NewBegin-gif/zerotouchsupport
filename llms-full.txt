@@ -27,7 +27,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## AskNest
 - Review: https://zerotouchsupport.com/asknest-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: AskNest: All charges are billed in USD and recur every 30 days, and no paid tier shows a free trial — the free plan is the trial.
+- Verdict: AskNest: All charges are billed in USD and recur every 30 days, and no paid tier shows a free trial, the free plan is the trial.
 - Price: (read 2026-08-19 on apps.shopify.com/asknest-ai-faq-product-bot, re-verified unchanged 2026-09-28 and 2026-10-09) Four tiers, priced by AI replies per month, and the cheapest ladder in this category. Free: 50 AI replies a month, replies in one language you select, answers drawn from your FAQs, policy pages and product data, translated storefront widget, product finder and usage tracking.
 
 ## bOnline
@@ -69,7 +69,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## CometChat
 - Review: https://zerotouchsupport.com/cometchat-review.html
 - Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: The builder opened without an account on a demo chat (Chats, Calls, Users, Groups) with sample conversations. Customize offers a layout with or without sidebar (default with) and the tabs Conversations,…
-- Verdict: CometChat — Billed yearly, shown as a monthly equivalent: at 1,000 MAU Basic is $239 and Advanced $359. The pricing cliff is the honest headline.
+- Verdict: CometChat, Billed yearly, shown as a monthly equivalent: at 1,000 MAU Basic is $239 and Advanced $359. The pricing cliff is the honest headline.
 - Price: (re-verified 2026-08-17 and 2026-10-07 against CometChat's own machine-readable pricing reference, which they publish for AI agents and last verified themselves on 2026-05-20, and on 2026-10-07 also against the live pricing page; USD) Build is free for development: all features, up to 100 users and 25 concurrent connections, no card. Paid Chat plans are priced by monthly active users.
 
 ## CrankWheel
@@ -87,13 +87,13 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## eDesk
 - Review: https://zerotouchsupport.com/edesk-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: eDesk — No free plan: 'Start for free' opens a 14-day full-feature trial with no credit card. The per-agent price is the entry ticket.
+- Verdict: eDesk, No free plan: 'Start for free' opens a 14-day full-feature trial with no credit card. The per-agent price is the entry ticket.
 - Price: (re-verified 2026-11-10) No free plan: 'Start for free' opens a 14-day full-feature trial with no credit card. Essential $45 per agent/mo, Growth $99, Professional $129 (the plan eDesk marks Most Popular), Enterprise custom — all billed annually.
 
 ## Fireflies.ai
 - Review: https://zerotouchsupport.com/fireflies-ai-review.html
 - Hands-on: tested by us on 2026-10-09
-- Verdict: Fireflies.ai: Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits.
+- Verdict: Fireflies.ai: Free $0, free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits.
 - Price: (price re-verified 2026-10-23 against the vendor's own pricing page and help guide) Free $0 — free forever, unlimited transcription, limited AI summaries, 400 mins of storage per team, 20 AI credits. Pro $18/seat/mo month-to-month or $10/seat/mo billed annually — unlimited AI summaries, 8,000 mins of storage per seat, 20 AI credits.
 
 ## Freshchat
@@ -105,13 +105,13 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Freshworks
 - Review: https://zerotouchsupport.com/freshworks-review.html
 - Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: The sign-up page promised a '14-day all-access free trial'; inside the app the banner said 'your 15-day trial starts today', next to a 'Buy now' button. Our own company domain was accepted without a…
-- Verdict: Freshworks — On Freshdesk the annual rates are unchanged since 1 August 2026: Growth $19 per agent per month, Pro $55, Enterprise $89, billed annually.
+- Verdict: Freshworks, On Freshdesk the annual rates are unchanged since 1 August 2026: Growth $19 per agent per month, Pro $55, Enterprise $89, billed annually.
 - Price: (2026-08-29, read on their own pricing pages) The main Freshworks pricing page still carries no prices at all — it lists the products and links out to each one, and that list has grown to nine: Freshdesk Omni, Freshdesk, Freshchat, Freshcaller, Freshservice, Freshservice for Business Teams, Freshsales, Freshsales Suite and Freshmarketer. On Freshdesk the annual rates are unchanged since 1 August 2026: Growth $19…
 
 ## Gorgias
 - Review: https://zerotouchsupport.com/gorgias-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Gorgias: Not priced per agent -- their own line -- but the seats are capped. Never priced per agent is a real advantage, but it starts one tier up.
+- Verdict: Gorgias: Not priced per agent, their own line, but the seats are capped. Never priced per agent is a real advantage, but it starts one tier up.
 - Price: (re-verified 7 October 2026 on their own pricing page; figures unchanged since 8 September) Not priced per agent -- their own line -- but the seats are capped: the comparison table gives Starter 3 user seats and Basic, Pro and Advanced 500 each. Two meters stack.
 
 ## Help Scout
@@ -183,7 +183,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Quo
 - Review: https://zerotouchsupport.com/quo-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Quo — (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly. Call reliability is the recurring complaint.
+- Verdict: Quo, (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly. Call reliability is the recurring complaint.
 - Price: (price re-verified 2026-08-31 against the vendor's own pricing page; all prices are quoted on the page in USD) (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly; Business $23 annual ($276/yr) or $33 monthly; Scale $35 annual ($420/yr) or $47 monthly. 7-day free trial.
 
 ## Readymode
@@ -201,7 +201,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## respond.io
 - Review: https://zerotouchsupport.com/respond-io-review.html
 - Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: Growth Trial showed seven days remaining and an end date of November 7.
-- Verdict: respond.io — Four tiers, billed on monthly active contacts rather than seats: Starter $79/month, Growth $159, Advanced $279, and Enterprise on quote.
+- Verdict: respond.io, Four tiers, billed on monthly active contacts rather than seats: Starter $79/month, Growth $159, Advanced $279, and Enterprise on quote.
 - Price: (2026-08-13, read off respond.io/pricing) Four tiers, billed on monthly active contacts rather than seats: Starter $79/month, Growth $159, Advanced $279, and Enterprise on quote. Paying yearly takes roughly 20% off — $948, $1,908 and $3,348 a year against $1,188, $2,388 and $4,188 monthly.
 
 ## Ruby
@@ -213,7 +213,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Salesmessage
 - Review: https://zerotouchsupport.com/salesmessage-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Salesmsg — Monthly billing: Basic is $25 a month for 500 credits a month; Pro is $329 a month for 10,000 credits a month. Size the credits, not the headcount.
+- Verdict: Salesmsg, Monthly billing: Basic is $25 a month for 500 credits a month; Pro is $329 a month for 10,000 credits a month. Size the credits, not the headcount.
 - Price: (2026-08-08, re-verified 10 September 2026 and again 13 October 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, metered in message credits. Monthly billing: Basic is $25 a month for 500 credits a month; Pro is $329 a month for 10,000 credits a month; Enterprise is contact-for-pricing with custom credits.
 
 ## Signal House
@@ -315,7 +315,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Zendesk
 - Review: https://zerotouchsupport.com/zendesk-review.html
 - Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: Daan created the account the day before and we did not see that step. In the accelerated setup the website address came prefilled, and about 35 seconds later the AI agent had read our site. The setup asked…
-- Verdict: Zendesk — Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. The prices shown are annual-billed.
+- Verdict: Zendesk, Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. The prices shown are annual-billed.
 - Price: (re-verified 2026-08-12, read on their own pricing page from two countries) Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. Suite Enterprise + Copilot is quote-only.
 
 ## ZenZap
