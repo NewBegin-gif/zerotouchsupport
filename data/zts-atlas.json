@@ -1237,15 +1237,15 @@
    "entry_price": "$25",
    "entry_price_terms": "Basic… · on monthly billing, as published",
    "pricing_status": "public",
-   "price_note": "(2026-08-08, re-verified 10 September 2026 and again 13 October 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, metered in message credits. Monthly billing: Basic is $25 a month for 500 credits a month; Pro is $329 a month for 10,000 credits a month; Enterprise is contact-for-pricing with custom credits. Both plans carry a credits dropdown that raises the allowance for a fixed add-on. On Basic, 1,000 credits is +$24, 2,500 is +$74, 5,000 is +$154 and 7,500 is +$224 a month. On Pro the ladder runs from 15,000 credits at +$150 up to 50,000 at +$1,170 a month, in 5,000-credit steps. Annual billing is shown as two months free. Basic is $21 a month billed yearly for 6,000 credits a year (12,000 credits +$252, 30,000 +$756, 60,000 +$1,560, 90,000 +$2,268), and Pro $277 a month billed yearly for 120,000 credits a year (180,000 +$1,512, rising to 600,000 at +$11,796). Seats and numbers are priced apart from the plan: the first seat is free and each additional seat is $10.00 a month or $100.00 a year; the first number is free and each additional number is $5.00 a month or $50.00 a year. The page defines the meter itself: SMS is 1 credit per 160 characters, MMS is 2 credits, calling is 1 credit a minute and call forwarding is 2 credits a minute. A 14-day free trial runs, and a 30-day money-back guarantee is offered, refunded less the message credits used. The page no longer publishes a per-credit overage rate, nor terms for taxes, carrier fees or country availability, so we quote none.",
+   "price_note": "(2026-08-08, re-verified 10 September, 13 October and 13 November 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, metered in message credits. Monthly billing: Basic is $25 a month for 500 credits a month; Pro is $329 a month for 10,000 credits a month; Enterprise is contact-for-pricing with custom credits. Both plans carry a credits dropdown that raises the allowance for a fixed add-on. On Basic, 1,000 credits is +$24, 2,500 is +$74, 5,000 is +$154 and 7,500 is +$224 a month. On Pro the ladder runs from 15,000 credits at +$150 up to 50,000 at +$1,170 a month, in 5,000-credit steps. Annual billing is shown as two months free. Basic is $21 a month billed yearly for 6,000 credits a year (12,000 credits +$252, 30,000 +$756, 60,000 +$1,560, 90,000 +$2,268), and Pro $277 a month billed yearly for 120,000 credits a year (180,000 +$1,512, rising to 600,000 at +$11,796). Seats and numbers are priced apart from the plan: the first seat is free and each additional seat is $10.00 a month or $100.00 a year; the first number is free and each additional number is $5.00 a month or $50.00 a year. The page defines the meter itself: SMS is 1 credit per 160 characters, MMS is 2 credits, calling is 1 credit a minute and call forwarding is 2 credits a minute. A 14-day free trial runs, and a 30-day money-back guarantee is offered, refunded less the message credits used. The page no longer publishes a per-credit overage rate, nor terms for taxes, carrier fees or country availability, so we quote none.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(2026-08-08, re-verified 10 September 2026 and again 13 October 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, metered in message credits.",
-     "evidence_excerpt": "(2026-08-08, re-verified 10 September 2026 and again 13 October 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, meter…",
+     "evidence": "(2026-08-08, re-verified 10 September, 13 October and 13 November 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, metered in message credits.",
+     "evidence_excerpt": "(2026-08-08, re-verified 10 September, 13 October and 13 November 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, met…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-11-13"
     },
     {
      "flag": "addons_extra",
@@ -1253,7 +1253,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-11-13"
     },
     {
      "flag": "annual_lock",
@@ -1261,11 +1261,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-11-13"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-13",
+   "price_verified_at": "2026-11-13",
    "first_observed_at": "2026-08-08"
   },
   {
@@ -1605,15 +1605,15 @@
    "entry_price": "$9.99",
    "entry_price_terms": "per month (1 user, unlimited minutes, one phone number)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-24 on signup.unitelvoice.com/pick-plan, where unitelvoice.com/pricing now lands) Three plans, no contracts: Solo $9.99/mo, Team $19.99/mo and Office $29.99/mo, each with one toll-free or local number and unlimited calling and texting. Yearly billing is charged as $84, $168 and $252 a year (the cards say \"Save $36/year\", $72 and $108); the comparison table shows that as $6.99, $13.99 and $20.99 a month, a few cents under the yearly total divided by twelve. Solo is one user, Team carries unlimited users, and Office includes three with additional users at $9.99 each a month. Business texting carries a carrier cost on top of any plan: a one-time $19.50 registration fee and a $1.50 monthly compliance fee, which the FAQ says go to The Campaign Registry and the carriers and are due only once you activate texting; approval can take up to 10 business days. The plan set we recorded in August — Start-Up, Unlimited at $24.99 and Office-Max at $69.99 — is no longer offered. Support is US-based, there is a 30-day money-back guarantee, and every plan includes free professional recordings. The FAQ answer we flagged on 2026-09-09, which offered 3.9¢ per minute above the plan's minutes and named Office-Max, is no longer on the page.",
+   "price_note": "(re-verified 2026-10-24 on signup.unitelvoice.com/pick-plan, where unitelvoice.com/pricing now lands) Three plans, no contracts: Solo $9.99/mo, Team $19.99/mo and Office $29.99/mo, each with one toll-free or local number and unlimited calling and texting. Yearly billing is charged as $84, $168 and $252 a year (the cards say \"Save $36/year\", $72 and $108); the comparison table shows that as $6.99, $13.99 and $20.99 a month, a few cents under the yearly total divided by twelve. Solo is one user, Team carries unlimited users, and Office includes three with additional users at $7.99 each a month (the pricing page read 13 November 2026; our 24 October reading had $9.99). Business texting carries a carrier cost on top of any plan: a one-time $19.50 registration fee and a $1.50 monthly compliance fee, which the FAQ says go to The Campaign Registry and the carriers and are due only once you activate texting; approval can take up to 10 business days. The plan set we recorded in August — Start-Up, Unlimited at $24.99 and Office-Max at $69.99 — is no longer offered. Support is US-based, there is a 30-day money-back guarantee, and every plan includes free professional recordings. The FAQ answer we flagged on 2026-09-09, which offered 3.9¢ per minute above the plan's minutes and named Office-Max, is no longer on the page.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "Solo is one user, Team carries unlimited users, and Office includes three with additional users at $9.99 each a month.",
+     "evidence": "Solo is one user, Team carries unlimited users, and Office includes three with additional users at $7.99 each a month (the pricing page read 13 November 2026; our 24 October reading had $9.99).",
      "evidence_excerpt": null,
      "source_url": "https://www.unitelvoice.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-24"
+     "verified_at": "2026-11-13"
     },
     {
      "flag": "usage_metered",
@@ -1621,11 +1621,11 @@
      "evidence_excerpt": null,
      "source_url": "https://www.unitelvoice.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-24"
+     "verified_at": "2026-11-13"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-24",
+   "price_verified_at": "2026-11-13",
    "first_observed_at": "2026-10-24"
   },
   {
