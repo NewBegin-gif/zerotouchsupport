@@ -4812,5 +4812,20 @@
   "domain": "cloze.com",
   "desc": "Email-first CRM for freelancers and small teams: contacts, notes and follow-ups built from your inbox, with open tracking, templates and mail merge.",
   "link": "https://www.cloze.com/"
+ },
+ {
+  "name": "AI Autocomplete",
+  "category": "E-commerce",
+  "domain": "ai-autocomplete.com",
+  "desc": "Shopify search upgrade that suggests filters such as type, colour or brand as shoppers type, drawn from your own catalogue.",
+  "link": "https://platform.shoffi.app/r/rl_lqAXDrr6",
+  "platform": "shopify"
+ },
+ {
+  "name": "Seonix",
+  "category": "Design & Content",
+  "domain": "seonix.ai",
+  "desc": "AI SEO tool that audits your site, suggests keywords and writes and schedules articles for you.",
+  "link": "https://seonix.ai/?ref=533NDYG4"
  }
 ]
