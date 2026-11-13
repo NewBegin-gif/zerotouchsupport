@@ -3805,7 +3805,7 @@
   "best": "Shopify merchants selling across several European marketplaces (Bol, Zalando, Allegro, Cdiscount."
  },
  "Kopage": {
-  "verified": "2026-10-25",
+  "verified": "2026-11-13",
   "catch": "Solo covers 5 client sites; refunds are generally not given.",
   "best": "Freelancers and small agencies that build simple websites for local clients and want to sell them under their own brand, with hosting included."
  },
@@ -4705,11 +4705,6 @@
     "📅",
     "Annual commit",
     "annual_lock"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$22",
@@ -8780,6 +8775,11 @@
  "Positive User": {
   "flags": [
    [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -8787,8 +8787,8 @@
   ],
   "price": "€69",
   "price_note": "Campaigns · per month billed annually, 1 seat included",
-  "verified": "2026-10-07",
-  "catch": "Every plan caps email at 60,000 a year, only annual prices are printed, and auto-renewal needs 30 days notice to stop.",
+  "verified": "2026-11-13",
+  "catch": "Every Marketing Suite plan caps email at 60,000 a year, only annual prices are printed, and auto-renewal needs 30 days notice to stop.",
   "best": "European small and mid-sized businesses that want email, SMS, WhatsApp and website behaviour tracking in one EU-hosted platform."
  },
  "UserTrail": {
@@ -9128,7 +9128,7 @@
   ],
   "price": "$22",
   "price_note": "Launch · per month equivalent billed annually",
-  "verified": "2026-10-25",
+  "verified": "2026-11-13",
   "catch": "Pagecloud AI has no native blog or store on Launch, Grow or Optimize; AI usage is given only as multipliers.",
   "coupon": {
    "code": "",
@@ -9459,7 +9459,7 @@
   "best": "Bookkeepers, accountants and small businesses that turn bank statements, invoices and receipts in PDF or scan form into spreadsheets a few hundred pages a month."
  },
  "Superlines": {
-  "verified": "2026-10-16",
+  "verified": "2026-11-13",
   "catch": "Starter has no exports and 1 month of history; 30 days' notice to stop renewal.",
   "best": "Marketing teams and agencies in Europe that want to track how ChatGPT, Gemini, Perplexity and other AI engines mention and cite their brands, with unlimited seats."
  },

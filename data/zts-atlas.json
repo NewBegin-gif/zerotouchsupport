@@ -152,27 +152,27 @@
    "entry_price": "£7",
    "entry_price_terms": "Starter · per user a month plus VAT",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-06 on bonline.com/pricing, prices in GBP excluding VAT) Three plans, priced per user a month. Starter is £7.00 and gives a digital phone line and number, unlimited inbound calls, 100 outbound landline minutes and 40+ VoIP features. Unlimited Calling is £13.95 and adds unlimited UK landline and mobile calls (marked with an asterisk, and bOnline publishes a separate fair use policy), on-demand call recording and 45+ features. AI For Business Calls is £19.95, shown against a struck-through £21.95, and records every call, stores it for a year, and transcribes, summarises, scores and indexes it with AI. Add-ons are billed monthly: AI call recording £8, CRM integrations £8 (HubSpot, Zoho, Odoo, Pipedrive, Salesforce and 200 more), and international bundles at £6 for 500 minutes to 100 destinations, £10 for 1,000 minutes, or £5 for unlimited minutes to 14 destinations. The page offers a free trial with no card and no commitment, a price match guarantee and a 14-day 'love it' guarantee, and bOnline offers to cover up to £100 of exit fees from a previous provider. The pricing page does not state a contract length.",
+   "price_note": "(read 2026-10-06 and re-read 2026-11-13 on bonline.com/pricing, prices in GBP excluding VAT) Four plans, priced per user a month; the fourth, AI Hero, appeared between the two readings. Starter is £7.00 and gives a digital phone line and number, unlimited inbound calls, 100 outbound landline minutes and 40+ VoIP features. Unlimited Calling is £13.95 and adds unlimited UK landline and mobile calls (marked with an asterisk, and bOnline publishes a separate fair use policy), on-demand call recording and 45+ features. AI For Business Calls is £19.95, shown against a struck-through £21.95, and records every call, stores it for a year, and transcribes, summarises, scores and indexes it with AI. AI Hero is £29.95 and adds an AI receptionist that answers the calls you would otherwise miss, with you choosing when it answers; it includes everything in AI For Business Calls. Add-ons are billed monthly, and the 13 November reading also lists an AI Receptionist add-on at £10 a month, with no per-user or per-account basis stated: AI call recording £8, CRM integrations £8 (HubSpot, Zoho, Odoo, Pipedrive, Salesforce and 200 more), and international bundles at £6 for 500 minutes to 100 destinations, £10 for 1,000 minutes, or £5 for unlimited minutes to 14 destinations. The page offers a free trial with no card and no commitment, a price match guarantee and a 14-day 'love it' guarantee, and bOnline offers to cover up to £100 of exit fees from a previous provider. The pricing page does not state a contract length.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(read 2026-10-06 on bonline.com/pricing, prices in GBP excluding VAT) Three plans, priced per user a month.",
+     "evidence": "(read 2026-10-06 and re-read 2026-11-13 on bonline.com/pricing, prices in GBP excluding VAT) Four plans, priced per user a month; the fourth, AI Hero, appeared between the two readings.",
      "evidence_excerpt": null,
      "source_url": "https://bonline.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-06"
+     "verified_at": "2026-11-13"
     },
     {
      "flag": "addons_extra",
-     "evidence": "Add-ons are billed monthly: AI call recording £8, CRM integrations £8 (HubSpot, Zoho, Odoo, Pipedrive, Salesforce and 200 more), and international bundles at £6 for 500 minutes to 100 destinations, £10 for 1,000 minutes, or £5 for unlimited minutes to 14 destinations.",
-     "evidence_excerpt": "Add-ons are billed monthly: AI call recording £8, CRM integrations £8 (HubSpot, Zoho, Odoo, Pipedrive, Salesforce and 200 more), and international bundles at £6 for 500 minutes to 100 destinations, £…",
+     "evidence": "Add-ons are billed monthly, and the 13 November reading also lists an AI Receptionist add-on at £10 a month, with no per-user or per-account basis stated: AI call recording £8, CRM integrations £8 (HubSpot, Zoho, Odoo, Pipedrive, Salesforce and 200 more), and international bundles at £6 for 500 minutes to 100 destinations, £10 for 1,000 minutes, or £5 for unlimited minutes to 14 destinations.",
+     "evidence_excerpt": "Add-ons are billed monthly, and the 13 November reading also lists an AI Receptionist add-on at £10 a month, with no per-user or per-account basis stated: AI call recording £8, CRM integrations £8 (H…",
      "source_url": "https://bonline.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-06"
+     "verified_at": "2026-11-13"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-06",
+   "price_verified_at": "2026-11-13",
    "first_observed_at": "2026-10-06"
   },
   {

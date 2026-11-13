@@ -314,7 +314,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Zendesk
 - Review: https://zerotouchsupport.com/zendesk-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: Daan created the account the day before and we did not see that step. In the accelerated setup the website address came prefilled, and about 35 seconds later the AI agent had read our site. The setup asked…
 - Verdict: Zendesk — Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. The prices shown are annual-billed.
 - Price: (re-verified 2026-08-12, read on their own pricing page from two countries) Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. Suite Enterprise + Copilot is quote-only.
 
