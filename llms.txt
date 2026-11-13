@@ -13,7 +13,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Best Business Phone Systems 2026](https://zerotouchsupport.com/best-business-phone-systems.html): Best business phone systems for small teams (2026) — compared from our researched pricing dossiers: what each tool is best for, its price te
 - [Best Support Automation Tools for Small Teams (2026)](https://zerotouchsupport.com/best-customer-support-automation-tools.html): The best customer-support automation tools in 2026 for small teams: handle repetitive tickets, calls and chat with less effort.
 - [The Best Shopify Customer Support Apps (2026)](https://zerotouchsupport.com/best-shopify-support-apps.html): Shopify support apps compared on what they actually meter — replies, conversations, page views, minutes or resolved tickets — with prices we
-- [How to Build a Customer Support System: Chat, Phone, AI and a Help Desk](https://zerotouchsupport.com/build-customer-support-system.html): A blueprint for support as volume grows: live chat, phone, AI answers for repeat questions and a help desk — what each part does and what to
+- [How to Build a Support System: Chat, Phone, AI and Help Desk](https://zerotouchsupport.com/build-customer-support-system.html): A blueprint for support as volume grows: live chat, phone, AI answers for repeat questions and a help desk — what each part does and what to
 
 ## Tested hands-on (15): first-hand findings
 We signed up and ran these tools ourselves. The date is the test date; the line is what we measured, not the vendor's claim. All other reviews are researched from the vendor's own pages and buyer reviews, and say so on the page.

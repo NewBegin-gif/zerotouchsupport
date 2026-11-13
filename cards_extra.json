@@ -8156,22 +8156,6 @@
   "catch": "The pricing is honest and the arithmetic still deserves care, because this is a percentage with no ceiling on it.",
   "best": "Shopify stores selling consumables or anything with a natural replenishment rhythm (coffee, supplements, pet food."
  },
- "Selleasy": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
-  "price": "$9",
-  "price_note": "Starter · per month, flat, unlimited orders and campaigns",
-  "verified": "2026-10-30",
-  "catch": "The pricing changed under this review in October 2026, and the vendor's own page has not caught up.",
-  "best": "Shopify stores that want bundles, add-ons, cart funnels and post-purchase offers out of one app on a flat fee that never takes a share of upsell revenue: small stores can test on the free plan, and Shopify Plus stores get checkout upsells from $29 a month.",
-  "pw": "plans rebuilt Nov 2026",
-  "pw_soort": "restructure"
- },
  "Warn": {
   "price": "$6.99",
   "price_note": "from · per month for unlimited (non-Plus stores), $12.99/mo Plus Plan",
