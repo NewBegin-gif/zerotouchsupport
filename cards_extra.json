@@ -10762,5 +10762,29 @@
   "verified": "2026-11-13",
   "catch": "Bulk email verification with credits that never expire; from $9 for 10,000.",
   "best": "Marketers and developers who verify email lists in bursts and want to buy credits once instead of paying a monthly subscription."
+ },
+ "Cloze CRM": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$17",
+  "price_note": "Cloze Pro · per monthly, billed annually, Pro is $17 a month billed yearly and $19.99 month to month",
+  "verified": "2026-11-13",
+  "catch": "Email-first CRM with contacts, tracking and mail merge; Pro from $17 a month billed yearly.",
+  "best": "Freelancers, consultants and small sales teams who live in their inbox and want contacts, notes and follow-ups kept in one place."
  }
 }
