@@ -2211,9 +2211,9 @@
     "usage_metered"
    ]
   ],
-  "price": "$39",
-  "price_note": "Basic (per user) · per user per month billed annually",
-  "verified": "2026-10-10",
+  "price": "$59",
+  "price_note": "Pro (per user) · per user per month billed annually",
+  "verified": "2026-11-13",
   "catch": "Understand what you are buying before the price matters: LinkedIn prohibits this entire product category.",
   "best": "Sales teams that already run LinkedIn outreach, understand that automation breaches LinkedIn's terms.",
   "pw": "plans rebuilt Nov 2026",
@@ -7734,7 +7734,7 @@
  "WP Rocket": {
   "price": "$59",
   "price_note": "from · per year for one site",
-  "verified": "2026-10-02",
+  "verified": "2026-11-13",
   "catch": "It's a subscription, not a lifetime license: you keep your settings if you stop paying but lose updates and support, and a technically-minded user can get most of the way there with a free caching plugin.",
   "coupon": {
    "code": "",
@@ -8759,7 +8759,7 @@
   ],
   "price": "£7",
   "price_note": "Starter · per user a month plus VAT",
-  "verified": "2026-10-06",
+  "verified": "2026-11-13",
   "catch": "The pricing page does not state a contract length, Starter includes only 100 outbound minutes a month, and every price is excluding VAT.",
   "best": "UK sole traders and small businesses of one to a few people who want a business number on their mobile, a desk phone if needed."
  },
@@ -10744,5 +10744,24 @@
   "verified": "2026-11-13",
   "catch": "Address checks for Shopify checkout; from $9.99 a month.",
   "best": "Shopify store owners who lose money on mistyped or incomplete delivery addresses and want checks at checkout, with automatic correction as a paid step up."
+ },
+ "ShopTrueProfit": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$7",
+  "price_note": "Monthly · Monthly $7 a month with cancel anytime",
+  "verified": "2026-11-13",
+  "catch": "Profit per order and product from your Etsy, eBay or Amazon reports; from $7 a month.",
+  "best": "Etsy sellers, and smaller eBay or Amazon sellers, who want to see profit per order and product after fees and ads."
  }
 }

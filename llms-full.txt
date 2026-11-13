@@ -34,7 +34,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://zerotouchsupport.com/bonline-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: bOnline: AI For Business Calls is £19.95, shown against a struck-through £21.95. BOnline does not put its contract length on the pricing page.
-- Price: (read 2026-10-06 on bonline.com/pricing, prices in GBP excluding VAT) Three plans, priced per user a month. Starter is £7.00 and gives a digital phone line and number, unlimited inbound calls, 100 outbound landline minutes and 40+ VoIP features.
+- Price: (read 2026-10-06 and re-read 2026-11-13 on bonline.com/pricing, prices in GBP excluding VAT) Four plans, priced per user a month; the fourth, AI Hero, appeared between the two readings. Starter is £7.00 and gives a digital phone line and number, unlimited inbound calls, 100 outbound landline minutes and 40+ VoIP features.
 
 ## Calilio
 - Review: https://zerotouchsupport.com/calilio-review.html
