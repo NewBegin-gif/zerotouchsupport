@@ -189,7 +189,7 @@ CARD = """\
  <div class="lg-oordeel"><p class="tool-desc">{desc}</p>{best_row}{catch_row}</div>
  <div class="lg-signalen">{flags_row}{coupon_row}<div class="tool-tags">{tags}</div></div>
  <div class="lg-acties tool-cta-row">
-  <a href="{link}" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit {name} <span aria-hidden="true">&rarr;</span></a>
+  <a href="{link}" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Try {name} <span aria-hidden="true">&rarr;</span></a>
   {review_link}
  </div>
 </article>"""
