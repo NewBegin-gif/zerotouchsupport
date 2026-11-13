@@ -4805,5 +4805,12 @@
   "domain": "mailveri.com",
   "desc": "Bulk email verification with SMTP, catch-all and disposable checks, an API and an MCP server; pay-as-you-go credits that never expire.",
   "link": "https://mailveri.com/?atp=aibuildermarketplace"
+ },
+ {
+  "name": "Cloze CRM",
+  "category": "Sales & CRM",
+  "domain": "cloze.com",
+  "desc": "Email-first CRM for freelancers and small teams: contacts, notes and follow-ups built from your inbox, with open tracking, templates and mail merge.",
+  "link": "https://www.cloze.com/"
  }
 ]
