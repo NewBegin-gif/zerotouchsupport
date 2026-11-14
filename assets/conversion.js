@@ -457,6 +457,12 @@ var __AIBM_GROEN = (location.pathname.indexOf('/marketplace/') === 0) ? '#10b981
       try { variant = localStorage.getItem('aibm_cta_variant') || 'A'; } catch(_){}
       var sid = (location.pathname.replace(/^\/+|\/+$/g,'').replace(/[^a-zA-Z0-9\/-]/g,'').replace(/\//g,'-').slice(0,56) || 'home') + '-v' + String(variant).toLowerCase().slice(0,1);
       var u = new URL(a.href);
+      /* 14 nov: statisch gestempelde tag (zonder -v) krijgt het JS-merk, zodat een browserklik te onderscheiden
+         is van een bot die alleen de href volgt. */
+      ['sid', 'subId1', 'clickref'].forEach(function(k){
+        var w = u.searchParams.get(k);
+        if (w && !/-v[a-z]$/.test(w)) u.searchParams.set(k, w.slice(0, 60) + '-v' + String(variant).toLowerCase().slice(0,1));
+      });
       if (!u.searchParams.has('subId1')) u.searchParams.set('subId1', sid);
       if (!u.searchParams.has('sid')) u.searchParams.set('sid', sid);
       if (/(^|\.)awin1\.com$/.test(u.hostname) && !u.searchParams.has('clickref')) u.searchParams.set('clickref', sid);
