@@ -29,6 +29,9 @@
  */
 (function () {
   if (typeof gtag !== 'function') { return; }
+  // 14 nov 2026: botgolf (AWS 35.82.149.10, ~3.200 'gebruikers' in GA4). Een door software bestuurde browser
+  // meldt navigator.webdriver = true; die telt niet als bezoeker.
+  if (navigator.webdriver) { return; }
   if (window.__ga4poort) { return; }
   window.__ga4poort = true;
 
