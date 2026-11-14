@@ -442,3 +442,25 @@ var __AIBM_GROEN = (location.pathname.indexOf('/marketplace/') === 0) ? '#10b981
     }, true);
   });
 }catch(_){}})();
+
+/* ===== Sub-ID-stempel, los van __affTrack (14 nov 2026, lekdiagnose CEO) =====
+   Een oudere inline tracker op de zusterpagina's zet __affTrack eerst, waardoor de
+   v3-tracker hierboven niets stempelde. Deze handler doet alleen de href. */
+(function(){try{
+  if (window.__affSid) return; window.__affSid = 1;
+  document.addEventListener('click', function(e){
+    try{
+      var t = e.target;
+      var a = t && t.closest ? t.closest('a[rel~="sponsored"]') : null;
+      if (!a || !a.href || a.href.indexOf('http') !== 0) return;
+      var variant = 'A';
+      try { variant = localStorage.getItem('aibm_cta_variant') || 'A'; } catch(_){}
+      var sid = (location.pathname.replace(/^\/+|\/+$/g,'').replace(/[^a-zA-Z0-9\/-]/g,'').replace(/\//g,'-').slice(0,56) || 'home') + '-v' + String(variant).toLowerCase().slice(0,1);
+      var u = new URL(a.href);
+      if (!u.searchParams.has('subId1')) u.searchParams.set('subId1', sid);
+      if (!u.searchParams.has('sid')) u.searchParams.set('sid', sid);
+      if (/(^|\.)awin1\.com$/.test(u.hostname) && !u.searchParams.has('clickref')) u.searchParams.set('clickref', sid);
+      a.href = u.toString();
+    }catch(_){}
+  }, true);
+}catch(_){}})();
