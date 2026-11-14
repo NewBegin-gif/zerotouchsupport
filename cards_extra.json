@@ -540,7 +540,7 @@
  "Assortion": {
   "price": "$9.99",
   "price_note": "0-50 orders · per month, set by total monthly store orders, not only orders…",
-  "verified": "2026-10-15",
+  "verified": "2026-11-13",
   "catch": "Price follows total store orders, not upsell sales.",
   "best": "Shopify stores that want upsells, cross-sells, product add-ons and cart customization in one app at a flat price that grows with order volume rather than as a share of upsell revenue."
  },
@@ -6673,7 +6673,7 @@
   ],
   "price": "$4.99",
   "price_note": "Unlimited · billed monthly",
-  "verified": "2026-10-18",
+  "verified": "2026-11-13",
   "catch": "Free is 5 leads a month; the trial bills unless you cancel.",
   "best": "Small businesses, solo marketers and agencies that want multi-step lead capture forms on any website for a few dollars a month, without a developer."
  },
@@ -7774,7 +7774,7 @@
   ],
   "price": "£2.48",
   "price_note": "Digital · one-off, per formation, excluding 20% VAT",
-  "verified": "2026-10-18",
+  "verified": "2026-11-13",
   "catch": "£100 Companies House fee and VAT on top; address services renew yearly.",
   "best": "UK and overseas founders who want to form a UK limited company online for a small fee."
  },
@@ -9628,7 +9628,7 @@
  "Liltio": {
   "price": "$49",
   "price_note": "Liltio Local · one-off, lifetime Local licence for 2 Macs at the standard price, before tax",
-  "verified": "2026-10-23",
+  "verified": "2026-11-13",
   "catch": "Apple silicon and macOS 15.5+ only; one licence covers 2 Macs.",
   "best": "Mac users on Apple silicon who dictate emails, notes and first drafts every day and want speech recognition on their own machine, paid for once instead of monthly."
  },
@@ -9727,9 +9727,16 @@
   "best": "B2B sales teams first, and founders who do their own selling second, who want leads chosen by a recent signal (a funding round, a new role."
  },
  "Brandify": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
   "price": "$479",
   "price_note": "Starter · flat monthly service fee for one website and one primary business…",
-  "verified": "2026-10-24",
+  "verified": "2026-11-13",
   "catch": "A managed agency service, not software: the fee buys a monthly work allowance, and AI mentions are not guaranteed.",
   "best": "US local and service businesses with one website that want an agency to handle Google Business Profile, directory citations, schema and new content for AI search."
  },
