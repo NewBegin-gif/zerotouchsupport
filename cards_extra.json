@@ -9743,7 +9743,7 @@
  "Try You": {
   "price": "$0.04",
   "price_note": "Light · per usage, per successful try-on, no monthly fee",
-  "verified": "2026-10-24",
+  "verified": "2026-11-14",
   "catch": "No monthly fee, but every successful try-on is billed, and shopper photos go to third-party AI models.",
   "best": "Shopify stores selling clothing, eyewear, bags, shoes or accessories that want shoppers to see the item on themselves."
  },
@@ -9930,7 +9930,7 @@
  "Compass": {
   "price": "$49",
   "price_note": "Compass · per month, one plan with every feature, billed in USD every 30 days through…",
-  "verified": "2026-10-27",
+  "verified": "2026-11-14",
   "catch": "Meta ads only; broad store permissions for an analytics app.",
   "best": "Shopify merchants who spend on Meta ads and want one simple view of which campaigns turn into real store sales, with plain-English answers instead of Ads Manager reports."
  },
@@ -9979,14 +9979,14 @@
   ],
   "price": "€49.99",
   "price_note": "Essentials · per year, one-year subscription for 1 computer, local backup only",
-  "verified": "2026-11-02",
+  "verified": "2026-11-14",
   "catch": "No cloud on Essentials; 250 GB pre-selected on Advanced; renewal price not shown.",
   "best": "Home users and small home offices who want full-system image backup and disk cloning, with an optional cloud copy, on one to five computers."
  },
  "Hablaki": {
   "price": "$9.99",
   "price_note": "Hablaki licence · one-time lifetime licence for up to 2 computers, Mac or Windows…",
-  "verified": "2026-11-02",
+  "verified": "2026-11-14",
   "catch": "Six listed languages; internet needed for setup and licence checks.",
   "coupon": {
    "code": "AIBUILDER",
@@ -10004,7 +10004,7 @@
   ],
   "price": "$7",
   "price_note": "Monthly · billed monthly, 2 devices",
-  "verified": "2026-11-02",
+  "verified": "2026-11-14",
   "catch": "Data stays per device unless you pay +$3/mo for Cloud sync.",
   "coupon": {
    "code": "",
@@ -10833,5 +10833,40 @@
   "verified": "2026-11-14",
   "catch": "WordPress SEO plugin; Basic 99 a year regular, half price in year one.",
   "best": "WordPress site owners and agencies who want titles, schema, sitemaps and redirects in one plugin and accept yearly licences."
+ },
+ "Forwardly": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "verified": "2026-11-14",
+  "catch": "B2B payments for AP and AR; $0 plan, ACH from $0.50.",
+  "best": "Small US businesses and bookkeepers who pay vendors and collect invoices by ACH and want a free account with an AP and AR inbox."
+ },
+ "SignThis": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$8",
+  "price_note": "Basic · Free plan 3 documents a month",
+  "verified": "2026-11-14",
+  "catch": "E-signatures with palm verification; free plan, paid from $8 a month.",
+  "coupon": {
+   "code": "AIBUILDER",
+   "label": "20% off the first 3 months of a SignThis plan with the code…"
+  },
+  "best": "Senders who sign a few documents a month for free, or who want to require a palm scan from signers before a signature counts."
  }
 }
