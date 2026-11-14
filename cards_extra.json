@@ -10802,5 +10802,36 @@
   "verified": "2026-11-13",
   "catch": "Free SEO audit with 98 keyword ideas; AI articles from $49 a month.",
   "best": "Site owners who want a free audit and keyword ideas first, and small teams ready to pay for 30 AI articles a month on a single site."
+ },
+ "OptinMonster": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ]
+  ],
+  "price": "$108",
+  "price_note": "Basic · per year, First-year price billed today on annual billing",
+  "verified": "2026-11-14",
+  "catch": "Popups and signup forms; Basic $108 first year, $210 on renewal.",
+  "best": "Small sites and shops that want popups, slide-ins and signup forms with ready templates, and who accept yearly billing."
+ },
+ "All in One SEO": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "verified": "2026-11-14",
+  "catch": "WordPress SEO plugin; Basic 99 a year regular, half price in year one.",
+  "best": "WordPress site owners and agencies who want titles, schema, sitemaps and redirects in one plugin and accept yearly licences."
  }
 }
