@@ -376,6 +376,9 @@ var __AIBM_GROEN = (location.pathname.indexOf('/marketplace/') === 0) ? '#10b981
         var u = new URL(a.href);
         if (!u.searchParams.has('subId1')) u.searchParams.set('subId1', sid);
         if (!u.searchParams.has('sid')) u.searchParams.set('sid', sid);
+        /* 14 nov 2026 (lekdiagnose CEO): Awin negeert sid/subId1 en leest alleen clickref.
+           Getest: cread.php met clickref landt gelijk en houdt awc intact. */
+        if (/(^|\.)awin1\.com$/.test(u.hostname) && !u.searchParams.has('clickref')) u.searchParams.set('clickref', sid);
         a.href = u.toString();
       } catch(_){}
       /* link_location (12 nov 2026, pijn-eerst): welke knop op de pagina verdient.
