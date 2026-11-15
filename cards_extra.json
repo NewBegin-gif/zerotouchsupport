@@ -10880,5 +10880,24 @@
   "verified": "2026-11-15",
   "catch": "Shipping and payment rules at checkout; from $4.99 a month, 5-day trial.",
   "best": "Shopify store owners who want to hide, rename or reorder shipping and payment methods, or block invalid checkouts, with a few rules and a low monthly price."
+ },
+ "VoiceDrop": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$95",
+  "price_note": "Budget · Budget $95 a month with 500 voice units",
+  "verified": "2026-11-15",
+  "catch": "Ringless voicemail at volume; from $95 a month, 7-day trial.",
+  "best": "US sales teams, lenders and local service businesses that want to send personalised voicemails at volume and pay per delivered message."
  }
 }
