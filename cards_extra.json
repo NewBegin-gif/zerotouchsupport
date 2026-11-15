@@ -10899,5 +10899,31 @@
   "verified": "2026-11-15",
   "catch": "Ringless voicemail at volume; from $95 a month, 7-day trial.",
   "best": "US sales teams, lenders and local service businesses that want to send personalised voicemails at volume and pay per delivered message."
+ },
+ "PressBridge": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$49",
+  "price_note": "Solo · per one-time, Free $0 for 1 site read-only",
+  "verified": "2026-11-15",
+  "catch": "Self-hosted WordPress MCP for Claude; from $49 once, free edition.",
+  "best": "WordPress agencies and freelancers who look after several client sites on their own servers and want Claude to edit and update them with backups."
+ },
+ "zastech": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "verified": "2026-11-15",
+  "catch": "Pay-once invoice, payout and document tools; free to try, from $15.",
+  "best": "Online sellers, freelancers and small teams that want a single finished job done, such as an invoice or an Etsy payout breakdown."
  }
 }
