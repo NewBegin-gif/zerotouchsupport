@@ -353,7 +353,12 @@ var __AIBM_GROEN = (location.pathname.indexOf('/marketplace/') === 0) ? '#10b981
     b.innerHTML='<div style="color:#e5e7eb;font-size:12.5px;line-height:1.5;margin-bottom:10px">We use one analytics cookie to see what helps readers. No ads, no data resale.</div>'+
       '<div style="display:flex;gap:8px"><button id="aibm-c-ok" style="flex:1;background:'+__AIBM_GROEN+';color:#fff;border:none;border-radius:8px;padding:9px 0;font-weight:700;cursor:pointer">OK</button>'+
       '<button id="aibm-c-no" style="flex:1;background:none;color:#94a3b8;border:1px solid #2a2f3a;border-radius:8px;padding:9px 0;cursor:pointer">Decline</button></div>';
-    document.body.appendChild(b);
+    /* 15 nov 2026 (review): op de telefoon lag de balk over de eerste koopknop. Daar nu bovenaan in de paginastroom
+       (niets eronder verdwijnt); de keuze en de toestemmingslogica zijn ongewijzigd. */
+    if(window.innerWidth<=768){ b.style.position='relative'; b.style.left='auto'; b.style.bottom='auto';
+      b.style.maxWidth='none'; b.style.margin='8px 12px'; b.style.boxShadow='none'; b.style.zIndex='1';
+      document.body.insertBefore(b, document.body.firstChild); }
+    else document.body.appendChild(b);
     function kies(v){ try{localStorage.setItem(KEY,v);}catch(_){} upd(v); b.remove(); }
     document.getElementById('aibm-c-ok').addEventListener('click',function(){kies('granted');});
     document.getElementById('aibm-c-no').addEventListener('click',function(){kies('denied');});
