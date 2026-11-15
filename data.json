@@ -4855,5 +4855,13 @@
   "domain": "signthis.pro",
   "desc": "E-signature tool with a free plan, where the sender can require a palm scan from signers before a signature counts.",
   "link": "https://signthis.pro"
+ },
+ {
+  "name": "BeSure Checkout Rules",
+  "category": "E-commerce",
+  "domain": "checkoutrules.com",
+  "desc": "Shopify app that shows, hides, renames or reorders shipping and payment methods at checkout, and blocks invalid checkouts, using rules.",
+  "link": "https://platform.shoffi.app/r/rl_pFr8Enzi",
+  "platform": "shopify"
  }
 ]
