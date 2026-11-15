@@ -4863,5 +4863,12 @@
   "desc": "Shopify app that shows, hides, renames or reorders shipping and payment methods at checkout, and blocks invalid checkouts, using rules.",
   "link": "https://platform.shoffi.app/r/rl_pFr8Enzi",
   "platform": "shopify"
+ },
+ {
+  "name": "VoiceDrop",
+  "category": "Sales & CRM",
+  "domain": "voicedrop.ai",
+  "desc": "Ringless voicemail platform for US outreach with AI voices, voice cloning, CRM and Zapier integrations, and usage-based pricing.",
+  "link": "https://www.voicedrop.ai/?ref=daniel-haket"
  }
 ]
