@@ -1,0 +1,181 @@
+[
+ {
+  "slug": "chatwith",
+  "name": "Chatwith",
+  "review_url": "https://zerotouchsupport.com/chatwith-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/chatwith.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#chatwith",
+  "tested_on": "2026-10-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Chatwith hands-on test by ZeroTouch Support, 21 Oct 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://zerotouchsupport.com/chatwith-review.html\"><img src=\"https://zerotouchsupport.com/badges/chatwith.svg\" width=\"340\" height=\"81\" alt=\"Chatwith hands-on test by ZeroTouch Support, 21 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "cloudtalk",
+  "name": "CloudTalk",
+  "review_url": "https://zerotouchsupport.com/cloudtalk-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/cloudtalk.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#cloudtalk",
+  "tested_on": "2026-10-24",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 2",
+   "1 confirmed · 1 contradicted",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "CloudTalk hands-on test by ZeroTouch Support, 24 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 contradicted; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://zerotouchsupport.com/cloudtalk-review.html\"><img src=\"https://zerotouchsupport.com/badges/cloudtalk.svg\" width=\"340\" height=\"115\" alt=\"CloudTalk hands-on test by ZeroTouch Support, 24 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "cometchat",
+  "name": "CometChat",
+  "review_url": "https://zerotouchsupport.com/cometchat-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/cometchat.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#cometchat",
+  "tested_on": "2026-10-23",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "CometChat hands-on test by ZeroTouch Support, 23 Oct 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://zerotouchsupport.com/cometchat-review.html\"><img src=\"https://zerotouchsupport.com/badges/cometchat.svg\" width=\"340\" height=\"81\" alt=\"CometChat hands-on test by ZeroTouch Support, 23 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "freshworks",
+  "name": "Freshworks",
+  "review_url": "https://zerotouchsupport.com/freshworks-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/freshworks.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#freshworks",
+  "tested_on": "2026-10-21",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 not comparable"
+  ],
+  "alt": "Freshworks hands-on test by ZeroTouch Support, 21 Oct 2026: Vendor claims checked 1; 1 not comparable",
+  "snippet": "<a href=\"https://zerotouchsupport.com/freshworks-review.html\"><img src=\"https://zerotouchsupport.com/badges/freshworks.svg\" width=\"340\" height=\"98\" alt=\"Freshworks hands-on test by ZeroTouch Support, 21 Oct 2026: Vendor claims checked 1; 1 not comparable\"></a>"
+ },
+ {
+  "slug": "help-scout",
+  "name": "Help Scout",
+  "review_url": "https://zerotouchsupport.com/help-scout-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/help-scout.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#help-scout",
+  "tested_on": "2026-10-20",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Help Scout hands-on test by ZeroTouch Support, 20 Oct 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://zerotouchsupport.com/help-scout-review.html\"><img src=\"https://zerotouchsupport.com/badges/help-scout.svg\" width=\"340\" height=\"81\" alt=\"Help Scout hands-on test by ZeroTouch Support, 20 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "landbot",
+  "name": "Landbot",
+  "review_url": "https://zerotouchsupport.com/landbot-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/landbot.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#landbot",
+  "tested_on": "2026-10-31",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "2 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Landbot hands-on test by ZeroTouch Support, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://zerotouchsupport.com/landbot-review.html\"><img src=\"https://zerotouchsupport.com/badges/landbot.svg\" width=\"340\" height=\"115\" alt=\"Landbot hands-on test by ZeroTouch Support, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "respond-io",
+  "name": "respond.io",
+  "review_url": "https://zerotouchsupport.com/respond-io-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/respond-io.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#respond-io",
+  "tested_on": "2026-10-31",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "2 confirmed · 1 not testable",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "respond.io hands-on test by ZeroTouch Support, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://zerotouchsupport.com/respond-io-review.html\"><img src=\"https://zerotouchsupport.com/badges/respond-io.svg\" width=\"340\" height=\"115\" alt=\"respond.io hands-on test by ZeroTouch Support, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "supportbee",
+  "name": "SupportBee",
+  "review_url": "https://zerotouchsupport.com/supportbee-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/supportbee.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#supportbee",
+  "tested_on": "2026-10-20",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "SupportBee hands-on test by ZeroTouch Support, 20 Oct 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://zerotouchsupport.com/supportbee-review.html\"><img src=\"https://zerotouchsupport.com/badges/supportbee.svg\" width=\"340\" height=\"81\" alt=\"SupportBee hands-on test by ZeroTouch Support, 20 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "tidio",
+  "name": "Tidio",
+  "review_url": "https://zerotouchsupport.com/tidio-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/tidio.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#tidio",
+  "tested_on": "2026-10-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Tidio hands-on test by ZeroTouch Support, 21 Oct 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://zerotouchsupport.com/tidio-review.html\"><img src=\"https://zerotouchsupport.com/badges/tidio.svg\" width=\"340\" height=\"81\" alt=\"Tidio hands-on test by ZeroTouch Support, 21 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "typewise",
+  "name": "Typewise",
+  "review_url": "https://zerotouchsupport.com/typewise-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/typewise.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#typewise",
+  "tested_on": "2026-10-23",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 1",
+   "1 contradicted",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "Typewise hands-on test by ZeroTouch Support, 23 Oct 2026: Vendor claims checked 1; 1 contradicted; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://zerotouchsupport.com/typewise-review.html\"><img src=\"https://zerotouchsupport.com/badges/typewise.svg\" width=\"340\" height=\"115\" alt=\"Typewise hands-on test by ZeroTouch Support, 23 Oct 2026: Vendor claims checked 1; 1 contradicted; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "zendesk",
+  "name": "Zendesk",
+  "review_url": "https://zerotouchsupport.com/zendesk-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/zendesk.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#zendesk",
+  "tested_on": "2026-11-13",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "2 confirmed · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Zendesk hands-on test by ZeroTouch Support, 13 Nov 2026: Vendor claims checked 4; 2 confirmed · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://zerotouchsupport.com/zendesk-review.html\"><img src=\"https://zerotouchsupport.com/badges/zendesk.svg\" width=\"340\" height=\"115\" alt=\"Zendesk hands-on test by ZeroTouch Support, 13 Nov 2026: Vendor claims checked 4; 2 confirmed · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "zenzap",
+  "name": "ZenZap",
+  "review_url": "https://zerotouchsupport.com/zenzap-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/zenzap.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#zenzap",
+  "tested_on": "2026-10-23",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "ZenZap hands-on test by ZeroTouch Support, 23 Oct 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://zerotouchsupport.com/zenzap-review.html\"><img src=\"https://zerotouchsupport.com/badges/zenzap.svg\" width=\"340\" height=\"81\" alt=\"ZenZap hands-on test by ZeroTouch Support, 23 Oct 2026: No claim or export checks recorded\"></a>"
+ }
+]
