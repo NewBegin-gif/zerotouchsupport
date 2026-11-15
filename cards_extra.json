@@ -10873,5 +10873,12 @@
    "label": "20% off the first 3 months of a SignThis plan with the code…"
   },
   "best": "Senders who sign a few documents a month for free, or who want to require a palm scan from signers before a signature counts."
+ },
+ "BeSure Checkout Rules": {
+  "price": "$4.99",
+  "price_note": "Starter · per monthly, Starter $4.99 a month or $49.90 a year with 2 rules in total",
+  "verified": "2026-11-15",
+  "catch": "Shipping and payment rules at checkout; from $4.99 a month, 5-day trial.",
+  "best": "Shopify store owners who want to hide, rename or reorder shipping and payment methods, or block invalid checkouts, with a few rules and a low monthly price."
  }
 }
