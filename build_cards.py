@@ -189,7 +189,7 @@ CARD = """\
  <div class="lg-oordeel"><p class="tool-desc">{desc}</p>{best_row}{catch_row}</div>
  <div class="lg-signalen">{flags_row}{coupon_row}<div class="tool-tags">{tags}</div></div>
  <div class="lg-acties tool-cta-row">
-  <a href="{link}" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Try {name} <span aria-hidden="true">&rarr;</span></a>
+  <a href="{link}" target="_blank" rel="{cta_rel}" class="tool-cta-primary">Try {name} <span aria-hidden="true">&rarr;</span></a>
   {review_link}
  </div>
 </article>"""
@@ -460,6 +460,25 @@ def coupon_row(e):
             f'<span aria-hidden="true">&#127915;</span>{code}<span class="lb">{html.escape(c.get("label", ""))}</span></div>')
 
 
+def cta(t):
+    """(href, rel) voor de Try-knop: dezelfde affiliatepoort als de reviews (aibm_affiliate_gate.link_en_rel).
+
+    15 nov 2026 (zusterreview, punt B): de kaart zette altijd de trackinglink met rel="sponsored", ook voor
+    programma's die niet (meer) actief zijn; die hoort een kale vendorlink met nofollow te krijgen.
+    Zonder de poortmodule (de GitHub Action sync-data.yml draait dit script los in de repo en commit alleen
+    data.json en index.html, niet software.html) blijft de oude kaart staan; de VPS-keten bouwt met de poort.
+    """
+    import sys as _s
+    _ouder = str(Path(__file__).resolve().parent.parent)
+    if _ouder not in _s.path:
+        _s.path.insert(0, _ouder)
+    try:
+        import aibm_affiliate_gate as _G
+    except ImportError:
+        return t["link"], "sponsored noopener nofollow"
+    return _G.link_en_rel(t["name"], t.get("domain", ""), t["link"])
+
+
 KOP = '<div class="lg-kop" aria-hidden="true"><span>Tool</span><span>Price, dated</span><span>What it does · best for · the catch</span><span>Pricing patterns · reader code</span><span></span></div>'
 
 
@@ -522,7 +541,8 @@ def main():
             domain=html.escape(t.get("domain", "example.com"), quote=True),
             name=html.escape(t["name"]),
             desc=html.escape(_kaart_desc(t)),
-            link=html.escape(t["link"], quote=True),
+            link=html.escape(cta(t)[0], quote=True),
+            cta_rel=cta(t)[1],
             reviews_row=reviews_row(t),
             alt_row=alt_row_for(t),
             badge=html.escape(badge(t["category"])),
