@@ -4870,5 +4870,19 @@
   "domain": "voicedrop.ai",
   "desc": "Ringless voicemail platform for US outreach with AI voices, voice cloning, CRM and Zapier integrations, and usage-based pricing.",
   "link": "https://www.voicedrop.ai/?ref=daniel-haket"
+ },
+ {
+  "name": "PressBridge",
+  "category": "Developer Tools",
+  "domain": "pressbridgesupport.github.io",
+  "desc": "Self-hosted MCP server that lets Claude edit, update and repair WordPress sites over SSH, with backups, approval mode and a nightly security watch.",
+  "link": "https://pressbridgesupport.github.io/pressbridge?aff=6NyDVn"
+ },
+ {
+  "name": "zastech",
+  "category": "Financial Operations",
+  "domain": "zastech.dev",
+  "desc": "Small pay-once browser tools and prepaid APIs for invoices, proposals, Etsy payouts, bank statements, CSV cleanup and document extraction.",
+  "link": "https://zastech.dev?aff=6NyDVn"
  }
 ]
