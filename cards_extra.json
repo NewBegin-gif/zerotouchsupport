@@ -2477,7 +2477,7 @@
   ],
   "price": "$14.99",
   "price_note": "All-in-One Basic… · per user per month on monthly billing",
-  "verified": "2026-10-05",
+  "verified": "2026-11-16",
   "catch": "The meter is contacts AND seats at once: prices are per user, and each tier caps contacts: Basic’s 500 contacts fills fast, and the Growth jump is steep ($15 → $65 per user).",
   "best": "Small teams that want CRM, email marketing, helpdesk and live chat in one affordable suite: the free tier is a genuine trial-for-life."
  },
@@ -10926,5 +10926,26 @@
   "verified": "2026-11-15",
   "catch": "Pay-once invoice, payout and document tools; free to try, from $15.",
   "best": "Online sellers, freelancers and small teams that want a single finished job done, such as an invoice or an Etsy payout breakdown."
+ },
+ "Zapier": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$19.99",
+  "price_note": "Professional · Free $0 with 100 tasks a month and two-step Zaps",
+  "verified": "2026-11-16",
+  "catch": "Connects thousands of apps without code; free plan, paid from $19.99.",
+  "best": "Small teams and founders who want to connect the apps they already use so data moves on its own, and are happy to pay per task as volume grows."
+ },
+ "Gymcatch": {
+  "price": "£10",
+  "price_note": "Gymcatch · From £10 +VAT per month with 1 month free, no card",
+  "verified": "2026-11-16",
+  "catch": "Booking and client software for fitness studios; from £10 + VAT, first month free.",
+  "best": "Personal trainers, fitness studios and wellness businesses that want simple class booking and client management at one flat monthly price."
  }
 }

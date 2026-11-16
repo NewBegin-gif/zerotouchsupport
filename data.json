@@ -4898,5 +4898,13 @@
   "domain": "gymcatch.com",
   "desc": "Booking and customer management software for fitness studios, trainers and wellness businesses, with unlimited bookings and clients on one plan.",
   "link": "https://gymcatch.com/"
+ },
+ {
+  "name": "RepointQR",
+  "category": "Growth & Revenue",
+  "domain": "repointqr.com",
+  "desc": "Editable dynamic QR codes for print: change the destination after printing, with a free plan, scan counts and PNG, SVG and PDF export.",
+  "link": "https://repointqr.com/en?ref=JGMH5FFBG9",
+  "replaces": "Uniqode"
  }
 ]
