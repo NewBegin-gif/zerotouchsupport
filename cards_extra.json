@@ -10947,5 +10947,19 @@
   "verified": "2026-11-16",
   "catch": "Booking and client software for fitness studios; from £10 + VAT, first month free.",
   "best": "Personal trainers, fitness studios and wellness businesses that want simple class booking and client management at one flat monthly price."
+ },
+ "RepointQR": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9.99",
+  "price_note": "QR Starter · per month, Free $0 forever",
+  "verified": "2026-11-16",
+  "catch": "Dynamic QR codes you can edit after printing; free plan, paid from $9.99.",
+  "best": "Small businesses and local campaigns that print QR codes on menus, flyers, posters or packaging and want to change the destination later without reprinting."
  }
 }
