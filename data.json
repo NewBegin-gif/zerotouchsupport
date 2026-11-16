@@ -4884,5 +4884,19 @@
   "domain": "zastech.dev",
   "desc": "Small pay-once browser tools and prepaid APIs for invoices, proposals, Etsy payouts, bank statements, CSV cleanup and document extraction.",
   "link": "https://zastech.dev?aff=6NyDVn"
+ },
+ {
+  "name": "Zapier",
+  "category": "Operations & Workflow",
+  "domain": "zapier.com",
+  "desc": "No-code automation platform that connects apps so a trigger in one starts actions in others, with a free plan and paid tiers by task volume.",
+  "link": "https://try.zapier.com/fgqmiitkvgsr"
+ },
+ {
+  "name": "Gymcatch",
+  "category": "Operations & Workflow",
+  "domain": "gymcatch.com",
+  "desc": "Booking and customer management software for fitness studios, trainers and wellness businesses, with unlimited bookings and clients on one plan.",
+  "link": "https://try.gymcatch.com/flfavmmjytqm"
  }
 ]
