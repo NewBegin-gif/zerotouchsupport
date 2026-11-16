@@ -1808,6 +1808,11 @@
     "per_seat"
    ],
    [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -1815,7 +1820,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month billed yearly ($35 monthly), covers first 30 users",
-  "verified": "2026-10-22",
+  "verified": "2026-11-15",
   "catch": "The free-for-10 plan is one of the most generous in the category, but the three-hub structure means costs can stack if you need all of them: price the specific hubs you'll actually use, not the full bundle.",
   "best": "Deskless and frontline teams (shift work, field crews) that need scheduling, a time clock and comms in one app, on the free-for-10 plan."
  },
@@ -2181,7 +2186,7 @@
  "doola": {
   "price": "$297",
   "price_note": "from · per year",
-  "verified": "2026-10-01",
+  "verified": "2026-11-15",
   "catch": "Formation is the cheap part; the recurring bookkeeping and tax tiers are where the real cost sits, and state fees are extra on top of doola's price.",
   "coupon": {
    "code": "AIBUILDER10",
@@ -2474,10 +2479,6 @@
   "price_note": "All-in-One Basic… · per user per month on monthly billing",
   "verified": "2026-10-05",
   "catch": "The meter is contacts AND seats at once: prices are per user, and each tier caps contacts: Basic’s 500 contacts fills fast, and the Growth jump is steep ($15 → $65 per user).",
-  "coupon": {
-   "code": "AIBUILDER20",
-   "label": "20% off your first billing"
-  },
   "best": "Small teams that want CRM, email marketing, helpdesk and live chat in one affordable suite: the free tier is a genuine trial-for-life."
  },
  "Envoy": {
@@ -2650,7 +2651,7 @@
  "Fastmail": {
   "price": "$5",
   "price_note": "Individual · per month, or $60 for twelve months, with 60 GB for one person",
-  "verified": "2026-10-15",
+  "verified": "2026-11-15",
   "catch": "You're paying for what the free giants monetize differently: no ads, no profiling, real support and standards-first email (JMAP/IMAP everywhere).",
   "best": "Individuals and small businesses that want fast, private, ad-free email on their own domain with proper support and masked-email aliases."
  },
@@ -3184,9 +3185,9 @@
     "addons_extra"
    ]
   ],
-  "price": "$19.99",
-  "price_note": "Core · billed monthly — $18 is the yearly rate",
-  "verified": "2026-09-28",
+  "price": "$49.99",
+  "price_note": "Essentials · billed monthly; $45 is the yearly rate",
+  "verified": "2026-11-15",
   "catch": "Two honest limits: it's pricier than alternatives with thin mid-tier options, and several users report slow customer service (sometimes a week or more to reply).",
   "coupon": {
    "code": "",
@@ -3941,7 +3942,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month ($23 billed annually), 25 pages, 1 site",
-  "verified": "2026-10-15",
+  "verified": "2026-11-15",
   "catch": "It's the value pick, not the optimisation pick, if you're spending big on ads, Unbounce's Smart Traffic and Instapage's 1:1 personalisation go deeper.",
   "best": "Small businesses building landing pages and simple funnels who want unmetered traffic: no per-visitor anxiety, unlike metered rivals."
  },
@@ -7131,7 +7132,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-10-21",
+  "verified": "2026-11-15",
   "catch": "You cannot find out what it costs without booking a demo.",
   "best": "Growing teams (roughly 10+ staff) that need to document SOPs and onboard new hires consistently instead of training by osmosis."
  },
@@ -7345,7 +7346,7 @@
   ],
   "price": "$30",
   "price_note": "from · per user a month, or $25 billed annually",
-  "verified": "2026-09-29",
+  "verified": "2026-11-15",
   "catch": "The pitch is unusually bold: an AI that learns your business the way a great employee would, finds the constraint keeping you stuck, and helps you solve it.",
   "best": "Hands-on entrepreneurs and small-business owners buried in operational detail who want AI that learns their specific business and helps surface what's actually holding it back: explicitly not enterprise software.",
   "pw": "plans rebuilt Sep 2026",
@@ -10847,7 +10848,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-11-14",
+  "verified": "2026-11-15",
   "catch": "B2B payments for AP and AR; $0 plan, ACH from $0.50.",
   "best": "Small US businesses and bookkeepers who pay vendors and collect invoices by ACH and want a free account with an AP and AR inbox."
  },
