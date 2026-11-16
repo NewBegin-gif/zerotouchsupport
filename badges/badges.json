@@ -30,6 +30,22 @@
   "snippet": "<a href=\"https://zerotouchsupport.com/cloudtalk-review.html\"><img src=\"https://zerotouchsupport.com/badges/cloudtalk.svg\" width=\"340\" height=\"115\" alt=\"CloudTalk hands-on test by ZeroTouch Support, 24 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "cloze",
+  "name": "Cloze",
+  "review_url": "https://zerotouchsupport.com/cloze-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/cloze.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#cloze",
+  "tested_on": "2026-11-16",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "3 confirmed · 2 contradicted · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Cloze hands-on test by ZeroTouch Support, 16 Nov 2026: Vendor claims checked 7; 3 confirmed · 2 contradicted · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://zerotouchsupport.com/cloze-review.html\"><img src=\"https://zerotouchsupport.com/badges/cloze.svg\" width=\"340\" height=\"115\" alt=\"Cloze hands-on test by ZeroTouch Support, 16 Nov 2026: Vendor claims checked 7; 3 confirmed · 2 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "cometchat",
   "name": "CometChat",
   "review_url": "https://zerotouchsupport.com/cometchat-review.html",
