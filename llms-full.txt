@@ -64,7 +64,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://zerotouchsupport.com/cloze-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Cloze: Free forever with 50 conversations a month, Pro $29 a month and Business $79 a month. The second is the track record, or the absence of one.
-- Price: (read 2026-08-19, re-verified unchanged 2026-09-04 on apps.shopify.com/cloze, listed as “Cloze: AI Shopping Assistant”) Free plan available: 25 AI conversations a month, up to 100 synced products, core assistant customisation and 7 days of conversation history. Paid tiers are Starter $49, Pro $99 and Scale $199 a month, each with $0.10 per additional AI conversation and a 3-day free trial.
+- Price: (read 2026-08-19, re-verified unchanged 2026-09-04 on apps.shopify.com/cloze, listed as “Cloze: AI Shopping Assistant”) Free plan available: 25 AI conversations a month, up to 100 synced products, core assistant customisation and 7 days of conversation history. Paid tiers are Starter $49, Pro $99 and Scale $199 a month, each with $0.10 per additional AI conversation and, on the listing, a 3 day free trial; in the…
 
 ## CometChat
 - Review: https://zerotouchsupport.com/cometchat-review.html
