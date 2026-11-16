@@ -4656,9 +4656,9 @@
     "annual_lock"
    ]
   ],
-  "price": "$89",
-  "price_note": "from · per month (4 AI channels, 50 prompts, 5 seats)",
-  "verified": "2026-10-20",
+  "price": "$45",
+  "price_note": "from · per month (25 saved prompts, 5 seats, all 10 AI platforms)",
+  "verified": "2026-11-16",
   "catch": "Two honest cautions. AI search visibility (GEO) is a young, fast-moving category. Tracking how you appear in ChatGPT and other AI answers is useful signal, but the metrics are far less standardized than classic SEO, and you're paying to monitor a moving target you only partly influence.",
   "best": "Brands and SEO teams that want to measure and improve how they show up in AI-generated answers (ChatGPT, Google AI and more) as AI search grows."
  },
@@ -5675,7 +5675,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month billed yearly ($39 monthly)",
-  "verified": "2026-10-21",
+  "verified": "2026-11-16",
   "catch": "It's deliberately lean: no built-in dialer, no quoting or invoicing, and reporting feels basic unless you export.",
   "best": "Small B2B teams whose reps hate data entry: Salesflare auto-logs emails, meetings and contact details from your inbox and calendar."
  },
@@ -6379,8 +6379,8 @@
   ],
   "price": "$23",
   "price_note": "from · per month at the 200-order volume step (no free plan)",
-  "verified": "2026-09-12",
-  "catch": "The $798/month figure that circulates for the full suite is real, but it is a floor rather than a ceiling: that is what multi-product access costs from the 5,000-order step, and below that step you cannot buy the bundle at all.",
+  "verified": "2026-11-16",
+  "catch": "The ladder climbs at every order step.",
   "best": "Mid-market Shopify brands that want reviews and loyalty in one platform instead of juggling separate apps."
  },
  "Stampezee": {
@@ -9276,7 +9276,7 @@
   ],
   "price": "$9",
   "price_note": "from · per month (250 message credits)",
-  "verified": "2026-10-13",
+  "verified": "2026-11-16",
   "catch": "You pay in message credits, roughly five per conversation by the page's own estimate, and the terms make fees non-refundable.",
   "coupon": {
    "code": "BLACKFRIDAY2026",
