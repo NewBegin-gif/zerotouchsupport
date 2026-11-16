@@ -4906,5 +4906,20 @@
   "desc": "Editable dynamic QR codes for print: change the destination after printing, with a free plan, scan counts and PNG, SVG and PDF export.",
   "link": "https://repointqr.com/en?ref=JGMH5FFBG9",
   "replaces": "Uniqode"
+ },
+ {
+  "name": "Essential Cart Drawer",
+  "category": "E-commerce",
+  "domain": "essential-apps.com",
+  "desc": "Shopify slide-out cart drawer with in-cart upsells, a free-shipping reward bar, countdown timer, announcement bar and sticky add-to-cart bar; every plan has every feature, with plans tiered by monthly drawer orders.",
+  "link": "https://platform.shoffi.app/r/rl_wxvqbt21",
+  "platform": "shopify"
+ },
+ {
+  "name": "PayRewards",
+  "category": "Financial Operations",
+  "domain": "payrewards.com",
+  "desc": "Business bill-payment platform that lets you pay vendors, contractors and taxes by card, ACH, wire or paper check and earn PayRewards Points on every payment, with a fee that depends on the points tier you choose.",
+  "link": "https://affiliate.payrewards.com/gafbtub4m7qd"
  }
 ]
