@@ -733,6 +733,10 @@
   "price_note": "from · a month, or €49–€59 billed yearly",
   "verified": "2026-10-07",
   "catch": "The honest concern here isn't the price: it's the model, and the guarantee that is supposed to cover you if the model fails.",
+  "coupon": {
+   "code": "GROW20",
+   "label": "20% off the first payment with the code GROW20 for our readers"
+  },
   "best": "Solo founders and lean startups who want hands-off SEO content velocity fast, are comfortable with AI-generated articles at scale.",
   "pw": "plans rebuilt Oct 2026",
   "pw_soort": "restructure"
@@ -11072,5 +11076,73 @@
   "verified": "2026-11-17",
   "catch": "Helpdesk with the Fin AI agent; seats from $29, Fin $0.99 per outcome.",
   "best": "Support teams that want a messenger, shared inbox and an AI agent in one platform, and are fine paying per seat plus per resolved conversation."
+ },
+ "EmailOctopus": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "Pro · per month billed yearly at the entry tier",
+  "verified": "2026-11-17",
+  "catch": "Simple email marketing: free to 2,500 subscribers, Pro from $9 a month.",
+  "best": "Newsletter publishers and small businesses that want a cheap, simple sender with a free tier and no trial clock."
+ },
+ "Rewardful": {
+  "price": "$49",
+  "price_note": "Starter · per month",
+  "verified": "2026-11-17",
+  "catch": "Affiliate tracking for Stripe SaaS: from $49 a month, 0% transaction fee.",
+  "best": "SaaS and AI companies that bill through Stripe and want a dedicated affiliate and referral programme with a flat monthly fee."
+ },
+ "Selleasy": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "Starter · per month, flat, unlimited orders and campaigns",
+  "verified": "2026-10-30",
+  "catch": "The pricing changed under this review in October 2026, and the vendor's own page has not caught up.",
+  "best": "Shopify stores that want bundles, add-ons, cart funnels and post-purchase offers out of one app on a flat fee that never takes a share of upsell revenue: small stores can test on the free plan, and Shopify Plus stores get checkout upsells from $29 a month.",
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
+ },
+ "Easy-Peasy.AI": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$8",
+  "price_note": "Starter · per month billed yearly ($96 a year)",
+  "verified": "2026-11-17",
+  "catch": "All-in-one AI writing, image and audio tool: free plan, paid from $8 a month.",
+  "best": "Solo creators, marketers and small teams that want writing, images, transcription and voice in one subscription with a free tier to try first."
+ },
+ "Seobility": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "verified": "2026-11-17",
+  "catch": "SEO suite with a free Basic account; Premium from 59.90 EUR a month.",
+  "best": "Small businesses, freelancers and agencies that want a website audit, rank tracking and backlink monitoring in one suite, with a free account to start."
  }
 }
