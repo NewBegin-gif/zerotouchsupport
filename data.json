@@ -4949,5 +4949,41 @@
   "domain": "intercom.com",
   "desc": "Customer service platform that combines a helpdesk and shared inbox with the Fin AI agent, priced per seat plus a fee per resolved conversation.",
   "link": "https://intercommmm.partnerlinks.io/afbfogpj0c9l-zib6ma"
+ },
+ {
+  "name": "EmailOctopus",
+  "category": "Marketing",
+  "domain": "emailoctopus.com",
+  "desc": "Email marketing for newsletters and small businesses, with a free plan for 2,500 subscribers and a Pro plan that removes branding.",
+  "link": "https://emailoctopus.com/?ref=daniel9g"
+ },
+ {
+  "name": "Rewardful",
+  "category": "Growth & Revenue",
+  "domain": "rewardful.com",
+  "desc": "Affiliate and referral tracking for SaaS companies that bill through Stripe, with flat monthly pricing and a 14-day free trial.",
+  "link": "https://www.rewardful.com/?via=marketingandsalessoftware"
+ },
+ {
+  "name": "Selleasy",
+  "category": "Growth & Revenue",
+  "domain": "logbase.io",
+  "desc": "Shopify upsell and cross-sell app (by Logbase): bundles and product add-ons on the product page, add-on pop-ups and response-based funnels on the cart, one-click post-purchase offers and thank-you page add-ons. Flat plans with no order limit and no share of upsell revenue, including a free plan with up to five campaigns.",
+  "link": "https://www.selleasy.app/",
+  "platform": "shopify"
+ },
+ {
+  "name": "Easy-Peasy.AI",
+  "category": "Design & Content",
+  "domain": "easy-peasy.ai",
+  "desc": "All-in-one AI platform for writing, images, audio transcription, text-to-speech and chatbots, with 200+ templates, a free plan and a 30-day money-back guarantee.",
+  "link": "https://easy-peasy.ai/?via=aibuildermarketplace"
+ },
+ {
+  "name": "Seobility",
+  "category": "SEO & Marketing",
+  "domain": "seobility.net",
+  "desc": "SEO software suite with website audit, rank monitoring, backlink monitoring, uptime checks and AI visibility tracking, with a free Basic account and a 14-day trial on paid plans.",
+  "link": "https://www.seobility.net/en/?px=2&a_aid=ii4lcayrj7g8k"
  }
 ]
