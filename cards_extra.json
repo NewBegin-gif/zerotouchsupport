@@ -4997,6 +4997,10 @@
  "Pixel Union": {
   "verified": "2026-09-27",
   "catch": "A $360 theme on a store with weak product pages or slow images still converts weakly, and heavily customized premium themes take more work to keep updated.",
+  "coupon": {
+   "code": "TURBOBFCM26 / FLEXBFCM26 / SUPERSTOREBFCM26 / VINOBFCM26",
+   "label": "20% off one of four Out of the Sandbox themes with the matching…"
+  },
   "best": "Online retailers and larger-catalog stores that want a professionally designed, conversion-focused Shopify storefront without paying for custom development."
  },
  "Planday": {
@@ -5913,7 +5917,7 @@
   ],
   "price": "€28",
   "price_note": "Lite · billed monthly",
-  "verified": "2026-09-22",
+  "verified": "2026-11-17",
   "catch": "The pricing has layers: a per-label fee on top of the subscription, plus carrier surcharges that can land on invoices weeks later.",
   "best": "European e-commerce stores that want easy multi-carrier shipping (DHL, PostNL, Colissimo, GLS, DPD), branded tracking and a returns portal live in under 30 minutes."
  },
@@ -6428,8 +6432,8 @@
     "free_tier"
    ]
   ],
-  "price": "$49.99",
-  "price_note": "from · per month",
+  "price": "$7.99",
+  "price_note": "Professional · per month at the regular price for 500 FAQ page views and 50 AI chatbot…",
   "verified": "2026-11-17",
   "catch": "The meter is FAQ page views, and that is the thing this app exists to increase.",
   "best": "Small Shopify stores that want SEO-tagged FAQ pages with JSON-LD schema and a light AI chatbot for deflection, without standing up a full support stack."

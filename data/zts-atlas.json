@@ -456,7 +456,7 @@
    "entry_price": "$6.99",
    "entry_price_terms": "Pro · per month for the chat button and messages you send by hand",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-09-18 on apps.shopify.com/dondy-marketing-ai, listed as “Dondy: WhatsApp Marketing+Chat”) Four tiers, each paid one with a 7-day free trial, and every amount unchanged since 22 August 2026. Free: a WhatsApp chat button with unlimited conversations, custom size and location, and prefilled messages. Pro $6.99 a month or $67.10 a year, a 20% saving: premium button designs, a WhatsApp widget, text customisation, product URLs in messages, custom hours, reports, and abandoned-cart and order-confirmation messages you send manually. Power Automation $79.99 a month or $719.88 a year, a 25% saving: automated abandoned-cart recovery, WhatsApp marketing campaigns, customisable automated messages, bulk messaging to Shopify segments, an inbox with Shopify integration and the official WhatsApp Business API. It includes 1,000 one-click messages every 30 days and quotes WhatsApp rates starting at $0.0158 in the US on top. Elite $159.99 a month or $1,439.88 a year, also a 25% saving, adds an AI chatbot for sales and support, AI corrections and training, AI product recommendations, a five-agent WhatsApp inbox, green-tick verification assistance, a VIP account manager and unlimited WhatsApp flows; same 1,000 included messages, rates starting at $0.0126. All charges are billed in USD and recur every 30 days, and Meta's per-conversation charges are separate from all of it. The listing now also advertises work the dossier did not cover in August: collecting WhatsApp reviews through Judge.me, Loox, Yotpo, Trustoo or Google, cash-on-delivery messaging, and AI agents alongside the chatbot; the named integrations are Shopify Flow, Shopify Admin, Judge.me, Klaviyo, Loox, WhatsApp API and WhatsApp Business. Developer Dondy; the app launched 15 March 2023, is available in five languages and carries Shopify's “Built for Shopify” badge. Reviews have grown to 823 averaging 4.9, up from 774 on 22 August, distributed 92% five-star (756), 4% four-star (36), 1% three-star (6), 0% two-star (4) and 3% one-star (21) — the one-star count is the same 21 as a month ago, so all 49 new reviews landed above the bottom.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/dondy-marketing-ai, listed as “Dondy: WhatsApp Marketing+Chat”, and in our own test session on 17 November 2026) The listing shows four tiers, Free, Pro at $6.99 a month, Power Automation at $79.99 and Elite at $159.99, and the plan screen inside the app adds a fifth, Ultimate at $299 a month. Each paid listing tier has a 7 day free trial, and every listing amount is unchanged since 22 August 2026. Free: a WhatsApp chat button with unlimited conversations, custom size and location, and prefilled messages. Pro $6.99 a month or $67.10 a year, a 20% saving: premium button designs, a WhatsApp widget, text customisation, product URLs in messages, custom hours, reports, and abandoned-cart and order-confirmation messages you send manually. Power Automation $79.99 a month or $719.88 a year, a 25% saving: automated abandoned-cart recovery, WhatsApp marketing campaigns, customisable automated messages, bulk messaging to Shopify segments, an inbox with Shopify integration and the official WhatsApp Business API. It includes 1,000 one-click messages every 30 days and quotes WhatsApp rates starting at $0.0158 in the US on top. Elite $159.99 a month or $1,439.88 a year, also a 25% saving, adds an AI chatbot for sales and support, AI corrections and training, AI product recommendations, a five-agent WhatsApp inbox, green-tick verification assistance, a VIP account manager and unlimited WhatsApp flows; same 1,000 included messages, rates starting at $0.0126. All charges are billed in USD and recur every 30 days, and Meta's per conversation charges are separate from all of it. The plan screen inside the app, in our own test session on 17 November 2026, showed the same amounts for Pro, Power Automation and Elite but described them differently: Pro with 500 manual WhatsApp messages a month and WhatsApp click analytics, Power Automation with a WhatsApp team inbox for 2 agents and a dedicated WhatsApp Business API phone number, and Elite with custom WhatsApp automation flows and a dedicated WhatsApp strategist. It added Ultimate at $299 a month, labelled All channels: an AI agent on WhatsApp, Instagram, Messenger and email, double the AI replies of Elite, an Instagram and Facebook Messenger inbox, an email inbox with Gmail, custom automation flows and campaigns, and a dedicated account manager. Below the cards an Enterprise plan carried no price, only Talk to us on WhatsApp and Book a call. Every paid plan in the app offered a 7 day free trial; we did not check the app's annual prices. The Shopify approval screen for Pro asked for a payment method, so we did not approve it. The listing now also advertises work the dossier did not cover in August: collecting WhatsApp reviews through Judge.me, Loox, Yotpo, Trustoo or Google, cash-on-delivery messaging, and AI agents alongside the chatbot; the named integrations are Shopify Flow, Shopify Admin, Judge.me, Klaviyo, Loox, WhatsApp API and WhatsApp Business. Developer Dondy; the app launched 15 March 2023, is available in five languages and carries Shopify's “Built for Shopify” badge. On 17 November 2026 the listing showed 834 reviews averaging 4.9, up from 823 on 18 September and 774 on 22 August, distributed 92% five star (767), 4% four star (36), 1% three star (6), 0% two star (4) and 3% one star (21). The one star count has stayed at 21 since August, so all 60 reviews added since then landed above the bottom.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -464,7 +464,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/dondy-marketing-ai",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-02"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
@@ -472,12 +472,12 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/dondy-marketing-ai",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-02"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-02",
-   "first_observed_at": "2026-09-18"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "EazyChat",
@@ -832,12 +832,12 @@
    "entry_price": "$29",
    "entry_price_terms": "Essential · per seat per month",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-17 on intercom.com/pricing, US dollars per seat per month, annual/monthly toggle not recorded) Essential $29 (new customers $19, 35% off), Advanced $85, Expert $132; every plan includes the Fin AI Agent, charged at $0.99 per outcome. Fin alone for an existing helpdesk: $0.99 per outcome, no seats, minimum monthly commitment. Early Stage programme: 96% off for startups under $10M raised with 15 employees or fewer. Free trial on Essential and Advanced. We have not paid for a plan.",
+   "price_note": "(read 2026-11-17 on intercom.com/pricing, US dollars per seat per month, billed annually) Essential $29 (new customers $19, 35% off), Advanced $85, Expert $132; billed monthly $39, $99 and $139 per seat, per Intercom's help article 'Fin and Intercom plans explained' read the same day; every plan includes the Fin AI Agent, charged at $0.99 per outcome. Fin alone for an existing helpdesk: $0.99 per outcome, no seats, minimum monthly commitment. Early Stage programme: 96% off for startups under $10M raised with 15 employees or fewer. Free trial of 14 days, no credit card required, with Fin and the Pro, Proactive Support Plus and Copilot add-ons included during the trial. We have not paid for a plan.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "The bill has two meters: a price per seat and $0.99 for each conversation Fin resolves, so it grows with both team size and volume.",
-     "evidence_excerpt": null,
+     "evidence": "(read 2026-11-17 on intercom.com/pricing, US dollars per seat per month, billed annually) Essential $29 (new customers $19, 35% off), Advanced $85, Expert $132; billed monthly $39, $99 and $139 per seat, per Intercom's help article 'Fin and Intercom plans explained' read the same day; every plan includes the Fin AI Agent, charged at $0.99 per outcome.",
+     "evidence_excerpt": "(read 2026-11-17 on intercom.com/pricing, US dollars per seat per month, billed annually) Essential $29 (new customers $19, 35% off), Advanced $85, Expert $132; billed monthly $39, $99 and $139 per s…",
      "source_url": "https://www.intercom.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-11-17"
@@ -1363,30 +1363,30 @@
    "review_url": "https://aibuildermarketplace.com/b2b/storefaq-review/",
    "from_price_usd_mo": 7.99,
    "entry_price": "$7.99",
-   "entry_price_terms": "Professional · per month for 500 FAQ page views and 50 AI chatbot conversations…",
+   "entry_price_terms": "Professional · per month at the regular price for 500 FAQ page views and 50 AI chatbot…",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-21 and re-verified unchanged 2026-10-09 on apps.shopify.com/storefaq) Four tiers, metered on FAQ page views and AI chatbot conversations rather than on the number of FAQs. Free: 100 FAQ page views, unlimited FAQs and FAQ groups, the AI chatbot and AI-written FAQs, 25 AI conversations for the lifetime of the account, AI training on up to 50 products, export and import, instant answer with live chat and standard support. Professional $7.99 a month: 500 FAQ page views, 50 AI conversations a month, training on 150 products, multilingual FAQs and dedicated support, with overage at $0.0159 per extra page view and $0.30 per extra AI conversation. Growth $14.99 a month: 2,000 FAQ page views, 100 AI conversations a month, 300 products, with overage at $0.0075 a view and $0.30 a conversation. Enterprise $49.99 a month or $479.90 a year, a 20% saving: unlimited FAQ page views, 500 AI conversations a month, 2,000 products, priority support and $0.30 per extra conversation. All charges are billed in USD and recur every 30 days. Developer Storeware, 124 Broadkill Rd #599, Milton, Delaware; the app launched 3 January 2024 and carries Shopify's “Built for Shopify” badge.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/storefaq and on storefaq.io, and in our own test session on 17 November 2026; first read 2026-08-21) Four tiers at regular prices: Free, Professional at $7.99 a month, Growth at $14.99 and Enterprise at $49.99. They are metered on FAQ page views and AI chatbot conversations rather than on the number of FAQs. Free: 100 FAQ page views, unlimited FAQs and FAQ groups, the AI chatbot and AI written FAQs, 25 AI conversations for the lifetime of the account, AI training on up to 50 products, export and import, instant answer with live chat and standard support. Professional $7.99 a month: 500 FAQ page views, 50 AI conversations a month, training on 150 products, multilingual FAQs and dedicated support, with overage at $0.0159 per extra page view and $0.30 per extra AI conversation. Growth $14.99 a month: 2,000 FAQ page views, 100 AI conversations a month, 300 products, with overage at $0.0075 a view and $0.30 a conversation. Enterprise $49.99 a month or $479.90 a year, a 20% saving: unlimited FAQ page views, 500 AI conversations a month, 2,000 products, priority support and $0.30 per extra conversation. The overage has a ceiling: storefaq.io says page view charges stop at $7.99 a month on Professional and $14.99 on Growth, and the plan cards in the app say billing for page views and for conversations is each capped at $7.99, $14.99 and $49.99 a month on the three paid plans. The Shopify approval screen for Professional set an app spending limit of $15.98 per 30 days. One figure does not agree: in our own test session the Professional card inside the app gave the page view overage as $0.0075, the Growth rate, while the listing and storefaq.io both print $0.0159 for Professional. We quote $0.0159 because both public pages carry it; ask StoreFAQ which rate your bill uses. A Black Friday deal was running on 17 November 2026: 40% off all paid plans with code BFCMSALE40, which made Professional $4.79, Growth $8.99 and Enterprise $29.99 for the first month, and Enterprise $287.94 for a year against the struck through $479.90 on storefaq.io. storefaq.io says the Black Friday prices apply to your first month and regular pricing applies after that, and gives no end date. The App Store listing printed the discounted figures as the plan prices without marking them as a sale. All charges are billed in USD and recur every 30 days. Developer Storeware, 124 Broadkill Rd #599, Milton, Delaware; the app launched 3 January 2024 and carries Shopify's “Built for Shopify” badge.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(read 2026-08-21 and re-verified unchanged 2026-10-09 on apps.shopify.com/storefaq) Four tiers, metered on FAQ page views and AI chatbot conversations rather than on the number of FAQs.",
+     "evidence": "They are metered on FAQ page views and AI chatbot conversations rather than on the number of FAQs.",
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/storefaq",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
-     "evidence": "Free: 100 FAQ page views, unlimited FAQs and FAQ groups, the AI chatbot and AI-written FAQs, 25 AI conversations for the lifetime of the account, AI training on up to 50 products, export and import, instant answer with live chat and standard support.",
-     "evidence_excerpt": "Free: 100 FAQ page views, unlimited FAQs and FAQ groups, the AI chatbot and AI-written FAQs, 25 AI conversations for the lifetime of the account, AI training on up to 50 products, export and import, …",
+     "evidence": "Free: 100 FAQ page views, unlimited FAQs and FAQ groups, the AI chatbot and AI written FAQs, 25 AI conversations for the lifetime of the account, AI training on up to 50 products, export and import, instant answer with live chat and standard support.",
+     "evidence_excerpt": "Free: 100 FAQ page views, unlimited FAQs and FAQ groups, the AI chatbot and AI written FAQs, 25 AI conversations for the lifetime of the account, AI training on up to 50 products, export and import, …",
      "source_url": "https://apps.shopify.com/storefaq",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-09",
-   "first_observed_at": "2026-08-21"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "SupportBee",

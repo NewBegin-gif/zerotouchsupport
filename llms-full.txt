@@ -130,7 +130,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://zerotouchsupport.com/intercom-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Intercom: Essential $29 (new customers $19, 35% off), Advanced $85, Expert $132. The cheaper Essential price is shown as a new-customer offer.
-- Price: (read 2026-11-17 on intercom.com/pricing, US dollars per seat per month, annual/monthly toggle not recorded) Essential $29 (new customers $19, 35% off), Advanced $85, Expert $132; every plan includes the Fin AI Agent, charged at $0.99 per outcome. Fin alone for an existing helpdesk: $0.99 per outcome, no seats, minimum monthly commitment.
+- Price: (read 2026-11-17 on intercom.com/pricing, US dollars per seat per month, billed annually) Essential $29 (new customers $19, 35% off), Advanced $85, Expert $132; billed monthly $39, $99 and $139 per seat, per Intercom's help article 'Fin and Intercom plans explained' read the same day; every plan includes the Fin AI Agent, charged at $0.99 per outcome. Fin alone for an existing helpdesk: $0.99 per outcome, no…
 
 ## Jotform AI Agents
 - Review: https://zerotouchsupport.com/jotform-ai-agents-review.html
