@@ -2892,7 +2892,7 @@
   ],
   "price": "$19",
   "price_note": "from · per agent a month billed annually ($23 monthly)",
-  "verified": "2026-10-16",
+  "verified": "2026-11-17",
   "catch": "The free tier is useful for small teams, but AI features and higher-tier routing sit behind paid plans and add-ons, and being part of the wider Freshworks suite means you'll be nudged toward the full platform.",
   "best": "Small-to-mid support teams that want live chat and messaging with a real free tier to start."
  },
@@ -3966,7 +3966,7 @@
   ],
   "price": "$49",
   "price_note": "from · per month (or $44 annually) but with a $5 fee per paid enrollment",
-  "verified": "2026-10-29",
+  "verified": "2026-11-17",
   "catch": "The detail most people miss is Starter's $5-per-paid-enrollment fee: at any real sales volume it quietly makes Starter more expensive than the flat Pro Trainer plan, so the \"cheap\" tier often isn't.",
   "best": "Course creators and training businesses that want a branded school with interactive video, assessments, certificates and a built-in checkout."
  },
@@ -4249,7 +4249,7 @@
   ],
   "price": "$8",
   "price_note": "from · per member a month, billed annually ($10 billed monthly)",
-  "verified": "2026-09-23",
+  "verified": "2026-11-17",
   "catch": "Per-member pricing charges for every member added to the workspace, so an org-wide rollout multiplies at full headcount, and the free plan's cap of 3 editable boards is workspace-wide, not per person.",
   "best": "Teams that think visually: brainstorms, flowcharts, retros, workshops and planning on an infinite shared canvas with strong templates and facilitation tools."
  },
@@ -10987,5 +10987,47 @@
   "verified": "2026-11-16",
   "catch": "Pay vendors by card, earn points; 1.75% fee, no subscription.",
   "best": "US small businesses that pay many vendor bills and want to put them on a credit card or earn travel points even when the vendor only takes ACH or a check."
+ },
+ "Klap": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$14.50",
+  "price_note": "Basic · per month billed yearly ($174 a year) for 100 clips a month",
+  "verified": "2026-11-17",
+  "catch": "Turns long videos into short clips; free on 1 video, paid from $14.50.",
+  "coupon": {
+   "code": "UMAYPTTB",
+   "label": "30% off your first payment with the code UMAYPTTB"
+  },
+  "best": "Creators, podcasters and small teams with long videos who want vertical clips with captions and reframing made automatically."
+ },
+ "Systeme.io": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$17",
+  "price_note": "Startup · per month for 5,000 contacts, 10 funnels and 5 courses",
+  "verified": "2026-11-17",
+  "catch": "All-in-one funnels, email and courses; free to 2,000 contacts, paid from $17.",
+  "best": "Solo creators, coaches and small online businesses that want funnels, email, courses and an affiliate program under one login."
  }
 }
