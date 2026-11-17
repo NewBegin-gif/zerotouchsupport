@@ -2243,7 +2243,7 @@
   ],
   "price": "$30",
   "price_note": "Starter · per month, or $240 a year which works out at $20 a month",
-  "verified": "2026-10-19",
+  "verified": "2026-11-17",
   "catch": "Read the ladder before you climb it. Starter already carries unlimited orders, unlimited products and automatic fulfilment: the whole product, in other words.",
   "best": "Someone who wants a turnkey private-label coffee or tea brand on Shopify (their roasting and packaging."
  },
@@ -2996,7 +2996,7 @@
   ],
   "price": "$29.99",
   "price_note": "from · a month, or $19.99 a month billed annually",
-  "verified": "2026-09-23",
+  "verified": "2026-11-17",
   "catch": "The free plan is usable, so the honest question is only whether Gelato+ earns its fee, and that depends entirely on volume: below ~10 orders a month the discounts won't cover the subscription.",
   "best": "Creators and stores selling custom products internationally who want local production in many countries to cut shipping time and cost, with no inventory."
  },
@@ -3761,7 +3761,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month",
-  "verified": "2026-11-01",
+  "verified": "2026-11-17",
   "catch": "The free plan covers only the first 50 discount orders a month, then $29 a month is billed, and Free and Starter are not for Shopify Advanced and Plus, whose entry tier is $49.",
   "best": "Shopify stores that want the discount mechanics themselves: gift with purchase, buy X get Y, tiered and volume pricing."
  },
@@ -4041,7 +4041,7 @@
   ],
   "price": "$399",
   "price_note": "from · per month billed annually ($449 monthly)",
-  "verified": "2026-09-22",
+  "verified": "2026-11-17",
   "catch": "Direct mail only pays off with a tight list and a real offer: it's a leverage channel, not a cheap thing to test blindly.",
   "best": "Local businesses and e-commerce brands using robotically handwritten mail (~$0.49/piece incl. postage) to stand out where email gets ignored.",
   "pw": "price up Aug 2026",
@@ -4227,8 +4227,8 @@
   ],
   "price": "$29",
   "price_note": "Automated app · a one-time payment rather than a subscription, and a floor…",
-  "verified": "2026-10-05",
-  "catch": "Start with what is no longer there. Read on 5 October 2026, the Shopify App Store listing says the app is not currently available and sends support questions to the vendor: no install button, no review page.",
+  "verified": "2026-11-17",
+  "catch": "On 5 October 2026 the Shopify App Store listing said the app was not currently available, with no install button and no review page; on 17 November 2026 it was live again with an Install button and 190 reviews, and the app installed normally in our own test.",
   "best": "Merchants moving an existing store into Shopify who want products, customers, orders and, critically, URLs and 301 redirects preserved."
  },
  "MindStudio": {
@@ -4610,16 +4610,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$9.90",
-  "price_note": "from · per month or $95/yr, first month discounted to $3.96",
-  "verified": "2026-09-23",
+  "price_note": "from · per month or $79.21/yr",
+  "verified": "2026-11-17",
   "catch": "It does one job (turning out-of-stock moments into recovered sales via back-in-stock and pre-order alerts) and its value is entirely tied to how often you actually sell out.",
   "best": "Shopify stores that regularly sell out of popular products and want to recover that lost demand with back-in-stock notifications, pre-orders and wishlists."
  },
@@ -5235,8 +5230,8 @@
   ],
   "price": "$9.99",
   "price_note": "Starter · per month, or $94.68 a year",
-  "verified": "2026-09-19",
-  "catch": "Every tier ships the same four features, so what you are buying is a ceiling on the revenue the app is allowed to earn you.",
+  "verified": "2026-11-17",
+  "catch": "The paid tiers ship the same features, so what you are buying is a ceiling on the revenue the app is allowed to earn you.",
   "best": "Shopify stores that want bundles, quantity breaks, BOGO and free-gift offers without touching code."
  },
  "PushOwl": {
@@ -5784,7 +5779,7 @@
   ],
   "price": "$4.99",
   "price_note": "Unlimited · per month, or $29.94 a year at a 50% saving, with a 7-day free trial",
-  "verified": "2026-11-02",
+  "verified": "2026-11-17",
   "catch": "The two features carry very different risk, the app presents them as one install, and since August the money has been split across them in a way the name does not warn you about.",
   "best": "Shopify merchants who want a free, one-click back-to-top button on long collection and product pages without touching theme code."
  },
@@ -5873,7 +5868,7 @@
   ],
   "price": "$149",
   "price_note": "Essence · per month for two user seats, one connected ad platform and a year…",
-  "verified": "2026-11-10",
+  "verified": "2026-11-17",
   "catch": "Read the feature lists rather than the prices and the entry tier stops looking like the product.",
   "best": "Shopify fashion and apparel brands with real ad spend that want profit per SKU and per campaign in one place."
  },
@@ -6416,11 +6411,21 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$23",
-  "price_note": "from · per month at the 200-order volume step (no free plan)",
-  "verified": "2026-11-16",
+  "price_note": "from · per month at the 200-order volume step (the free plan shows no reviews)",
+  "verified": "2026-11-17",
   "catch": "The ladder climbs at every order step.",
   "best": "Mid-market Shopify brands that want reviews and loyalty in one platform instead of juggling separate apps."
  },
@@ -6768,7 +6773,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-10-12",
+  "verified": "2026-11-17",
   "catch": "Printify is cheaper, higher-margin and has a far bigger catalogue, if you're optimising for profit per sale or product breadth, that's the real trade-off.",
   "best": "Creators building a real apparel or streetwear brand who care about fabric, fit and how the product feels in hand."
  },
@@ -7981,7 +7986,7 @@
  "Super": {
   "price": "$4.99",
   "price_note": "from · a month or $47.90 a year, billed through Shopify, 7-day trial",
-  "verified": "2026-11-13",
+  "verified": "2026-11-17",
   "catch": "If you are on Shopify Plus, the price block on the listing is not the one you pay from: the three published tiers exclude Plus stores in their own text, and the tier that covers you is $24.99 in a help-centre article.",
   "best": "Shopify stores with a real gifting season (jewellery, cosmetics, speciality food, anything bought for someone else) that want paid or free gift wrap."
  },
@@ -8065,7 +8070,7 @@
   "price_note": "from · a month or $1,299 a year via the Shopify App Store, 7-day free trial",
   "verified": "2026-10-04",
   "catch": "Four weeks old and still trading under more than one name.",
-  "best": "Shopify stores already spending on Meta and Google Ads and keeping their books in QuickBooks Online, that want one place reading orders, ad spend."
+  "best": "Nobody for now: we do not recommend Helm while its app opens an AI video editor and not the analytics dashboard its listing describes (checked 17 November 2026)."
  },
  "PhotoGenerator": {
   "flags": [
@@ -8409,23 +8414,23 @@
    ]
   ],
   "price": "$9",
-  "price_note": "Growth · per month for 300 synced orders, $0.05 per extra order on monthly…",
-  "verified": "2026-10-21",
+  "price_note": "Growth · per month for 300 synced orders, $0.05 per extra order, with Shopify's…",
+  "verified": "2026-11-17",
   "catch": "The overage is the most expensive order on the ladder.",
   "best": "Shopify stores shipping from a few dozen to tens of thousands of orders a month, dropshippers included."
  },
  "Pickeasy": {
   "price": "$9.99",
   "price_note": "Starter · a month for one location with delivery, pickup and shipping slots…",
-  "verified": "2026-10-21",
+  "verified": "2026-11-17",
   "catch": "Charging your own delivery or shipping rates needs Shopify's Carrier Calculated Shipping API, and Shopify, not the app, decides whether your plan includes it.",
   "best": "Florists, bakeries, butchers, grocers and restaurants on Shopify that sell for local pickup or delivery and need customers to choose a date and time slot."
  },
  "FBtrack": {
   "price": "$10",
   "price_note": "Basic · per month for one active pixel",
-  "verified": "2026-11-12",
-  "catch": "The critical reviews are about tracking that stopped without warning or events that never arrived, and with 22 reviews in eight years there is little else to weigh them against.",
+  "verified": "2026-11-17",
+  "catch": "The critical reviews are about tracking that stopped without warning or events that never arrived, and with 23 reviews in eight years there is little else to weigh them against.",
   "best": "Shopify stores that advertise on Meta plus TikTok, Snapchat or Pinterest and want several pixels, for example one per collection or a backup pixel."
  },
  "Essential Countdown Timer Bar": {
@@ -8438,7 +8443,7 @@
   ],
   "price": "$6.99",
   "price_note": "Starter · per month for up to 10,000 timer views, or $67.08 a year",
-  "verified": "2026-10-21",
+  "verified": "2026-11-17",
   "catch": "A view is every time a timer loads, so the free plan's thousand views a month is a few hundred browsing sessions, and running out switches the timers off.",
   "best": "Shopify merchants who run real, dated promotions, launches or shipping cut-offs and want a top-bar, product-page or cart countdown without code, starting on a free plan."
  },
@@ -8473,7 +8478,7 @@
   ],
   "price": "$9.99",
   "price_note": "Starter · per month for up to 10,000 booster views",
-  "verified": "2026-09-29",
+  "verified": "2026-11-17",
   "catch": "The cart page, where a free-shipping progress bar does most of its work, is not on the free plan and not on Starter either.",
   "best": "Shopify stores that already offer free shipping above a threshold and want a no-code progress bar on the top bar or product pages."
  },
