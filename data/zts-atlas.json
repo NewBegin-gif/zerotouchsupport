@@ -608,7 +608,7 @@
    "entry_price": "$19",
    "entry_price_terms": "per agent a month billed annually ($23 monthly)",
    "pricing_status": "public",
-   "price_note": "Read 1 Sep 2026 and re-read 16 Oct 2026 on freshworks.com/live-chat-software/pricing/ (USD, both the Annually and Monthly views). Free is $0 for up to 10 agents. Per agent per month: Growth $19 billed annually or $23 monthly, Pro $49 or $59, Enterprise $79 or $95. Freddy AI is a separate bill, and both rates are published: the Freddy AI Copilot add-on is $29/agent/mo billed annually ($35 monthly), and Freddy AI Agent sessions cost $49 per 100 sessions beyond the 500 complimentary sessions each paid account receives once. Other add-ons on the same page: Freshcaller at $15/$39/$69 per agent per month annually ($18/$47/$83 monthly) on Growth/Pro/Enterprise, campaign contacts at $100, connector app tasks at $80, and day passes at $2/$7/$12.",
+   "price_note": "Read 1 Sep 2026 and re-read 16 Oct 2026 and 17 Nov 2026 on freshworks.com/live-chat-software/pricing/ (USD, both the Annually and Monthly views). Free is $0 for up to 10 agents. Per agent per month: Growth $19 billed annually or $23 monthly, Pro $49 or $59, Enterprise $79 or $95. Freddy AI is a separate bill, and both rates are published: the Freddy AI Copilot add-on is $29/agent/mo billed annually ($35 monthly), and Freddy AI Agent sessions cost $49 per 100 sessions beyond the 500 complimentary sessions each paid account receives once. Other add-ons on the same page: Freshcaller at $15/$39/$69 per agent per month annually ($18/$47/$83 monthly) on Growth/Pro/Enterprise, campaign contacts at $100, connector app tasks at $80, and day passes at $2/$7/$12.",
    "flags": [
     {
      "flag": "per_seat",
@@ -616,7 +616,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-16"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "addons_extra",
@@ -624,7 +624,7 @@
      "evidence_excerpt": "Freddy AI is a separate bill, and both rates are published: the Freddy AI Copilot add-on is $29/agent/mo billed annually ($35 monthly), and Freddy AI Agent sessions cost $49 per 100 sessions beyond t…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-16"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
@@ -632,11 +632,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-16"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-16",
+   "price_verified_at": "2026-11-17",
    "first_observed_at": null
   },
   {
