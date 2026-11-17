@@ -2277,7 +2277,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-10-16",
+  "verified": "2026-11-17",
   "catch": "The 'free AI' is quota-limited (50 products on Free, up to 3,000 on Pro) and past the quota the paid plans bill pay-as-you-go (with a spend limit), so a large multilingual catalogue costs more than the sticker price, or pushes you to your own OpenAI/DeepSeek key, where you pay token costs separately on top of the subscription.",
   "best": "Small-to-mid Shopify stores that want affordable, full-store AI translation (including images and third-party-app text) and are comfortable bringing their own OpenAI or DeepSeek key for unlimited volume."
  },
@@ -3874,11 +3874,16 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$10",
-  "price_note": "from · per month (5 languages, 250 products, unlimited glossary rules)",
-  "verified": "2026-10-13",
+  "price_note": "from · per month (10 languages, 250 products, unlimited glossary rules)",
+  "verified": "2026-11-17",
   "catch": "Two things sit awkwardly next to each other in the plan table. The headline promise is 'unlimited words', but every tier caps how many products you may translate and how many languages you may run, so the meter you actually pay is catalogue size.",
   "best": "Shopify merchants selling into several language markets who want machine translation they can correct by hand (glossary rules, brand terms."
  },
@@ -5149,7 +5154,7 @@
    ]
   ],
   "verified": "2026-10-05",
-  "catch": "Start with what is no longer there. Read on 18 September and again on 5 October 2026, the Shopify App Store listing for this app is gone: the page says it is not currently available and sends support questions to the vendor.",
+  "catch": "Start with what is no longer there. Read on 18 September, on 5 October and again in our own test session on 17 November 2026, the Shopify App Store listing for this app is gone: the page says it is not currently available and sends support questions to the vendor.",
   "best": "Shopify stores with a known parcel-loss rate that are willing to come in through the vendor rather than the App Store: keeping 80% of the upsell on Standard if they can settle claims in-house, or buying that work back at 44.99% if they cannot."
  },
  "Proton": {
@@ -5740,8 +5745,8 @@
  },
  "Scarcity.AI": {
   "price": "$4.99",
-  "price_note": "Monthly Plan… · per month for the low stock counter, or $41.91 a year",
-  "verified": "2026-10-10",
+  "price_note": "Monthly Plan… · per month for the low stock counter, or $41.92 a year on the listing",
+  "verified": "2026-11-17",
   "catch": "All three read real data, which is worth saying before anything else: the low stock counter shows inventory levels and the visitors counter reads unique visitors, live traffic and product views.",
   "best": "Shopify merchants who run low stock or timed promotions and want to surface that on the product page: the low stock counter is tied to real inventory."
  },
@@ -6011,11 +6016,16 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$9.99",
   "price_note": "Lite · per month for Lite, which exports CSV only ($107.88 a year)",
-  "verified": "2026-11-02",
+  "verified": "2026-11-17",
   "catch": "It is built around Central and Eastern European carriers such as Packeta, so a US or UK merchant should confirm their carrier is supported before the five-day trial starts.",
   "best": "Shopify merchants shipping in Central and Eastern Europe who want pickup points."
  },
@@ -7008,9 +7018,9 @@
   "best": "Shopify merchants running Meta and TikTok ads who need more than the free channel apps give them: several pixels on one store, pixels scoped to individual products."
  },
  "TnC": {
-  "price": "$6.99",
-  "price_note": "Basic Plan · per month on the App Store listing, or $67.10 a year, for the checkbox…",
-  "verified": "2026-10-22",
+  "price": "$4.99",
+  "price_note": "Basic Plan · per month on the App Store listing, or $47.90 a year, for the checkbox…",
+  "verified": "2026-11-17",
   "catch": "'Free plan available' means development and partner stores only, so a store that takes real orders has no free tier here.",
   "best": "Shopify merchants on a standard plan who need a recorded “I agree” gate before payment (for GDPR, an age gate."
  },
