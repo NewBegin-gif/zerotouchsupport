@@ -8554,7 +8554,7 @@
   ],
   "price": "$20",
   "price_note": "Standard · per month for 2,000 Koins, $17 a month billed annually",
-  "verified": "2026-10-02",
+  "verified": "2026-11-17",
   "catch": "You cannot know in advance what a game will cost.",
   "best": "Hobbyists, students and teachers who want to turn an idea, a drawing or a photo into a playable browser game without writing code."
  },
@@ -10063,7 +10063,7 @@
  },
  "Orateur": {
   "verified": "2026-11-03",
-  "catch": "Prices in Swiss francs or pounds; the AI speaks English and French only.",
+  "catch": "Pricing FAQ names English and French; four more languages in the app, untested by us.",
   "best": "Small businesses in Switzerland and French-speaking Europe, such as clinics, salons, fiduciaries and law offices, that miss calls and want an AI receptionist to answer."
  },
  "VideoUpload": {
