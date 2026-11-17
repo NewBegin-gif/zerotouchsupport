@@ -4862,8 +4862,8 @@
   ],
   "price": "$20",
   "price_note": "from · per user per year up to 20 people",
-  "verified": "2026-09-30",
-  "catch": "The mobile side is very new: the iOS app arrived on 10 August 2026, and on 6 September 2026 there was still no Android app.",
+  "verified": "2026-11-17",
+  "catch": "The mobile side is very new: the iOS app arrived on 10 August 2026, and on 6 September 2026 there was still no Android app. By 17 November 2026 an Android app was on Google Play, with 10+ downloads.",
   "best": "Teams under twenty people who want zero-knowledge encryption and shared vaults at about $1.67 a seat a month."
  },
  "Payoneer": {
@@ -4924,7 +4924,7 @@
   ],
   "price": "$10",
   "price_note": "from · per member per month billed yearly ($15 monthly)",
-  "verified": "2026-09-19",
+  "verified": "2026-11-17",
   "catch": "The ladder here is not about how much you make, it is about which file you are allowed to hand over.",
   "best": "Individuals and small teams who need infographics, data-heavy reports and posters to look designed without hiring a designer, and above all students."
  },
@@ -5179,6 +5179,11 @@
     "per_seat"
    ],
    [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -5186,7 +5191,7 @@
   ],
   "price": "$3.99",
   "price_note": "from · per month for 200GB (20% off $4.99), billed $47.88 a year",
-  "verified": "2026-10-16",
+  "verified": "2026-11-17",
   "catch": "Because Proton can't read your files, there's no server-side search inside documents, previews and integrations are more limited, and lost credentials without recovery mean lost data.",
   "best": "Privacy-conscious individuals and businesses that want end-to-end-encrypted storage from a Swiss provider, ideally as part of the wider Proton suite."
  },
@@ -6965,7 +6970,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-10-20",
+  "verified": "2026-11-17",
   "catch": "The fee honesty is the product: flat cents per ticket instead of percentage skims makes it dramatically cheaper than the big platforms on higher-priced tickets (a $0.30-0.85 fee on a $50 ticket vs a percentage is no contest).",
   "best": "Event organizers with their own audience (venues, communities, creators) who want flat low per-ticket fees, full branding and no subscription."
  },
