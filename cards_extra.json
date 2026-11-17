@@ -5454,6 +5454,10 @@
   "price_note": "from · per month billed yearly ($39 monthly)",
   "verified": "2026-11-03",
   "catch": "The meter is on exporting, not on looking, and that is the number to size before you pick a tier.",
+  "coupon": {
+   "code": "RS50OFF",
+   "label": "50% off new purchases of eligible ReachStream plans and credit…"
+  },
   "best": "Small sales and marketing teams that want a B2B contact database with a published price rather than a quote."
  },
  "Readymode": {
