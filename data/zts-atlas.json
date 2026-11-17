@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 57,
-  "flags": 121,
+  "flags": 122,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on zerotouchsupport.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -724,24 +724,32 @@
    "category": "Customer Support",
    "domain": "gorgias.com",
    "review_url": "https://aibuildermarketplace.com/b2b/gorgias-review/",
-   "from_price_usd_mo": 90.0,
-   "entry_price": "$90",
-   "entry_price_terms": "Basic · per month, month-to-month",
+   "from_price_usd_mo": 40.0,
+   "entry_price": "$40",
+   "entry_price_terms": "Starter · per month with the AI Agent included, monthly billing…",
    "pricing_status": "public",
-   "price_note": "(re-verified 7 October 2026 on their own pricing page; figures unchanged since 8 September) Not priced per agent -- their own line -- but the seats are capped: the comparison table gives Starter 3 user seats and Basic, Pro and Advanced 500 each. Two meters stack. Starter is $40/month all in, monthly billing only: a $10/month helpdesk with 50 tickets included and $0.40 per ticket beyond, plus the AI Agent at $30/month with 30 automated interactions. Basic is $90/month month-to-month or $77/month billed annually ($924 a year), including 300 tickets and 30 automated interactions with the same $0.40 ticket overage; the $50 helpdesk and $27 AI Agent printed on that card sum to the annual rate, not the monthly one. Pro is $550/month or $471/month billed annually ($5,652 a year) -- $300 helpdesk plus $171 AI Agent -- including 2,000 tickets and 190 automated interactions, with ticket overage falling to $0.36. Advanced is $1,430/month or $1,227/month billed annually ($14,724 a year) -- $750 plus $477 -- including 5,000 tickets and 530 automated interactions, also at $0.36. Above 5,000 conversations a month it is quote-only, and that custom tier is the only one with SSO via SAML, audit logs and an API above the 2 requests a second every listed plan gets. Past the included interactions the comparison table prices the AI meter at $1.00 on Starter, $0.90 on Basic and Pro and $0.85 on Advanced. On 8 September the plan cards said $1.50; on 7 October that card rate was no longer on the page.",
+   "price_note": "(read 2026-11-17 on gorgias.com/pricing and on the App Store listing apps.shopify.com/helpdesk, and in our own test session on 17 November 2026; first read 2026-09-08) Four plans with the AI Agent included, as gorgias.com/pricing shows them by default: Starter $40 a month, Basic $90, Pro $550 and Advanced $1,430, or $77, $471 and $1,227 a month billed annually ($924, $5,652 and $14,724 a year); Starter bills monthly only. The helpdesk and the AI Agent are priced separately inside each plan: $10 and $30 on Starter, $60 and $30 on Basic ($50 and $27 annually), $360 and $190 on Pro ($300 and $171) and $900 and $530 on Advanced ($750 and $477). The App Store listing prints only the helpdesk part, Starter $10 a month, Basic $60 or $600 a year, Pro $360 or $3,600 a year and Advanced $900 or $9,000 a year, and shows the AI Agent as an add on, so the listing's $60 Basic is the $90 Basic without the AI Agent. Starter includes 50 tickets and 30 automated interactions, Basic 300 tickets and 30 interactions, Pro 2,000 tickets and 190 interactions and Advanced 5,000 tickets and 530 interactions. It is never priced per agent, in their own words, but the seats are capped: the comparison table gives Starter 3 user seats and Basic, Pro and Advanced 500 each, while the listing calls Basic's agents unlimited and Pro's and Advanced's up to 500. Ticket overage is $0.40 a ticket on Starter; on Basic the listing and the comparison table print $40 per additional 100 tickets, and on Pro and Advanced $36 per 100, which the page's structured data gives as $0.40 and $0.36 a ticket; neither page says whether part of a block of 100 is billed in full. Past the included interactions the comparison table prices the AI Agent at $1.00 an interaction on Starter, $0.90 on Basic and Pro and $0.85 on Advanced; the FAQ in the page's structured data says $0.90 on annual plans and $1.00 on monthly ones, and the same structured data still names $1.50, the rate the plan cards showed on 8 September. Above 5,000 conversations a month it is quote only, and that custom plan lists SSO through SAML, SCIM provisioning and an API at 4 requests a second, where every listed plan gets 2. In our own test session the 7 day trial started on Starter with the AI Agent switched on: the billing screen showed the helpdesk at $10 a month and the AI Agent at $30, both to be billed through Shopify once billing was activated. All listing charges are billed in USD every 30 days, and each plan on the listing has a 7 day free trial.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Basic is $90/month month-to-month or $77/month billed annually ($924 a year), including 300 tickets and 30 automated interactions with the same $0.40 ticket overage; the $50 helpdesk and $27 AI Agent printed on that card sum to the annual rate, not the monthly one.",
-     "evidence_excerpt": "Basic is $90/month month-to-month or $77/month billed annually ($924 a year), including 300 tickets and 30 automated interactions with the same $0.40 ticket overage; the $50 helpdesk and $27 AI Agent…",
+     "evidence": "Ticket overage is $0.40 a ticket on Starter; on Basic the listing and the comparison table print $40 per additional 100 tickets, and on Pro and Advanced $36 per 100, which the page's structured data gives as $0.40 and $0.36 a ticket; neither page says whether part of a block of 100 is billed in full.",
+     "evidence_excerpt": "Ticket overage is $0.40 a ticket on Starter; on Basic the listing and the comparison table print $40 per additional 100 tickets, and on Pro and Advanced $36 per 100, which the page's structured data …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-11-17"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "The helpdesk and the AI Agent are priced separately inside each plan: $10 and $30 on Starter, $60 and $30 on Basic ($50 and $27 annually), $360 and $190 on Pro ($300 and $171) and $900 and $530 on Advanced ($750 and $477).",
+     "evidence_excerpt": "The helpdesk and the AI Agent are priced separately inside each plan: $10 and $30 on Starter, $60 and $30 on Basic ($50 and $27 annually), $360 and $190 on Pro ($300 and $171) and $900 and $530 on Ad…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
-   "first_observed_at": null
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Help Scout",

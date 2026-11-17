@@ -6287,7 +6287,7 @@
   ],
   "price": "$25",
   "price_note": "from · per month (50,000 emails, shared IP)",
-  "verified": "2026-09-24",
+  "verified": "2026-11-17",
   "catch": "Pricing is volume-tiered, so a shared IP on the cheapest plan is fine for low volume while serious senders need the dedicated-IP tiers (and the IP warm-up discipline that comes with them).",
   "best": "Businesses and developers needing dependable high-deliverability transactional or bulk email via SMTP relay and API, with dedicated IPs at scale."
  },
@@ -6306,7 +6306,7 @@
   ],
   "price": "$15",
   "price_note": "from · per month or $150/yr for 10,000 emails",
-  "verified": "2026-09-26",
+  "verified": "2026-11-17",
   "catch": "It's the pragmatic middle of email infrastructure: simpler and better-supported than the hyperscale APIs, cheaper than most, with useful reporting, but sending reputation is still yours to earn.",
   "best": "Businesses that want dependable transactional/bulk sending via SMTP or API with human support and clear per-volume pricing."
  },
@@ -6394,7 +6394,7 @@
   ],
   "price": "$39.99",
   "price_note": "from · per month (25 products)",
-  "verified": "2026-10-01",
+  "verified": "2026-11-17",
   "catch": "Spocket's pitch is faster-shipping US and EU suppliers, and that's real, but you still pay twice: the monthly subscription and the wholesale product cost, so margins depend on picking items with room to mark up.",
   "best": "Dropshippers who want vetted US and EU suppliers with faster shipping and one-click store integration, prioritizing delivery speed over raw catalog size."
  },
@@ -6683,7 +6683,7 @@
   ],
   "price": "$65",
   "price_note": "from · a month month-to-month, or $45 a month billed annually",
-  "verified": "2026-09-26",
+  "verified": "2026-11-17",
   "catch": "The app runs on Mac and iOS only (Android phones can join as cameras, but there is no Windows version) so the machine doing the switching has to be an Apple one.",
   "best": "Creators, churches, events and small businesses that want multi-camera live production and streaming using iPhones and iPads they already own: no broadcast hardware.",
   "pw": "plans rebuilt Oct 2026",
