@@ -11029,5 +11029,33 @@
   "verified": "2026-11-17",
   "catch": "All-in-one funnels, email and courses; free to 2,000 contacts, paid from $17.",
   "best": "Solo creators, coaches and small online businesses that want funnels, email, courses and an affiliate program under one login."
+ },
+ "My Stories": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$14",
+  "price_note": "Advanced · per month, 7-day free trial",
+  "verified": "2026-11-17",
+  "catch": "Video stories for Shopify stores; free for 10 videos, paid from $14.",
+  "best": "Small Shopify stores with product videos that want Instagram-style stories, shoppable clips and a lead form without custom code."
+ },
+ "Intercom": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ]
+  ],
+  "price": "$29",
+  "price_note": "Essential · per seat per month",
+  "verified": "2026-11-17",
+  "catch": "Helpdesk with the Fin AI agent; seats from $29, Fin $0.99 per outcome.",
+  "best": "Support teams that want a messenger, shared inbox and an AI agent in one platform, and are fine paying per seat plus per resolved conversation."
  }
 }

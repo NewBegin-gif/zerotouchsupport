@@ -1,6 +1,6 @@
 # ZeroTouch Support
 
-> Independent reviews of customer support, business phone and AI voice software. 53 full reviews live here as the canonical version, 16 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-17.
+> Independent reviews of customer support, business phone and AI voice software. 54 full reviews live here as the canonical version, 16 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-17.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -46,7 +46,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Jotform AI Agents](https://zerotouchsupport.com/jotform-ai-agents-review.html): tested 2026-10-09
 - [Freshchat](https://zerotouchsupport.com/freshchat-review.html): tested 2026-10-08
 
-## Reviews (53) — canonical versions
+## Reviews (54) — canonical versions
 - [800.com Review (2026): From $19/mo, Checked Oct 2026](https://zerotouchsupport.com/800-com-review.html): 800.com: Startup $19/mo and Small Business $49/mo. The 250-minute cap on Startup (it was 1,000 in August) matters for any real call volume.
 - [Aircall Review (2026): From $30/mo, Checked Oct 2026](https://zerotouchsupport.com/aircall-review.html): Aircall: Essentials is $30 per license a month and Professional $50, both on annual billing. 'Unlimited calling' covers listed regions, check yours.
 - [Answering Service Care Review (2026): Price & Limits](https://zerotouchsupport.com/answering-service-care-review.html): Answering Service Care: $161, $296 and $575 for the three larger plans. Do the arithmetic before you pick a tier, because their own page does not.
@@ -67,6 +67,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Gorgias Review (2026): Never Priced Per Agent](https://zerotouchsupport.com/gorgias-review.html): Gorgias: Not priced per agent, their own line, but the seats are capped. Never priced per agent is a real advantage, but it starts one tier up.
 - [Help Scout Review (2026): Free for 5 Users, Standard $25 a Seat](https://zerotouchsupport.com/help-scout-review.html) (tested hands-on): Help Scout: Standard is $25 per user a month billed annually or $30 monthly, for up to 25 users. The Free plan caps you at 100 contacts a month and on
 - [HelpCenter Review (2026): From $40/mo, Checked Nov 2026](https://zerotouchsupport.com/helpcenter-review.html): HelpCenter: Free to install, and the meter is tickets rather than agents. The free tier is the hook and the FAQ builder is the reason people stay.
+- [Intercom Review (2026): Helpdesk With Fin AI, From $29](https://zerotouchsupport.com/intercom-review.html): Intercom: Essential $29 (new customers $19, 35% off), Advanced $85, Expert $132. The cheaper Essential price is shown as a new-customer offer.
 - [Jotform AI Agents Review (Tested): Conversations Are the Cap](https://zerotouchsupport.com/jotform-ai-agents-review.html) (tested hands-on): Jotform AI Agents: Bronze is $34 a month, Silver $39 and Gold $99, each billed annually, with 'save up to 20%' against monthly billing; Enterprise is 
 - [Kixie Review (2026): No Seat Price, and Minutes Bill Apart](https://zerotouchsupport.com/kixie-review.html): Kixie: Texts from $0.011 each ($11 per 1,000) on a registered 10DLC number, inbound free. Read the contract term before you sign.
 - [KrispCall Review (2026): $12/mo Seats Yearly + Pay-Per-Call](https://zerotouchsupport.com/krispcall-review.html): KrispCall: Advance $32 or $40, up to 50 users. Same honest math as most budget VoIP: the plan buys the platform, the meter buys the conversations.
