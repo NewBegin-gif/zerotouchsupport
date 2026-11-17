@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for customer support and voice software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 56,
-  "flags": 120,
+  "tools": 57,
+  "flags": 121,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on zerotouchsupport.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -822,6 +822,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-12",
    "first_observed_at": "2026-11-01"
+  },
+  {
+   "name": "Intercom",
+   "category": "Customer Support",
+   "domain": "intercom.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/intercom-review/",
+   "from_price_usd_mo": 29.0,
+   "entry_price": "$29",
+   "entry_price_terms": "Essential · per seat per month",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-17 on intercom.com/pricing, US dollars per seat per month, annual/monthly toggle not recorded) Essential $29 (new customers $19, 35% off), Advanced $85, Expert $132; every plan includes the Fin AI Agent, charged at $0.99 per outcome. Fin alone for an existing helpdesk: $0.99 per outcome, no seats, minimum monthly commitment. Early Stage programme: 96% off for startups under $10M raised with 15 employees or fewer. Free trial on Essential and Advanced. We have not paid for a plan.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "The bill has two meters: a price per seat and $0.99 for each conversation Fin resolves, so it grows with both team size and volume.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.intercom.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-17"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Jotform AI Agents",
