@@ -476,7 +476,29 @@ def cta(t):
         import aibm_affiliate_gate as _G
     except ImportError:
         return t["link"], "sponsored noopener nofollow"
+    if t["name"] in niet_aanraden():
+        return "", ""
     return _G.link_en_rel(t["name"], t.get("domain", ""), t["link"])
+
+
+def niet_aanraden():
+    """Namen met het dossierveld niet_aanraden (17 nov 2026, Optizen): product werkt niet meer, dus geen
+    Try-knop op de kaart. Zonder build_reviews (GitHub Action los in de repo) een lege set."""
+    if not hasattr(niet_aanraden, "s"):
+        try:
+            import build_reviews as _BR
+            niet_aanraden.s = {n for n, r in _BR.RESEARCH.items() if (r or {}).get("niet_aanraden")}
+        except Exception:
+            niet_aanraden.s = set()
+    return niet_aanraden.s
+
+
+_LEGE_KNOP = re.compile(r'\n[ \t]*<a href="" target="_blank" rel="" class="tool-cta-primary">.*?</a>', re.S)
+
+
+def zonder_lege_knop(h):
+    """Haalt de Try-knop weg van kaarten waarvoor cta() ("", "") gaf (niet_aanraden)."""
+    return _LEGE_KNOP.sub("", h)
 
 
 KOP = '<div class="lg-kop" aria-hidden="true"><span>Tool</span><span>Price, dated</span><span>What it does · best for · the catch</span><span>Pricing patterns · reader code</span><span></span></div>'
@@ -557,6 +579,7 @@ def main():
         )
         for t in tools
     )
+    cards = zonder_lege_knop(cards)  # 17 nov 2026: niet_aanraden
 
     # 8 okt 2026: de homepage is compact (build_zuster_home_compact.py); de catalogus met alle kaarten staat
     # sindsdien op software.html. Staan de TOOLS-markers niet meer op de homepage, dan schrijven we daarheen.
