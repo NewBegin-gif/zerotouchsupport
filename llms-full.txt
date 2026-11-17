@@ -237,8 +237,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## StoreFAQ
 - Review: https://zerotouchsupport.com/storefaq-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: StoreFAQ: Free, Professional at $7.99, Growth at $14.99 and Enterprise at $49.99 a month. You install it to get SEO-friendly FAQ pages that rank and get read.
-- Price: (read 2026-11-17 on apps.shopify.com/storefaq and on storefaq.io, and in our own test session on 17 November 2026; first read 2026-08-21) Four tiers at regular prices: Free, Professional at $7.99, Growth at $14.99 and Enterprise at $49.99 a month. They are metered on FAQ page views and AI chatbot conversations rather than on the number of FAQs.
+- Verdict: StoreFAQ: Free, Professional at $7.99 a month, Growth at $14.99 and Enterprise at $49.99. You install it to get SEO-friendly FAQ pages that rank and get read.
+- Price: (read 2026-11-17 on apps.shopify.com/storefaq and on storefaq.io, and in our own test session on 17 November 2026; first read 2026-08-21) Four tiers at regular prices: Free, Professional at $7.99 a month, Growth at $14.99 and Enterprise at $49.99. They are metered on FAQ page views and AI chatbot conversations rather than on the number of FAQs.
 
 ## SupportBee
 - Review: https://zerotouchsupport.com/supportbee-review.html
