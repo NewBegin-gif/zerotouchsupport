@@ -619,11 +619,11 @@
     "free_tier"
    ]
   ],
-  "price": "$100",
-  "price_note": "ReCapture · minimum per month",
-  "verified": "2026-10-14",
-  "catch": "The pricing has moved within two months.",
-  "best": "Stores already running Klaviyo or Omnisend at volume, with enough traffic for identity resolution to work and a recovery figure they can check against their own email platform before a 10% share of it becomes the bill.",
+  "price": "$99",
+  "price_note": "Pro · per month below $250K of GMV over the last 12 months",
+  "verified": "2026-11-17",
+  "catch": "The pricing has moved twice in three months.",
+  "best": "Stores already running Klaviyo or Omnisend at volume, with enough traffic for identity resolution to work and enough recovered revenue to cover a plan priced on their GMV.",
   "pw": "plans rebuilt Nov 2026",
   "pw_soort": "restructure"
  },
@@ -3001,9 +3001,16 @@
   "best": "Creators and stores selling custom products internationally who want local production in many countries to cut shipping time and cost, with no inventory."
  },
  "GeoStock": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
   "price": "$9.99",
-  "price_note": "Basic · per month",
-  "verified": "2026-09-20",
+  "price_note": "Base Plan · per month after a 14 day free trial",
+  "verified": "2026-11-17",
   "catch": "Know what this is before you buy it: despite the name it is a storefront widget, not an inventory system.",
   "best": "Retailers with physical locations who want shoppers to see per-store stock and find the nearest branch on the product page itself."
  },
@@ -3114,11 +3121,16 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
-  "price": "$90",
-  "price_note": "Basic · per month, month-to-month",
-  "verified": "2026-10-07",
+  "price": "$40",
+  "price_note": "Starter · per month with the AI Agent included, monthly billing…",
+  "verified": "2026-11-17",
   "catch": "Never priced per agent is a real advantage, but it starts one tier up: the comparison table caps Starter at 3 user seats, and only Basic and above open the inbox to 500.",
   "best": "Ecommerce support teams with seasonal or spiky volume, where per-agent pricing punishes you for having enough people on a busy week."
  },
@@ -5072,7 +5084,7 @@
   ],
   "price": "$49",
   "price_note": "from · per month minimum spend",
-  "verified": "2026-09-19",
+  "verified": "2026-11-17",
   "catch": "The $0 a month is not free: it carries a $49 monthly minimum spend, which means $49 is your floor whether you send anything or not.",
   "best": "Shopify stores with a list large enough that SMS beats email on response: the per-message economics only work once volume justifies the platform fee."
  },

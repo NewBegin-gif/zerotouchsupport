@@ -111,8 +111,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Gorgias
 - Review: https://zerotouchsupport.com/gorgias-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Gorgias: Not priced per agent, their own line, but the seats are capped. Never priced per agent is a real advantage, but it starts one tier up.
-- Price: (re-verified 7 October 2026 on their own pricing page; figures unchanged since 8 September) Not priced per agent -- their own line -- but the seats are capped: the comparison table gives Starter 3 user seats and Basic, Pro and Advanced 500 each. Two meters stack.
+- Verdict: Gorgias: The listing's $60 Basic is the $90 Basic without the AI Agent. Never priced per agent is a real advantage, but it starts one tier up.
+- Price: (read 2026-11-17 on gorgias.com/pricing and on the App Store listing apps.shopify.com/helpdesk, and in our own test session on 17 November 2026; first read 2026-09-08) Four plans with the AI Agent included, as gorgias.com/pricing shows them by default: Starter $40 a month, Basic $90, Pro $550 and Advanced $1,430, or $77, $471 and $1,227 a month billed annually ($924, $5,652 and $14,724 a year); Starter bills…
 
 ## Help Scout
 - Review: https://zerotouchsupport.com/help-scout-review.html
