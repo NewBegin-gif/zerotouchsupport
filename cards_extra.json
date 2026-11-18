@@ -11150,22 +11150,6 @@
   "catch": "Affiliate tracking for Stripe SaaS: from $49 a month, 0% transaction fee.",
   "best": "SaaS and AI companies that bill through Stripe and want a dedicated affiliate and referral programme with a flat monthly fee."
  },
- "Selleasy": {
-  "flags": [
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
-   ]
-  ],
-  "price": "$9",
-  "price_note": "Starter · per month, flat, unlimited orders and campaigns",
-  "verified": "2026-10-30",
-  "catch": "The pricing changed under this review in October 2026, and the vendor's own page has not caught up.",
-  "best": "Shopify stores that want bundles, add-ons, cart funnels and post-purchase offers out of one app on a flat fee that never takes a share of upsell revenue: small stores can test on the free plan, and Shopify Plus stores get checkout upsells from $29 a month.",
-  "pw": "plans rebuilt Nov 2026",
-  "pw_soort": "restructure"
- },
  "Easy-Peasy.AI": {
   "flags": [
    [
