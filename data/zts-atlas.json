@@ -224,7 +224,7 @@
    "entry_price": "$19",
    "entry_price_terms": "per user a month billed annually, or $25 month-to-month",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-14 in a browser on callhippo.com/pricing, currency selector switched to USD, phone-number region US/CA: plan grid, both billing tabs and fair-usage notes re-read; the add-on prices below were last read on 15 September 2026) Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55. Read the tab before the number: the grid opens on yearly, so the lower column is what most write-ups quote, and the toggle beside it advertises \"Save 3 Months' Cost\" -- paying annually is a third cheaper per user. The $18 that a plain fetch kept printing for Starter was the placeholder sitting in the HTML before the pricing script runs, not a column any visitor is shown. Basic still costs nothing, but fair-usage note 8 lower on that page says it is free only for the first 6 months from signup, after which the account must move to Starter to keep working - so Basic is a long runway, not a permanent free tier. CHANGED SINCE SEPTEMBER: on 14 October 2026 the Starter card lists 'Unlimited Minutes (Includes Both Landline & Mobile Calling)' with 100 SMS and one month of call logs, and no longer displays the 2-user minimum, which survives only as commented-out markup; on 15 September the same card read 1,000 US/CA minutes and a minimum of 2 users. Fair-usage note 7 limits unlimited calling to domestic calls within the US and Canada. Professional (500 SMS) is where call recording, AI voicemail transcription, multilingual IVR and lifetime call logs begin. Ultimate adds smart DID, multilevel, holiday and CRM-based VIP routing with 1,000 SMS. Two different Enterprise cards sit on this page and they state different floors: the Core one a minimum of 20 users, the call-centre 'New Enterprise' a minimum of 50, both quote-only with unlimited calling to 48 countries. The call-centre 'Pro Suite' ran $32-48/user/mo annual when it was last read on 15 August 2026. 10-day free trial on the paid tiers. Add-ons are priced apart: AI Voice Agent $45/user/mo with calling billed separately at $0.25/min, AI Copilot $10/user/mo, a dashboard-user seat $15/user/mo, CNAM $100 one-time, SMS Services from $3/mo with a $20 one-time setup fee, Spam Watch $3 per number/mo for US and Canada, $100 per number for spam remediation, $239 for 1,000 UAE minutes and $0.12 per branded call. Overages are in the notes: incoming minutes on standard numbers $0.02/min, incoming SMS $0.01 per message past fair use, outgoing calls to the same number capped at 10 per hour, and parallel calls capped at 30% of total call capacity. The currency selector prices per market instead of converting: the same grid read EUR 19/29/39 in euros on 15 August 2026, below the dollar column rather than above it.",
+   "price_note": "(re-verified 2026-10-14 in a browser on callhippo.com/pricing, currency selector switched to USD, phone-number region US/CA: plan grid, both billing tabs and fair-usage notes re-read; the add-on prices below were last read on 15 September 2026) Starter is $19 per user per month on annual billing and $25 month to month, Professional $30 and $40, Ultimate $42 and $55. Read the tab before the number: the grid opens on yearly, so the lower column is what most write-ups quote, and the toggle beside it advertises \"Save 3 Months' Cost\" -- paying annually is a third cheaper per user. The $18 that a plain fetch kept printing for Starter was the placeholder sitting in the HTML before the pricing script runs, not a column any visitor is shown. Basic still costs nothing, but fair-usage note 8 lower on that page says it is free only for the first 6 months from signup, after which the account must move to Starter to keep working - so Basic is a long runway, not a permanent free tier. CHANGED SINCE SEPTEMBER: on 14 October 2026 the Starter card lists 'Unlimited Minutes (Includes Both Landline & Mobile Calling)' with 100 SMS and one month of call logs, and no longer displays the 2-user minimum, which survives only as commented-out markup; on 15 September the same card read 1,000 US/CA minutes and a minimum of 2 users. Fair-usage note 7 limits unlimited calling to domestic calls within the US and Canada. Professional (500 SMS) is where call recording, AI voicemail transcription, multilingual IVR and lifetime call logs begin. Ultimate adds smart DID, multilevel, holiday and CRM-based VIP routing with 1,000 SMS. Two different Enterprise cards sit on this page and they state different floors: the Core one a minimum of 20 users, the call-centre 'New Enterprise' a minimum of 50, both quote-only with unlimited calling to 48 countries. The call-centre 'Pro Suite' ran $32-48/user/mo annual when it was last read on 15 August 2026. 10-day free trial on the paid tiers. When we tried to sign up on 18 November 2026 (signup page: 'Start your 10-day free trial.' and 'No credit card required. Cancel anytime.'), with a work email, a name, a Dutch mobile number and a company size of 50-249, the form answered in red: 'Your account doesn't meet the acceptance criteria for signup.' No reason was given. Add-ons are priced apart: AI Voice Agent $45/user/mo with calling billed separately at $0.25/min, AI Copilot $10/user/mo, a dashboard-user seat $15/user/mo, CNAM $100 one-time, SMS Services from $3/mo with a $20 one-time setup fee, Spam Watch $3 per number/mo for US and Canada, $100 per number for spam remediation, $239 for 1,000 UAE minutes and $0.12 per branded call. Overages are in the notes: incoming minutes on standard numbers $0.02/min, incoming SMS $0.01 per message past fair use, outgoing calls to the same number capped at 10 per hour, and parallel calls capped at 30% of total call capacity. The currency selector prices per market instead of converting: the same grid read EUR 19/29/39 in euros on 15 August 2026, below the dollar column rather than above it.",
    "flags": [
     {
      "flag": "per_seat",
@@ -488,7 +488,7 @@
    "entry_price": "$29.99",
    "entry_price_terms": "Launch · per user per month, 100 AI conversations a month, unlimited human…",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-04 on eazychat.io/pricing.html, US dollars) EazyChat charges per user per month, and every plan includes AI, unlimited human chats and a 15-day free trial, with no long-term contract. Launch costs $29.99 per user a month for 100 AI conversations a month, 1 website with 1 multilingual widget, a website scan, Shopify and API integrations and basic analytics. Pro costs $59.99 per user a month for 1,000 AI conversations, 3 websites and widgets, advanced analytics, AI ticketing and the EazyDesk help desk. Infinity costs $79.99 per user a month for 20,000 AI conversations, unlimited websites and widgets, AI Advisor insights and priority support. If you need more AI capacity in a busy month, add-on packs cost $29 for 1,000, $69 for 5,000 and $129 for 20,000 extra AI conversations. The page does not say whether the AI quota is per user or per workspace, or whether the trial needs a card. EazyChat's team told us by email on 6 November 2026 that the free trial lasts 15 days or 500 AI interactions, whichever comes first; the pricing page does not show the 500 limit.",
+   "price_note": "(read 2026-11-04 on eazychat.io/pricing.html, US dollars) EazyChat charges per user per month, and every plan includes AI, unlimited human chats and a 15-day free trial, with no long-term contract. Launch costs $29.99 per user a month for 100 AI conversations a month, 1 website with 1 multilingual widget, a website scan, Shopify and API integrations and basic analytics. Pro costs $59.99 per user a month for 1,000 AI conversations, 3 websites and widgets, advanced analytics, AI ticketing and the EazyDesk help desk. Infinity costs $79.99 per user a month for 20,000 AI conversations, unlimited websites and widgets, AI Advisor insights and priority support. If you need more AI capacity in a busy month, add-on packs cost $29 for 1,000, $69 for 5,000 and $129 for 20,000 extra AI conversations. The page does not say whether the AI quota is per user or per workspace, or whether the trial needs a card. EazyChat's team told us by email on 6 November 2026 that the free trial lasts 15 days or 500 AI interactions, whichever comes first; the pricing page does not show the 500 limit. When we signed up on 18 November 2026, the account went straight to a Stripe checkout from SmartSoft Solutions LLC before the app opened: 'Eazychat Basic', 14 days free, then €28.45 a month from 3 December 2026 (the page offered USD as well, at a rate that puts it at about $29.99), '€0.00' due today and a 'Start trial' button stating that subscribing authorises SmartSoft Solutions to charge you. We saw no card field before that button, but starting the trial means starting a subscription, so we stopped there.",
    "flags": [
     {
      "flag": "per_seat",
@@ -496,7 +496,7 @@
      "evidence_excerpt": null,
      "source_url": "https://eazychat.io/pricing.html",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-04"
+     "verified_at": "2026-11-18"
     },
     {
      "flag": "addons_extra",
@@ -504,11 +504,11 @@
      "evidence_excerpt": null,
      "source_url": "https://eazychat.io/pricing.html",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-04"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-04",
+   "price_verified_at": "2026-11-18",
    "first_observed_at": "2026-11-04"
   },
   {
@@ -904,7 +904,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "(2026-10-13, read on their own pricing page) No seat price is published. Three plans are listed — Professional, Single-Line PowerDialer and Multi-Line PowerDialer — and no amount is rendered anywhere on the page; the billing toggle that used to sit above the cards has gone too, so there is now no path from this page to a number. The core phone system is identical on all three; what separates them is dialling. There is no PowerDialer on Professional, one line on Single-Line, and up to four simultaneous lines on Multi-Line — also the only tier offering AI human voice detection, as a premium add-on. ConnectionBoost, Conversation Intelligence and DNC compliance are add-ons at every tier. The plan cards claim unlimited US/Canada minutes while the FAQ published in the page's own structured data prices unlimited US and Canada minutes at $30 a month per user, so which of the two applies belongs in writing in your quote. First US/Canada number free, extra local numbers $5.00 a month, porting in free. Texts from $0.011 each ($11 per 1,000) on a registered 10DLC number, inbound free. 7-day trial, no credit card.",
+   "price_note": "(2026-10-13, read on their own pricing page) No seat price is published. Three plans are listed — Professional, Single-Line PowerDialer and Multi-Line PowerDialer — and no amount is rendered anywhere on the page; the billing toggle that used to sit above the cards has gone too, so there is now no path from this page to a number. The core phone system is identical on all three; what separates them is dialling. There is no PowerDialer on Professional, one line on Single-Line, and up to four simultaneous lines on Multi-Line — also the only tier offering AI human voice detection, as a premium add-on. ConnectionBoost, Conversation Intelligence and DNC compliance are add-ons at every tier. The plan cards claim unlimited US/Canada minutes while the FAQ published in the page's own structured data prices unlimited US and Canada minutes at $30 a month per user, so which of the two applies belongs in writing in your quote. First US/Canada number free, extra local numbers $5.00 a month, porting in free. Texts from $0.011 each ($11 per 1,000) on a registered 10DLC number, inbound free. 7-day trial, no credit card. When we tried on 18 November 2026, the sign-up at kixie.com/sign-up/ required a US phone number, so we could not register from the Netherlands.",
    "flags": [
     {
      "flag": "quote_only",
@@ -1150,7 +1150,7 @@
    "entry_price": "$15",
    "entry_price_terms": "Starter · per user per month billed annually",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-08-31 against the vendor's own pricing page; all prices are quoted on the page in USD) (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly; Business $23 annual ($276/yr) or $33 monthly; Scale $35 annual ($420/yr) or $47 monthly. 7-day free trial. Taxes and fees are added at checkout and are not quantified on the page. Itemised extras: The Campaign Registry takes $19.50 once plus $1.50-$3/month to keep US carrier messaging deliverable, each additional phone number is $5/month, and international calling is billed per minute. The Sona AI answering agent is included on every plan with 1,000 automation credits a month (a call costs 100 credits, so ten calls); more credits run $25/mo for 4,000 up to $199/mo for 60,000, with per-call overage falling from $1.00 to $0.45 across those tiers. Re-verified 11 October 2026 on quo.com/pricing: all six rates, the $180/$276/$420 annual totals, the Sona credit tiers and overage rates, the $19.50 and $1.50-$3 Campaign Registry fees and the $5 extra number are unchanged. Two lines the earlier reading did not carry: the compare-plans table caps Starter at up to 10 paid users (Business and Scale unlimited), and Quo's help article 'Quo Plans and Pricing' (read 11 October 2026) adds a $15 Campaign Registry resubmission fee if a registration has to be resubmitted and lists the 16 states where telecom taxes are collected, based on your billing address.",
+   "price_note": "(price re-verified 2026-08-31 against the vendor's own pricing page; all prices are quoted on the page in USD) (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly; Business $23 annual ($276/yr) or $33 monthly; Scale $35 annual ($420/yr) or $47 monthly. 7-day free trial. When we went through signup on 18 November 2026, there was no way into the app without choosing a plan: the plan screen reads 'Choose a plan to start your 7-day free trial', and selecting Starter opened a 'Billing details' form with a card field. That page says 'we'll place a temporary $1 hold on your credit card upon signup' and showed $0.00 due today, with $19.00 billed on 25 November 2026 for one Starter user on monthly billing. The six plan prices matched the ones above. We stopped before entering a card. Taxes and fees are added at checkout and are not quantified on the page. Itemised extras: The Campaign Registry takes $19.50 once plus $1.50-$3/month to keep US carrier messaging deliverable, each additional phone number is $5/month, and international calling is billed per minute. The Sona AI answering agent is included on every plan with 1,000 automation credits a month (a call costs 100 credits, so ten calls); more credits run $25/mo for 4,000 up to $199/mo for 60,000, with per-call overage falling from $1.00 to $0.45 across those tiers. Re-verified 11 October 2026 on quo.com/pricing: all six rates, the $180/$276/$420 annual totals, the Sona credit tiers and overage rates, the $19.50 and $1.50-$3 Campaign Registry fees and the $5 extra number are unchanged. Two lines the earlier reading did not carry: the compare-plans table caps Starter at up to 10 paid users (Business and Scale unlimited), and Quo's help article 'Quo Plans and Pricing' (read 11 October 2026) adds a $15 Campaign Registry resubmission fee if a registration has to be resubmitted and lists the 16 states where telecom taxes are collected, based on your billing address.",
    "flags": [
     {
      "flag": "per_seat",
@@ -1158,7 +1158,7 @@
      "evidence_excerpt": "(price re-verified 2026-08-31 against the vendor's own pricing page; all prices are quoted on the page in USD) (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly; Business…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-18"
     },
     {
      "flag": "usage_metered",
@@ -1166,11 +1166,11 @@
      "evidence_excerpt": "Itemised extras: The Campaign Registry takes $19.50 once plus $1.50-$3/month to keep US carrier messaging deliverable, each additional phone number is $5/month, and international calling is billed pe…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-11",
+   "price_verified_at": "2026-11-18",
    "first_observed_at": "2026-08-31"
   },
   {
@@ -1269,7 +1269,7 @@
    "entry_price": "$25",
    "entry_price_terms": "Basic… · on monthly billing, as published",
    "pricing_status": "public",
-   "price_note": "(2026-08-08, re-verified 10 September, 13 October and 13 November 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, metered in message credits. Monthly billing: Basic is $25 a month for 500 credits a month; Pro is $329 a month for 10,000 credits a month; Enterprise is contact-for-pricing with custom credits. Both plans carry a credits dropdown that raises the allowance for a fixed add-on. On Basic, 1,000 credits is +$24, 2,500 is +$74, 5,000 is +$154 and 7,500 is +$224 a month. On Pro the ladder runs from 15,000 credits at +$150 up to 50,000 at +$1,170 a month, in 5,000-credit steps. Annual billing is shown as two months free. Basic is $21 a month billed yearly for 6,000 credits a year (12,000 credits +$252, 30,000 +$756, 60,000 +$1,560, 90,000 +$2,268), and Pro $277 a month billed yearly for 120,000 credits a year (180,000 +$1,512, rising to 600,000 at +$11,796). Seats and numbers are priced apart from the plan: the first seat is free and each additional seat is $10.00 a month or $100.00 a year; the first number is free and each additional number is $5.00 a month or $50.00 a year. The page defines the meter itself: SMS is 1 credit per 160 characters, MMS is 2 credits, calling is 1 credit a minute and call forwarding is 2 credits a minute. A 14-day free trial runs, and a 30-day money-back guarantee is offered, refunded less the message credits used. The page no longer publishes a per-credit overage rate, nor terms for taxes, carrier fees or country availability, so we quote none.",
+   "price_note": "(2026-08-08, re-verified 10 September, 13 October and 13 November 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, metered in message credits. Monthly billing: Basic is $25 a month for 500 credits a month; Pro is $329 a month for 10,000 credits a month; Enterprise is contact-for-pricing with custom credits. Both plans carry a credits dropdown that raises the allowance for a fixed add-on. On Basic, 1,000 credits is +$24, 2,500 is +$74, 5,000 is +$154 and 7,500 is +$224 a month. On Pro the ladder runs from 15,000 credits at +$150 up to 50,000 at +$1,170 a month, in 5,000-credit steps. Annual billing is shown as two months free. Basic is $21 a month billed yearly for 6,000 credits a year (12,000 credits +$252, 30,000 +$756, 60,000 +$1,560, 90,000 +$2,268), and Pro $277 a month billed yearly for 120,000 credits a year (180,000 +$1,512, rising to 600,000 at +$11,796). Seats and numbers are priced apart from the plan: the first seat is free and each additional seat is $10.00 a month or $100.00 a year; the first number is free and each additional number is $5.00 a month or $50.00 a year. The page defines the meter itself: SMS is 1 credit per 160 characters, MMS is 2 credits, calling is 1 credit a minute and call forwarding is 2 credits a minute. A 14-day free trial runs, and a 30-day money-back guarantee is offered, refunded less the message credits used. When we tried to sign up on 18 November 2026, the registration page required a credit card and a US mobile number before the account opened: the button read 'Start my free trial' under 'Try 14 days free, then just $61 per month'. We entered nothing and stopped there. The page no longer publishes a per-credit overage rate, nor terms for taxes, carrier fees or country availability, so we quote none.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -1277,7 +1277,7 @@
      "evidence_excerpt": "(2026-08-08, re-verified 10 September, 13 October and 13 November 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, met…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-13"
+     "verified_at": "2026-11-18"
     },
     {
      "flag": "addons_extra",
@@ -1285,7 +1285,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-13"
+     "verified_at": "2026-11-18"
     },
     {
      "flag": "annual_lock",
@@ -1293,11 +1293,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-13"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-13",
+   "price_verified_at": "2026-11-18",
    "first_observed_at": "2026-08-08"
   },
   {
