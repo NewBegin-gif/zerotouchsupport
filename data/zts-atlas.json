@@ -1565,7 +1565,7 @@
    "entry_price": "$10",
    "entry_price_terms": "per month or $96/yr (400 shipments/mo)",
    "pricing_status": "public",
-   "price_note": "(price re-read 2026-10-13) Four tiers and no free plan, billed in USD every 30 days through Shopify: Basic $10 a month or $96 a year for 400 shipments a month, Standard $45 or $432 for 2,000, Advanced $150 or $1,440 for 9,000 and Enterprise $250 or $2,400 for 18,000. Annual billing saves 20% and every tier carries a 14-day trial. The feature list is identical on all four — branded tracking page, estimated delivery dates, email, WhatsApp and US-only SMS updates, Apple and Google Wallet tracking, Klaviyo, Omnisend, Segment and chatbot integrations, product upsell and translation — so the only thing the ladder sells is shipment volume. The Shopify listing does not say what happens past your allowance. The vendor's own page does: parceltrackr.com/pricing, read the same day, prints $0.05 per extra shipment on every tier. That number decides whether you upgrade or overrun, because in-plan a shipment costs 2.5 cents on Basic, 2.25 on Standard, 1.7 on Advanced and 1.4 on Enterprise — so an overrun is priced at two to four times what the same shipment costs inside the plan. The two sources also disagree about the trial: the listing offers 3,000 and 5,000 bonus trackings on Advanced and Enterprise, the vendor page 1,500 and 2,000. Re-read on 13 October 2026, the vendor page also contradicts itself on annual billing: the plan cards say $96 a year for Basic and $432 for Standard (20% off), while the text below them says $108 ($9 a month) and $486 ($40.50 a month), which is 10% off; the Shopify listing matches the cards. Past the allowance you can buy extra shipments without changing plan, or switch on auto top-up with a maximum monthly budget you approve.",
+   "price_note": "(read 2026-11-18 on apps.shopify.com/trackr and parceltrackr.com/pricing and in our own test that day; earlier: price re-read 2026-10-13) Four tiers and no free plan, billed in USD every 30 days through Shopify: Basic $10 a month or $96 a year for 400 shipments a month, Standard $45 or $432 for 2,000, Advanced $150 or $1,440 for 9,000 and Enterprise $250 or $2,400 for 18,000. Annual billing saves 20% and every tier carries a 14-day trial. The feature list is identical on all four — branded tracking page, estimated delivery dates, email, WhatsApp and US-only SMS updates, Apple and Google Wallet tracking, Klaviyo, Omnisend, Segment and chatbot integrations, product upsell and translation — so the only thing the ladder sells is shipment volume. The Shopify listing does not say what happens past your allowance. The vendor's own page does: parceltrackr.com/pricing, read the same day, prints $0.05 per extra shipment on every tier. That number decides whether you upgrade or overrun, because in-plan a shipment costs 2.5 cents on Basic, 2.25 on Standard, 1.7 on Advanced and 1.4 on Enterprise — so an overrun is priced at two to four times what the same shipment costs inside the plan. The two sources also disagree about the trial: the listing offers 3,000 and 5,000 bonus trackings on Advanced and Enterprise, the vendor page 1,500 and 2,000. Re-read on 13 October 2026, the vendor page also contradicts itself on annual billing: the plan cards say $96 a year for Basic and $432 for Standard (20% off), while the text below them says $108 ($9 a month) and $486 ($40.50 a month), which is 10% off; the Shopify listing matches the cards. Past the allowance you can buy extra shipments without changing plan, or switch on auto top-up with a maximum monthly budget you approve. Read again on 18 November 2026: the Shopify listing is now titled Pinpath Order Tracking (Shark Byte, Inc), the app that was Trackr, and reads From $10/month with a free trial and 4.2 over 55 reviews. It shows the same four plans and yearly prices (Basic $10 or $96 a year for 400 shipments, Standard $45 or $432 for 2,000, Advanced $150 or $1,440 for 9,000, Enterprise $250 or $2,400 for 18,000) and prints no overage rate. The vendor's pricing page (parceltrackr.com/pricing, which calls the app Pinpath) still prints $0.05 per extra shipment on every plan. In our own test the same day on a Shopify development store, the app's plan screen opened with a banner reading Mega Sale, Limited time, 50% off on all plans, and showed Basic $10 struck through next to $5 a month (Billed as $5.00 for 1 month, then $10.00 monthly), Standard $45 next to $22.50, Advanced $150 next to $75 and Enterprise $250 next to $125, with a line reading $0.05 per extra shipment, a 14 day free trial with 200 free shipments on Basic and 5000 on Enterprise, and an annual toggle reading Annually (20% + 50% Off). The Mega Sale is a limited time promotion that is on neither the listing nor the vendor's plan cards, so we do not count it as the price: the plans stay $10, $45, $150 and $250 a month. Shopify's approval screen for Basic read a 14 day free trial ending on 2 December, a subtotal of $10.00, 50% off and a total of $5.00 due on 2 December, with an app spending limit of a maximum of $20.00 per 30 days; it listed an Add payment method row and did not carry the line saying the charge would not be billed, so we did not approve it. The app does not open without an approved plan, so we could not test the tracking page.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -1573,7 +1573,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/trackr",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-11-18"
     },
     {
      "flag": "annual_lock",
@@ -1581,12 +1581,12 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/trackr",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-13",
-   "first_observed_at": "2026-10-13"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "Typewise",
