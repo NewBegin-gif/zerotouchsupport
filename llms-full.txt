@@ -274,7 +274,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://zerotouchsupport.com/trackr-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Trackr: Four tiers and no free plan, billed in USD every 30 days through Shopify. The rating is 4.1 over 56 reviews on 12 September 2026.
-- Price: (price re-read 2026-10-13) Four tiers and no free plan, billed in USD every 30 days through Shopify: Basic $10 a month or $96 a year for 400 shipments a month, Standard $45 or $432 for 2,000, Advanced $150 or $1,440 for 9,000 and Enterprise $250 or $2,400 for 18,000. Annual billing saves 20% and every tier carries a 14-day trial.
+- Price: (read 2026-11-18 on apps.shopify.com/trackr and parceltrackr.com/pricing and in our own test that day; earlier: price re-read 2026-10-13) Four tiers and no free plan, billed in USD every 30 days through Shopify: Basic $10 a month or $96 a year for 400 shipments a month, Standard $45 or $432 for 2,000, Advanced $150 or $1,440 for 9,000 and Enterprise $250 or $2,400 for 18,000. Annual billing saves 20% and every…
 
 ## Typewise
 - Review: https://zerotouchsupport.com/typewise-review.html
