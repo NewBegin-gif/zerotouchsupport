@@ -3699,7 +3699,7 @@
   "name": "SalesTarget.ai",
   "category": "Sales & CRM",
   "domain": "salestarget.ai",
-  "desc": "B2B outbound platform combining a lead database of 840M+ professional profiles with credit-based enrichment, cold email with unlimited inboxes and warm-up, LinkedIn automation, and a built-in CRM and dialer. Sold as separate modules or one bundle per team.",
+  "desc": "B2B outbound platform combining a lead database of 840M+ professional profiles with credit-based enrichment, cold email with no stated cap on connected inboxes (warmup covers 5 on the entry plan), LinkedIn automation, and a built-in CRM and dialer. Sold as separate modules or one bundle per team.",
   "link": "https://salestarget.ai/?red=aibuil"
  },
  {
@@ -4985,5 +4985,29 @@
   "domain": "seobility.net",
   "desc": "SEO software suite with website audit, rank monitoring, backlink monitoring, uptime checks and AI visibility tracking, with a free Basic account and a 14-day trial on paid plans.",
   "link": "https://www.seobility.net/en/?px=2&a_aid=ii4lcayrj7g8k"
+ },
+ {
+  "name": "PageFly",
+  "category": "E-commerce",
+  "domain": "pagefly.io",
+  "desc": "Shopify page builder with an AI page generator, drag-and-drop editor, 320+ templates, A/B testing and heatmaps; a free plan covers one published page, paid plans tier by page count.",
+  "link": "https://pagefly.io?ref=kFyVhGka&target=app-listing",
+  "platform": "shopify"
+ },
+ {
+  "name": "Langwill",
+  "category": "E-commerce",
+  "domain": "langwill.com",
+  "desc": "Shopify translation and currency app (formerly ETranslate) with AI translation, geolocation redirects and multilingual SEO; a free plan covers 5,000 words in one language.",
+  "link": "https://platform.shoffi.app/r/rl_Mg2gfJBV",
+  "platform": "shopify"
+ },
+ {
+  "name": "Social Snowball",
+  "category": "Growth & Revenue",
+  "domain": "socialsnowball.io",
+  "desc": "Shopify app for affiliate, referral and influencer programmes with automated payouts, attribution and fraud protection; plans start at $249 a month.",
+  "link": "https://platform.shoffi.app/r/rl_HgXLzUlE",
+  "platform": "shopify"
  }
 ]
