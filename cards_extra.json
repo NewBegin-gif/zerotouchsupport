@@ -7246,7 +7246,7 @@
   "best": "Customer-service teams with real ticket volume that want AI agents to resolve requests end to end and act inside the systems they already run (CRM, ERP, billing."
  },
  "UENI": {
-  "verified": "2026-09-26",
+  "verified": "2026-11-18",
   "catch": "DIY editing and customisation are limited, e-commerce and integrations are basic, and the most common complaint is slow design turnaround against the 7-day promise.",
   "best": "Small-business owners with no time or tech skills who want a professional site built for them, not another tool to learn.",
   "pw": "plans rebuilt Aug 2026",
@@ -7299,7 +7299,7 @@
   ],
   "price": "$9.99",
   "price_note": "from · per month (1 user, unlimited minutes, one phone number)",
-  "verified": "2026-11-13",
+  "verified": "2026-11-18",
   "catch": "It's a virtual phone layer, not a full unified-comms suite: you won't find the deep team messaging, video meetings and contact-center features pricier platforms bundle.",
   "best": "Solopreneurs and small teams that want a professional toll-free or local number, auto-attendant and call routing on their existing phones: no hardware.",
   "pw": "price down Nov 2026",
@@ -7682,11 +7682,16 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "$30",
   "price_note": "from · a month (single account), includes $30/mo usage credit",
-  "verified": "2026-09-25",
+  "verified": "2026-11-18",
   "catch": "The meter is honest and only half of it is printed: every phone number, call minute, text, form, chat, appointment, email, event and transaction is charged against a monthly credit.",
   "best": "Agencies and lead-gen businesses that want every lead (calls, forms, chats) attributed to its source and campaign without enterprise-suite prices."
  },
@@ -7843,7 +7848,7 @@
   ],
   "price": "£166",
   "price_note": "from · per month, billed annually",
-  "verified": "2026-10-20",
+  "verified": "2026-11-18",
   "catch": "The 'starting from' wording is doing real work: £166/mo is the floor of the cheapest module, billed annually, so a working setup for a brand that sells wholesale quickly stacks toward £332/mo and beyond: about £4,000 a year before add-ons.",
   "coupon": {
    "code": "",
