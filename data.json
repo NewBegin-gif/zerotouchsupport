@@ -629,7 +629,7 @@
  },
  {
   "name": "ChatGPT AI Product Description",
-  "category": "Design & Content",
+  "category": "E-commerce",
   "domain": "profitoniumapps.com",
   "desc": "Bulk copy generator for Shopify from Profitonium: product descriptions, titles, meta tags and image alt text for thousands of products at once, in 30+ languages, with custom instruction templates and automatic descriptions on import. Live since 2021.",
   "link": "https://platform.shoffi.app/r/rl_j2egI436",
@@ -1476,7 +1476,7 @@
  },
  {
   "name": "Imgify",
-  "category": "Design & Content",
+  "category": "E-commerce",
   "domain": "effectify.io",
   "desc": "Shopify app that drops your own logo, or snow, hearts and dozens of holiday presets, down the storefront, with a marquee slider for partner, payment and press logos and an AI logo maker for the artwork.",
   "link": "https://platform.shoffi.app/r/rl_ow1RPnmR",
@@ -2459,7 +2459,7 @@
  },
  {
   "name": "Section Library",
-  "category": "Design & Content",
+  "category": "E-commerce",
   "domain": "sectionlibrary.com",
   "desc": "Shopify app that adds 200+ ready-made theme sections plus AI-generated custom ones (Gemini 3.1 Pro), all inside the native theme editor so layouts change without a developer. Live since October 2023 with a single App Store review.",
   "link": "https://platform.shoffi.app/r/rl_O72vMWMm",
@@ -3457,7 +3457,7 @@
  },
  {
   "name": "MX AI",
-  "category": "Design & Content",
+  "category": "E-commerce",
   "domain": "effectify.io",
   "desc": "Shopify app that plays a track of your choice in the background of a storefront, with control over the player's colour, size, position, volume, loop and autoplay, and sources ranging from an uploaded MP3 to Spotify, SoundCloud, Apple Music and YouTube formats. Built for Shopify, live since January 2020.",
   "link": "https://platform.shoffi.app/r/rl_jdqfGPsH",
@@ -3556,7 +3556,7 @@
  },
  {
   "name": "LumenCart",
-  "category": "Design & Content",
+  "category": "E-commerce",
   "domain": "lumencart.fleeta.co.uk",
   "desc": "Shopify app from Fleeta that turns the product photos you already have into AI studio and lifestyle images, one at a time or in bulk, and publishes them to the product in one click. The per-credit rate stops improving at Pro. Launched August 2026, no reviews yet.",
   "link": "https://lumencart.fleeta.co.uk/",
@@ -5015,5 +5015,12 @@
   "domain": "hol.org",
   "desc": "Local-first security tool for AI coding agents: checks shell commands, secret access, MCP changes and plugin installs before they run, with a free local tier and paid cloud plans.",
   "link": "https://hol.org/go/guard/daniel?dest=%2Fguard&link_id=79b56dab-eb6c-4105-96ee-0a75eb2e92ed&utm_source=daniel&utm_medium=affiliate&utm_campaign=default"
+ },
+ {
+  "name": "ShopRaise Workplace Giving",
+  "category": "HR & People",
+  "domain": "shopraise.com",
+  "desc": "Employee giving perk: staff shop through partner retailers and a portion of eligible purchases supports the cause they pick, with no payroll deductions or donation budget.",
+  "link": "https://partners.shopraise.com/igg4jukacu1l"
  }
 ]
