@@ -7278,20 +7278,15 @@
  "Uniqode": {
   "flags": [
    [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
    ]
   ],
   "price": "$9",
-  "price_note": "from · per month (FAQ-stated minimum)",
-  "verified": "2026-10-28",
-  "catch": "The tier jumps are steep and a lot is gated: analytics are capped at 60 days on the entry plan, scan limits apply across all tiers, and custom domains sit behind higher pricing.",
+  "price_note": "from · per month",
+  "verified": "2026-11-18",
+  "catch": "The tier jumps are steep and a lot is gated: analytics are capped at 30 days on the entry plan, only the first three plans have fixed prices, a second user means $99 a month, and reaching a plan's scan limit stops your dynamic codes.",
   "best": "Marketing teams that need dynamic QR codes with real analytics and enterprise compliance (SOC 2, GDPR, ISO 27001, optional HIPAA)."
  },
  "UniTel Voice": {
@@ -11201,5 +11196,45 @@
   "verified": "2026-11-17",
   "catch": "SEO suite with a free Basic account; Premium from 59.90 EUR a month.",
   "best": "Small businesses, freelancers and agencies that want a website audit, rank tracking and backlink monitoring in one suite, with a free account to start."
+ },
+ "PageFly": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$24",
+  "price_note": "Builder · per month for 5 published pages or sections and 80 AI credits, billed…",
+  "verified": "2026-11-17",
+  "catch": "Shopify page builder with AI page generation and A/B testing: free plan, paid from $24 a month.",
+  "best": "Shopify merchants who want drag-and-drop landing, product and home pages plus A/B testing and heatmaps in one app, with a free plan to try first."
+ },
+ "Langwill": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9.99",
+  "price_note": "Starter · per month for 30,000 words and 10 languages",
+  "verified": "2026-11-18",
+  "catch": "Translates a Shopify store and converts currencies; free for 5,000 words.",
+  "best": "Shopify merchants who want their store in several languages and currencies without hiring translators, and who can start on a free or $9.99 plan."
+ },
+ "Social Snowball": {
+  "price": "$249",
+  "price_note": "Snow Day · per month plus 3% of affiliate revenue",
+  "verified": "2026-11-18",
+  "catch": "Affiliate, referral and influencer programmes for Shopify; from $249 a month.",
+  "best": "Shopify brands with enough sales to justify $249 or more a month on affiliate, referral and influencer programmes, and that want payouts."
  }
 }
