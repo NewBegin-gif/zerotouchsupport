@@ -5001,5 +5001,19 @@
   "desc": "Shopify app for affiliate, referral and influencer programmes with automated payouts, attribution and fraud protection.",
   "link": "https://platform.shoffi.app/r/rl_HgXLzUlE",
   "platform": "shopify"
+ },
+ {
+  "name": "Make",
+  "category": "Operations & Workflow",
+  "domain": "make.com",
+  "desc": "Visual no-code automation platform that connects apps and AI models into multi-step scenarios, with a free plan and paid tiers priced by monthly credits.",
+  "link": "https://www.make.com/en/register?pc=officesoftware"
+ },
+ {
+  "name": "HOL Guard",
+  "category": "Security",
+  "domain": "hol.org",
+  "desc": "Local-first security tool for AI coding agents: checks shell commands, secret access, MCP changes and plugin installs before they run, with a free local tier and paid cloud plans.",
+  "link": "https://hol.org/go/guard/daniel?dest=%2Fguard&link_id=79b56dab-eb6c-4105-96ee-0a75eb2e92ed&utm_source=daniel&utm_medium=affiliate&utm_campaign=default"
  }
 ]
