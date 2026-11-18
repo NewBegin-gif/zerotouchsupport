@@ -4194,7 +4194,7 @@
   ],
   "price": "$9.99",
   "price_note": "from · per user per month billed yearly ($15.99 monthly), extra hours $0.50",
-  "verified": "2026-09-19",
+  "verified": "2026-11-18",
   "catch": "The meter is transcription hours and Pro gives you twenty a month, which is about an hour a working day.",
   "best": "People who run many external meetings and need a searchable record: the summaries earn their keep when you cannot remember which of four calls a detail came from."
  },
@@ -5484,11 +5484,6 @@
     "per_seat"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -5496,7 +5491,7 @@
   ],
   "price": "$10",
   "price_note": "from · per seat a month billed yearly ($12 monthly)",
-  "verified": "2026-10-03",
+  "verified": "2026-11-18",
   "catch": "The magic only works on a calendar it can write to.",
   "best": "Google Calendar teams that want AI to auto-schedule tasks, habits and meetings around their priorities."
  },
@@ -9311,7 +9306,7 @@
   ],
   "price": "$79",
   "price_note": "Pro · per month, billed monthly in advance through Lemon Squeezy as merchant…",
-  "verified": "2026-10-13",
+  "verified": "2026-11-18",
   "catch": "The GEO score is CiteRoute's own model and its terms rule out any citation guarantee; real AI-crawler data starts at $79 a month for one site.",
   "best": "Founders and marketers who want to see whether AI crawlers visit their site and how ready their pages look for AI answers."
  },
@@ -9561,6 +9556,11 @@
  "UserHelp.co": {
   "flags": [
    [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -9568,7 +9568,7 @@
   ],
   "price": "$59",
   "price_note": "Pro · one-time payment, use on as many sites as you need, no watermark",
-  "verified": "2026-10-17",
+  "verified": "2026-11-18",
   "catch": "Free for one project with a watermark; Pro is $59 once, with no stated refund rule.",
   "best": "Freelancers, small agencies and site owners who want a feedback button on their websites that collects annotated screenshots and bug reports."
  },
@@ -10636,11 +10636,6 @@
     "usage_metered"
    ],
    [
-    "📅",
-    "Annual commit",
-    "annual_lock"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -10648,7 +10643,7 @@
   ],
   "price": "$9",
   "price_note": "Basic · 1,000 responses a month and 1 user",
-  "verified": "2026-11-10",
+  "verified": "2026-11-18",
   "catch": "Surveys with analysis and AI; free plan, then $9 to $79 a month.",
   "best": "Freelancers, consultants, small teams and students who want a survey builder with built-in cross-tab analysis and AI summaries without paying for every feature separately."
  },
@@ -10702,7 +10697,7 @@
     "free_tier"
    ]
   ],
-  "verified": "2026-11-11",
+  "verified": "2026-11-18",
   "catch": "Certificates from Excel; free for 25 a month, Batch Pass $19.",
   "best": "Training providers, course organisers and HR teams who need named PDF certificates from a spreadsheet without designing each one."
  },
@@ -10744,7 +10739,7 @@
   ],
   "price": "$13",
   "price_note": "Basic · Basic $13 a month or $130 a year",
-  "verified": "2026-11-12",
+  "verified": "2026-11-18",
   "catch": "Branded short links and QR codes; free for 20 a month.",
   "best": "Marketers and small teams who want branded short links and dynamic QR codes with click reports, and who are fine staying within a monthly link allowance."
  },
@@ -11165,7 +11160,7 @@
   ],
   "price": "$8",
   "price_note": "Starter · per month billed yearly ($96 a year)",
-  "verified": "2026-11-17",
+  "verified": "2026-11-18",
   "catch": "All-in-one AI writing, image and audio tool: free plan, paid from $8 a month.",
   "best": "Solo creators, marketers and small teams that want writing, images, transcription and voice in one subscription with a free tier to try first."
  },

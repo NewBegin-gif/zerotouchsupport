@@ -170,7 +170,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## NeuroAds
 - Review: https://zerotouchsupport.com/neuroads-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "einige Tage bis zu zwei Wochen". What we saw: A German question got an answer in German with a product card, so the language of the shopper was followed; the delivery time to Germany…
 - Verdict: NeuroAds: Growth $49 a month or $468 a year (save 20%). Nothing about that is suspicious on its face; new apps have new reviews.
 - Price: (read 2026-08-19 and re-verified unchanged 2026-10-09 on apps.shopify.com/neuroads-chatbot) Four tiers, priced by conversations per month. Free: 200 conversations, AI answers about products, collections and orders, rich product cards with add-to-cart, order status and tracking in chat, replies in the shopper's language.
 
@@ -236,7 +236,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## StoreFAQ
 - Review: https://zerotouchsupport.com/storefaq-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Professional card says extra usage is billed at $0.0075 a view, while the dossier gives $0.0159 a view on Professional and $0.0075 only on Growth; the Growth card also says $0.0075.
 - Verdict: StoreFAQ: Free, Professional at $7.99 a month, Growth at $14.99 and Enterprise at $49.99. You install it to get SEO-friendly FAQ pages that rank and get read.
 - Price: (read 2026-11-17 on apps.shopify.com/storefaq and on storefaq.io, and in our own test session on 17 November 2026; first read 2026-08-21) Four tiers at regular prices: Free, Professional at $7.99 a month, Growth at $14.99 and Enterprise at $49.99. They are metered on FAQ page views and AI chatbot conversations rather than on the number of FAQs.
 
