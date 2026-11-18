@@ -4288,9 +4288,9 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-25",
-  "catch": "No published price: the pricing page returns a 404, and the FAQ names the tiers but no figure.",
-  "best": "Marketing teams with real media spend across channels who want an always-on AI analyst: unified creative visibility."
+  "verified": "2026-11-18",
+  "catch": "No readable price: the pricing page loads in the browser only, and the FAQ names the tiers but no figure.",
+  "best": "Marketing teams with real media spend across channels who want an always-on AI analyst: every ad and post tied to its own spend and results."
  },
  "Modelize": {
   "flags": [
@@ -5037,7 +5037,7 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-24",
+  "verified": "2026-11-18",
   "catch": "The thing you cannot check is the price.",
   "best": "Small teams that want AI-assisted planning and are willing to ask for a quote: the site publishes no price at all."
  },
@@ -6836,7 +6836,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month billed annually ($39 monthly)",
-  "verified": "2026-10-13",
+  "verified": "2026-11-18",
   "catch": "The tiers gate on TWO axes at once (member count and project/pipeline count) so you can hit a wall on either.",
   "best": "Solo operators and small teams who want projects, tasks, chat AND a lightweight CRM pipeline with AI in one simple tool, and value the real free tier to start."
  },
@@ -6878,7 +6878,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-26",
+  "verified": "2026-11-18",
   "catch": "Tellent's modular shape is useful (you can buy just the ATS, or just the HRIS) but nothing is priced in public: every tier on tellent.com/pricing ends in 'Get a demo' (read in a browser on 9 September 2026), and recruitee.com/pricing carries no figures either.",
   "best": "European scale-ups hiring continuously that want a collaborative ATS they can extend with HRIS and performance modules, and can put a sales call in the buying process."
  },
