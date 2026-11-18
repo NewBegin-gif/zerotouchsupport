@@ -2255,6 +2255,16 @@
  "DropGenius": {
   "flags": [
    [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "📅",
     "Annual commit",
     "annual_lock"
@@ -2262,7 +2272,7 @@
   ],
   "price": "$24",
   "price_note": "Pro · per month billed annually at $288 -- cheaper than the $39 monthly…",
-  "verified": "2026-09-19",
+  "verified": "2026-11-18",
   "catch": "We have to be blunt here: the dominant theme in DropGenius’s public buyer reviews is unauthorised charges continuing after cancellation with no route to a refund, and some reviewers report never reaching a dashboard to cancel at all, with support emails bouncing back undeliverable.",
   "best": "Absolute beginners who want a pre-built Shopify dropshipping store scaffold in minutes and understand it's a starting point, not a business."
  },
@@ -9550,6 +9560,11 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$19",
@@ -10230,7 +10245,7 @@
   ],
   "price": "$29.99",
   "price_note": "Launch · per user per month, 100 AI conversations a month, unlimited human…",
-  "verified": "2026-11-04",
+  "verified": "2026-11-18",
   "catch": "Priced per user; Launch has only 100 AI conversations a month.",
   "best": "Small businesses that want an AI chat on their website and social channels that answers routine questions around the clock and hands over to a person with the full conversation."
  },
