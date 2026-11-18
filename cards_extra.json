@@ -11283,5 +11283,24 @@
   "verified": "2026-11-18",
   "catch": "Local guard for AI coding agents; free tier, paid cloud plans from $4.99.",
   "best": "Developers and small teams who run coding agents such as Claude Code, Codex or Cursor on their own machines and want risky actions paused before they run."
+ },
+ "ShopRaise Workplace Giving": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$2",
+  "price_note": "from · per employee per month",
+  "verified": "2026-11-18",
+  "catch": "Price only via G2 listing; no buyer reviews yet.",
+  "best": "HR and people teams at employers of any size that want a giving or social-impact perk without payroll deductions, employee donations or a company-funded donation budget."
  }
 }
