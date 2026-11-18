@@ -1,5 +1,21 @@
 [
  {
+  "slug": "asknest",
+  "name": "AskNest",
+  "review_url": "https://zerotouchsupport.com/asknest-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/asknest.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#asknest",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "4 confirmed · 1 contradicted · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "AskNest hands-on test by ZeroTouch Support, 17 Nov 2026: Vendor claims checked 6; 4 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://zerotouchsupport.com/asknest-review.html\"><img src=\"https://zerotouchsupport.com/badges/asknest.svg\" width=\"340\" height=\"115\" alt=\"AskNest hands-on test by ZeroTouch Support, 17 Nov 2026: Vendor claims checked 6; 4 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "chatwith",
   "name": "Chatwith",
   "review_url": "https://zerotouchsupport.com/chatwith-review.html",
@@ -75,6 +91,22 @@
   "snippet": "<a href=\"https://zerotouchsupport.com/freshworks-review.html\"><img src=\"https://zerotouchsupport.com/badges/freshworks.svg\" width=\"340\" height=\"98\" alt=\"Freshworks hands-on test by ZeroTouch Support, 21 Oct 2026: Vendor claims checked 1; 1 not comparable\"></a>"
  },
  {
+  "slug": "gorgias",
+  "name": "Gorgias",
+  "review_url": "https://zerotouchsupport.com/gorgias-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/gorgias.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#gorgias",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "2 confirmed · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Gorgias hands-on test by ZeroTouch Support, 17 Nov 2026: Vendor claims checked 4; 2 confirmed · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://zerotouchsupport.com/gorgias-review.html\"><img src=\"https://zerotouchsupport.com/badges/gorgias.svg\" width=\"340\" height=\"115\" alt=\"Gorgias hands-on test by ZeroTouch Support, 17 Nov 2026: Vendor claims checked 4; 2 confirmed · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "help-scout",
   "name": "Help Scout",
   "review_url": "https://zerotouchsupport.com/help-scout-review.html",
@@ -87,6 +119,22 @@
   ],
   "alt": "Help Scout hands-on test by ZeroTouch Support, 20 Oct 2026: No claim or export checks recorded",
   "snippet": "<a href=\"https://zerotouchsupport.com/help-scout-review.html\"><img src=\"https://zerotouchsupport.com/badges/help-scout.svg\" width=\"340\" height=\"81\" alt=\"Help Scout hands-on test by ZeroTouch Support, 20 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "helpcenter",
+  "name": "HelpCenter",
+  "review_url": "https://zerotouchsupport.com/helpcenter-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/helpcenter.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#helpcenter",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "3 confirmed · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "HelpCenter hands-on test by ZeroTouch Support, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://zerotouchsupport.com/helpcenter-review.html\"><img src=\"https://zerotouchsupport.com/badges/helpcenter.svg\" width=\"340\" height=\"115\" alt=\"HelpCenter hands-on test by ZeroTouch Support, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "landbot",

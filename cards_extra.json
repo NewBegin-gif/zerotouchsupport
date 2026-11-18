@@ -11215,5 +11215,48 @@
   "verified": "2026-11-18",
   "catch": "Affiliate, referral and influencer programmes for Shopify; from $249 a month.",
   "best": "Shopify brands with enough sales to justify $249 or more a month on affiliate, referral and influencer programmes, and that want payouts."
+ },
+ "Make": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$15",
+  "price_note": "Core · per month at 10,000 credits",
+  "verified": "2026-11-18",
+  "catch": "Visual automation for connecting apps; free plan, paid from $15 a month.",
+  "best": "Small and mid-sized teams that want to connect several apps and AI steps in a visual builder, with branching logic, and are happy to watch a credit meter."
+ },
+ "HOL Guard": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$4.99",
+  "price_note": "Solo · per month",
+  "verified": "2026-11-18",
+  "catch": "Local guard for AI coding agents; free tier, paid cloud plans from $4.99.",
+  "best": "Developers and small teams who run coding agents such as Claude Code, Codex or Cursor on their own machines and want risky actions paused before they run."
  }
 }

@@ -26,7 +26,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## AskNest
 - Review: https://zerotouchsupport.com/asknest-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: On the Free plan the chip Show me best sellers gave four product cards in about 6 seconds, while the listing and the Starter card put best-seller suggestions on Starter and up.
 - Verdict: AskNest: All charges are billed in USD and recur every 30 days, and no paid tier shows a free trial, the free plan is the trial.
 - Price: (read 2026-08-19 on apps.shopify.com/asknest-ai-faq-product-bot, re-verified unchanged 2026-09-28 and 2026-10-09) Four tiers, priced by AI replies per month, and the cheapest ladder in this category. Free: 50 AI replies a month, replies in one language you select, answers drawn from your FAQs, policy pages and product data, translated storefront widget, product finder and usage tracking.
 
@@ -110,7 +110,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Gorgias
 - Review: https://zerotouchsupport.com/gorgias-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "From $10/month. Free trial available". What we saw: The Billing page said the free trial started on 17 November 2026 and expires on 24 November 2026, seven days, with Starter at $10 a…
 - Verdict: Gorgias: The listing's $60 Basic is the $90 Basic without the AI Agent. Never priced per agent is a real advantage, but it starts one tier up.
 - Price: (read 2026-11-17 on gorgias.com/pricing and on the App Store listing apps.shopify.com/helpdesk, and in our own test session on 17 November 2026; first read 2026-09-08) Four plans with the AI Agent included, as gorgias.com/pricing shows them by default: Starter $40 a month, Basic $90, Pro $550 and Advanced $1,430, or $77, $471 and $1,227 a month billed annually ($924, $5,652 and $14,724 a year); Starter bills…
 
@@ -122,7 +122,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## HelpCenter
 - Review: https://zerotouchsupport.com/helpcenter-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Monthly ticket limit 0/10 (0%)". What we saw: The Helpdesk tab on the Free plan showed Tickets: 10 and Monthly ticket limit 0/10 (0%), with Top-ups only on paid plans; the price per extra…
 - Verdict: HelpCenter: Free to install, and the meter is tickets rather than agents. The free tier is the hook and the FAQ builder is the reason people stay.
 - Price: (re-verified 2026-11-01 and again, unchanged, on 2026-11-12 on apps.shopify.com/helpcenter) Free to install, and the meter is tickets rather than agents. The plan ladder changed since our earlier reading: the small Basic tier is gone, so the first paid step is now Standard.
 
