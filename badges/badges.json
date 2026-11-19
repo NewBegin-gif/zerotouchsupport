@@ -201,6 +201,22 @@
   "snippet": "<a href=\"https://zerotouchsupport.com/orateur-review.html\"><img src=\"https://zerotouchsupport.com/badges/orateur.svg\" width=\"340\" height=\"115\" alt=\"Orateur hands-on test by ZeroTouch Support, 17 Nov 2026: Vendor claims checked 8; 3 confirmed · 1 contradicted · 2 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "quo",
+  "name": "Quo",
+  "review_url": "https://zerotouchsupport.com/quo-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/quo.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#quo",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "3 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Quo hands-on test by ZeroTouch Support, 19 Nov 2026: Vendor claims checked 4; 3 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://zerotouchsupport.com/quo-review.html\"><img src=\"https://zerotouchsupport.com/badges/quo.svg\" width=\"340\" height=\"115\" alt=\"Quo hands-on test by ZeroTouch Support, 19 Nov 2026: Vendor claims checked 4; 3 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "respond-io",
   "name": "respond.io",
   "review_url": "https://zerotouchsupport.com/respond-io-review.html",

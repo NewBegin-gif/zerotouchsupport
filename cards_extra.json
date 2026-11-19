@@ -824,7 +824,7 @@
   ],
   "price": "€495",
   "price_note": "Self Service Platform · per month PLUS an unpublished percentage of connected ad spend…",
-  "verified": "2026-10-13",
+  "verified": "2026-11-19",
   "catch": "Every Amazon PPC and DSP tier adds a percentage of connected ad spend that appears nowhere on the page, so €495 is a floor, not a price, and the commitment is annual.",
   "best": "Brands and agencies already spending well past €10,000 a month on Amazon ads, who want bid, budget and campaign automation."
  },
@@ -1632,7 +1632,7 @@
   ],
   "price": "$30",
   "price_note": "Lite · per month for 37,500 credits",
-  "verified": "2026-11-09",
+  "verified": "2026-11-19",
   "catch": "The free tier is a sampler, not a trial of the real thing: 500 credits is about 100 async ChatGPT answers at the 5-credit rate we were actually charged, and their table lists 7 for a full response.",
   "best": "SEO and marketing teams who need AI-search visibility as structured data: who gets cited for which query on ChatGPT, Gemini."
  },
@@ -1656,7 +1656,7 @@
   ],
   "price": "$19",
   "price_note": "Solo, per user · per month, billed month to month",
-  "verified": "2026-10-19",
+  "verified": "2026-11-19",
   "catch": "The built-in calling is the draw, but call and SMS credits stack on top of the seat price: a '$99' plan can effectively cost ~$160/user once a rep dials 50+ times a day.",
   "coupon": {
    "code": "STACK20",
@@ -2277,7 +2277,7 @@
   ],
   "price": "$24",
   "price_note": "Pro · per month billed annually at $288 -- cheaper than the $39 monthly…",
-  "verified": "2026-11-18",
+  "verified": "2026-11-19",
   "catch": "We have to be blunt here: the dominant theme in DropGenius’s public buyer reviews is unauthorised charges continuing after cancellation with no route to a refund, and some reviewers report never reaching a dashboard to cancel at all, with support emails bouncing back undeliverable.",
   "best": "Absolute beginners who want a pre-built Shopify dropshipping store scaffold in minutes and understand it's a starting point, not a business."
  },
@@ -3304,7 +3304,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-28",
+  "verified": "2026-11-19",
   "catch": "Opaque pricing and an implementation fee mean the real cost only surfaces in a sales call, and it's built for scaling mid-size companies, so it's heavy and expensive for a small team.",
   "best": "Growing mid-size companies (roughly 50-500 staff) that have outgrown spreadsheets and want a modern, culture-focused HRIS."
  },
