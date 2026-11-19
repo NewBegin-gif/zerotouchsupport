@@ -3221,8 +3221,8 @@
   "verified": "2026-11-15",
   "catch": "Two honest limits: it's pricier than alternatives with thin mid-tier options, and several users report slow customer service (sometimes a week or more to reply).",
   "coupon": {
-   "code": "",
-   "label": "via our link: 10% off your first six months if you upgrade before your free…"
+   "code": "READYTOGROW",
+   "label": "40% off your first six months for new solo providers and new…"
   },
   "best": "Growing group practices (10+ clinicians) in health, wellness and nutrition that need multi-provider scheduling, telehealth and a real API to automate operations."
  },
@@ -10105,10 +10105,6 @@
   "price_note": "Monthly · billed monthly, 2 devices",
   "verified": "2026-11-14",
   "catch": "Data stays per device unless you pay +$3/mo for Cloud sync.",
-  "coupon": {
-   "code": "",
-   "label": "via our link: 50% off your first payment"
-  },
   "best": "Small businesses that run an imprest petty cash float (shops, restaurants, site offices, clinics, schools) and want receipts."
  },
  "PrintSage": {
@@ -10844,6 +10840,11 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$9",
