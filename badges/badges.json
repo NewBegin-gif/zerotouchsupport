@@ -217,6 +217,23 @@
   "snippet": "<a href=\"https://zerotouchsupport.com/respond-io-review.html\"><img src=\"https://zerotouchsupport.com/badges/respond-io.svg\" width=\"340\" height=\"115\" alt=\"respond.io hands-on test by ZeroTouch Support, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested\"></a>"
  },
  {
+  "slug": "salesmessage",
+  "name": "Salesmessage",
+  "review_url": "https://zerotouchsupport.com/salesmessage-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/salesmessage.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#salesmessage",
+  "tested_on": "2026-11-18",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 2",
+   "1 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Salesmessage sign-up attempt by ZeroTouch Support, 18 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://zerotouchsupport.com/salesmessage-review.html\"><img src=\"https://zerotouchsupport.com/badges/salesmessage.svg\" width=\"340\" height=\"132\" alt=\"Salesmessage sign-up attempt by ZeroTouch Support, 18 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "storefaq",
   "name": "StoreFAQ",
   "review_url": "https://zerotouchsupport.com/storefaq-review.html",

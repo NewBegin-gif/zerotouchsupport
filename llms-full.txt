@@ -147,7 +147,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## KrispCall
 - Review: https://zerotouchsupport.com/krispcall-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: KrispCall: Advance $32 or $40, up to 50 users. Same honest math as most budget VoIP: the plan buys the platform, the meter buys the conversations.
+- Verdict: KrispCall Starter is $12 per user a month billed yearly ($15 monthly) for up to 5 users, and calls and SMS are metered on top. Who it suits.
 - Price: (re-verified 2026-08-17 and 2026-10-07 against the vendor's own pricing page) Since our August reading the plans have been renamed and a tier added: Starter $12 per user/mo billed annually or $15 monthly, for teams up to 5 users; Advance $32 or $40, up to 50 users; Max $48 or $60, with no member limit; Enterprise custom, quoted as volume pricing for 50+ seats. Annual saves 20%, which the page puts at $36, $96 and…
 
 ## Landbot

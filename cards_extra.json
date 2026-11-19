@@ -297,7 +297,7 @@
   ],
   "price": "$39",
   "price_note": "from · per month (50 unique/25 premium products)",
-  "verified": "2026-11-17",
+  "verified": "2026-11-19",
   "catch": "You pay the subscription plus wholesale product cost, and the low Starter product cap nudges serious stores up to Pro quickly.",
   "best": "Dropshippers who want automated product sourcing, fulfillment and inventory sync with access to faster-shipping suppliers and one-click store integration."
  },
@@ -597,7 +597,7 @@
   ],
   "price": "$5.65",
   "price_note": "from · per user a month billed annually (Starter)",
-  "verified": "2026-09-24",
+  "verified": "2026-11-19",
   "catch": "GPS tracking of employees needs transparency and often consent (rules differ by country), and adoption dies the day the crew feels surveilled rather than served.",
   "best": "Hourly and mobile crews (construction, cleaning, field service) that want dead-simple clock-in/out, GPS-verified timesheets and payroll-ready exports."
  },
@@ -724,7 +724,7 @@
   ],
   "price": "$12.49",
   "price_note": "from · per month billed annually ($15 monthly) at 0-500 subscribers",
-  "verified": "2026-11-12",
+  "verified": "2026-11-19",
   "catch": "The free and low tiers are generous, but Lite and Plus prices climb with your subscriber count, so budget for growth.",
   "best": "Small businesses and creators who want reliable, simple email marketing with a usable free tier."
  },
@@ -770,7 +770,7 @@
   ],
   "price": "$14.50",
   "price_note": "Pro · per month billed annually",
-  "verified": "2026-09-29",
+  "verified": "2026-11-19",
   "catch": "The smart-template engine is the feature and the fence: decks look polished with zero design skill precisely because the system constrains you, so pixel-perfect custom layouts and heavy brand exceptions fight the tool.",
   "best": "Founders, sales and small teams that want consistently good-looking decks fast, where design consistency matters more than pixel-level control.",
   "pw": "price up Sep 2026",
@@ -800,7 +800,7 @@
   ],
   "price": "$59",
   "price_note": "Lite… · billed monthly",
-  "verified": "2026-10-09",
+  "verified": "2026-11-19",
   "catch": "Next to Substack it's more to learn.",
   "best": "Newsletter operators who want growth tools, automation, SEO control and ad/referral monetisation, and to keep 100% of subscription revenue."
  },
@@ -8677,6 +8677,10 @@
   "price_note": "Portfolio · per month billed monthly, excluding VAT, 10 pages and no shop",
   "verified": "2026-10-27",
   "catch": "Professional's shop stops at 250 products and leaves out digital downloads, basket recovery and Google Shopping; those start on Business at twice the price.",
+  "coupon": {
+   "code": "AIBUILDER10",
+   "label": "10% off the first payment of a Create subscription with the…"
+  },
   "best": "UK sole traders, makers and small shops that want a hosted website and a modest online shop with an account manager and UK-based support."
  },
  "DigitalOcean": {
