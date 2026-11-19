@@ -76,6 +76,22 @@
   "snippet": "<a href=\"https://zerotouchsupport.com/cometchat-review.html\"><img src=\"https://zerotouchsupport.com/badges/cometchat.svg\" width=\"340\" height=\"81\" alt=\"CometChat hands-on test by ZeroTouch Support, 23 Oct 2026: No claim or export checks recorded\"></a>"
  },
  {
+  "slug": "eazychat",
+  "name": "EazyChat",
+  "review_url": "https://zerotouchsupport.com/eazychat-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/eazychat.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#eazychat",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "3 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "EazyChat hands-on test by ZeroTouch Support, 19 Nov 2026: Vendor claims checked 4; 3 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://zerotouchsupport.com/eazychat-review.html\"><img src=\"https://zerotouchsupport.com/badges/eazychat.svg\" width=\"340\" height=\"115\" alt=\"EazyChat hands-on test by ZeroTouch Support, 19 Nov 2026: Vendor claims checked 4; 3 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "freshworks",
   "name": "Freshworks",
   "review_url": "https://zerotouchsupport.com/freshworks-review.html",

@@ -80,7 +80,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## EazyChat
 - Review: https://zerotouchsupport.com/eazychat-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: "Price per Agent: $29.99". What we saw: Plan & Billing shows Launch Eazychat at $29.99 per agent, monthly, which matches the dossier price for Launch.
 - Verdict: EazyChat charges per user per month. Pricing is per user, so a team of five pays five times the plan price.
 - Price: (read 2026-11-04 on eazychat.io/pricing.html, US dollars) EazyChat charges per user per month, and every plan includes AI, unlimited human chats and a 15-day free trial, with no long-term contract. Launch costs $29.99 per user a month for 100 AI conversations a month, 1 website with 1 multilingual widget, a website scan, Shopify and API integrations and basic analytics.
 
