@@ -224,7 +224,7 @@
   ],
   "price": "$12",
   "price_note": "from · a month per active Spend user plus a team-size platform fee",
-  "verified": "2026-10-23",
+  "verified": "2026-11-19",
   "catch": "The honest headline here is that the FX markup is published at all: 0.5% and 1% above interbank is a real number, and most competitors will not print one.",
   "best": "Companies invoicing or paying in several currencies, where a 0.5% spread against your bank's 2–3% is the whole business case."
  },
@@ -335,7 +335,7 @@
   ],
   "price": "$6.99",
   "price_note": "from · a month billed annually ($83.99/yr)",
-  "verified": "2026-09-27",
+  "verified": "2026-11-19",
   "catch": "The honest catch is that Alohi is a suite of separate products: Fax.Plus, Sign.Plus, Scan.Plus: each with its own subscription, so \"one ecosystem\" can mean several line items if you want e-signatures and faxing and scanning.",
   "best": "Businesses that need secure online faxing, e-signatures or scanning: especially regulated ones needing HIPAA-compliant fax on the Enterprise tier.",
   "pw": "price held",
@@ -651,7 +651,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month (preview tier, no publishing or monetization)",
-  "verified": "2026-10-23",
+  "verified": "2026-11-19",
   "catch": "The $29 Demo tier cannot actually publish to the App Store or Google Play: real branded apps start at $240 a month.",
   "best": "Creators and media brands with a real audio catalog (podcasts, audiobooks, meditations, courses) ready to monetize subscriptions in their own branded apps."
  },
@@ -1104,6 +1104,11 @@
     "usage_metered"
    ],
    [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -1224,7 +1229,7 @@
   ],
   "price": "$5.99",
   "price_note": "from · per user a month plus $19/mo base fee",
-  "verified": "2026-10-22",
+  "verified": "2026-11-19",
   "catch": "That flat $19 base fee makes it pricey for very small teams: at three or four users the base fee dominates the bill, so it's better value once you're past a handful of employees.",
   "best": "Small-to-mid teams that need straightforward employee time tracking with GPS and payroll-ready exports.",
   "pw": "price up Aug 2026",
@@ -11298,5 +11303,19 @@
   "verified": "2026-11-18",
   "catch": "Price only via G2 listing; no buyer reviews yet.",
   "best": "HR and people teams at employers of any size that want a giving or social-impact perk without payroll deductions, employee donations or a company-funded donation budget."
+ },
+ "DocHub": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "€8",
+  "price_note": "Basic · per month, Basic billed yearly, before tax, as the page showed it from a European…",
+  "verified": "2026-11-18",
+  "catch": "PDF editing and e-signing; the free plan has 3 uses a month.",
+  "best": "Freelancers and small teams who fill in and sign their own PDFs in the browser, and who will pay for Pro once they send many documents for other people to sign."
  }
 }
