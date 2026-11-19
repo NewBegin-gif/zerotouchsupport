@@ -128,7 +128,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Intercom
 - Review: https://zerotouchsupport.com/intercom-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Asked Do you sell snowboard helmets?, Fin said the store does not carry helmets, with Content (4) as its source, although none of the articles says that. It should have said that it did not know.
 - Verdict: Intercom: Essential $29 (new customers $19, 35% off), Advanced $85, Expert $132. The cheaper Essential price is shown as a new-customer offer.
 - Price: (read 2026-11-17 on intercom.com/pricing, US dollars per seat per month, billed annually) Essential $29 (new customers $19, 35% off), Advanced $85, Expert $132; billed monthly $39, $99 and $139 per seat, per Intercom's help article 'Fin and Intercom plans explained' read the same day; every plan includes the Fin AI Agent, charged at $0.99 per outcome. Fin alone for an existing helpdesk: $0.99 per outcome, no…
 
@@ -290,7 +290,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Vanity Number
 - Review: https://zerotouchsupport.com/vanity-number-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Text we checked: "(603) DENTIST, Hinsdale, New Hampshire, $3,000.00". What we saw: A local search for DENTIST gave one number, (603) DENTIST in Hinsdale, New Hampshire, at $3,000.00, a one-time price. The…
 - Verdict: Vanity Number: The catalogue is browsable by price band, from under $250 through $251 to $500, $501 to $1,000. You are buying the number only.
 - Price: (read 2026-10-11 on vanitynumber.com and its FAQ page, USD) VanityNumber.com sells memorable North American local and toll-free phone numbers as a one-time purchase, not phone service. The FAQ says the price is a single search and acquisition fee to source the number, secure it and transfer it to the carrier you choose; there is no monthly subscription, renewal or fee for keeping the number, and your carrier…
 

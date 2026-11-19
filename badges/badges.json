@@ -137,6 +137,22 @@
   "snippet": "<a href=\"https://zerotouchsupport.com/helpcenter-review.html\"><img src=\"https://zerotouchsupport.com/badges/helpcenter.svg\" width=\"340\" height=\"115\" alt=\"HelpCenter hands-on test by ZeroTouch Support, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "intercom",
+  "name": "Intercom",
+  "review_url": "https://zerotouchsupport.com/intercom-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/intercom.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#intercom",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 13",
+   "9 confirmed · 1 contradicted · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Intercom hands-on test by ZeroTouch Support, 18 Nov 2026: Vendor claims checked 13; 9 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://zerotouchsupport.com/intercom-review.html\"><img src=\"https://zerotouchsupport.com/badges/intercom.svg\" width=\"340\" height=\"115\" alt=\"Intercom hands-on test by ZeroTouch Support, 18 Nov 2026: Vendor claims checked 13; 9 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "landbot",
   "name": "Landbot",
   "review_url": "https://zerotouchsupport.com/landbot-review.html",
@@ -259,6 +275,22 @@
   ],
   "alt": "Typewise hands-on test by ZeroTouch Support, 23 Oct 2026: Vendor claims checked 1; 1 contradicted; Data export: file opened, re-import not tested",
   "snippet": "<a href=\"https://zerotouchsupport.com/typewise-review.html\"><img src=\"https://zerotouchsupport.com/badges/typewise.svg\" width=\"340\" height=\"115\" alt=\"Typewise hands-on test by ZeroTouch Support, 23 Oct 2026: Vendor claims checked 1; 1 contradicted; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "vanity-number",
+  "name": "Vanity Number",
+  "review_url": "https://zerotouchsupport.com/vanity-number-review.html",
+  "badge_svg": "https://zerotouchsupport.com/badges/vanity-number.svg",
+  "badge_page": "https://zerotouchsupport.com/badges/#vanity-number",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "4 confirmed · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Vanity Number hands-on test by ZeroTouch Support, 18 Nov 2026: Vendor claims checked 7; 4 confirmed · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://zerotouchsupport.com/vanity-number-review.html\"><img src=\"https://zerotouchsupport.com/badges/vanity-number.svg\" width=\"340\" height=\"115\" alt=\"Vanity Number hands-on test by ZeroTouch Support, 18 Nov 2026: Vendor claims checked 7; 4 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "zendesk",
