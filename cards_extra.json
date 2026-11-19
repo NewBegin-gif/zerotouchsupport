@@ -8978,17 +8978,10 @@
   "best": "Small and mid-sized companies that want a simple password manager with sharing and breach monitoring, and individuals who want a cheap first year of Premium."
  },
  "CO2 Impact": {
-  "flags": [
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ]
-  ],
-  "price": "£468",
-  "price_note": "from · per year (£39/mo) for 1 user and 1 site",
-  "verified": "2026-10-22",
-  "catch": "12-month commitment on every plan; automated meter data costs extra per meter.",
+  "price": "£369",
+  "price_note": "from · per year (£30.75/mo) for 2 users and 2 sites",
+  "verified": "2026-11-19",
+  "catch": "12-month commitment on every plan; no free trial shown on the page.",
   "best": "UK small and mid-sized businesses that need a first carbon footprint, Scope 1-3 reporting or a carbon reduction plan for customers and tenders."
  },
  "Omneky": {
