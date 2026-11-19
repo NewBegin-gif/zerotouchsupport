@@ -96,7 +96,7 @@
    "entry_price": "$4.99",
    "entry_price_terms": "Starter · per month for 500 AI replies with automatic shopper-language detection…",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-19 on apps.shopify.com/asknest-ai-faq-product-bot, re-verified unchanged 2026-09-28 and 2026-10-09) Four tiers, priced by AI replies per month, and the cheapest ladder in this category. Free: 50 AI replies a month, replies in one language you select, answers drawn from your FAQs, policy pages and product data, translated storefront widget, product finder and usage tracking. Starter $4.99 a month: 500 replies, automatic shopper-language detection across up to three languages, translated replies, product recommendations and best sellers. Growth $9.99 a month: 1,500 replies and all supported languages. Pro $19.99 a month: 5,000 replies. All charges are billed in USD and recur every 30 days, and no paid tier shows a free trial — the free plan is the trial. What the listing never says is what happens when you run out: there is no overage rate anywhere on the page, so whether reply 501 costs money or simply does not happen is not published. 'Any language' is also not on offer; customer-facing replies and widget labels cover English, German, French, Spanish, Italian, Dutch and Brazilian Portuguese — seven. Developer Ecommerce Storez, 1255 23rd St NW, Washington DC; the app launched 8 May 2026 and has exactly one App Store review.",
+   "price_note": "(read 2026-08-19 on apps.shopify.com/asknest-ai-faq-product-bot, re-verified unchanged 2026-09-28, 2026-10-09 and 2026-11-19) Four tiers, priced by AI replies per month, and the cheapest ladder in this category. Free: 50 AI replies a month, replies in one language you select, answers drawn from your FAQs, policy pages and product data, translated storefront widget, product finder and usage tracking. Starter $4.99 a month: 500 replies, automatic shopper-language detection across up to three languages, translated replies, product recommendations and best sellers. Growth $9.99 a month: 1,500 replies and all supported languages. Pro $19.99 a month: 5,000 replies. All charges are billed in USD, and the listing says recurring and usage-based charges are billed every 30 days, and no paid tier shows a free trial — the free plan is the trial. What the listing never says is what happens when you run out: there is no overage rate anywhere on the page, so whether reply 501 costs money or simply does not happen is not published. 'Any language' is also not on offer; customer-facing replies and widget labels cover English, German, French, Spanish, Italian, Dutch and Brazilian Portuguese — seven. Developer Ecommerce Storez, 1255 23rd St NW, Washington DC; the app launched 8 May 2026 and has exactly one App Store review.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -104,7 +104,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/asknest-ai-faq-product-bot",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-19"
     },
     {
      "flag": "free_tier",
@@ -112,11 +112,11 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/asknest-ai-faq-product-bot",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-09",
+   "price_verified_at": "2026-11-19",
    "first_observed_at": "2026-08-19"
   },
   {
@@ -1245,7 +1245,7 @@
    "entry_price": "$250",
    "entry_price_terms": "Virtual receptionist… · per month as published",
    "pricing_status": "public",
-   "price_note": "Read on their own plans-and-pricing page, 6 September 2026, and unchanged on 6 October 2026. Virtual receptionist plans are sold by monthly minutes: 50 minutes $250, 100 minutes $395, 200 minutes $720, 500 minutes $1,725 — $5.00 a minute at the bottom, $3.45 at the top. Live chat is sold by monthly chats: 10 chats $143, 30 chats $335, 50 chats $520. Add chat to a receptionist plan and those become $115, $268 and $416 — the 20% the page advertises, exact at the two larger tiers and rounded up from $114.40 at the smallest. Larger volumes are quoted. Ruby states there are no extra fees for activation, onboarding, setup, customisation or out-of-hours coverage, and every feature is included at every tier — the plans differ only in the number of minutes or chats. No rate is published for minutes used beyond your plan.",
+   "price_note": "Read on their own plans-and-pricing page, 6 September 2026, and unchanged on 6 October and 19 November 2026. Virtual receptionist plans are sold by monthly minutes: 50 minutes $250, 100 minutes $395, 200 minutes $720, 500 minutes $1,725 — $5.00 a minute at the bottom, $3.45 at the top. Live chat is sold by monthly chats: 10 chats $143, 30 chats $335, 50 chats $520. Add chat to a receptionist plan and those become $115, $268 and $416 — the 20% the page advertises, exact at the two larger tiers and rounded up from $114.40 at the smallest. Larger volumes are quoted. Ruby states there are no extra fees for activation, onboarding, setup, customisation or out-of-hours coverage, and every feature is included at every tier — the plans differ only in the number of minutes or chats. No rate is published for minutes used beyond your plan.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -1253,11 +1253,11 @@
      "evidence_excerpt": "You're paying premium rates for real human receptionists billed per minute: worth it when a missed call is a lost client, but expensive if your call volume is low or an AI answering service would do …",
      "source_url": "https://www.ruby.com/plans-and-pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-06"
+     "verified_at": "2026-11-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-06",
+   "price_verified_at": "2026-11-19",
    "first_observed_at": null
   },
   {

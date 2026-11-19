@@ -27,8 +27,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## AskNest
 - Review: https://zerotouchsupport.com/asknest-review.html
 - Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: On the Free plan the chip Show me best sellers gave four product cards in about 6 seconds, while the listing and the Starter card put best-seller suggestions on Starter and up.
-- Verdict: AskNest: All charges are billed in USD and recur every 30 days, and no paid tier shows a free trial, the free plan is the trial.
-- Price: (read 2026-08-19 on apps.shopify.com/asknest-ai-faq-product-bot, re-verified unchanged 2026-09-28 and 2026-10-09) Four tiers, priced by AI replies per month, and the cheapest ladder in this category. Free: 50 AI replies a month, replies in one language you select, answers drawn from your FAQs, policy pages and product data, translated storefront widget, product finder and usage tracking.
+- Verdict: AskNest: Four tiers, priced by AI replies per month. The app launched on 8 May 2026, and in three and a half months exactly one merchant has written about it.
+- Price: (read 2026-08-19 on apps.shopify.com/asknest-ai-faq-product-bot, re-verified unchanged 2026-09-28, 2026-10-09 and 2026-11-19) Four tiers, priced by AI replies per month, and the cheapest ladder in this category. Free: 50 AI replies a month, replies in one language you select, answers drawn from your FAQs, policy pages and product data, translated storefront widget, product finder and usage tracking.
 
 ## bOnline
 - Review: https://zerotouchsupport.com/bonline-review.html
@@ -214,7 +214,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://zerotouchsupport.com/ruby-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Ruby: $5.00 a minute at the bottom, $3.45 at the top. You're paying premium rates for real human receptionists billed per minute.
-- Price: Read on their own plans-and-pricing page, 6 September 2026, and unchanged on 6 October 2026. Virtual receptionist plans are sold by monthly minutes: 50 minutes $250, 100 minutes $395, 200 minutes $720, 500 minutes $1,725 — $5.00 a minute at the bottom, $3.45 at the top.
+- Price: Read on their own plans-and-pricing page, 6 September 2026, and unchanged on 6 October and 19 November 2026. Virtual receptionist plans are sold by monthly minutes: 50 minutes $250, 100 minutes $395, 200 minutes $720, 500 minutes $1,725 — $5.00 a minute at the bottom, $3.45 at the top.
 
 ## Salesmessage
 - Review: https://zerotouchsupport.com/salesmessage-review.html

@@ -498,7 +498,7 @@
   ],
   "price": "$4.99",
   "price_note": "Starter · per month for 500 AI replies with automatic shopper-language detection…",
-  "verified": "2026-10-09",
+  "verified": "2026-11-19",
   "catch": "One review. The app launched on 8 May 2026, and in three and a half months exactly one merchant has written about it.",
   "best": "Small stores with repetitive product, shipping and returns questions who want a cheap multilingual FAQ widget and can test the answer quality on their own policy pages for free first.",
   "pw": "price held",
@@ -751,7 +751,7 @@
   ],
   "price": "$19",
   "price_note": "Essentials · per month for a live store up to 300 orders a month",
-  "verified": "2026-10-10",
+  "verified": "2026-11-19",
   "catch": "The listing header says free to install, and there is a free tier, but it is not for you unless you are an agency: Agency is limited to Shopify Partner development stores before they are handed over to a client.",
   "best": "Shopify stores under roughly 1,500 orders a month that want the whole store backed up daily (metafields."
  },
@@ -996,7 +996,7 @@
   "best": "Tour, activity and experience operators who want booking management plus wide OTA distribution (Viator, GetYourGuide and more) from one dashboard."
  },
  "Bolt Business": {
-  "verified": "2026-10-09",
+  "verified": "2026-11-19",
   "catch": "The honest boundary is geography: Bolt's network is Europe/Africa-centric across 600+ cities, so US-only operations should look elsewhere, and ride availability varies by city: pilot it on your team's actual routes.",
   "coupon": {
    "code": "BB25OFF20",
@@ -5691,7 +5691,7 @@
   ],
   "price": "$250",
   "price_note": "Virtual receptionist… · per month as published",
-  "verified": "2026-10-06",
+  "verified": "2026-11-19",
   "catch": "You're paying premium rates for real human receptionists billed per minute: worth it when a missed call is a lost client, but expensive if your call volume is low or an AI answering service would do the job for a fraction.",
   "best": "Client-driven service businesses (law, home services, clinics) where a live human answering every call directly wins business.",
   "pw": "price held",
@@ -6575,10 +6575,17 @@
   "best": "Leadership teams that already run on goals and want one place to set objectives, track KPIs and scorecards, and keep strategy execution on cadence."
  },
  "Sunsama": {
+  "flags": [
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
   "price": "$17",
-  "price_note": "from · per month billed yearly, $22 monthly on the plan card",
-  "verified": "2026-09-19",
-  "catch": "The pricing page contradicts itself: the plan card says $17 yearly and $22 monthly, the FAQ on the same page says $20 yearly and $25 monthly.",
+  "price_note": "from · per month billed yearly ($204)",
+  "verified": "2026-11-19",
+  "catch": "There is no free plan after the 14-day trial and no cheaper tier: Pro at $22 a month billed monthly, or $17 billed yearly, per person, is the only self-serve option.",
   "best": "People whose problem is deciding what to do today rather than tracking what exists: it pulls from your existing tools and forces a daily plan, which is the whole product."
  },
  "SupaEasy": {
