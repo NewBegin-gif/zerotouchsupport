@@ -1810,7 +1810,7 @@
   ],
   "price": "$16.95",
   "price_note": "from · per month billed yearly ($19.95 monthly)",
-  "verified": "2026-10-12",
+  "verified": "2026-11-19",
   "catch": "The pricing page prices one product and the marketing sells about a dozen.",
   "best": "Finance, tax and HR teams with a steady monthly volume of US identity and business checks, who would rather buy TIN matching, KYB."
  },
@@ -3044,7 +3044,7 @@
   ],
   "price": "$9",
   "price_note": "Dev · per month billed yearly ($12 monthly)",
-  "verified": "2026-09-28",
+  "verified": "2026-11-19",
   "catch": "The meter is pageviews, not visitors, and each product consumes its own pageview on the same page visit, so a redirect plus a popup bills twice.",
   "best": "Marketers personalizing redirects, content blocks and popups by visitor location, country to city level, without engineering work."
  },
