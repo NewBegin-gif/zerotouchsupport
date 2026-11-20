@@ -1412,7 +1412,7 @@
   "best": "Small businesses that want a clean, simple CRM for contacts, pipeline and tasks: one the team will actually keep updated."
  },
  "Carbon6": {
-  "verified": "2026-10-10",
+  "verified": "2026-11-20",
   "catch": "Ownership has moved twice: SPS Commerce bought Carbon6 in February 2025, then on 30 June 2026 sold the 3P revenue-recovery business, which now runs under the Carbon6 name again.",
   "best": "Amazon sellers who want reimbursements, advertising, inventory and sourcing tools from one vendor and are content to buy them tool by tool: the suite trades under the Carbon6 brand again since 30 Jun 2026, so there is a named counterparty on the contract."
  },
@@ -1705,7 +1705,7 @@
   ],
   "price": "$14",
   "price_note": "Micro… · per month, billed hourly at $0.0208 over a 672-hour month",
-  "verified": "2026-10-12",
+  "verified": "2026-11-20",
   "catch": "\"Fully managed\" here means the server, not your site, and that distinction is where the money is.",
   "coupon": {
    "code": "NETWORK26",
@@ -3565,7 +3565,7 @@
   ],
   "price": "$29",
   "price_note": "from · per person a month on annual billing ($49 month-to-month)",
-  "verified": "2026-09-19",
+  "verified": "2026-11-20",
   "catch": "The tier pages sell live funnels, but the meter that empties first is contacts.",
   "best": "Marketers building interactive lead-gen (quizzes, calculators."
  },
@@ -3989,6 +3989,10 @@
   "price_note": "from · per month ($23 billed annually), 25 pages, 1 site",
   "verified": "2026-11-15",
   "catch": "It's the value pick, not the optimisation pick, if you're spending big on ads, Unbounce's Smart Traffic and Instapage's 1:1 personalisation go deeper.",
+  "coupon": {
+   "code": "DAAN10",
+   "label": "10% off any Leadpages plan with the code DAAN10"
+  },
   "best": "Small businesses building landing pages and simple funnels who want unmetered traffic: no per-visitor anxiety, unlike metered rivals."
  },
  "LearnWorlds": {
@@ -5676,6 +5680,10 @@
   "price_note": "from · per month billed yearly ($35 monthly)",
   "verified": "2026-09-26",
   "catch": "The meter is not recording time, it is separate-track download time, and separate tracks are the entire reason to use this rather than a video call.",
+  "coupon": {
+   "code": "RSBF",
+   "label": "35% off Riverside annual plans for new customers with the code…"
+  },
   "best": "Podcasters and interviewers who need broadcast-quality audio and video from guests on bad connections: local recording at each end is the thing that solves it."
  },
  "RocketReach": {
@@ -6013,6 +6021,11 @@
     "usage_metered"
    ],
    [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
     "📅",
     "Annual commit",
     "annual_lock"
@@ -6020,7 +6033,7 @@
   ],
   "price": "$50",
   "price_note": "Individual · per month on annual billing",
-  "verified": "2026-11-02",
+  "verified": "2026-11-20",
   "catch": "The thing you are actually buying is data coverage, and that is the one thing you cannot verify: Serpstat's own published figures do not agree with each other.",
   "best": "Solo SEOs and small in-house teams who want the whole workflow (keywords, rankings, audit."
  },
