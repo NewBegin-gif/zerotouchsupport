@@ -2964,7 +2964,7 @@
   ],
   "price": "$19",
   "price_note": "Freshdesk Growth · per agent per month billed annually",
-  "verified": "2026-10-11",
+  "verified": "2026-11-20",
   "catch": "Freshworks is not a product, it is nine of them behind a pricing page that contains no price.",
   "best": "Teams who want a support desk that is cheaper per agent than the category leaders and will use the annual commitment: Growth at $19 is real value if ticketing is all you need."
  },
@@ -5417,11 +5417,16 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$15",
   "price_note": "Starter · per user per month billed annually",
-  "verified": "2026-11-18",
+  "verified": "2026-11-20",
   "catch": "Call reliability is the recurring complaint: G2 logs hundreds of connection and disconnection reports, and calls get shaky the moment you're off Wi-Fi.",
   "coupon": {
    "code": "",
@@ -5603,7 +5608,7 @@
   ],
   "price": "$79",
   "price_note": "Starter · per month",
-  "verified": "2026-10-11",
+  "verified": "2026-11-20",
   "catch": "The entry plan is the inbox without the engine.",
   "best": "A small team that already lives in WhatsApp and Instagram DMs and has outgrown a shared phone: retail, clinics, travel.",
   "pw": "price held",
@@ -7001,7 +7006,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-10-11",
+  "verified": "2026-11-20",
   "catch": "Two costs are easy to miss and both are monthly. The credit system has two rates: $0.03 for credits you buy deliberately and $0.04 for backup credits that fire automatically when you run out: a 33% premium for not noticing.",
   "best": "Support and sales teams that already text customers from personal phones and need a shared, compliant inbox with a record of who said what.",
   "pw": "price held",
@@ -7707,7 +7712,7 @@
   ],
   "price": "$39.90",
   "price_note": "Starter · per month billed monthly, or 286.80 a year, for 600 credits a month",
-  "verified": "2026-10-19",
+  "verified": "2026-11-20",
   "catch": "Everything is credits, and generating a site burns them fast: Wegic's own page notes a single generation can cost over $10 in credits, while the free plan gives 100 credits once.",
   "coupon": {
    "code": "",

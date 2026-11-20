@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 57,
-  "flags": 122,
+  "flags": 123,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on zerotouchsupport.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -688,7 +688,7 @@
    "entry_price": "$19",
    "entry_price_terms": "Freshdesk Growth · per agent per month billed annually",
    "pricing_status": "public",
-   "price_note": "(2026-08-29, read on their own pricing pages) The main Freshworks pricing page still carries no prices at all — it lists the products and links out to each one, and that list has grown to nine: Freshdesk Omni, Freshdesk, Freshchat, Freshcaller, Freshservice, Freshservice for Business Teams, Freshsales, Freshsales Suite and Freshmarketer. On Freshdesk the annual rates are unchanged since 1 August 2026: Growth $19 per agent per month, Pro $55, Enterprise $89, billed annually. What has changed is that the monthly column is now published: Growth $23, Pro $66, Enterprise $107 per agent per month, billed monthly. The page's SAVE 20% badge overstates the gap — $19 against $23 is 17.4%, $55 against $66 is 16.7%, $89 against $107 is 16.8%. Freddy AI Agent is included with the first 500 sessions; additional sessions are $49 per 100. Freddy AI Copilot is a separate add-on at $29 per agent per month annually, or $35 monthly, on Pro and Enterprise only. Day passes are $2, $7 and $12 per pass on Growth, Pro and Enterprise. Connector app tasks are $80 per 5,000 tasks. The 14-day free trial starts you on Enterprise (in our test on 21 October 2026 the sign-up page promised a '14-day all-access free trial' and the app then said 'your 15-day trial starts today'). Re-verified 11 October 2026 on freshworks.com/freshdesk/pricing/: the annual rates ($19, $55, $89), the $29 Copilot add-on, the $49 per 100 extra AI Agent sessions, the $2/$7/$12 day passes and the $80 per 5,000 connector tasks are unchanged, and a new add-on is listed on every tier: MCP actions at $15 per 1,000. The monthly column is not in the page source we read, so the monthly figures above date from 29 August 2026. The FAQ on the same page adds that the 500 free AI Agent sessions are given once per account, not every month; that an email AI Agent session is a 72-hour window from the customer's first email; that purchased session packs expire with your payment cycle; and that downgrades and cancellations take effect only at the end of your term.",
+   "price_note": "(2026-08-29, read on their own pricing pages) The main Freshworks pricing page still carries no prices at all — it lists the products and links out to each one, and that list has grown to nine: Freshdesk Omni, Freshdesk, Freshchat, Freshcaller, Freshservice, Freshservice for Business Teams, Freshsales, Freshsales Suite and Freshmarketer. On Freshdesk the annual rates are unchanged since 1 August 2026: Growth $19 per agent per month, Pro $55, Enterprise $89, billed annually. What has changed is that the monthly column is now published: Growth $23, Pro $66, Enterprise $107 per agent per month, billed monthly. The page's SAVE 20% badge overstates the gap — $19 against $23 is 17.4%, $55 against $66 is 16.7%, $89 against $107 is 16.8%. Freddy AI Agent is included with the first 500 sessions; additional sessions are $49 per 100. Freddy AI Copilot is a separate add-on at $29 per agent per month annually, or $35 monthly, on Pro and Enterprise only. Day passes are $2, $7 and $12 per pass on Growth, Pro and Enterprise. Connector app tasks are $80 per 5,000 tasks. The 14-day free trial starts you on Enterprise (in our test on 21 October 2026 the sign-up page promised a '14-day all-access free trial' and the app then said 'your 15-day trial starts today'). Re-verified 11 October 2026 on freshworks.com/freshdesk/pricing/: the annual rates ($19, $55, $89), the $29 Copilot add-on, the $49 per 100 extra AI Agent sessions, the $2/$7/$12 day passes and the $80 per 5,000 connector tasks are unchanged, and a new add-on is listed on every tier: MCP actions at $15 per 1,000. The monthly column was not in the page source we read that day. The FAQ on the same page adds that the 500 free AI Agent sessions are given once per account, not every month; that an email AI Agent session is a 72-hour window from the customer's first email; that purchased session packs expire with your payment cycle; and that downgrades and cancellations take effect only at the end of your term. Re-read on 20 November 2026 on freshworks.com/freshdesk/pricing/: the annual rates ($19, $55, $89), the $29 Copilot add-on, the $49 per 100 extra AI Agent sessions, the $2/$7/$12 day passes, the $80 per 5,000 connector tasks and the $15 per 1,000 MCP actions are unchanged, and the page source now carries the monthly rates again: $23, $66 and $107 per agent per month, the same as on 29 August.",
    "flags": [
     {
      "flag": "per_seat",
@@ -696,7 +696,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-20"
     },
     {
      "flag": "usage_metered",
@@ -704,7 +704,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-20"
     },
     {
      "flag": "addons_extra",
@@ -712,11 +712,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-11",
+   "price_verified_at": "2026-11-20",
    "first_observed_at": "2026-08-29"
   },
   {
@@ -1150,7 +1150,7 @@
    "entry_price": "$15",
    "entry_price_terms": "Starter · per user per month billed annually",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-08-31 against the vendor's own pricing page; all prices are quoted on the page in USD) (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly; Business $23 annual ($276/yr) or $33 monthly; Scale $35 annual ($420/yr) or $47 monthly. 7-day free trial. When we went through signup on 18 November 2026, there was no way into the app without choosing a plan: the plan screen reads 'Choose a plan to start your 7-day free trial', and selecting Starter opened a 'Billing details' form with a card field. That page says 'we'll place a temporary $1 hold on your credit card upon signup' and showed $0.00 due today, with $19.00 billed on 25 November 2026 for one Starter user on monthly billing. The six plan prices matched the ones above. We stopped before entering a card. Taxes and fees are added at checkout and are not quantified on the page. Itemised extras: The Campaign Registry takes $19.50 once plus $1.50-$3/month to keep US carrier messaging deliverable, each additional phone number is $5/month, and international calling is billed per minute. The Sona AI answering agent is included on every plan with 1,000 automation credits a month (a call costs 100 credits, so ten calls); more credits run $25/mo for 4,000 up to $199/mo for 60,000, with per-call overage falling from $1.00 to $0.45 across those tiers. Re-verified 11 October 2026 on quo.com/pricing: all six rates, the $180/$276/$420 annual totals, the Sona credit tiers and overage rates, the $19.50 and $1.50-$3 Campaign Registry fees and the $5 extra number are unchanged. Two lines the earlier reading did not carry: the compare-plans table caps Starter at up to 10 paid users (Business and Scale unlimited), and Quo's help article 'Quo Plans and Pricing' (read 11 October 2026) adds a $15 Campaign Registry resubmission fee if a registration has to be resubmitted and lists the 16 states where telecom taxes are collected, based on your billing address.",
+   "price_note": "(price re-verified 2026-08-31 against the vendor's own pricing page; all prices are quoted on the page in USD) (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly; Business $23 annual ($276/yr) or $33 monthly; Scale $35 annual ($420/yr) or $47 monthly. 7-day free trial. When we went through signup on 18 November 2026, there was no way into the app without choosing a plan: the plan screen reads 'Choose a plan to start your 7-day free trial', and selecting Starter opened a 'Billing details' form with a card field. That page says 'we'll place a temporary $1 hold on your credit card upon signup' and showed $0.00 due today, with $19.00 billed on 25 November 2026 for one Starter user on monthly billing. The six plan prices matched the ones above. We stopped before entering a card. Taxes and fees are added at checkout and are not quantified on the page. Itemised extras: The Campaign Registry takes $19.50 once plus $1.50-$3/month to keep US carrier messaging deliverable, each additional phone number is $5/month, and international calling is billed per minute. The Sona AI answering agent is included on every plan with 1,000 automation credits a month (a call costs 100 credits, so ten calls); more credits run $25/mo for 4,000 up to $199/mo for 60,000, with per-call overage falling from $1.00 to $0.45 across those tiers. Re-verified 11 October 2026 on quo.com/pricing: all six rates, the $180/$276/$420 annual totals, the Sona credit tiers and overage rates, the $19.50 and $1.50-$3 Campaign Registry fees and the $5 extra number are unchanged. Two lines the earlier reading did not carry: the compare-plans table caps Starter at up to 10 paid users (Business and Scale unlimited), and Quo's help article 'Quo Plans and Pricing' (read 11 October 2026) adds a $15 Campaign Registry resubmission fee if a registration has to be resubmitted and lists the 16 states where telecom taxes are collected, based on your billing address. Re-read on 20 November 2026 on quo.com/pricing and quo.com/pricing.md: the six rates ($19/$15 Starter, $33/$23 Business, $47/$35 Scale), the Sona credit tiers and per-call overage, the $19.50 and $1.50-$3 registry fees and the $5 extra number are unchanged. The page now also prices Sona text conversations: overage runs from $0.50 per conversation on the free tier down to $0.225 on the $199 tier, a conversation counts once the lead has replied at least twice, and calls shorter than 15 seconds do not consume credits.",
    "flags": [
     {
      "flag": "per_seat",
@@ -1158,7 +1158,7 @@
      "evidence_excerpt": "(price re-verified 2026-08-31 against the vendor's own pricing page; all prices are quoted on the page in USD) (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly; Business…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-18"
+     "verified_at": "2026-11-20"
     },
     {
      "flag": "usage_metered",
@@ -1166,11 +1166,19 @@
      "evidence_excerpt": "Itemised extras: The Campaign Registry takes $19.50 once plus $1.50-$3/month to keep US carrier messaging deliverable, each additional phone number is $5/month, and international calling is billed pe…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-18"
+     "verified_at": "2026-11-20"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "The page now also prices Sona text conversations: overage runs from $0.50 per conversation on the free tier down to $0.225 on the $199 tier, a conversation counts once the lead has replied at least twice, and calls shorter than 15 seconds do not consume credits.",
+     "evidence_excerpt": "The page now also prices Sona text conversations: overage runs from $0.50 per conversation on the free tier down to $0.225 on the $199 tier, a conversation counts once the lead has replied at least t…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-18",
+   "price_verified_at": "2026-11-20",
    "first_observed_at": "2026-08-31"
   },
   {
@@ -1221,7 +1229,7 @@
    "entry_price": "$79",
    "entry_price_terms": "Starter · per month",
    "pricing_status": "public",
-   "price_note": "(2026-08-13, read off respond.io/pricing) Four tiers, billed on monthly active contacts rather than seats: Starter $79/month, Growth $159, Advanced $279, and Enterprise on quote. Paying yearly takes roughly 20% off — $948, $1,908 and $3,348 a year against $1,188, $2,388 and $4,188 monthly. The trial is 7 days and takes no card. What separates the tiers is not volume but capability, and the line matters: Starter buys team and custom inboxes, the mobile app, AI Prompt, AI Assist, basic reports and 2FA. **Workflows automation, broadcasts, AI Agents, advanced reports, the developer API and the Zapier and Make integrations all start at Growth.** Advanced adds multiple workspaces, SSO, webhooks, HTTP requests in workflows and phone-number masking, and although a figure is shown its button says “Talk to Sales”. One thing we could not pin down. The page carries a selector for 1,000 / 2,500 / 5,000 / 10,000 / more than 10,000 monthly active contacts under the heading “pay only for the contacts you talk to”, but the prices we read did not move between those settings. Ask what your contact volume actually costs before you sign — that is the meter you are buying. Re-verified 11 October 2026 on respond.io/pricing: the yearly totals ($948, $1,908, $3,348) and the monthly totals ($1,188, $2,388, $4,188) are unchanged. Read them carefully: the $79, $159 and $279 shown per month are the yearly rates, and the page data gives $99, $199 and $349 for month-to-month billing. The plan comparison now lists users per tier — 5 on Starter, 10 on Growth and Advanced, extra users at $12, $20 and $24 a month on yearly billing ($15, $25 and $30 monthly) — plus AI Credits of 5,000, 10,000, 20,000 and 40,000. In that same table Starter shows unlimited monthly active contacts, while Growth and Advanced 'start with 1,000', so the contact meter applies from Growth up. The trial gives Growth features for 5 users and 1,000 contacts, without broadcasts.",
+   "price_note": "(2026-08-13, read off respond.io/pricing) Four tiers, billed on monthly active contacts rather than seats: Starter $79/month, Growth $159, Advanced $279, and Enterprise on quote. Paying yearly takes roughly 20% off — $948, $1,908 and $3,348 a year against $1,188, $2,388 and $4,188 monthly. The trial is 7 days and takes no card. What separates the tiers is not volume but capability, and the line matters: Starter buys team and custom inboxes, the mobile app, AI Prompt, AI Assist, basic reports and 2FA. **Workflows automation, broadcasts, AI Agents, advanced reports, the developer API and the Zapier and Make integrations all start at Growth.** Advanced adds multiple workspaces, SSO, webhooks, HTTP requests in workflows and phone-number masking, and although a figure is shown its button says “Talk to Sales”. One thing we could not pin down. The page carries a selector for 1,000 / 2,500 / 5,000 / 10,000 / more than 10,000 monthly active contacts under the heading “pay only for the contacts you talk to”, but the prices we read did not move between those settings. Ask what your contact volume actually costs before you sign — that is the meter you are buying. Re-verified 11 October 2026 on respond.io/pricing: the yearly totals ($948, $1,908, $3,348) and the monthly totals ($1,188, $2,388, $4,188) are unchanged. Read them carefully: the $79, $159 and $279 shown per month are the yearly rates, and the page data gives $99, $199 and $349 for month-to-month billing. The plan comparison now lists users per tier — 5 on Starter, 10 on Growth and Advanced, extra users at $12, $20 and $24 a month on yearly billing ($15, $25 and $30 monthly) — plus AI Credits of 5,000, 10,000, 20,000 and 40,000. In that same table Starter shows unlimited monthly active contacts, while Growth and Advanced 'start with 1,000', so the contact meter applies from Growth up. The trial gives Growth features for 5 users and 1,000 contacts, without broadcasts. Re-read on 20 November 2026 on respond.io/pricing: $79, $159 and $279 a month on yearly billing, the $948, $1,908 and $3,348 yearly totals, the $1,188, $2,388 and $4,188 monthly totals and the extra-user rates are unchanged, and the trial is still 7 days of Growth for 5 users and 1,000 monthly active contacts. The FAQ now prices the meter: contacts above your limit are billed at the end of the cycle in blocks of 100, $12 per 100 on Growth and $15 per 100 on Advanced, and AI Credits beyond the allowance cost $15 per 1,000, with a hard cap at 200% of the allowance.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -1229,11 +1237,11 @@
      "evidence_excerpt": "The plan comparison now lists users per tier — 5 on Starter, 10 on Growth and Advanced, extra users at $12, $20 and $24 a month on yearly billing ($15, $25 and $30 monthly) — plus AI Credits of 5,000…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-11",
+   "price_verified_at": "2026-11-20",
    "first_observed_at": "2026-08-13"
   },
   {
@@ -1461,7 +1469,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "(price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit) Amounts unchanged since 2026-08-01. Add-on message credits $0.03 each, bought in advance; backup message credits $0.04 each, Textline's automatic fallback when you run out mid-conversation. A $15 monthly 10DLC campaign fee applies if you use a 10DLC long code; the same page states that toll-free numbers do not carry a monthly registration fee. NEW since the last reading: the page now names three tiers with their inclusions but still no prices — Essentials (600 minimum included message credits a month, three agents, three-year conversation history), Pro (2,000 minimum credits, five agents, unlimited history, Salesforce, custom roles) and Enterprise (quote). HIPAA-compliant plans are charged an additional fee. Note for future readers: the per-feature tooltips on this page are unfilled placeholder copy, so the feature names carry no explanation. Re-verified 11 October 2026: plan names, inclusions, the $0.03 and $0.04 credit rates and the $15 10DLC campaign fee are unchanged, and still no plan price is printed. Textline's help article 'All About Textline's Various Message Credits' (updated 26 May 2026, read 11 October 2026) adds what the pricing page leaves out: Add-On Credits can be bought only once per billing cycle, Backup Credits are auto-purchased in blocks of at least 250, Add-On and Backup credits roll over while unused Included credits expire at the end of the cycle, and the billing schedule changes the allowance — Essentials 600 a month month-to-month, 660 on annual billed monthly, 8,640 a year on annual paid upfront; Pro 2,000, 2,200 and 28,800. An MMS uses three credits.",
+   "price_note": "(price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit) Amounts unchanged since 2026-08-01. Add-on message credits $0.03 each, bought in advance; backup message credits $0.04 each, Textline's automatic fallback when you run out mid-conversation. A $15 monthly 10DLC campaign fee applies if you use a 10DLC long code; the same page states that toll-free numbers do not carry a monthly registration fee. NEW since the last reading: the page now names three tiers with their inclusions but still no prices — Essentials (600 minimum included message credits a month, three agents, three-year conversation history), Pro (2,000 minimum credits, five agents, unlimited history, Salesforce, custom roles) and Enterprise (quote). HIPAA-compliant plans are charged an additional fee. Note for future readers: the per-feature tooltips on this page are unfilled placeholder copy, so the feature names carry no explanation. Re-verified 11 October 2026: plan names, inclusions, the $0.03 and $0.04 credit rates and the $15 10DLC campaign fee are unchanged, and still no plan price is printed. Textline's help article 'All About Textline's Various Message Credits' (updated 26 May 2026, read 11 October 2026) adds what the pricing page leaves out: Add-On Credits can be bought only once per billing cycle, Backup Credits are auto-purchased in blocks of at least 250, Add-On and Backup credits roll over while unused Included credits expire at the end of the cycle, and the billing schedule changes the allowance — Essentials 600 a month month-to-month, 660 on annual billed monthly, 8,640 a year on annual paid upfront; Pro 2,000, 2,200 and 28,800. An MMS uses three credits. Re-read on 20 November 2026 on textline.com/pricing and textline.com/llms.txt: still no plan price, the same Essentials (600 credits, three agents) and Pro (2,000 credits, five agents) inclusions, $0.03 add-on and $0.04 backup credits, the 250-credit minimum backup purchase and the $15 monthly 10DLC fee. The llms.txt file adds that HIPAA Essentials and HIPAA Pro are separate plans with different base fees, and that every plan starts with a 14-day free trial with no credit card required.",
    "flags": [
     {
      "flag": "quote_only",
@@ -1469,7 +1477,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-20"
     },
     {
      "flag": "usage_metered",
@@ -1477,7 +1485,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-20"
     },
     {
      "flag": "addons_extra",
@@ -1485,11 +1493,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-11",
+   "price_verified_at": "2026-11-20",
    "first_observed_at": "2026-08-31"
   },
   {

@@ -189,7 +189,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Quo
 - Review: https://zerotouchsupport.com/quo-review.html
 - Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Billing shows Credits remaining 1,000 / 1,000 with overages disabled at $1 per call; the dossier says every plan includes 1,000 automation credits a month.
-- Verdict: Quo, (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly. Call reliability is the recurring complaint.
+- Verdict: Quo; The page now also prices Sona text conversations: overage runs from $0.50 per conversation on the free tier down to $0.225 on the $199 tier.
 - Price: (price re-verified 2026-08-31 against the vendor's own pricing page; all prices are quoted on the page in USD) (2026) Three tiers: Starter $15/user/mo annual (billed $180/yr) or $19 monthly; Business $23 annual ($276/yr) or $33 monthly; Scale $35 annual ($420/yr) or $47 monthly. 7-day free trial.
 
 ## Readymode
