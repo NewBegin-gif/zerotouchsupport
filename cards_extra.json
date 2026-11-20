@@ -2688,7 +2688,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-29",
+  "verified": "2026-11-20",
   "catch": "The honest structure: Feedvisor publishes no price, so the quote you are given is the only figure that counts: amounts circulating online come from third parties, not from Feedvisor.",
   "best": "Mid-market and enterprise Amazon sellers with large catalogs where algorithmic repricing and ad optimization move real revenue."
  },
@@ -3110,7 +3110,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month billed yearly ($25 monthly)",
-  "verified": "2026-10-17",
+  "verified": "2026-11-20",
   "catch": "Glide meters updates, not just seats.",
   "best": "Teams that already run operations out of spreadsheets and want a real app on top (internal tools, field data capture, client portals) without hiring a developer."
  },
@@ -3767,7 +3767,7 @@
   ],
   "price": "$39",
   "price_note": "Creator · billed monthly",
-  "verified": "2026-10-15",
+  "verified": "2026-11-20",
   "catch": "Three honest notes. Subscriber-based pricing counts everyone on your list: cold subscribers cost the same as fans, so prune before you price.",
   "best": "Creators, writers and coaches building an audience-first business who want email, landing pages, digital products and a creator network in one."
  },
@@ -4354,7 +4354,7 @@
   ],
   "price": "$4",
   "price_note": "Basic · per seat a month billed annually ($5 monthly)",
-  "verified": "2026-10-16",
+  "verified": "2026-11-20",
   "catch": "The numbers on Modge's own pages do not agree with each other.",
   "best": "Desk-bound remote or hybrid teams of a few to a few hundred people who want time tracking, app classification, shift adherence."
  },
@@ -5284,11 +5284,6 @@
  "Pylon": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
-   ],
-   [
     "🪑",
     "Per-seat pricing",
     "per_seat"
@@ -5297,11 +5292,17 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
-  "price_state": "quote-only",
-  "verified": "2026-10-11",
-  "catch": "The per-seat sticker is the entry ticket; the AI that makes the platform sing is metered separately, so a realistic modern deployment (seats + AI agent + phone) lands well above the tier price: model your full basket.",
+  "price": "$89",
+  "price_note": "Professional · per seat a month on an annual contract",
+  "verified": "2026-11-20",
+  "catch": "The seat price is only part of the bill: AI agents run on credits that sales prices, phone adds $35 a seat and SSO on Advanced adds $125 a month, so model the full basket before you compare.",
   "best": "B2B SaaS teams supporting customers in shared Slack/Teams channels who want tickets, accounts and AI in one B2B-native platform."
  },
  "Pythago": {
@@ -10863,6 +10864,10 @@
   "price_note": "10-hour pack · per one-time, 10 hours cost €11",
   "verified": "2026-11-15",
   "catch": "Timestamped transcripts in 99 languages; 60 free minutes, then from €11 for 10 hours.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: readers who sign up through our Pepys link get 60 extra free…"
+  },
   "best": "Researchers, journalists, podcasters and students who transcribe audio or video in bursts and want to pay per hour, with no monthly subscription."
  },
  "MailVeri": {

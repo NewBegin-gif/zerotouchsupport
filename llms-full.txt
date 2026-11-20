@@ -183,8 +183,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Pylon
 - Review: https://zerotouchsupport.com/pylon-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Pylon no longer publishes rates. The per-seat sticker is the entry ticket; the AI that makes the platform sing is metered separately.
-- Price: (checked 2026-09-01) Pylon no longer publishes rates. usepylon.com/pricing was republished on 1 September 2026 as a "Book a Demo" page carrying no plans, no per-seat rates and no seat minimums; the route to a number is a scheduled demo.
+- Verdict: Pylon: Professional is $89 per seat a month and Advanced $139 per seat a month, both on an annual contract. The seat price is only part of the bill.
+- Price: (re-read 2026-11-20 on usepylon.com/pricing, usepylon.com/pylon-facts and usepylon.com/llms.txt) Pylon publishes rates again. Professional is $89 per seat a month and Advanced $139 per seat a month, both on an annual contract; Enterprise is a custom quote.
 
 ## Quo
 - Review: https://zerotouchsupport.com/quo-review.html

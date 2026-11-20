@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 57,
-  "flags": 123,
+  "flags": 124,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on zerotouchsupport.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1106,40 +1106,48 @@
    "category": "Communication & Voice",
    "domain": "usepylon.com",
    "review_url": "https://aibuildermarketplace.com/b2b/pylon-review/",
-   "from_price_usd_mo": null,
-   "entry_price": null,
-   "entry_price_terms": null,
-   "pricing_status": "quote_only",
-   "price_note": "(checked 2026-09-01) Pylon no longer publishes rates. usepylon.com/pricing was republished on 1 September 2026 as a \"Book a Demo\" page carrying no plans, no per-seat rates and no seat minimums; the route to a number is a scheduled demo. The figures that follow are our last reading of the published tiers and are a historical anchor, not a current quote: Starter about $59/seat/mo and Professional about $89, both on a 3-seat minimum, Enterprise about $139 on a 7-seat minimum, billed annually, with the AI metered separately (AI agents from about $100/mo scaling with volume, premium AI assistant about +$50/seat, phone about +$35/seat). Use them to sanity-check what sales quotes you, not to budget from. Checked again 11 October 2026: usepylon.com/pricing still opens the demo booking form and shows no plans, rates or seat minimums, and usepylon.com/llms.txt returns a 404.",
+   "from_price_usd_mo": 89.0,
+   "entry_price": "$89",
+   "entry_price_terms": "Professional · per seat a month on an annual contract",
+   "pricing_status": "public",
+   "price_note": "(re-read 2026-11-20 on usepylon.com/pricing, usepylon.com/pylon-facts and usepylon.com/llms.txt) Pylon publishes rates again. Professional is $89 per seat a month and Advanced $139 per seat a month, both on an annual contract; Enterprise is a custom quote. Pylon's facts page (updated 10 November 2026) says monthly billing is also available but prints no monthly rate, and says there is a minimum seat count for new customers without giving the number. Viewer seats appear in all three tiers. AI agents (Assist Agent, Support Agent, Slack Agent, Automations) run on credits instead of a per-seat AI add-on: you buy them pay as you go or as a yearly commitment, and committed packages start at 5,000 credits a year according to llms.txt. No credit price is published; sales estimates the volume, and the pricing page has a calculator that asks for tickets per month, the share you want automated and the share that needs deep investigation. Priced add-ons: Phone at $35 per seat a month, Account Intelligence at $10 per customer account a month, and SAML SSO at $125 a month on Advanced (included in Enterprise). Free trials exist but are set up through sales; there is no free plan. History: from 1 September to at least 11 October 2026 the pricing page was a demo booking form with no rates, and llms.txt returned a 404. Before that it listed Starter at about $59, Professional at about $89 and Enterprise at about $139 per seat, with a three-seat minimum on the first two and seven seats on Enterprise, plus AI agents from about $100 a month and an AI assistant at about $50 a seat. Starter is gone, $139 now buys Advanced instead of Enterprise, and Pylon's own facts page calls the $50 and $100 AI figures outdated.",
    "flags": [
     {
-     "flag": "quote_only",
-     "evidence": "No published price: pricing page now routes to a demo booking with no plans or rates shown (read 1 Sep 2026)",
+     "flag": "per_seat",
+     "evidence": "Professional is $89 per seat a month and Advanced $139 per seat a month, both on an annual contract; Enterprise is a custom quote.",
      "evidence_excerpt": null,
      "source_url": "https://usepylon.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
-    },
-    {
-     "flag": "per_seat",
-     "evidence": "The per-seat sticker is the entry ticket; the AI that makes the platform sing is metered separately, so a realistic modern deployment (seats + AI agent + phone) lands well above the tier price: model your full basket.",
-     "evidence_excerpt": "The per-seat sticker is the entry ticket; the AI that makes the platform sing is metered separately, so a realistic modern deployment (seats + AI agent + phone) lands well above the tier price: model…",
-     "source_url": "https://usepylon.com/pricing",
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-20"
     },
     {
      "flag": "usage_metered",
-     "evidence": "The figures that follow are our last reading of the published tiers and are a historical anchor, not a current quote: Starter about $59/seat/mo and Professional about $89, both on a 3-seat minimum, Enterprise about $139 on a 7-seat minimum, billed annually, with the AI metered separately (AI agents from about $100/mo scaling with volume, premium AI assistant about +$50/seat, phone about +$35/seat).",
-     "evidence_excerpt": "The figures that follow are our last reading of the published tiers and are a historical anchor, not a current quote: Starter about $59/seat/mo and Professional about $89, both on a 3-seat minimum, E…",
+     "evidence": "AI agents (Assist Agent, Support Agent, Slack Agent, Automations) run on credits instead of a per-seat AI add-on: you buy them pay as you go or as a yearly commitment, and committed packages start at 5,000 credits a year according to llms.txt.",
+     "evidence_excerpt": "AI agents (Assist Agent, Support Agent, Slack Agent, Automations) run on credits instead of a per-seat AI add-on: you buy them pay as you go or as a yearly commitment, and committed packages start at…",
      "source_url": "https://usepylon.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-20"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Priced add-ons: Phone at $35 per seat a month, Account Intelligence at $10 per customer account a month, and SAML SSO at $125 a month on Advanced (included in Enterprise).",
+     "evidence_excerpt": null,
+     "source_url": "https://usepylon.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-20"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Professional is $89 per seat a month and Advanced $139 per seat a month, both on an annual contract; Enterprise is a custom quote.",
+     "evidence_excerpt": null,
+     "source_url": "https://usepylon.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-11",
-   "first_observed_at": "2026-09-01"
+   "price_verified_at": "2026-11-20",
+   "first_observed_at": "2026-11-20"
   },
   {
    "name": "Quo",
