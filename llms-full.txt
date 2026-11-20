@@ -261,8 +261,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Tidio
 - Review: https://zerotouchsupport.com/tidio-review.html
 - Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: Sign-up requires a website URL ('Can't be empty!'). Within minutes Tidio read 71 pages of the site we entered into Lyro's knowledge on its own. The source list can delete or set an audience in bulk, but…
-- Verdict: Tidio: The free plan carries 50 billable conversations, 100 Flows visitors reached and 50 Lyro AI conversations.
-- Price: (read 2026-08-24 on www.tidio.com/pricing/ with both billing columns clicked, and on www.tidio.com) The plan table opens on the annual column, so the first figures on the page are not what month-to-month costs. Starter is 24.17 a month billed annually against 29 paid monthly, Growth starts at 49.17 annually against 59 monthly, and the two stand-alone add-ons follow the same 20 percent step: the Lyro AI Agent from…
+- Verdict: Tidio: Every paid plan now comes in two modes, Human only and With Lyro AI. The AI number on the homepage and the AI number on the pricing page do not agree.
+- Price: (read 20 November 2026 on www.tidio.com/pricing/, including its FAQ; this replaces the plan table we read on 24 August and 10 October 2026, which Tidio has since restructured) Every paid plan now comes in two modes, Human only and With Lyro AI, and Lyro is no longer sold as a separate add-on. Conversations handled by Lyro and by your team count toward one plan limit, and the same quotas (50, 100, 200, 300, 500,…
 
 ## Tossable Digits
 - Review: https://zerotouchsupport.com/tossable-digits-review.html
@@ -320,7 +320,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Zendesk
 - Review: https://zerotouchsupport.com/zendesk-review.html
-- Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: Daan created the account the day before and we did not see that step. In the accelerated setup the website address came prefilled, and about 35 seconds later the AI agent had read our site. The setup asked…
+- Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: We created the account the day before and we did not see that step. In the accelerated setup the website address came prefilled, and about 35 seconds later the AI agent had read our site. The setup asked…
 - Verdict: Zendesk, Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. The prices shown are annual-billed.
 - Price: (re-verified 2026-08-12, read on their own pricing page from two countries) Per agent per month on annual billing, US storefront: Support Team $19, Suite Team $55, Suite Professional $115. Suite Enterprise + Copilot is quote-only.
 
