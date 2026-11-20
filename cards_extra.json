@@ -1881,7 +1881,7 @@
   ],
   "price": "$49",
   "price_note": "Basic · per month billed annually for the whole company with 1 user",
-  "verified": "2026-10-11",
+  "verified": "2026-11-20",
   "catch": "Credit where it is due first: this is company pricing with unlimited projects and no per-user overage inside your tier, which is rare in construction software and cheaper than per-seat rivals for a crew.",
   "best": "Small and mid-size contractors who want estimating, scheduling and daily logs in one place and can commit to a year: the company-wide fee makes it cheap per head once you have a crew."
  },
@@ -2000,7 +2000,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-10-10",
+  "verified": "2026-11-20",
   "catch": "You cannot find out what it costs without talking to sales, and the entry plan is smaller than it looks: Professional covers 2 users and 1 integration, so a finance team of three, or one that needs both the ERP and the CRM connected, is priced into the next tier before the conversation starts.",
   "best": "Excel-bound finance teams that have outgrown the spreadsheet plumbing but not the spreadsheets: consolidating several entities or data sources into one governed set of numbers, with planning, reporting and dashboards on top, while the models stay in Excel."
  },
@@ -2664,7 +2664,7 @@
   ],
   "price": "$19",
   "price_note": "Standard (1K) · per month on the App Store listing, or $180 a year…",
-  "verified": "2026-10-10",
+  "verified": "2026-11-20",
   "catch": "On 17 July 2026, after what its own status page calls a security attack, Shopify removed the app from the App Store and deactivated it on existing stores; it was fully searchable again on 3 August.",
   "coupon": {
    "code": "AIBM25",
@@ -3842,7 +3842,7 @@
   ],
   "price": "$39",
   "price_note": "Lite Plan · per month on the App Store listing for 1,000 items, 5 feeds, one…",
-  "verified": "2026-10-10",
+  "verified": "2026-11-20",
   "catch": "Each paid plan includes 1,000 items, 5 feeds, one marketplace wizard and 100 orders a month, with surcharges for extras on all four, so $39 is a base, not a bill.",
   "best": "Shopify merchants selling across several European marketplaces (Bol, Zalando, Allegro, Cdiscount."
  },
@@ -3873,6 +3873,10 @@
   "price_note": "from · per user a month billed annually, or $15 monthly (up to 5 users)",
   "verified": "2026-10-07",
   "catch": "Same honest math as most budget VoIP: the plan buys the platform, the meter buys the conversations: per-minute and per-SMS charges land on top of every seat, so the comparison that matters is call-rate-per-country at your volume.",
+  "coupon": {
+   "code": "KRISPBLK15OTD",
+   "label": "15% off all KrispCall plans with the code KRISPBLK15OTD"
+  },
   "best": "Sales and support teams that need virtual numbers across many countries with a shared dashboard, dialer and CRM hooks at a budget seat price."
  },
  "Landingi": {
@@ -7054,11 +7058,11 @@
     "free_tier"
    ]
   ],
-  "price": "$29",
-  "price_note": "Starter · per month paid month to month for 100 billable conversations…",
-  "verified": "2026-10-10",
+  "price": "$10",
+  "price_note": "from · per month",
+  "verified": "2026-11-20",
   "catch": "The AI number on the homepage and the AI number on the pricing page do not agree, and the pricing page is the lower of the two.",
-  "best": "Support teams that want an AI agent and a help desk from the same vendor and can size all three meters (billable conversations.",
+  "best": "Support teams that want an AI agent and a help desk from the same vendor and can size the shared conversation quota and the separate Flows meter against their own volume before they commit, and Shopify, WordPress or Wix stores that want to run live chat at zero and treat the 50 free Lyro conversations as a measurement of whether the AI answers their questions at all.",
   "pw": "price held",
   "pw_soort": "held"
  },
@@ -11321,5 +11325,29 @@
   "verified": "2026-11-18",
   "catch": "PDF editing and e-signing; the free plan has 3 uses a month.",
   "best": "Freelancers and small teams who fill in and sign their own PDFs in the browser, and who will pay for Pro once they send many documents for other people to sign."
+ },
+ "KudosCRM": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "Basic · Per seat per month billed yearly ($12 monthly)",
+  "verified": "2026-11-20",
+  "catch": "CRM with pipelines, helpdesk, invoicing and projects in one subscription; free plan, paid from $9 per seat a month.",
+  "best": "Small sales teams and growing businesses that want a CRM with pipelines, plus helpdesk and invoicing, at a per seat price and a free plan to start."
  }
 }

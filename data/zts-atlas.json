@@ -1497,40 +1497,40 @@
    "category": "Customer Support",
    "domain": "tidio.com",
    "review_url": "https://aibuildermarketplace.com/b2b/tidio-review/",
-   "from_price_usd_mo": 29.0,
-   "entry_price": "$29",
-   "entry_price_terms": "Starter · per month paid month to month for 100 billable conversations…",
+   "from_price_usd_mo": 10.0,
+   "entry_price": "$10",
+   "entry_price_terms": "per month",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-24 on www.tidio.com/pricing/ with both billing columns clicked, and on www.tidio.com) The plan table opens on the annual column, so the first figures on the page are not what month-to-month costs. Starter is 24.17 a month billed annually against 29 paid monthly, Growth starts at 49.17 annually against 59 monthly, and the two stand-alone add-ons follow the same 20 percent step: the Lyro AI Agent from 32.50 annually against 39 monthly, Flows from 24.17 against 29. Plus is 300 a month in both columns and adds usage on top; Premium is contact-for-pricing. Tidio's own homepage quotes the higher, monthly number (“Paid plans from $29/mo, no surprise upgrades”), which makes the marketing page the more conservative of the two places you can read a price. The table rendered in euros on our reading while the same numerals appear with dollar signs on other retrievals of the same URL, so treat the figure rather than the symbol as the fact and confirm the currency at checkout.\n\nWhat you pay is decided by three separate meters, not by the plan name. The free plan carries 50 billable conversations, 100 Flows visitors reached and 50 Lyro AI conversations, and the comparison table's own footnote makes that last allowance a lifetime one rather than a monthly one. Starter covers 100 billable conversations, Growth starts at 250 and the table caps it at 2,000, both with 10 seats and a 7-day free trial. Lyro conversations are upgradable from 50 to 1,000 and Flows visitors from 2,000 to 100,000. Two things the page does not say: what a conversation over the cap costs, and what the “discounted usage rates” next to Plus's “+ monthly usage” actually are. On Plus that unquoted rate is the whole variable, because the 300 is only the entry fee.",
+   "price_note": "(read 20 November 2026 on www.tidio.com/pricing/, including its FAQ; this replaces the plan table we read on 24 August and 10 October 2026, which Tidio has since restructured) Every paid plan now comes in two modes, Human only and With Lyro AI, and Lyro is no longer sold as a separate add-on. Conversations handled by Lyro and by your team count toward one plan limit, and the same quotas (50, 100, 200, 300, 500, 750 or 1,000 conversations a month) apply in both modes. Paid month to month, Starter is $29 for 100 conversations Human only, or $39 for 50 conversations With Lyro AI. Growth Human only runs from $49 for 200 conversations to $199 for 1,000; Growth With Lyro AI runs from $75 for 100 conversations to $700 for 1,000. Annual billing gives 2 months free on Starter, Growth and the Flows, Inbox AI and Voice add-ons. The page opens on the annual column in the With Lyro AI mode, where Starter reads $33 a month billed $390 a year and Growth starts at $63 a month billed $750 a year. Starter and Growth both allow up to 10 agent seats and carry a 7-day free trial with no card. Plus starts at $300 a month plus monthly usage at “discounted usage rates” the page does not print; Premium is custom and is where the guaranteed 50% Lyro AI resolution rate and pay-per-resolution billing sit.\n\nThe Free plan includes 50 human conversations and 100 Flows visitors a month, plus a one-time quota of 50 Lyro AI conversations that does not renew. Add-ons are priced on their own: Flows by visitors reached, from $29 a month for 2,000 to $299 for 100,000; Inbox AI by the conversation quota of your plan, from $10 a month; Help Center at a flat $10 a month; No Tidio branding at a flat $20 a month; and Voice, enabled through sales in the US, Canada, Australia and the UK, from $19 a month for 20 calls to $349 for 1,000. There is no per-conversation overage price on Starter or Growth. If you switch on automatic upgrades at checkout, a limit that reaches 95% moves to the next tier and you pay that tier's price from then on; with them off, you raise the limit yourself.",
    "flags": [
     {
      "flag": "addons_extra",
-     "evidence": "Starter is 24.17 a month billed annually against 29 paid monthly, Growth starts at 49.17 annually against 59 monthly, and the two stand-alone add-ons follow the same 20 percent step: the Lyro AI Agent from 32.50 annually against 39 monthly, Flows from 24.17 against 29.",
-     "evidence_excerpt": "Starter is 24.17 a month billed annually against 29 paid monthly, Growth starts at 49.17 annually against 59 monthly, and the two stand-alone add-ons follow the same 20 percent step: the Lyro AI Agen…",
+     "evidence": "(read 20 November 2026 on www.tidio.com/pricing/, including its FAQ; this replaces the plan table we read on 24 August and 10 October 2026, which Tidio has since restructured) Every paid plan now comes in two modes, Human only and With Lyro AI, and Lyro is no longer sold as a separate add-on.",
+     "evidence_excerpt": "(read 20 November 2026 on www.tidio.com/pricing/, including its FAQ; this replaces the plan table we read on 24 August and 10 October 2026, which Tidio has since restructured) Every paid plan now com…",
      "source_url": "https://www.tidio.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-10"
+     "verified_at": "2026-11-20"
     },
     {
      "flag": "annual_lock",
-     "evidence": "Second, the plan table opens on annual billing.",
+     "evidence": "Annual billing gives 2 months free on Starter, Growth and the Flows, Inbox AI and Voice add-ons.",
      "evidence_excerpt": null,
      "source_url": "https://www.tidio.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-10"
+     "verified_at": "2026-11-20"
     },
     {
      "flag": "free_tier",
-     "evidence": "The free plan carries 50 billable conversations, 100 Flows visitors reached and 50 Lyro AI conversations, and the comparison table's own footnote makes that last allowance a lifetime one rather than a monthly one.",
-     "evidence_excerpt": "The free plan carries 50 billable conversations, 100 Flows visitors reached and 50 Lyro AI conversations, and the comparison table's own footnote makes that last allowance a lifetime one rather than …",
+     "evidence": "The Free plan includes 50 human conversations and 100 Flows visitors a month, plus a one-time quota of 50 Lyro AI conversations that does not renew.",
+     "evidence_excerpt": null,
      "source_url": "https://www.tidio.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-10"
+     "verified_at": "2026-11-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-10",
-   "first_observed_at": "2026-08-24"
+   "price_verified_at": "2026-11-20",
+   "first_observed_at": null
   },
   {
    "name": "Tossable Digits",
