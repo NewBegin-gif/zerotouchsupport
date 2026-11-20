@@ -1349,7 +1349,7 @@
  {
   "name": "Gravity Forms",
   "category": "IT & Productivity",
-  "domain": "gravity.com",
+  "domain": "gravityforms.com",
   "desc": "Self-hosted WordPress form builder with conditional logic, payments and deep integrations.",
   "link": "https://try.gravity.com/8odrg2wkes2d"
  },
@@ -5030,5 +5030,12 @@
   "domain": "dochub.com",
   "desc": "Online PDF editor and e-signature tool: edit text and fields in a PDF, sign it yourself and send sign requests, with a free plan capped at a few uses a month.",
   "link": "https://dochub.sjv.io/c/7503701/1551532/18108"
+ },
+ {
+  "name": "KudosCRM",
+  "category": "Sales & CRM",
+  "domain": "kudoscrm.com",
+  "desc": "CRM with deal pipelines, helpdesk, invoicing and projects in one per seat subscription, with a free plan for small teams.",
+  "link": "https://api.kudoscrm.com/r/aibuilder-marketplace"
  }
 ]
