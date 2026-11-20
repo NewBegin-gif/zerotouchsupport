@@ -1405,7 +1405,7 @@
    "entry_price": "$20",
    "entry_price_terms": "Startup · per seat per month with no commitment, Enterprise at 25",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-27 on supportbee.com/pricing) Two plans, both priced per seat, and no free tier. Month to month, Startup is $20/seat/month and Enterprise is $25/seat/month. Switch the toggle to annual and the page shows a total of $204 per seat billed annually on Startup and $252 on Enterprise, a saving it advertises as 20 per cent, which works out at effective rates of 17 and 21 dollars a seat a month. On those figures the saving is 15 per cent on Startup ($204 against $240) and 16 per cent on Enterprise ($252 against $300). Re-checked unchanged on 6 October 2026. Startup covers the shared inbox, snippets, filters, basic integrations, API access, unlimited email inboxes and tickets, customer satisfaction ratings, customer management, audit trails and one knowledge base with one team. Enterprise is described as everything in Startup plus five things: enterprise integrations, business hours, the customer portal, an audit log with data history, and portal access for customer groups. The trial is 14 days and the home page says no credit card is required. Billing runs through Stripe, you can switch between monthly and annual at any time with a prorated credit, and plan changes take effect immediately.",
+   "price_note": "(read 2026-08-27 on supportbee.com/pricing) Two plans, both priced per seat, and no free tier. Month to month, Startup is $20/seat/month and Enterprise is $25/seat/month. Switch the toggle to annual and the page shows a total of $204 per seat billed annually on Startup and $252 on Enterprise, a saving it advertises as 20 per cent, which works out at effective rates of 17 and 21 dollars a seat a month. On those figures the saving is 15 per cent on Startup ($204 against $240) and 16 per cent on Enterprise ($252 against $300). Re-checked unchanged on 6 October and 20 November 2026. Startup covers the shared inbox, snippets, filters, basic integrations, API access, unlimited email inboxes and tickets, customer satisfaction ratings, customer management, audit trails and one knowledge base with one team. Enterprise is described as everything in Startup plus five things: enterprise integrations, business hours, the customer portal, an audit log with data history, and portal access for customer groups. The trial is 14 days and the home page says no credit card is required. Billing runs through Stripe, you can switch between monthly and annual at any time with a prorated credit, and plan changes take effect immediately. The pricing FAQ, re-read 20 November 2026, says you can cancel at any time and export your data through the API.",
    "flags": [
     {
      "flag": "per_seat",
@@ -1413,11 +1413,11 @@
      "evidence_excerpt": null,
      "source_url": "https://supportbee.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-06"
+     "verified_at": "2026-11-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-06",
+   "price_verified_at": "2026-11-20",
    "first_observed_at": "2026-08-27"
   },
   {

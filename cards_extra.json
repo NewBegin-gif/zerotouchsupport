@@ -81,7 +81,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-11-12",
+  "verified": "2026-11-20",
   "catch": "The quote-only posture is normal in payroll, so the honest complaint is not that ADP hides its price: it is what that does to you as a buyer.",
   "best": "Small and mid-sized employers who want payroll, tax filing and compliance handled by the largest and oldest provider in the category: over 75 years."
  },
@@ -658,7 +658,7 @@
  "Aura": {
   "price": "$37",
   "price_note": "Starter · per month flat per account, but the tier is set by your monthly sales…",
-  "verified": "2026-10-11",
+  "verified": "2026-11-20",
   "catch": "The tier is decided by how much you sell, not by what you need.",
   "best": "Amazon and Walmart sellers past the point where manual repricing costs more attention than it is worth, and whose monthly volume sits comfortably inside one band."
  },
@@ -1956,7 +1956,7 @@
  "CrowdStrike": {
   "price": "$7.99",
   "price_note": "Falcon Go · per device per month, or $59.99 per device a year",
-  "verified": "2026-09-22",
+  "verified": "2026-11-20",
   "catch": "Two numbers decide whether this is for you, and neither is the headline. The first is the 100-device ceiling on Falcon Go: it is not a soft limit you grow through, it is the point where you change product.",
   "best": "Small and mid-size companies that want a serious endpoint agent without running a security team: Falcon Go is priced for businesses under 100 devices."
  },
@@ -2480,9 +2480,9 @@
     "addons_extra"
    ]
   ],
-  "price": "A$10",
+  "price": "A$11",
   "price_note": "HR Essentials · per employee per month excluding GST on the Australian pricing page…",
-  "verified": "2026-10-06",
+  "verified": "2026-11-20",
   "catch": "Every figure on the pricing page is AUD excluding GST with no US page, and HR, recruitment, chat and payroll are separate subscriptions with a minimum of ten users.",
   "best": "Australian and New Zealand employers who want HR and payroll from one vendor and will use both, where the per-employee rate beats separate systems."
  },
@@ -6636,7 +6636,7 @@
   ],
   "price": "$20",
   "price_note": "Startup · per seat per month with no commitment, Enterprise at 25",
-  "verified": "2026-10-06",
+  "verified": "2026-11-20",
   "catch": "It is an email helpdesk and only an email helpdesk, and it needs your mailbox before it does anything: in our test on 20 October 2026 the trial would not create a ticket until a Gmail or Outlook account was connected, and other mail providers have to go through support.",
   "best": "Small support teams working out of a shared email inbox who want assignment.",
   "pw": "price held",
