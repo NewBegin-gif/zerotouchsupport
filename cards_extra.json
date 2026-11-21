@@ -11407,5 +11407,43 @@
   "verified": "2026-11-20",
   "catch": "Shopify app that shows profit per order from the cost per item on your products; free on its App Store page.",
   "best": "Small Shopify stores that want a margin per order from the cost per item they already keep in Shopify, at no cost for now."
+ },
+ "Nifty": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$10",
+  "price_note": "Pro · per month, Pro per member, billed yearly, before tax, as the in-app plan screen…",
+  "verified": "2026-11-21",
+  "catch": "Project management with a free plan for 2 active projects and unlimited members; paid plans per member or one flat price for the team.",
+  "best": "Small teams and agencies that want projects, tasks, docs and discussions in one place and can live with 2 active projects on the free plan."
+ },
+ "Tally": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "€20",
+  "price_note": "Pro · per month, Pro billed yearly, as the pricing page and the in-app upgrade screen…",
+  "verified": "2026-11-21",
+  "catch": "Form builder that works like a doc, with unlimited forms and submissions on the free plan under fair use.",
+  "best": "Small businesses and solo owners who want free forms with conditional logic, payments and file uploads, and accept the Made with Tally badge."
  }
 }
