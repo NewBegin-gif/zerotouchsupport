@@ -770,7 +770,7 @@
   ],
   "price": "$14.50",
   "price_note": "Pro · per month billed annually",
-  "verified": "2026-11-19",
+  "verified": "2026-11-21",
   "catch": "The smart-template engine is the feature and the fence: decks look polished with zero design skill precisely because the system constrains you, so pixel-perfect custom layouts and heavy brand exceptions fight the tool.",
   "best": "Founders, sales and small teams that want consistently good-looking decks fast, where design consistency matters more than pixel-level control.",
   "pw": "price up Sep 2026",
@@ -1107,17 +1107,12 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$157",
   "price_note": "from · per month billed annually ($189 monthly)",
   "verified": "2026-09-27",
-  "catch": "The jump from free (one position) to the first paid tier is steep if you only hire occasionally: the free plan is usable, so live in it until you're filling several roles at once.",
+  "catch": "The jump from free (one position) to the first paid tier is steep if you only hire occasionally: there is no free plan for new accounts to stay on, so time the 14-day trial to a real hiring round.",
   "best": "Small teams hiring for a few roles at once that want a visual, drag-and-drop pipeline without enterprise-ATS pricing."
  },
  "Brevo": {
@@ -1497,11 +1492,16 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$89",
   "price_note": "Professional · per month billed annually ($129 billed monthly)",
-  "verified": "2026-10-12",
+  "verified": "2026-11-21",
   "catch": "The sticker is only the entry: Circle keeps a commission on every sale on top of Stripe's processing fees, and email marketing is a separate add-on, so a monetized community's real bill runs meaningfully past the plan price.",
   "best": "Creators and brands running a paid community: courses, memberships, events and discussions in one branded home."
  },
@@ -3961,7 +3961,7 @@
   ],
   "price": "$79",
   "price_note": "Discover · per month billed annually",
-  "verified": "2026-10-12",
+  "verified": "2026-11-21",
   "catch": "The price is set by how many companies Leadfeeder identifies a month: €79 covers up to 50 on Discover billed annually, and 501-1,000 companies cost €309 (€441 month to month).",
   "best": "B2B teams with real website traffic and a sales team that will actually work the list: the free tier is enough to find out whether your traffic contains anyone worth calling.",
   "pw": "price up Aug 2026",
@@ -5208,14 +5208,19 @@
     "per_seat"
    ],
    [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
    ]
   ],
   "price": "$3.99",
-  "price_note": "Mail Plus · per month billed yearly ($47.88 a year; $4.99 month to month)",
-  "verified": "2026-10-11",
+  "price_note": "Mail Plus · per month at the standard yearly rate",
+  "verified": "2026-11-21",
   "catch": "Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all: you go from 200 GB to 500 GB, but you also start paying for Mail, Calendar, Pass and VPN whether or not you wanted them.",
   "best": "Teams and individuals for whom encryption is an actual requirement rather than a preference: handling client material, legal or medical files."
  },
@@ -5347,7 +5352,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-10-13",
+  "verified": "2026-11-21",
   "catch": "Everything about the sales motion here is a conversation.",
   "best": "Brands and sellers already running paid media across several retail networks at once: Amazon Sponsored Ads and Amazon DSP, Walmart, Instacart, Criteo, Google, Meta."
  },
@@ -7081,7 +7086,7 @@
   "price_note": "from · per month",
   "verified": "2026-11-20",
   "catch": "The AI number on the homepage and the AI number on the pricing page do not agree, and the pricing page is the lower of the two.",
-  "best": "Support teams that want an AI agent and a help desk from the same vendor and can size the shared conversation quota and the separate Flows meter against their own volume before they commit, and Shopify, WordPress or Wix stores that want to run live chat at zero and treat the 50 free Lyro conversations as a measurement of whether the AI answers their questions at all.",
+  "best": "Support teams that want an AI agent and a help desk from one vendor and can size the shared conversation quota against their own volume, and Shopify.",
   "pw": "price held",
   "pw_soort": "held"
  },
@@ -7258,12 +7263,17 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
-  "price": "$25",
-  "price_note": "AI Assistant, per seat… · per seat per month as published",
-  "verified": "2026-10-02",
-  "catch": "It's a newer, enterprise-leaning automation platform, so it's less proven with a smaller community than the big names, and the credit-per-execution model means heavy volume needs cost-checking.",
+  "price": "$14.99",
+  "price_note": "from · a month, billed annually ($19.99 billed monthly)",
+  "verified": "2026-11-21",
+  "catch": "It's a newer, enterprise-leaning automation platform, so it's less proven with a smaller community than the big names, and execution and AI chat allowances make heavy volume worth costing out.",
   "best": "Teams that want an AI-assisted way to discover, document and run automations without deep RPA expertise."
  },
  "Typewise": {
@@ -8252,6 +8262,22 @@
   "verified": "2026-11-03",
   "catch": "The pricing is honest and the arithmetic still deserves care, because this is a percentage with no ceiling on it.",
   "best": "Shopify stores selling consumables or anything with a natural replenishment rhythm (coffee, supplements, pet food."
+ },
+ "Selleasy": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "Starter · per month, flat, unlimited orders and campaigns",
+  "verified": "2026-10-30",
+  "catch": "The pricing changed under this review in October 2026, and the vendor's own page has not caught up.",
+  "best": "Shopify stores that want bundles, add-ons, cart funnels and post-purchase offers out of one app on a flat fee that never takes a share of upsell revenue: small stores can test on the free plan, and Shopify Plus stores get checkout upsells from $29 a month.",
+  "pw": "plans rebuilt Nov 2026",
+  "pw_soort": "restructure"
  },
  "Warn": {
   "price": "$6.99",
@@ -9646,11 +9672,11 @@
     "free_tier"
    ]
   ],
-  "price": "$19",
-  "price_note": "Startup · per month, billed every 30 days through Shopify in USD, set by the store's total…",
-  "verified": "2026-10-15",
-  "catch": "Priced by total store orders; fees are non-refundable.",
-  "best": "Shopify stores that want to give cashback as Shopify's own store credit to bring customers back."
+  "price": "$15",
+  "price_note": "Starter · per month, billed every 30 days through Shopify in USD",
+  "verified": "2026-11-21",
+  "catch": "Every store order counts towards the plan allowance; extra orders cost $0.20 each.",
+  "best": "Shopify stores that want to give cashback as Shopify's own store credit to bring customers back, starting free with up to 50 orders every 30 days."
  },
  "EliteCart": {
   "price": "$29.99",
@@ -9808,6 +9834,10 @@
   "price_note": "Starter · per month on the Shopify App Store listing, billed in USD",
   "verified": "2026-10-23",
   "catch": "Launched May 2026 with no reviews yet; 4K and video use credits fast.",
+  "coupon": {
+   "code": "AIBUILDER",
+   "label": "10% off the first month's subscription on all Rewarx products…"
+  },
   "best": "Shopify sellers in fashion, beauty, jewellery and home goods who need many consistent product."
  },
  "FineVoice": {
