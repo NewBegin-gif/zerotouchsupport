@@ -5051,5 +5051,19 @@
   "domain": "fleeta.co.uk",
   "desc": "Shopify app that shows profit per order after cost of goods, using the cost per item already on your products.",
   "link": "https://platform.shoffi.app/r/rl_Wvhy5iok"
+ },
+ {
+  "name": "Nifty",
+  "category": "Productivity",
+  "domain": "niftypm.com",
+  "desc": "Project management with projects, tasks, docs and discussions in one workspace, a free plan for 2 active projects and unlimited members, and paid plans per member or one flat price for the team.",
+  "link": "https://niftypm.com?fpr=officesoftwaremarketplace"
+ },
+ {
+  "name": "Tally",
+  "category": "Productivity",
+  "domain": "tally.so",
+  "desc": "Form builder that works like a document, with conditional logic, payments, file uploads and unlimited forms and submissions on the free plan under fair use.",
+  "link": "https://tally.so/"
  }
 ]
