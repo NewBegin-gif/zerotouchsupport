@@ -14,7 +14,7 @@
   ],
   "price": "$3.99",
   "price_note": "Individual · per month, regular rate billed annually",
-  "verified": "2026-10-01",
+  "verified": "2026-11-21",
   "catch": "It's the polished, category-leading pick, and it's priced like it: free and cheaper managers exist, so you're paying for the UX, integrations and business controls, not raw functionality.",
   "best": "Teams that want the most polished, secure password manager with solid admin controls and integrations."
  },
@@ -1590,14 +1590,14 @@
     "usage_metered"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
-  "price": "$7",
-  "price_note": "from · per user per month billed yearly ($10 monthly)",
-  "verified": "2026-09-30",
+  "price": "$9",
+  "price_note": "Core, per user · per month, billed yearly",
+  "verified": "2026-11-21",
   "catch": "The everything-app breadth is also the downside: it's feature-dense with a real learning curve, and teams can drown in options.",
   "best": "Teams that want one highly customizable app for tasks, docs, goals and reporting and will invest in setting it up.",
   "pw": "plans rebuilt Nov 2026",
@@ -3418,7 +3418,7 @@
   ],
   "price": "€9",
   "price_note": "Starter… · per month billed yearly for 3 profiles, 1 user and 30 posts a month",
-  "verified": "2026-10-03",
+  "verified": "2026-11-21",
   "catch": "Its depth is strongest on Instagram and the core networks; if your priority platform sits outside its best-supported set, coverage thins.",
   "best": "Agencies and brands that want deep social analytics, reporting and competitor benchmarking alongside scheduling, especially Instagram-first teams."
  },
@@ -5945,7 +5945,7 @@
   ],
   "price": "$29",
   "price_note": "Starter, up to $10k… · billed monthly",
-  "verified": "2026-09-30",
+  "verified": "2026-11-21",
   "catch": "The honest mechanic is the revenue ladder: plans cap by your ANNUAL SALES, so success moves you up.",
   "best": "Creators selling digital products, subscriptions and print-on-demand who want a simple store with zero platform commission.",
   "pw": "price down Sep 2026",
@@ -7704,7 +7704,7 @@
   ],
   "price": "€69",
   "price_note": "from · per month",
-  "verified": "2026-10-03",
+  "verified": "2026-11-21",
   "catch": "The friendly €59 headline is the annual rate for 75 viewers, and the real cost lives in add-ons: localisation, the AI assistant, CRM integrations, RTMP and branding profiles are each €20-59 a month on top, and only a Premium subscription can buy them.",
   "best": "Marketing and sales teams running live and automated webinars in Europe who want a polished, GDPR-friendly platform with viewer-tier pricing."
  },
