@@ -16,7 +16,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://zerotouchsupport.com/aircall-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Aircall: Essentials is $30 per license a month and Professional $50, both on annual billing. 'Unlimited calling' covers listed regions, check yours.
-- Price: (read 2026-10-10 on aircall.io/pricing in a live browser, with Aircall's own country selector on United States) Essentials is $30 per license a month and Professional $50, both on annual billing, which the page marks as 25% off monthly. Flip that toggle and the monthly rates read $40 and $70 per license.
+- Price: (read 2026-10-10 and re-verified 2026-11-21 on aircall.io/pricing in a live browser, with Aircall's own country selector on United States) Essentials is $30 per license a month and Professional $50, both on annual billing, which the page marks as 25% off monthly. Flip that toggle and the monthly rates read $40 and $70 per license.
 
 ## Answering Service Care
 - Review: https://zerotouchsupport.com/answering-service-care-review.html

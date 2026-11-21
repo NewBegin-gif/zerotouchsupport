@@ -197,7 +197,7 @@
   ],
   "price": "$30",
   "price_note": "Essentials, per licence · per licence per month on annual billing, minimum 3 licences",
-  "verified": "2026-10-10",
+  "verified": "2026-11-21",
   "catch": "Two structural catches: the 3-seat minimum makes the real starting price triple the sticker, and the annual-vs-monthly gap is steep (Professional: $50 vs $70).",
   "best": "Sales and support teams (3+ seats) that want a polished cloud phone system embedded in their CRM/helpdesk, with call routing, analytics and 250+ integrations."
  },
@@ -800,7 +800,7 @@
   ],
   "price": "$59",
   "price_note": "Lite… · billed monthly",
-  "verified": "2026-11-19",
+  "verified": "2026-11-21",
   "catch": "Next to Substack it's more to learn.",
   "best": "Newsletter operators who want growth tools, automation, SEO control and ad/referral monetisation, and to keep 100% of subscription revenue."
  },
@@ -936,11 +936,6 @@
  "Blinq": {
   "flags": [
    [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ],
-   [
     "🧮",
     "Usage-metered",
     "usage_metered"
@@ -949,12 +944,17 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$9.99",
   "price_note": "Premium, for individuals · billed monthly",
-  "verified": "2026-10-07",
-  "catch": "The core product is honestly cheap: the cost that grows hides in event lead capture, now billed per lead at $9.99 a credit on top of the Business seats (read 7 October 2026), which is where teams that live on trade shows actually get value.",
+  "verified": "2026-11-21",
+  "catch": "The core product is honestly cheap: the cost that grows sits in events, at $750 per Campaign on pay as you go on top of the Business seats (read 21 November 2026; the leads themselves are no longer charged per lead), which is where teams that live on trade shows actually get value.",
   "best": "Teams and field-sales orgs that want consistent, branded digital cards with contacts syncing straight into the CRM, and events teams via the capture add-on."
  },
  "Blocky": {
@@ -5006,7 +5006,7 @@
   ],
   "price": "€14",
   "price_note": "Lite, per seat · per seat a month billed annually, one payment of EUR 168 per seat…",
-  "verified": "2026-10-17",
+  "verified": "2026-11-21",
   "catch": "Pipedrive manages what happens after a lead enters your pipeline: it doesn't do outbound prospecting or marketing, so you'll pair it with a separate tool for that.",
   "best": "Sales teams that want a simple, visual pipeline they can use on day one, with a separate marketing tool already in place."
  },
@@ -5600,7 +5600,7 @@
   ],
   "price": "$49",
   "price_note": "Email Volume… · per user per month billed annually, by active contacts",
-  "verified": "2026-10-09",
+  "verified": "2026-11-21",
   "catch": "The $89 is the Multichannel track on annual billing, and it does include LinkedIn, calls, SMS and WhatsApp: $99 month to month.",
   "best": "Sales teams running structured multichannel outbound (email + LinkedIn + calls) who want sequences, warmup and a B2B database in one platform."
  },
@@ -11445,5 +11445,31 @@
   "verified": "2026-11-21",
   "catch": "Form builder that works like a doc, with unlimited forms and submissions on the free plan under fair use.",
   "best": "Small businesses and solo owners who want free forms with conditional logic, payments and file uploads, and accept the Made with Tally badge."
+ },
+ "Cartly": {
+  "price": "$16.99",
+  "price_note": "Growth · Growth for up to 100 orders a month, as the in-app pricing table…",
+  "verified": "2026-11-21",
+  "catch": "Slide cart drawer app for Shopify with upsells under the cart; free for the first 20 orders, then from $16.99 a month by order volume.",
+  "best": "Shopify stores that want a slide cart with an upsell under it and are fine with a fee that steps up with order volume."
+ },
+ "BSS B2B Solution": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$29",
+  "price_note": "Essential · per month, Essential, the first paid plan, as listed on the Shopify App Store…",
+  "verified": "2026-11-21",
+  "catch": "Wholesale pricing app for Shopify with price rules by customer tag and B2B signup forms; free plan, paid plans from $29 a month.",
+  "best": "Shopify stores that sell wholesale to tagged customers and want price rules and a signup form without building a second store."
  }
 }
