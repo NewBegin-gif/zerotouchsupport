@@ -210,7 +210,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-10-10",
+  "verified": "2026-11-21",
   "catch": "Airia no longer publishes a price: since 20 August 2026 the pricing page redirects into developer documentation, so you cannot budget before a sales conversation.",
   "best": "Enterprises that need to find the AI already running across their organisation, enforce policy on it at runtime, and build and govern their own agents."
  },
@@ -2358,7 +2358,7 @@
   ],
   "price": "$29",
   "price_note": "Pro · per month for in-place product editing, SEO fields and automatic…",
-  "verified": "2026-10-17",
+  "verified": "2026-11-21",
   "catch": "The split between the two tiers is unusually clean, and worth seeing clearly: everything this app is described as doing, the margins, the net units, the restock advice, is free.",
   "best": "Small and mid-size Shopify merchants who want cost price, gross margin, clean net unit sales and restock advice inside the admin instead of exporting to a spreadsheet."
  },
@@ -4482,7 +4482,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-10-11",
+  "verified": "2026-11-21",
   "catch": "The pricing page is a feature list with the prices taken out, and that is a choice rather than an oversight: Mycroft publishes what is in each package down to the individual capability, then stops short of the one line you came for.",
   "coupon": {
    "code": "",
@@ -4548,7 +4548,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month",
-  "verified": "2026-10-17",
+  "verified": "2026-11-21",
   "catch": "The plans are sold in videos and images; the meter runs in credits per second, and the two do not reconcile.",
   "best": "Advertisers who need a steady stream of short product clips and will deliberately choose the cheap model for drafts, and teams who would rather have video, avatars."
  },
@@ -11372,5 +11372,10 @@
   "verified": "2026-11-20",
   "catch": "CRM with pipelines, helpdesk, invoicing and projects in one subscription; free plan, paid from $9 per seat a month.",
   "best": "Small sales teams and growing businesses that want a CRM with pipelines, plus helpdesk and invoicing, at a per seat price and a free plan to start."
+ },
+ "TrueMargin": {
+  "verified": "2026-11-20",
+  "catch": "Shopify app that shows profit per order from the cost per item on your products; free on its App Store page.",
+  "best": "Small Shopify stores that want a margin per order from the cost per item they already keep in Shopify, at no cost for now."
  }
 }
