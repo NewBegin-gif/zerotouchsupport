@@ -1198,9 +1198,9 @@
     "free_tier"
    ]
   ],
-  "price": "$13",
+  "price": "$23",
   "price_note": "Basic · per month, annual",
-  "verified": "2026-10-24",
+  "verified": "2026-11-21",
   "catch": "The free tier is the catch: its card reads 200 signup credits where it read 1,500 on 2 September, about 66 workflow steps at 3 credits a step, while the vendor's own llms.txt still advertises 2,000.",
   "best": "Teams that need a reusable web scraper or browser bot without writing selectors, want the browsers, proxies and CAPTCHA handling managed for them."
  },
@@ -2940,7 +2940,7 @@
   ],
   "price": "$19",
   "price_note": "from · per agent a month, billed annually ($29 billed monthly)",
-  "verified": "2026-09-29",
+  "verified": "2026-11-21",
   "catch": "The ITSM features most IT teams buy for (change/problem management, deeper analytics) live at Pro, and so does Freddy AI Copilot, a $29-an-agent add-on.",
   "best": "IT teams that want proper ITSM (incidents, assets, changes, service catalog) running in weeks, without enterprise-suite implementation pain."
  },
@@ -3689,9 +3689,9 @@
     "annual_lock"
    ]
   ],
-  "price": "$299",
-  "price_note": "the whole platform · billed monthly",
-  "verified": "2026-09-24",
+  "price": "$320",
+  "price_note": "the whole platform · billed monthly for 2 users and 1,500 contacts",
+  "verified": "2026-11-21",
   "catch": "Cost is the big one (56% of reviewers flag it), the interface feels dated, and there's a real 2–4 week learning curve on the automation builder.",
   "best": "Service-based small businesses, coaches and solopreneurs who want CRM, email, payments and automation in one tool, and will invest the time to learn it."
  },
@@ -5794,10 +5794,10 @@
   "pw_soort": "restructure"
  },
  "SaneBox": {
-  "price": "$4.54",
-  "price_note": "Snack… · per month on a two-year prepay ($109 every 2 years)",
-  "verified": "2026-09-24",
-  "catch": "You pay monthly to filter mail that modern clients increasingly sort for free, and the headline rate is a two-year commitment: month to month the Snack plan is $9.49, not $4.54.",
+  "price": "$5.42",
+  "price_note": "Snack… · per month billed annually ($65 a year)",
+  "verified": "2026-11-21",
+  "catch": "You pay monthly to filter mail that modern clients increasingly sort for free, and the headline rate is billed yearly: month to month the Snack plan is $9.49, not $5.42.",
   "best": "Heavy-email professionals drowning in a cluttered inbox who want AI triage that works across any mail client."
  },
  "Scarcity.AI": {
@@ -6574,7 +6574,7 @@
   ],
   "price": "$49",
   "price_note": "Pro, per user · per user per month billed annually ($59 billed monthly)",
-  "verified": "2026-09-22",
+  "verified": "2026-11-21",
   "catch": "The pitch, CRM living inside Gmail, is also the ceiling: everything happens in the inbox, which power users love and growing teams outgrow (reporting, permissions, cross-team process).",
   "best": "Solo founders and small Gmail-native teams whose pipeline lives in email threads and who want zero context-switching."
  },
@@ -7767,7 +7767,7 @@
  "Wing Assistant": {
   "price": "$699",
   "price_note": "General Virtual… · per month as published",
-  "verified": "2026-09-28",
+  "verified": "2026-11-21",
   "catch": "You're renting a person, not automating a task: a good VA is real leverage, but only if you already have documented, delegatable work.",
   "best": "Founders drowning in delegatable admin who have processes to hand off and want a managed VA without recruiting one themselves."
  },
@@ -10225,7 +10225,7 @@
   "best": "YouTube creators and small production teams that juggle editors, scripts and review over spreadsheets and chat, and want one board from idea to scheduled upload."
  },
  "MK Website Assistant": {
-  "verified": "2026-11-03",
+  "verified": "2026-11-21",
   "catch": "Done-for-you service; \"from\" prices, set-up fee on top.",
   "best": "Small UK service businesses such as dental and physio practices, vets."
  },
