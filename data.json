@@ -5036,5 +5036,12 @@
   "domain": "kudoscrm.com",
   "desc": "CRM with deal pipelines, helpdesk, invoicing and projects in one per seat subscription, with a free plan for small teams.",
   "link": "https://api.kudoscrm.com/r/aibuilder-marketplace"
+ },
+ {
+  "name": "TrueMargin",
+  "category": "E-commerce",
+  "domain": "fleeta.co.uk",
+  "desc": "Shopify app that shows profit per order after cost of goods, using the cost per item already on your products.",
+  "link": "https://platform.shoffi.app/r/rl_Wvhy5iok"
  }
 ]
