@@ -629,10 +629,10 @@
 .tool-tags{min-height:24px}
 
 /* KAART_V6: lezerscode */
-.tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
+.tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;flex-wrap:wrap;align-items:center;gap:4px 8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
 .tc-coupon.leeg{display:none}
-.tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
-.tc-coupon .lb{min-width:0;flex:1 1 auto;overflow-wrap:anywhere}
+.tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:normal;overflow-wrap:anywhere;flex:0 0 auto;max-width:calc(100% - 24px)}
+.tc-coupon .lb{min-width:0;flex:1 1 8em;overflow-wrap:anywhere}
 
 /* R25-04 (25 sep 2026, gemeten): kaarten buiten beeld niet renderen; HTML en links blijven gewoon in de pagina */
 .tool-card{content-visibility:auto;contain-intrinsic-size:auto 260px}
