@@ -431,7 +431,7 @@
   ],
   "price": "$40",
   "price_note": "Starter · billed monthly",
-  "verified": "2026-10-13",
+  "verified": "2026-11-22",
   "catch": "Starter buys the line and nothing else: at $40 plus $1.75 a minute it stays the cheapest option only up to roughly 79 minutes a month, and there is a $50 start-up fee on top.",
   "best": "A small business that loses money when a call goes to voicemail (trades, clinics."
  },
@@ -917,7 +917,7 @@
   "best": "Sales and RevOps teams that already run enrichment across several vendors and want the waterfall, the signals and the CRM sync in one place."
  },
  "Bitvavo": {
-  "verified": "2026-10-08",
+  "verified": "2026-11-22",
   "catch": "The honest caveats are crypto-wide, not Bitvavo-specific: fees are only part of the cost (spread matters on small orders), and no exchange removes market risk: the platform being cheap and MiCA-regulated doesn't make the assets safe.",
   "best": "EU-based traders and builders who want a MiCA-regulated, euro-native exchange with low tiered fees, deep EUR pairs and a solid API for automation."
  },
@@ -1573,7 +1573,7 @@
   ],
   "price": "$167",
   "price_note": "Launch: smallest action… · per year, billed annually ($54 actions + $113 data credits a month)",
-  "verified": "2026-10-19",
+  "verified": "2026-11-22",
   "catch": "Two honest catches: a steep learning curve (expect 2–4 weeks, many teams need a dedicated Clay expert), and credits that are hard to forecast at scale.",
   "best": "Modern GTM and ops teams who want waterfall enrichment and custom research workflows, and have someone to own it."
  },
@@ -2162,7 +2162,7 @@
   ],
   "price": "$400",
   "price_note": "Starter · per month including 5 users",
-  "verified": "2026-10-14",
+  "verified": "2026-11-22",
   "catch": "The tier price is a floor, not a ceiling, and the add-ons are where an inventory system quietly doubles.",
   "best": "Manufacturers and distributors outgrowing spreadsheets who need inventory, production, purchasing and sales in one system."
  },
@@ -3241,7 +3241,7 @@
   ],
   "price": "$139",
   "price_note": "from · a month, billed annually ($159 billed monthly)",
-  "verified": "2026-10-27",
+  "verified": "2026-11-22",
   "catch": "Mind the fine print between tiers: the entry plan does not include your annual tax filing (a $750 add-on on Lite), month-to-month billing costs $20 to $50 a month more than the annual rate, and messy back-months cost extra as catch-up fees.",
   "best": "Therapists and health-and-wellness practice owners (SLPs, dieticians, chiropractors, audiologists, coaches, massage and physical therapists) who want books."
  },
@@ -11471,5 +11471,19 @@
   "verified": "2026-11-21",
   "catch": "Wholesale pricing app for Shopify with price rules by customer tag and B2B signup forms; free plan, paid plans from $29 a month.",
   "best": "Shopify stores that sell wholesale to tagged customers and want price rules and a signup form without building a second store."
+ },
+ "BSS B2B Lock": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9.99",
+  "price_note": "Basic Shopify · per month, Basic Shopify, the first paid plan, as listed on the Shopify App Store…",
+  "verified": "2026-11-22",
+  "catch": "Shopify app that hides prices, products and pages from visitors until they log in or match a rule; free plan, paid plans from $9.99 a month.",
+  "best": "Wholesale or private-sale Shopify stores that want to hide prices and Add to cart from everyone except tagged or logged-in buyers."
  }
 }
