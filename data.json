@@ -5079,5 +5079,12 @@
   "domain": "apps.shopify.com",
   "desc": "Shopify wholesale pricing app that sets price rules by customer tag and runs B2B registration forms with approval; the free plan covers one rule and one form on a live store.",
   "link": "https://apps.shopify.com/b2b-solution-custom-pricing?ref=aff-bss-ppxp6h"
+ },
+ {
+  "name": "BSS B2B Lock",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify app that hides prices, products and pages from visitors until they log in or match a rule such as a customer tag or passcode, with a free plan.",
+  "link": "https://apps.shopify.com/login-to-access-pages?ref=aff-bss-ppxp6h"
  }
 ]
