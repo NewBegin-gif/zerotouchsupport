@@ -5219,7 +5219,7 @@
    ]
   ],
   "price": "$3.99",
-  "price_note": "Mail Plus · per month at the standard yearly rate",
+  "price_note": "Mail Plus · per month, billed yearly at the standard rate",
   "verified": "2026-11-21",
   "catch": "Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all: you go from 200 GB to 500 GB, but you also start paying for Mail, Calendar, Pass and VPN whether or not you wanted them.",
   "best": "Teams and individuals for whom encryption is an actual requirement rather than a preference: handling client material, legal or medical files."
@@ -11485,5 +11485,24 @@
   "verified": "2026-11-22",
   "catch": "Shopify app that hides prices, products and pages from visitors until they log in or match a rule; free plan, paid plans from $9.99 a month.",
   "best": "Wholesale or private-sale Shopify stores that want to hide prices and Add to cart from everyone except tagged or logged-in buyers."
+ },
+ "OPTIS Product Options": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9.99",
+  "price_note": "Advanced · per month, Advanced, the first paid plan, as listed on the Shopify App Store…",
+  "verified": "2026-11-22",
+  "catch": "Shopify app that adds text fields, swatches, file uploads and price add-ons to product pages; free plan, paid plans from $9.99 a month.",
+  "best": "Shopify stores that sell personalised or made-to-order products and need customers to enter text, upload files or pick extras before checkout."
  }
 }
