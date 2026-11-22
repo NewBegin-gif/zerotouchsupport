@@ -963,11 +963,6 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$7.99",
@@ -11504,5 +11499,57 @@
   "verified": "2026-11-22",
   "catch": "Shopify app that adds text fields, swatches, file uploads and price add-ons to product pages; free plan, paid plans from $9.99 a month.",
   "best": "Shopify stores that sell personalised or made-to-order products and need customers to enter text, upload files or pick extras before checkout."
+ },
+ "Cal.com": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$12",
+  "price_note": "Teams (billed yearly) · per month, first paid plan per user on cal.com/pricing, billed yearly",
+  "verified": "2026-11-22",
+  "catch": "Scheduling with a free plan for one person; teams from $12 per user a month billed yearly.",
+  "best": "Freelancers, consultants and small teams that want a shareable booking page with video calls and email confirmations, starting on a free plan."
+ },
+ "Vibe": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "$50",
+  "price_note": "Minimum daily ad spend · per usage, no subscription",
+  "verified": "2026-11-22",
+  "catch": "Self-serve streaming and connected TV ads, no subscription; CPM from $15 to $40 with a $50 a day minimum.",
+  "best": "Small and mid-size brands that want to run streaming TV ads themselves, with a generated video ad and no contract."
+ },
+ "Shutterstock": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ]
+  ],
+  "price": "€9",
+  "price_note": "GenAI (billed yearly) · GenAI at EUR 9 a month billed yearly (EUR 108) or EUR 19 a month…",
+  "verified": "2026-11-22",
+  "catch": "Stock photo library with an AI image generator; two free generations, downloads need a plan from EUR 9 a month billed yearly.",
+  "best": "Marketers and creators who want AI images with exact on-image text next to a licensed stock photo library, and are happy to subscribe to download."
  }
 }
