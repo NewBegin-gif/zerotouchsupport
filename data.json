@@ -5086,5 +5086,12 @@
   "domain": "apps.shopify.com",
   "desc": "Shopify app that hides prices, products and pages from visitors until they log in or match a rule such as a customer tag or passcode, with a free plan.",
   "link": "https://apps.shopify.com/login-to-access-pages?ref=aff-bss-ppxp6h"
+ },
+ {
+  "name": "OPTIS Product Options",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify app that adds text boxes, swatches, file uploads and price add-ons to product pages, with conditional logic on paid plans and a free plan for 10 option sets.",
+  "link": "https://apps.shopify.com/product-options-by-bss?ref=aff-bss-ppxp6h"
  }
 ]
