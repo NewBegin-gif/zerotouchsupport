@@ -2090,7 +2090,7 @@
   ],
   "price": "$15",
   "price_note": "Personal, per seat · per seat per month billed annually ($18 billed monthly)",
-  "verified": "2026-10-11",
+  "verified": "2026-11-23",
   "catch": "The seat price is the smaller half of the bill.",
   "best": "Teams that want to prototype and ship AI agents and apps across multiple models without engineering overhead."
  },
@@ -2558,7 +2558,7 @@
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-22",
+  "verified": "2026-11-23",
   "catch": "It's built for large organizations: the site claims 100+ enterprises deployed globally and 2.9M+ learners trained, with Danone among the named references, and the sales-led, quote-only motion reflects that: there is no self-serve tier to trial quietly, so smaller teams can't just kick the tires before procurement gets involved.",
   "best": "Enterprises and scale-ups that need structured, measurable training rolled out across hundreds of employees: branded academies, AI-generated courses."
  },
@@ -3408,7 +3408,7 @@
   ],
   "price": "$4.99",
   "price_note": "Starter, per seat · per seat per month billed annually ($7 billed monthly)",
-  "verified": "2026-11-12",
+  "verified": "2026-11-23",
   "catch": "The seat definition is the whole story and they state it plainly, which deserves credit: you pay for every seat you have created, not every person actually being tracked.",
   "best": "Agencies and distributed teams that bill clients for hours and need defensible time records: the proof is the product."
  },
@@ -5034,7 +5034,7 @@
   ],
   "price": "€87",
   "price_note": "Starter · per year on the yearly tab (list price EUR 145)",
-  "verified": "2026-09-19",
+  "verified": "2026-11-23",
   "catch": "The meter is credits per attempt, not per usable result, and buyer reviews centre on exactly that.",
   "best": "Solo founders and small teams that want a steady stream of product-marketing videos and posters generated from a product link, without filming anything."
  },
@@ -7588,10 +7588,15 @@
     "🔒",
     "Hidden pricing",
     "quote_only"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price_state": "quote-only",
-  "verified": "2026-09-20",
+  "verified": "2026-11-23",
   "catch": "The jump from Growth to Pro is steep (small businesses get priced out of MVT and complex targeting) and the UI is dense with options.",
   "best": "Teams that want an experience-optimisation platform (A/B testing + heatmaps + personalisation) with friendlier Bayesian stats and transparent pricing."
  },
