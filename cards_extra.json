@@ -1655,7 +1655,7 @@
   ],
   "price": "$19",
   "price_note": "Solo, per user · per month, billed month to month",
-  "verified": "2026-11-19",
+  "verified": "2026-11-23",
   "catch": "The built-in calling is the draw, but call and SMS credits stack on top of the seat price: a '$99' plan can effectively cost ~$160/user once a rep dials 50+ times a day.",
   "coupon": {
    "code": "STACK20",
@@ -2570,14 +2570,19 @@
     "per_seat"
    ],
    [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "📅",
     "Annual commit",
     "annual_lock"
    ]
   ],
   "price": "$99",
-  "price_note": "Business · per month, month-to-month",
-  "verified": "2026-10-07",
+  "price_note": "Solo… · per month, month-to-month per account",
+  "verified": "2026-11-23",
   "catch": "There is no free tier and no cheap entry: Expandi starts at $99 a month per seat, and the friendlier $79 assumes annual commitment.",
   "best": "Sales teams and agencies running LinkedIn (and email) outreach at scale who want smart sending limits, warm-up and multi-account management."
  },
@@ -3154,7 +3159,7 @@
   ],
   "price": "$40",
   "price_note": "Starter · per month with the AI Agent included, monthly billing…",
-  "verified": "2026-11-17",
+  "verified": "2026-11-23",
   "catch": "Never priced per agent is a real advantage, but it starts one tier up: the comparison table caps Starter at 3 user seats, and only Basic and above open the inbox to 500.",
   "best": "Ecommerce support teams with seasonal or spiky volume, where per-agent pricing punishes you for having enough people on a busy week."
  },
@@ -5784,20 +5789,20 @@
     "usage_metered"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
-   [
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
-  "price": "$25",
-  "price_note": "Basic… · on monthly billing, as published",
-  "verified": "2026-11-18",
-  "catch": "Two things changed here and both cost money. First, calling now runs on the same meter as texting (1 credit a minute, 2 a minute when forwarding) so voice minutes eat the allowance you budgeted for messages.",
+  "price": "$33",
+  "price_note": "Pro… · billed monthly",
+  "verified": "2026-11-23",
+  "catch": "Two things cost money here. First, calling runs on the same meter as texting (1 credit a minute, 2 a minute when forwarding), so voice minutes eat the allowance you budgeted for messages.",
   "best": "Sales and service teams that want two-way texting and calling in one CRM-linked inbox, and can estimate their monthly credit burn, messages plus call minutes.",
   "pw": "plans rebuilt Sep 2026",
   "pw_soort": "restructure"
@@ -6306,7 +6311,7 @@
   ],
   "price": "$15",
   "price_note": "Team, per seat · per seat per month billed annually, with a minimum of 3 billable users",
-  "verified": "2026-11-16",
+  "verified": "2026-11-23",
   "catch": "It's a broad, do-everything work-management platform, so the power comes with a learning curve and a per-seat cost that adds up for bigger teams: a single source of truth if you commit, overkill if you just need a task list.",
   "best": "Teams consolidating projects, CRM and operations into one flexible, database-driven work-management platform."
  },
@@ -6374,6 +6379,10 @@
   "price_note": "from · per month ($290/yr, 16% off), 5 profiles, 1 workspace",
   "verified": "2026-09-22",
   "catch": "You are billed per social profile, not per person, and a profile is one brand account on one network.",
+  "coupon": {
+   "code": "SOCIALBEEBF26",
+   "label": "50% off SocialBee yearly plans with the code SOCIALBEEBF26"
+  },
   "best": "Solo marketers and small agencies who post to several networks on a schedule and want evergreen recycling rather than a queue that empties."
  },
  "Softr": {
@@ -10542,6 +10551,10 @@
   "price_note": "Starter · Starter billed monthly, for one business or a few clients",
   "verified": "2026-11-07",
   "catch": "Usage and add-on fees come on top of the plan.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: highLevel's Black Friday offer"
+  },
   "best": "Marketing agencies and consultants who manage several clients and want CRM, funnels, texting, email and automation in one white-label platform."
  },
  "Upwork": {

@@ -728,27 +728,27 @@
    "entry_price": "$40",
    "entry_price_terms": "Starter · per month with the AI Agent included, monthly billing…",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-17 on gorgias.com/pricing and on the App Store listing apps.shopify.com/helpdesk, and in our own test session on 17 November 2026; first read 2026-09-08) Four plans with the AI Agent included, as gorgias.com/pricing shows them by default: Starter $40 a month, Basic $90, Pro $550 and Advanced $1,430, or $77, $471 and $1,227 a month billed annually ($924, $5,652 and $14,724 a year); Starter bills monthly only. The helpdesk and the AI Agent are priced separately inside each plan: $10 and $30 on Starter, $60 and $30 on Basic ($50 and $27 annually), $360 and $190 on Pro ($300 and $171) and $900 and $530 on Advanced ($750 and $477). The App Store listing prints only the helpdesk part, Starter $10 a month, Basic $60 or $600 a year, Pro $360 or $3,600 a year and Advanced $900 or $9,000 a year, and shows the AI Agent as an add on, so the listing's $60 Basic is the $90 Basic without the AI Agent. Starter includes 50 tickets and 30 automated interactions, Basic 300 tickets and 30 interactions, Pro 2,000 tickets and 190 interactions and Advanced 5,000 tickets and 530 interactions. It is never priced per agent, in their own words, but the seats are capped: the comparison table gives Starter 3 user seats and Basic, Pro and Advanced 500 each, while the listing calls Basic's agents unlimited and Pro's and Advanced's up to 500. Ticket overage is $0.40 a ticket on Starter; on Basic the listing and the comparison table print $40 per additional 100 tickets, and on Pro and Advanced $36 per 100, which the page's structured data gives as $0.40 and $0.36 a ticket; neither page says whether part of a block of 100 is billed in full. Past the included interactions the comparison table prices the AI Agent at $1.00 an interaction on Starter, $0.90 on Basic and Pro and $0.85 on Advanced; the FAQ in the page's structured data says $0.90 on annual plans and $1.00 on monthly ones, and the same structured data still names $1.50, the rate the plan cards showed on 8 September. Above 5,000 conversations a month it is quote only, and that custom plan lists SSO through SAML, SCIM provisioning and an API at 4 requests a second, where every listed plan gets 2. In our own test session the 7 day trial started on Starter with the AI Agent switched on: the billing screen showed the helpdesk at $10 a month and the AI Agent at $30, both to be billed through Shopify once billing was activated. All listing charges are billed in USD every 30 days, and each plan on the listing has a 7 day free trial.",
+   "price_note": "(read 2026-11-17 on gorgias.com/pricing and on the App Store listing apps.shopify.com/helpdesk, and in our own test session on 17 November 2026; first read 2026-09-08; gorgias.com/pricing re-read 2026-11-23, unchanged) Four plans with the AI Agent included, as gorgias.com/pricing shows them by default: Starter $40 a month, Basic $90, Pro $550 and Advanced $1,430, or $77, $471 and $1,227 a month billed annually ($924, $5,652 and $14,724 a year); Starter bills monthly only. The helpdesk and the AI Agent are priced separately inside each plan: $10 and $30 on Starter, $60 and $30 on Basic ($50 and $27 annually), $360 and $190 on Pro ($300 and $171) and $900 and $530 on Advanced ($750 and $477). The App Store listing prints only the helpdesk part, Starter $10 a month, Basic $60 or $600 a year, Pro $360 or $3,600 a year and Advanced $900 or $9,000 a year, and shows the AI Agent as an add on, so the listing's $60 Basic is the $90 Basic without the AI Agent. Starter includes 50 tickets and 30 automated interactions, Basic 300 tickets and 30 interactions, Pro 2,000 tickets and 190 interactions and Advanced 5,000 tickets and 530 interactions. It is never priced per agent, in their own words, but the seats are capped: the comparison table gives Starter 3 user seats and Basic, Pro and Advanced 500 each, while the listing calls Basic's agents unlimited and Pro's and Advanced's up to 500. Ticket overage is $0.40 a ticket on Starter; on Basic the listing and the comparison table print $40 per additional 100 tickets, and on Pro and Advanced $36 per 100, which the page's structured data gives as $0.40 and $0.36 a ticket; neither page says whether part of a block of 100 is billed in full. Past the included interactions the comparison table prices the AI Agent at $1.00 an interaction on Starter, $0.90 on Basic and Pro and $0.85 on Advanced; the FAQ in the page's structured data says $0.90 on annual plans and $1.00 on monthly ones, and the same structured data still names $1.50, the rate the plan cards showed on 8 September. Above 5,000 conversations a month it is quote only, and that custom plan lists SSO through SAML, SCIM provisioning and an API at 4 requests a second, where every listed plan gets 2. In our own test session the 7 day trial started on Starter with the AI Agent switched on: the billing screen showed the helpdesk at $10 a month and the AI Agent at $30, both to be billed through Shopify once billing was activated. All listing charges are billed in USD every 30 days, and each plan on the listing has a 7 day free trial.",
    "flags": [
     {
      "flag": "usage_metered",
      "evidence": "Ticket overage is $0.40 a ticket on Starter; on Basic the listing and the comparison table print $40 per additional 100 tickets, and on Pro and Advanced $36 per 100, which the page's structured data gives as $0.40 and $0.36 a ticket; neither page says whether part of a block of 100 is billed in full.",
      "evidence_excerpt": "Ticket overage is $0.40 a ticket on Starter; on Basic the listing and the comparison table print $40 per additional 100 tickets, and on Pro and Advanced $36 per 100, which the page's structured data …",
-     "source_url": null,
+     "source_url": "https://www.gorgias.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-17"
+     "verified_at": "2026-11-23"
     },
     {
      "flag": "addons_extra",
      "evidence": "The helpdesk and the AI Agent are priced separately inside each plan: $10 and $30 on Starter, $60 and $30 on Basic ($50 and $27 annually), $360 and $190 on Pro ($300 and $171) and $900 and $530 on Advanced ($750 and $477).",
      "evidence_excerpt": "The helpdesk and the AI Agent are priced separately inside each plan: $10 and $30 on Starter, $60 and $30 on Basic ($50 and $27 annually), $360 and $190 on Pro ($300 and $171) and $900 and $530 on Ad…",
-     "source_url": null,
+     "source_url": "https://www.gorgias.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-17"
+     "verified_at": "2026-11-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-17",
+   "price_verified_at": "2026-11-23",
    "first_observed_at": "2026-11-17"
   },
   {
@@ -1281,40 +1281,40 @@
    "category": "Communication & Voice",
    "domain": "salesmessage.com",
    "review_url": "https://aibuildermarketplace.com/b2b/salesmessage-review/",
-   "from_price_usd_mo": 25.0,
-   "entry_price": "$25",
-   "entry_price_terms": "Basic… · on monthly billing, as published",
+   "from_price_usd_mo": 33.0,
+   "entry_price": "$33",
+   "entry_price_terms": "Pro… · billed monthly",
    "pricing_status": "public",
-   "price_note": "(2026-08-08, re-verified 10 September, 13 October and 13 November 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, metered in message credits. Monthly billing: Basic is $25 a month for 500 credits a month; Pro is $329 a month for 10,000 credits a month; Enterprise is contact-for-pricing with custom credits. Both plans carry a credits dropdown that raises the allowance for a fixed add-on. On Basic, 1,000 credits is +$24, 2,500 is +$74, 5,000 is +$154 and 7,500 is +$224 a month. On Pro the ladder runs from 15,000 credits at +$150 up to 50,000 at +$1,170 a month, in 5,000-credit steps. Annual billing is shown as two months free. Basic is $21 a month billed yearly for 6,000 credits a year (12,000 credits +$252, 30,000 +$756, 60,000 +$1,560, 90,000 +$2,268), and Pro $277 a month billed yearly for 120,000 credits a year (180,000 +$1,512, rising to 600,000 at +$11,796). Seats and numbers are priced apart from the plan: the first seat is free and each additional seat is $10.00 a month or $100.00 a year; the first number is free and each additional number is $5.00 a month or $50.00 a year. The page defines the meter itself: SMS is 1 credit per 160 characters, MMS is 2 credits, calling is 1 credit a minute and call forwarding is 2 credits a minute. A 14-day free trial runs, and a 30-day money-back guarantee is offered, refunded less the message credits used. When we tried to sign up on 18 November 2026, the registration page required a credit card and a US mobile number before the account opened: the button read 'Start my free trial' under 'Try 14 days free, then just $61 per month'. We entered nothing and stopped there. The page no longer publishes a per-credit overage rate, nor terms for taxes, carrier fees or country availability, so we quote none.",
+   "price_note": "(read 2026-11-23 on www.salesmessage.com/pricing, both billing modes, from the page's own tier data; earlier reads 8 August, 10 September, 13 October and 13 November 2026) Repriced since our 13 November reading. The Basic plan is gone: the page's own code says Basic is merged into Pro, so there is one self-serve plan, Pro, plus Enterprise, metered in message credits. A credits dropdown sets the price of Pro. Billed monthly: 500 credits a month $33, 1,000 $61, 2,500 $122, 5,000 $233, 7,500 $339 and 10,000 $450, then in 5,000-credit steps $650, $844, $1,028, $1,194, $1,356, $1,500, $1,633 and $1,756 for 50,000 credits a month. Annual billing is two months free: each tier costs ten times its monthly price for the year, so $330 for 500 credits a month (shown as $28 a month), $4,500 for 10,000 and $17,560 for 50,000. Against 13 November every step we can compare rose: 500 credits from $25 to $33 (+32%), 5,000 from $179 to $233 (+30%), 10,000 from $329 to $450 (+37%) and 50,000 from $1,499 to $1,756 (+17%). Enterprise is contact-for-pricing with custom credits, seats and numbers. Seats and numbers are still priced apart from the plan: the first seat is free and each additional seat is $10.00 a month or $100.00 a year; the first number is free and each additional number is $5.00 a month or $50.00 a year. The page defines the meter itself: SMS is 1 credit per 160 characters, MMS is 2 credits, calling is 1 credit a minute and call forwarding is 2 credits a minute. A 14-day free trial runs, and a 30-day money-back guarantee is offered, refunded less the message credits used. When we tried to sign up on 18 November 2026, the registration page required a credit card and a US mobile number before the account opened, under the line 'Try 14 days free, then just $61 per month'; on the 23 November ladder $61 is the monthly price of the 1,000-credit tier. We entered nothing and stopped there. The page publishes no per-credit overage rate, nor terms for taxes, carrier fees or country availability, so we quote none.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(2026-08-08, re-verified 10 September, 13 October and 13 November 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, metered in message credits.",
-     "evidence_excerpt": "(2026-08-08, re-verified 10 September, 13 October and 13 November 2026 on www.salesmessage.com/pricing in both billing modes) Repackaged since our last check into two named plans plus Enterprise, met…",
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-18"
-    },
-    {
-     "flag": "addons_extra",
-     "evidence": "Both plans carry a credits dropdown that raises the allowance for a fixed add-on.",
+     "evidence": "The Basic plan is gone: the page's own code says Basic is merged into Pro, so there is one self-serve plan, Pro, plus Enterprise, metered in message credits.",
      "evidence_excerpt": null,
-     "source_url": null,
+     "source_url": "https://www.salesmessage.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-18"
+     "verified_at": "2026-11-23"
     },
     {
      "flag": "annual_lock",
-     "evidence": "Annual billing is shown as two months free.",
+     "evidence": "Annual billing is two months free: each tier costs ten times its monthly price for the year, so $330 for 500 credits a month (shown as $28 a month), $4,500 for 10,000 and $17,560 for 50,000.",
      "evidence_excerpt": null,
-     "source_url": null,
+     "source_url": "https://www.salesmessage.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-18"
+     "verified_at": "2026-11-23"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Annual billing is two months free: each tier costs ten times its monthly price for the year, so $330 for 500 credits a month (shown as $28 a month), $4,500 for 10,000 and $17,560 for 50,000.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.salesmessage.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-18",
-   "first_observed_at": "2026-08-08"
+   "price_verified_at": "2026-11-23",
+   "first_observed_at": "2026-11-23"
   },
   {
    "name": "Signal House",
