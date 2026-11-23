@@ -8816,6 +8816,10 @@
   "price_note": "Amethyst… · billed monthly, excluding VAT",
   "verified": "2026-10-20",
   "catch": "Prices on Krystal's site are shown before VAT, so a UK buyer pays 20% more than the plan cards say, and 'unlimited' storage from Emerald up stops at 2,500,000 inodes.",
+  "coupon": {
+   "code": "HIGHFIVER",
+   "label": "£5 a month for the first 12 months"
+  },
   "best": "UK small businesses, freelancers and agencies that want cPanel or managed WordPress hosting with UK-based phone and chat support."
  },
  "Bold Subscriptions": {
