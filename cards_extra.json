@@ -358,9 +358,14 @@
  "Alvys": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
    ],
    [
     "🧩",
@@ -368,8 +373,7 @@
     "addons_extra"
    ]
   ],
-  "price_state": "quote-only",
-  "verified": "2026-09-20",
+  "verified": "2026-11-23",
   "catch": "Two honest boundaries. Implementation runs to weeks, the vendor's own pricing FAQ says most operations are live in under two to four weeks, and real-time support is the top tier's: self-serve on Foundations, chat and email on Growth, phone and a dedicated success manager only on Scale.",
   "best": "FTL trucking carriers and asset-based (hybrid) brokers with roughly 5–300 trucks (especially compliance-heavy freight like hazmat."
  },
@@ -2812,11 +2816,16 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$30",
   "price_note": "Standard, per member · billed monthly",
-  "verified": "2026-09-19",
+  "verified": "2026-11-23",
   "catch": "Zapier, Make and the REST API stay on Premium and Enterprise, enrichment is capped at 500 a month on Standard, and email sequences need at least Premium.",
   "best": "Small sales teams, agencies and VC/partnership teams who want a clean, fast-to-set-up CRM with a great LinkedIn enrichment extension."
  },
@@ -5966,7 +5975,7 @@
   ],
   "price": "€28",
   "price_note": "Lite · billed monthly",
-  "verified": "2026-11-17",
+  "verified": "2026-11-23",
   "catch": "The pricing has layers: a per-label fee on top of the subscription, plus carrier surcharges that can land on invoices weeks later.",
   "best": "European e-commerce stores that want easy multi-carrier shipping (DHL, PostNL, Colissimo, GLS, DPD), branded tracking and a returns portal live in under 30 minutes."
  },
@@ -6663,7 +6672,7 @@
   ],
   "price": "$49",
   "price_note": "Discovery · per month, billed yearly",
-  "verified": "2026-11-04",
+  "verified": "2026-11-23",
   "catch": "Every tier quotes its monthly rate on annual billing, so the number you see is a year's commitment rather than a monthly one.",
   "best": "Content marketers, SEO specialists and agencies that need on-page optimization against live SERP data and want to start tracking how often they are cited in AI answers."
  },
@@ -7021,14 +7030,15 @@
  "TheTop": {
   "flags": [
    [
-    "🔒",
-    "Hidden pricing",
-    "quote_only"
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
    ]
   ],
-  "price_state": "quote-only",
-  "verified": "2026-09-19",
-  "catch": "The price is the knock, because there isn't one.",
+  "price": "$175",
+  "price_note": "Transparency +… · per month, billed monthly, for the first 12 months, then $350 a month",
+  "verified": "2026-11-23",
+  "catch": "The price is public now, but the bill is hard to predict past the launch package.",
   "best": "Enterprises running AI across several departments, models and applications that cannot answer what the bill bought: organisations with a real AI invoice to explain.",
   "pw": "plans rebuilt Nov 2026",
   "pw_soort": "restructure"
