@@ -1809,7 +1809,7 @@
   ],
   "price": "$16.95",
   "price_note": "from · per month billed yearly ($19.95 monthly)",
-  "verified": "2026-11-19",
+  "verified": "2026-11-23",
   "catch": "The pricing page prices one product and the marketing sells about a dozen.",
   "best": "Finance, tax and HR teams with a steady monthly volume of US identity and business checks, who would rather buy TIN matching, KYB."
  },
@@ -3119,7 +3119,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month billed yearly ($25 monthly)",
-  "verified": "2026-11-20",
+  "verified": "2026-11-23",
   "catch": "Glide meters updates, not just seats.",
   "best": "Teams that already run operations out of spreadsheets and want a real app on top (internal tools, field data capture, client portals) without hiring a developer."
  },
@@ -3579,7 +3579,7 @@
   ],
   "price": "$29",
   "price_note": "from · per person a month on annual billing ($49 month-to-month)",
-  "verified": "2026-11-20",
+  "verified": "2026-11-23",
   "catch": "The tier pages sell live funnels, but the meter that empties first is contacts.",
   "best": "Marketers building interactive lead-gen (quizzes, calculators."
  },
@@ -3781,7 +3781,7 @@
   ],
   "price": "$39",
   "price_note": "Creator · billed monthly",
-  "verified": "2026-11-20",
+  "verified": "2026-11-23",
   "catch": "Three honest notes. Subscriber-based pricing counts everyone on your list: cold subscribers cost the same as fans, so prune before you price.",
   "best": "Creators, writers and coaches building an audience-first business who want email, landing pages, digital products and a creator network in one."
  },
@@ -4233,6 +4233,10 @@
   "price_note": "from · per user per month billed yearly ($15.99 monthly), extra hours $0.50",
   "verified": "2026-11-18",
   "catch": "The meter is transcription hours and Pro gives you twenty a month, which is about an hour a working day.",
+  "coupon": {
+   "code": "BLACKFRIDAY2026",
+   "label": "30% off MeetGeek Pro and Business for the first 12 months with…"
+  },
   "best": "People who run many external meetings and need a searchable record: the summaries earn their keep when you cannot remember which of four calls a detail came from."
  },
  "Melio": {
@@ -6630,7 +6634,7 @@
   ],
   "price": "$17",
   "price_note": "from · per month billed yearly ($204)",
-  "verified": "2026-11-19",
+  "verified": "2026-11-23",
   "catch": "There is no free plan after the 14-day trial and no cheaper tier: Pro at $22 a month billed monthly, or $17 billed yearly, per person, is the only self-serve option.",
   "best": "People whose problem is deciding what to do today rather than tracking what exists: it pulls from your existing tools and forces a daily plan, which is the whole product."
  },
