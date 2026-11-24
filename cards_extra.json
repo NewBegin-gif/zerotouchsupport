@@ -3975,7 +3975,7 @@
   ],
   "price": "$79",
   "price_note": "Discover · per month billed annually",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "The price is set by how many companies Leadfeeder identifies a month: €79 covers up to 50 on Discover billed annually, and 501-1,000 companies cost €309 (€441 month to month).",
   "best": "B2B teams with real website traffic and a sales team that will actually work the list: the free tier is enough to find out whether your traffic contains anyone worth calling.",
   "pw": "price up Aug 2026",
@@ -5024,7 +5024,7 @@
   ],
   "price": "€14",
   "price_note": "Lite, per seat · per seat a month billed annually, one payment of EUR 168 per seat…",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "Pipedrive manages what happens after a lead enters your pipeline: it doesn't do outbound prospecting or marketing, so you'll pair it with a separate tool for that.",
   "best": "Sales teams that want a simple, visual pipeline they can use on day one, with a separate marketing tool already in place."
  },
@@ -5238,7 +5238,7 @@
   ],
   "price": "$3.99",
   "price_note": "Mail Plus · per month, billed yearly at the standard rate",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "Storage is the axis, and the jump from Drive Plus to Unlimited is not really about storage at all: you go from 200 GB to 500 GB, but you also start paying for Mail, Calendar, Pass and VPN whether or not you wanted them.",
   "best": "Teams and individuals for whom encryption is an actual requirement rather than a preference: handling client material, legal or medical files."
  },
@@ -5618,7 +5618,7 @@
   ],
   "price": "$49",
   "price_note": "Email Volume… · per user per month billed annually, by active contacts",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "The $89 is the Multichannel track on annual billing, and it does include LinkedIn, calls, SMS and WhatsApp: $99 month to month.",
   "best": "Sales teams running structured multichannel outbound (email + LinkedIn + calls) who want sequences, warmup and a B2B database in one platform."
  },
@@ -5814,7 +5814,7 @@
  "SaneBox": {
   "price": "$5.42",
   "price_note": "Snack… · per month billed annually ($65 a year)",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "You pay monthly to filter mail that modern clients increasingly sort for free, and the headline rate is billed yearly: month to month the Snack plan is $9.49, not $5.42.",
   "best": "Heavy-email professionals drowning in a cluttered inbox who want AI triage that works across any mail client."
  },
