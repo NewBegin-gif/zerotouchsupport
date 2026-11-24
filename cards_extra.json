@@ -921,7 +921,7 @@
   "best": "Sales and RevOps teams that already run enrichment across several vendors and want the waterfall, the signals and the CRM sync in one place."
  },
  "Bitvavo": {
-  "verified": "2026-11-22",
+  "verified": "2026-11-24",
   "catch": "The honest caveats are crypto-wide, not Bitvavo-specific: fees are only part of the cost (spread matters on small orders), and no exchange removes market risk: the platform being cheap and MiCA-regulated doesn't make the assets safe.",
   "best": "EU-based traders and builders who want a MiCA-regulated, euro-native exchange with low tiered fees, deep EUR pairs and a solid API for automation."
  },
@@ -5963,7 +5963,7 @@
   ],
   "price": "$29",
   "price_note": "Starter, up to $10k… · billed monthly",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "The honest mechanic is the revenue ladder: plans cap by your ANNUAL SALES, so success moves you up.",
   "best": "Creators selling digital products, subscriptions and print-on-demand who want a simple store with zero platform commission.",
   "pw": "price down Sep 2026",
@@ -6596,7 +6596,7 @@
   ],
   "price": "$49",
   "price_note": "Pro, per user · per user per month billed annually ($59 billed monthly)",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "The pitch, CRM living inside Gmail, is also the ceiling: everything happens in the inbox, which power users love and growing teams outgrow (reporting, permissions, cross-team process).",
   "best": "Solo founders and small Gmail-native teams whose pipeline lives in email threads and who want zero context-switching."
  },
@@ -7732,7 +7732,7 @@
   ],
   "price": "€69",
   "price_note": "from · per month",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "The friendly €59 headline is the annual rate for 75 viewers, and the real cost lives in add-ons: localisation, the AI assistant, CRM integrations, RTMP and branding profiles are each €20-59 a month on top, and only a Premium subscription can buy them.",
   "best": "Marketing and sales teams running live and automated webinars in Europe who want a polished, GDPR-friendly platform with viewer-tier pricing."
  },
@@ -7795,7 +7795,7 @@
  "Wing Assistant": {
   "price": "$699",
   "price_note": "General Virtual… · per month as published",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "You're renting a person, not automating a task: a good VA is real leverage, but only if you already have documented, delegatable work.",
   "best": "Founders drowning in delegatable admin who have processes to hand off and want a managed VA without recruiting one themselves."
  },
