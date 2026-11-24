@@ -14,7 +14,7 @@
   ],
   "price": "$3.99",
   "price_note": "Individual · per month, regular rate billed annually",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "It's the polished, category-leading pick, and it's priced like it: free and cheaper managers exist, so you're paying for the UX, integrations and business controls, not raw functionality.",
   "best": "Teams that want the most polished, secure password manager with solid admin controls and integrations."
  },
@@ -197,7 +197,7 @@
   ],
   "price": "$30",
   "price_note": "Essentials, per licence · per licence per month on annual billing, minimum 3 licences",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "Two structural catches: the 3-seat minimum makes the real starting price triple the sticker, and the annual-vs-monthly gap is steep (Professional: $50 vs $70).",
   "best": "Sales and support teams (3+ seats) that want a polished cloud phone system embedded in their CRM/helpdesk, with call routing, analytics and 250+ integrations."
  },
@@ -774,7 +774,7 @@
   ],
   "price": "$14.50",
   "price_note": "Pro · per month billed annually",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "The smart-template engine is the feature and the fence: decks look polished with zero design skill precisely because the system constrains you, so pixel-perfect custom layouts and heavy brand exceptions fight the tool.",
   "best": "Founders, sales and small teams that want consistently good-looking decks fast, where design consistency matters more than pixel-level control.",
   "pw": "price up Sep 2026",
@@ -804,7 +804,7 @@
   ],
   "price": "$59",
   "price_note": "Lite… · billed monthly",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "Next to Substack it's more to learn.",
   "best": "Newsletter operators who want growth tools, automation, SEO control and ad/referral monetisation, and to keep 100% of subscription revenue."
  },
@@ -940,11 +940,6 @@
  "Blinq": {
   "flags": [
    [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -953,12 +948,17 @@
     "📅",
     "Annual commit",
     "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
    ]
   ],
   "price": "$9.99",
   "price_note": "Premium, for individuals · billed monthly",
-  "verified": "2026-11-21",
-  "catch": "The core product is honestly cheap: the cost that grows sits in events, at $750 per Campaign on pay as you go on top of the Business seats (read 21 November 2026; the leads themselves are no longer charged per lead), which is where teams that live on trade shows actually get value.",
+  "verified": "2026-11-24",
+  "catch": "The core product is honestly cheap: the cost that grows sits in events, at $500 per Campaign on pay as you go, or $2,999 a year for five events, on top of the Business seats (read 24 November 2026; the leads themselves are not charged per lead), which is where teams that live on trade shows actually get value.",
   "best": "Teams and field-sales orgs that want consistent, branded digital cards with contacts syncing straight into the CRM, and events teams via the capture add-on."
  },
  "Blocky": {
@@ -10485,7 +10485,7 @@
   "price": "$1,200",
   "price_note": "Pay-Per-Seat… · Pay-Per-Seat from $1,200 a month, given by SupportYourApp in a partner…",
   "verified": "2026-10-23",
-  "catch": "No public prices; quote-based, 3-month minimum.",
+  "catch": "No public prices; quote-based, no lock-in term (vendor, 24 Nov 2026).",
   "best": "Startups and scale-ups in SaaS, fintech and eCommerce that want an outsourced, human-led support team, with or without AI."
  },
  "Future Skills Academy": {
