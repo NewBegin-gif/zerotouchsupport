@@ -648,15 +648,15 @@
    "entry_price": "$19",
    "entry_price_terms": "per agent a month, billed annually ($29 billed monthly)",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-11-21 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent and Enterprise 'Custom' unchanged) (price re-verified 2026-09-29 against the vendor's own pricing page) Per agent, read 29 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $49 or $59; Pro $99 or $119. Enterprise is quote-only again: the card now reads 'Custom' with a 'Contact us' button. The page's own plan data still carries $139 annual and $167 monthly for it, but with a hidePrices flag set and 'Custom' as the display text, so those two numbers are not an offer (on 1 Sep 2026 they were printed). Monthly billing costs 53% more on Starter and about 20% more on Growth and Pro. The same plan data carries a euro set -- Starter EUR 15 annual / EUR 25 monthly, Growth 40/50, Pro 84/102 -- in which the Starter monthly surcharge is 67%, not 53%. Add-ons and allowances: Freddy AI Copilot $29/agent/mo, offered on the Pro and Enterprise cards only and still an add-on on Enterprise even though that card now says 'Freddy AI included' (what is included there is the Freddy AI Agent (Classic) at 1,200 sessions per Enterprise licence per year, plus Freddy AI Insights); orchestration transactions included at 1,000/2,000/5,000/20,000 per account per month with extra packs at $250 per 1,000; MCP actions allowanced at 1,200, 6,000 or 12,000 a year with packs at $15 per 1,000; an e-signature pack at $90 for 30 signature credits; project management licences at $15/user/mo; a Business Agent licence for non-IT teams at $49/agent/mo on Pro and Enterprise only; connector app tasks at $80 per 5,000 after a one-time 500 free. Growth, Pro and Enterprise include the ITAM Growth package and 100 asset units (Starter does not); further units are sold in packs of 500. Three free Day Passes for occasional agents at signup, more from $3. 14-day free trial with all features. FAQ: upgrades apply instantly, downgrades and cancellations only at the end of the term.",
+   "price_note": "(price re-verified 2026-11-24 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent, Enterprise 'Custom', Freddy AI Copilot $29 and Day Passes from $3 unchanged) (price re-verified 2026-11-21 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent and Enterprise 'Custom' unchanged) (price re-verified 2026-09-29 against the vendor's own pricing page) Per agent, read 29 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $49 or $59; Pro $99 or $119. Enterprise is quote-only again: the card now reads 'Custom' with a 'Contact us' button. The page's own plan data still carries $139 annual and $167 monthly for it, but with a hidePrices flag set and 'Custom' as the display text, so those two numbers are not an offer (on 1 Sep 2026 they were printed). Monthly billing costs 53% more on Starter and about 20% more on Growth and Pro. The same plan data carries a euro set -- Starter EUR 15 annual / EUR 25 monthly, Growth 40/50, Pro 84/102 -- in which the Starter monthly surcharge is 67%, not 53%. Add-ons and allowances: Freddy AI Copilot $29/agent/mo, offered on the Pro and Enterprise cards only and still an add-on on Enterprise even though that card now says 'Freddy AI included' (what is included there is the Freddy AI Agent (Classic) at 1,200 sessions per Enterprise licence per year, plus Freddy AI Insights); orchestration transactions included at 1,000/2,000/5,000/20,000 per account per month with extra packs at $250 per 1,000; MCP actions allowanced at 1,200, 6,000 or 12,000 a year with packs at $15 per 1,000; an e-signature pack at $90 for 30 signature credits; project management licences at $15/user/mo; a Business Agent licence for non-IT teams at $49/agent/mo on Pro and Enterprise only; connector app tasks at $80 per 5,000 after a one-time 500 free. Growth, Pro and Enterprise include the ITAM Growth package and 100 asset units (Starter does not); further units are sold in packs of 500. Three free Day Passes for occasional agents at signup, more from $3. 14-day free trial with all features. FAQ: upgrades apply instantly, downgrades and cancellations only at the end of the term.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(price re-verified 2026-11-21 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent and Enterprise 'Custom' unchanged) (price re-verified 2026-09-29 against the vendor's own pricing page) Per agent, read 29 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $49 or $59; Pro $99 or $119.",
-     "evidence_excerpt": "(price re-verified 2026-11-21 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent and Enterprise 'Custom' unchanged) (price re-verified 2026-09-29 ag…",
+     "evidence": "(price re-verified 2026-11-24 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent, Enterprise 'Custom', Freddy AI Copilot $29 and Day Passes from $3 unchanged) (price re-verified 2026-11-21 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent and Enterprise 'Custom' unchanged) (price re-verified 2026-09-29 against the vendor's own pricing page) Per agent, read 29 Sep 2026 on freshworks.com/freshservice/pricing/: Starter $19/agent/mo billed annually or $29 monthly; Growth $49 or $59; Pro $99 or $119.",
+     "evidence_excerpt": "(price re-verified 2026-11-24 against freshworks.com/freshservice/pricing/: Starter $19/$29, Growth $49/$59, Pro $99/$119 per agent, Enterprise 'Custom', Freddy AI Copilot $29 and Day Passes from $3 …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "usage_metered",
@@ -664,7 +664,7 @@
      "evidence_excerpt": "Add-ons and allowances: Freddy AI Copilot $29/agent/mo, offered on the Pro and Enterprise cards only and still an add-on on Enterprise even though that card now says 'Freddy AI included' (what is inc…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "addons_extra",
@@ -672,12 +672,12 @@
      "evidence_excerpt": "The $19 headline rarely survives contact with a real deployment: the ITSM features most IT teams buy for (change/problem management, deeper analytics) live at Pro, and so does Freddy AI Copilot, a $2…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-21",
-   "first_observed_at": "2026-11-21"
+   "price_verified_at": "2026-11-24",
+   "first_observed_at": "2026-11-24"
   },
   {
    "name": "Freshworks",
@@ -1445,7 +1445,7 @@
    "entry_price": "$1,200",
    "entry_price_terms": "Pay-Per-Seat… · Pay-Per-Seat from $1,200 a month, given by SupportYourApp in a partner…",
    "pricing_status": "public",
-   "price_note": "(vendor answer, 23 October 2026; pricing page re-read 6 November 2026 shows no amounts) SupportYourApp does not publish prices: its pricing page says to get custom pricing. In a message to us on 23 October 2026 the company said its Pay-Per-Seat model starts from $1,200 a month and that this model is being reviewed, so treat the figure as a starting point, not a quote. It did not say whether the figure is per seat or for a team. Round-the-clock coverage needs at least 5 seats. Language mix and ticket volume change the price. Contracts run 3 months first and can then be cancelled, or 12 months; you can scale up or down within 30 days. New clients pay a one-time setup fee that is quoted per project. The pricing page also names a Pay-As-You-Go billing model. AI text agents are priced per resolution and AI voice agents per minute and per resolution. SupportCRM, the vendor's inbox, is free alongside another service, or $45 per seat with 1,000 AI responses on its own.",
+   "price_note": "(vendor answer, 23 October 2026; pricing page re-read 6 November 2026 shows no amounts) SupportYourApp does not publish prices: its pricing page says to get custom pricing. In a message to us on 23 October 2026 the company said its Pay-Per-Seat model starts from $1,200 a month and that this model is being reviewed, so treat the figure as a starting point, not a quote. It did not say whether the figure is per seat or for a team. Round-the-clock coverage needs at least 5 seats. Language mix and ticket volume change the price. In a message to us on 24 November 2026 the company said there are now no lock-in contracts and no long-term obligations, so new clients are no longer tied to a 3-, 6- or 12-month term, and that it now points clients to pay-per-resolution billing rather than the older Pay-As-You-Go model; it gave no amount for pay-per-resolution. You can scale up or down within 30 days (vendor answer, 23 October 2026). New clients pay a one-time setup fee, quoted per project; the vendor says existing clients who add a new solution later do not pay it again (24 November 2026). The pricing page also names a Pay-As-You-Go billing model. AI text agents are priced per resolution and AI voice agents per minute and per resolution. SupportCRM, the vendor's inbox, is free alongside another service, or $45 per seat with 1,000 AI responses on its own.",
    "flags": [
     {
      "flag": "per_seat",

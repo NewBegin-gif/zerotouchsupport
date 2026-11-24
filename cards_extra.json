@@ -1500,7 +1500,7 @@
   ],
   "price": "$89",
   "price_note": "Professional · per month billed annually ($129 billed monthly)",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "The sticker is only the entry: Circle keeps a commission on every sale on top of Stripe's processing fees, and email marketing is a separate add-on, so a monetized community's real bill runs meaningfully past the plan price.",
   "best": "Creators and brands running a paid community: courses, memberships, events and discussions in one branded home."
  },
@@ -1596,7 +1596,7 @@
   ],
   "price": "$9",
   "price_note": "Core, per user · per month, billed yearly",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "The everything-app breadth is also the downside: it's feature-dense with a real learning curve, and teams can drown in options.",
   "best": "Teams that want one highly customizable app for tasks, docs, goals and reporting and will invest in setting it up.",
   "pw": "plans rebuilt Nov 2026",
@@ -2949,7 +2949,7 @@
   ],
   "price": "$19",
   "price_note": "from · per agent a month, billed annually ($29 billed monthly)",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "The ITSM features most IT teams buy for (change/problem management, deeper analytics) live at Pro, and so does Freddy AI Copilot, a $29-an-agent add-on.",
   "best": "IT teams that want proper ITSM (incidents, assets, changes, service catalog) running in weeks, without enterprise-suite implementation pain."
  },
@@ -3432,7 +3432,7 @@
   ],
   "price": "€9",
   "price_note": "Starter… · per month billed yearly for 3 profiles, 1 user and 30 posts a month",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "Its depth is strongest on Instagram and the core networks; if your priority platform sits outside its best-supported set, coverage thins.",
   "best": "Agencies and brands that want deep social analytics, reporting and competitor benchmarking alongside scheduling, especially Instagram-first teams."
  },
@@ -3705,7 +3705,7 @@
   ],
   "price": "$320",
   "price_note": "the whole platform · billed monthly for 2 users and 1,500 contacts",
-  "verified": "2026-11-21",
+  "verified": "2026-11-24",
   "catch": "Cost is the big one (56% of reviewers flag it), the interface feels dated, and there's a real 2–4 week learning curve on the automation builder.",
   "best": "Service-based small businesses, coaches and solopreneurs who want CRM, email, payments and automation in one tool, and will invest the time to learn it."
  },
