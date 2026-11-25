@@ -9103,9 +9103,16 @@
   "best": "E-commerce brands and performance marketers who want AI-generated image and video ads launched and measured across Meta, Google, TikTok and other channels from one place."
  },
  "Wondershare PDFelement": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
   "price": "$63.99",
   "price_note": "Yearly Plan… · per year, Black Friday sale price, struck-through price US$129",
-  "verified": "2026-11-18",
+  "verified": "2026-11-25",
   "catch": "Black Friday sale prices; 50 AI uses and 3 eSign requests per paid plan.",
   "best": "Individuals and small offices on Windows or Mac who want a full PDF editor with OCR, forms and conversion, and prefer a one-time licence over an Acrobat subscription."
  },
@@ -9245,7 +9252,7 @@
   ],
   "price": "$29.99",
   "price_note": "StartUp Upsell · per month, or $299 a year",
-  "verified": "2026-10-11",
+  "verified": "2026-11-25",
   "catch": "Priced by recommendation clicks: 50 a month free, 2,500 on the $29.99 plan, and all 8 placements only from $49.99.",
   "best": "Shopify stores that want related-product, upsell and frequently-bought-together recommendations on product pages and cart, with hand-picked control."
  },
@@ -9359,7 +9366,7 @@
   ],
   "price": "€15",
   "price_note": "Solo · per month billed monthly, VAT included",
-  "verified": "2026-10-12",
+  "verified": "2026-11-25",
   "catch": "No trial and no refunds: billing starts when you subscribe, and the EU withdrawal right lapses once you use the service.",
   "best": "Creators, small businesses and small agencies in Europe that post the same content to Instagram, TikTok, YouTube."
  },
@@ -9427,7 +9434,7 @@
   ],
   "price": "$79",
   "price_note": "Pro · per month, billed monthly in advance through Lemon Squeezy as merchant…",
-  "verified": "2026-11-18",
+  "verified": "2026-11-25",
   "catch": "The GEO score is CiteRoute's own model and its terms rule out any citation guarantee; real AI-crawler data starts at $79 a month for one site.",
   "best": "Founders and marketers who want to see whether AI crawlers visit their site and how ready their pages look for AI answers."
  },
@@ -9502,7 +9509,7 @@
   ],
   "price": "$69",
   "price_note": "Starter · per month for up to 500 contacts, 1,000 emails and 100 SMS a month",
-  "verified": "2026-10-14",
+  "verified": "2026-11-25",
   "catch": "Its rating gate routes happy customers to Google, which Google's policy on selectively soliciting reviews forbids; overage rates are unpublished.",
   "best": "Small local businesses that want automated email and SMS review requests with alerts on negative feedback, and that will offer every customer the public review link."
  },
