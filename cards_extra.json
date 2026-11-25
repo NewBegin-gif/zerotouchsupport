@@ -9490,7 +9490,7 @@
   ],
   "price": "$9",
   "price_note": "Pro · per account per month, or $90 a year",
-  "verified": "2026-10-25",
+  "verified": "2026-11-25",
   "catch": "Paid fees are non-refundable, and the terms do not say which company runs it; Slack, PagerDuty and status pages need Pro.",
   "best": "Developers and small teams who want HTTP, API, SSL and keyword uptime checks plus a basic SEO audit in one cheap tool, with a free plan that covers 50 monitors."
  },
@@ -9564,7 +9564,7 @@
   ],
   "price": "$19.99",
   "price_note": "Starter · per month billed annually for 320 transcription minutes a month",
-  "verified": "2026-10-25",
+  "verified": "2026-11-25",
   "catch": "Starter's $2.80-an-hour claim works out to about $3.75; monthly billing doubles the price and fees are non-refundable.",
   "best": "Podcasters, YouTubers, researchers and small teams who transcribe a predictable number of hours a month, want unlimited users without seat fees."
  },
@@ -9583,7 +9583,7 @@
   ],
   "price": "$49",
   "price_note": "Starter · per account per month, billed monthly in advance",
-  "verified": "2026-10-16",
+  "verified": "2026-11-25",
   "catch": "You pay from signup but cannot text until carriers approve your A2P registration, and the money-back guarantee needs 80% of your messages used.",
   "coupon": {
    "code": "DAAN10",
@@ -9644,7 +9644,7 @@
   ],
   "price": "$49",
   "price_note": "Basic · labelled per month, up to 20 invited applicants a month, one AI…",
-  "verified": "2026-10-16",
+  "verified": "2026-11-25",
   "catch": "Free for 10 applicants; Basic covers 20 a month; no refunds on early cancellation.",
   "best": "Small and mid-size teams and recruitment agencies that get more applicants than they can screen and want an AI to run the first-round interview and score each candidate."
  },
@@ -9658,7 +9658,7 @@
   ],
   "price": "$10",
   "price_note": "Creator · billed monthly",
-  "verified": "2026-11-18",
+  "verified": "2026-11-25",
   "catch": "Free exports carry a watermark; Creator caps batches at 3 a month; refunds only within 7 days.",
   "best": "Solo creators, consultants and small marketing teams who post LinkedIn and Instagram carousels every week and want to turn articles and ideas into branded slides without designing them by hand."
  },
