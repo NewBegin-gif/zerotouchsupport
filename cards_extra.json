@@ -2604,9 +2604,9 @@
     "free_tier"
    ]
   ],
-  "price": "$10",
-  "price_note": "from · a month, or $7 billed yearly, for 1,000 credits",
-  "verified": "2026-10-10",
+  "price": "$7",
+  "price_note": "from · per month on Monthly (read 25 November 2026)",
+  "verified": "2026-11-25",
   "catch": "The plan cards and the calculator on the same page do not agree, and the gap is large enough to pick the wrong tier.",
   "best": "Online stores that need a steady stream of product photos and short video ads and would otherwise pay a studio or a freelancer per shoot."
  },
@@ -3503,9 +3503,9 @@
    ]
   ],
   "price": "$8",
-  "price_note": "from · per seat a month, billed annually",
-  "verified": "2026-09-26",
-  "catch": "This is employee-monitoring software, so weigh the culture cost, not just the price.",
+  "price_note": "from · per seat per month billed annually (read 25 November 2026)",
+  "verified": "2026-11-25",
+  "catch": "This is employee-monitoring software, so weigh the culture cost, not just the price: the published Analytics and Insights prices are per seat (read 25 November 2026), security features like insider-threat detection are a paid add-on, and monitoring tools can damage trust if rolled out without transparency.",
   "best": "COOs, CFOs and operations leaders who want a work intelligence platform rather than a time clock: workforce analytics plus AI process capture (where the hours go."
  },
  "Instapage": {
@@ -8036,7 +8036,7 @@
    ]
   ],
   "price": "$51",
-  "price_note": "from · per month in total for up to 20 users billed yearly ($63 monthly)",
+  "price_note": "from · per month for up to 20 users billed yearly ($63 monthly)",
   "verified": "2026-10-15",
   "catch": "The pricing undercuts Slack: the honest question is integrations: team chat lives or dies on integrations and habit, and ZenZap's app catalog is a fraction of Slack's, so teams glued to hundreds of integrations will feel the gap.",
   "best": "Small teams that run work over messy WhatsApp/personal chat today and want organized, professional chat with tasks: starting free.",
@@ -8263,11 +8263,6 @@
     "🧮",
     "Usage-metered",
     "usage_metered"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ]
   ],
   "price": "$100",
@@ -10702,8 +10697,10 @@
   "best": "People who join video calls from a Mac or Windows 11 PC and want an AI de-aging filter that runs on the computer itself."
  },
  "IndieMade": {
-  "verified": "2026-11-09",
-  "catch": "Own store with Etsy sync, price shown at signup.",
+  "price": "$15",
+  "price_note": "from · a month and Plus is $25 a month",
+  "verified": "2026-11-25",
+  "catch": "Own store with Etsy sync, from $15 a month.",
   "best": "Makers and small sellers who want their own store, with two-way Etsy sync, and no platform transaction fees."
  },
  "Movavi": {
