@@ -1499,7 +1499,7 @@
    ]
   ],
   "price": "$89",
-  "price_note": "Professional · per month billed annually ($129 billed monthly)",
+  "price_note": "Professional · per month billed annually",
   "verified": "2026-11-24",
   "catch": "The sticker is only the entry: Circle keeps a commission on every sale on top of Stripe's processing fees, and email marketing is a separate add-on, so a monetized community's real bill runs meaningfully past the plan price.",
   "best": "Creators and brands running a paid community: courses, memberships, events and discussions in one branded home."
@@ -1572,7 +1572,7 @@
   ],
   "price": "$167",
   "price_note": "Launch: smallest action… · per year, billed annually ($54 actions + $113 data credits a month)",
-  "verified": "2026-11-22",
+  "verified": "2026-11-25",
   "catch": "Two honest catches: a steep learning curve (expect 2–4 weeks, many teams need a dedicated Clay expert), and credits that are hard to forecast at scale.",
   "best": "Modern GTM and ops teams who want waterfall enrichment and custom research workflows, and have someone to own it."
  },
@@ -2381,7 +2381,7 @@
   ],
   "price": "$45",
   "price_note": "Essential, per agent · per agent per month billed annually ($55 billed monthly)",
-  "verified": "2026-11-22",
+  "verified": "2026-11-25",
   "catch": "The per-agent price is the entry ticket, but the AI Agent charges $0.99 for every automated resolution on top, a variable line that scales with your ticket volume.",
   "best": "E-commerce and marketplace sellers who want one unified inbox across Amazon, eBay.",
   "pw": "price up Nov 2026",
@@ -2853,7 +2853,7 @@
    ]
   ],
   "price": "$129.99",
-  "price_note": "from · per user per year or $10.99 per user a month",
+  "price_note": "from · per user per year or $10.99 per user per month",
   "verified": "2026-09-22",
   "catch": "Buy the $129.99 Editor and then need signatures, and Editor plus standalone eSign Essentials is $249.99 a year against $159.99 for the Editor+ that bundles it.",
   "coupon": {
@@ -3237,7 +3237,7 @@
   ],
   "price": "$49.99",
   "price_note": "Essentials · billed monthly; $45 is the yearly rate",
-  "verified": "2026-11-22",
+  "verified": "2026-11-25",
   "catch": "Two honest limits: it's pricier than alternatives with thin mid-tier options, and several users report slow customer service (sometimes a week or more to reply).",
   "coupon": {
    "code": "READYTOGROW",
@@ -3255,7 +3255,7 @@
   ],
   "price": "$139",
   "price_note": "from · a month, billed annually ($159 billed monthly)",
-  "verified": "2026-11-22",
+  "verified": "2026-11-25",
   "catch": "Mind the fine print between tiers: the entry plan does not include your annual tax filing (a $750 add-on on Lite), month-to-month billing costs $20 to $50 a month more than the annual rate, and messy back-months cost extra as catch-up fees.",
   "best": "Therapists and health-and-wellness practice owners (SLPs, dieticians, chiropractors, audiologists, coaches, massage and physical therapists) who want books."
  },
@@ -4001,7 +4001,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month ($23 billed annually), 25 pages, 1 site",
-  "verified": "2026-11-15",
+  "verified": "2026-11-24",
   "catch": "It's the value pick, not the optimisation pick, if you're spending big on ads, Unbounce's Smart Traffic and Instapage's 1:1 personalisation go deeper.",
   "coupon": {
    "code": "DAAN10",
@@ -4779,6 +4779,10 @@
   "price_note": "from · per month or $14/mo billed annually",
   "verified": "2026-09-30",
   "catch": "Two meters at once: content types and pieces gate the lower tiers, and monthly LEAD limits gate the upside.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: a 30-day trial instead of the standard one"
+  },
   "best": "Marketers who want quizzes, calculators and assessments that earn the lead by giving genuine value: with logic, integrations and templates handled."
  },
  "Ownr": {
@@ -4902,7 +4906,7 @@
  },
  "Parim": {
   "price": "£47",
-  "price_note": "from · a month (published floor)",
+  "price_note": "from · per month monthly starting price.",
   "verified": "2026-10-05",
   "catch": "Unlimited users sounds like the generous part, and it is, until you notice what replaces per-seat pricing: a bill that scales with shifts scheduled.",
   "best": "Staffing agencies, security firms and event operators with large rosters of shift workers.",
@@ -5142,9 +5146,9 @@
     "free_tier"
    ]
   ],
-  "price": "€5",
-  "price_note": "from · a month, billed annually",
-  "verified": "2026-09-28",
+  "price": "€6.50",
+  "price_note": "from · a month, billed annually (read 25 November 2026)",
+  "verified": "2026-11-25",
   "catch": "The pricing table puts PDF export and portable presentations at Plus, not Standard, and our free account's AI editor locked PDF, PowerPoint and SCORM downloads to Plus.",
   "best": "Presenters who want motion and zooming-canvas storytelling that stands out from slide decks: especially for talks, pitches and teaching."
  },
@@ -5576,7 +5580,7 @@
   ],
   "price": "$499",
   "price_note": "from · per employee per month (EOR Select from $199 in selected countries and salary ranges)",
-  "verified": "2026-11-22",
+  "verified": "2026-11-25",
   "catch": "Every rate is a 'from' price with no country-level figure, and recruitment fees charged as a share of salary can dwarf the subscription.",
   "best": "Small and mid-size teams hiring a handful of people abroad, above all in the countries and salary ranges that EOR Select covers. Read on 12 November 2026.",
   "pw": "plans rebuilt Nov 2026",
@@ -5742,7 +5746,7 @@
   "price": "$0.27",
   "price_note": "RTX A5000 pod, Secure… · per hour, billed per second",
   "verified": "2026-09-24",
-  "catch": "Serverless runs roughly 1.7x the pod rate per compute-hour ($4.79 against $2.89 for an H100), and an idle pod you forgot keeps billing.",
+  "catch": "H100 serverless at $5.89/hr costs about 2.04 times the $2.89/hr Secure Cloud H100 PCIe pod rate. A running pod bills even when it has no work.",
   "best": "Developers and ML teams that want cheap, per-second GPU compute for inference and experiments without committing to hyperscaler contracts.",
   "pw": "price up Nov 2026",
   "pw_soort": "increase"
@@ -6546,6 +6550,11 @@
  "Storista": {
   "flags": [
    [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -6742,7 +6751,7 @@
   ],
   "price": "$56",
   "price_note": "Growth (100 responses) · per month, billed annually",
-  "verified": "2026-11-22",
+  "verified": "2026-11-25",
   "catch": "The plan is metered by response volume, not by surveys: a viral NPS month can push you a tier up, and the free plan's 30-day retention quietly deletes your history.",
   "best": "Product and CX teams running always-on feedback (NPS, CSAT and in-app surveys) piped into the CRM and analytics stack they already use."
  },
@@ -6770,19 +6779,19 @@
     "usage_metered"
    ],
    [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
-   ],
-   [
-    "🆓",
-    "Free tier",
-    "free_tier"
    ]
   ],
   "price": "$19",
   "price_note": "Starter · billed monthly",
-  "verified": "2026-11-22",
+  "verified": "2026-11-25",
   "catch": "The minute caps are tight: Starter's 1,250 credits a month is roughly 10 to 12 minutes of finished video, and the meter counts seconds.",
   "best": "Teams making talking-head training, explainer and onboarding videos without cameras, actors or editing.",
   "pw": "price down Nov 2026",
@@ -7342,6 +7351,13 @@
   "best": "Budget-conscious owners, developers and small businesses that want cheap, fast NVMe hosting (shared or VPS) with free migration and DDoS protection."
  },
  "Unbounce": {
+  "flags": [
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
   "price": "$29",
   "price_note": "from · a month, or $22 billed yearly at 25% off",
   "verified": "2026-10-03",
@@ -8883,8 +8899,8 @@
     "addons_extra"
    ]
   ],
-  "price": "$2.88",
-  "price_note": "Express Linux VPS · per month, 2 CPU cores, 4GB RAM, 60GB SSD, marked save 51%",
+  "price": "$2.99",
+  "price_note": "Express Linux VPS · per month, 2 CPU cores, 4GB RAM, 60GB SSD",
   "verified": "2026-10-06",
   "catch": "Older Xeon E3/E5 processors sit under most GPU servers, many with a 100Mbps port, and every server is in Dallas, Texas.",
   "best": "Developers, trading desks and small AI teams that want a cheap US-hosted VPS, a Windows VPS with the licence included, or a GPU server that runs all month at a flat price."
@@ -9043,7 +9059,7 @@
   "price": "€4.40",
   "price_note": "Cloud VPS 4 · per month on a 24-month term, excluding VAT, 4 vCPU, 8 GB RAM, 100 GB…",
   "verified": "2026-10-24",
-  "catch": "The headline price needs a prepaid 24-month term; backups and panels cost extra.",
+  "catch": "The headline price requires a 24-month term. Backups and panels cost extra.",
   "best": "Developers and small teams who are comfortable running their own Linux server and want the most RAM and CPU for the money, and can commit to a longer term."
  },
  "NordPass": {
