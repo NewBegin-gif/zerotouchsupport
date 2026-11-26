@@ -1755,7 +1755,7 @@
    "entry_price": "€59",
    "entry_price_terms": "per month billed annually (€69 monthly), 3 users included",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-12, read on their own pricing page — which again served us euros, not dollars) Growth €59/mo, Pro €119/mo and Business €279/mo billed annually, or €69, €149 and €349 billed monthly, with a 7-day free trial and no setup fee. Users are capped per tier: Growth includes 3 and lets you add none at all; Pro and Business include 5, with extra seats at €39 and €89 per user per month. Add-ons are separate again — 1,000 automation triggers €35/mo, 1,000 AI co-pilot credits €25/mo, Shopify $4.99/mo, each extra WhatsApp number €29/mo — and the Astra AI agents, which the page describes as deployable to web, WhatsApp and voice, are an add-on priced separately. Our dollar reading of the same page on 23 July 2026 gave Growth $39, Pro $79 and Business $199 annually, so which currency and which figure you see depends on where Wati places you — check your own checkout.",
+   "price_note": "(re-verified 2026-11-26 on wati.io/pricing, which served us euros, and on Wati's llms.txt) Growth €59/mo, Pro €119/mo and Business €279/mo billed annually, or €69, €149 and €349 billed monthly, with a 7-day free trial and no setup fee. Users are capped per tier: Growth includes 3 and lets you add none at all; Pro and Business include 5, with extra seats at €39 and €89 per user per month. Each tier now includes Astra AI agents (1 on Growth, 2 on Pro, unlimited on Business), a monthly Wati AI credit allowance (2,000, 5,000 and 20,000) and free automation triggers (1,000, 2,000 and 5,000 a month). Add-ons on top: 1,000 automation triggers €35/mo, 2,000 Wati AI credits €25/mo, Shopify USD 4.99/mo and each extra WhatsApp number €29/mo. Template messages are billed per message on top of the plan. Wati's llms.txt lists the same digits in US dollars as its default list ($59, $119 and $279 annually; $69, $149 and $349 monthly) and a UK list of £49, £99 and £229 annually. Our July 2026 dollar reading of $39, $79 and $199 annually is therefore historical.",
    "flags": [
     {
      "flag": "per_seat",
@@ -1763,28 +1763,28 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-12"
+     "verified_at": "2026-11-26"
     },
     {
      "flag": "usage_metered",
-     "evidence": "Add-ons are separate again — 1,000 automation triggers €35/mo, 1,000 AI co-pilot credits €25/mo, Shopify $4.99/mo, each extra WhatsApp number €29/mo — and the Astra AI agents, which the page describes as deployable to web, WhatsApp and voice, are an add-on priced separately.",
-     "evidence_excerpt": "Add-ons are separate again — 1,000 automation triggers €35/mo, 1,000 AI co-pilot credits €25/mo, Shopify $4.99/mo, each extra WhatsApp number €29/mo — and the Astra AI agents, which the page describe…",
+     "evidence": "Each tier now includes Astra AI agents (1 on Growth, 2 on Pro, unlimited on Business), a monthly Wati AI credit allowance (2,000, 5,000 and 20,000) and free automation triggers (1,000, 2,000 and 5,000 a month).",
+     "evidence_excerpt": "Each tier now includes Astra AI agents (1 on Growth, 2 on Pro, unlimited on Business), a monthly Wati AI credit allowance (2,000, 5,000 and 20,000) and free automation triggers (1,000, 2,000 and 5,00…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-12"
+     "verified_at": "2026-11-26"
     },
     {
      "flag": "addons_extra",
-     "evidence": "Add-ons are separate again — 1,000 automation triggers €35/mo, 1,000 AI co-pilot credits €25/mo, Shopify $4.99/mo, each extra WhatsApp number €29/mo — and the Astra AI agents, which the page describes as deployable to web, WhatsApp and voice, are an add-on priced separately.",
-     "evidence_excerpt": "Add-ons are separate again — 1,000 automation triggers €35/mo, 1,000 AI co-pilot credits €25/mo, Shopify $4.99/mo, each extra WhatsApp number €29/mo — and the Astra AI agents, which the page describe…",
+     "evidence": "Add-ons on top: 1,000 automation triggers €35/mo, 2,000 Wati AI credits €25/mo, Shopify USD 4.99/mo and each extra WhatsApp number €29/mo.",
+     "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-12"
+     "verified_at": "2026-11-26"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-12",
-   "first_observed_at": "2026-09-12"
+   "price_verified_at": "2026-11-26",
+   "first_observed_at": "2026-11-26"
   },
   {
    "name": "Weave",

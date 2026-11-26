@@ -310,7 +310,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://zerotouchsupport.com/wati-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Wati: Growth €59/mo, Pro €119/mo and Business €279/mo billed annually, or €69, €149 and €349 billed monthly. The plan price is the smallest part of the bill.
-- Price: (re-verified 2026-09-12, read on their own pricing page — which again served us euros, not dollars) Growth €59/mo, Pro €119/mo and Business €279/mo billed annually, or €69, €149 and €349 billed monthly, with a 7-day free trial and no setup fee. Users are capped per tier: Growth includes 3 and lets you add none at all; Pro and Business include 5, with extra seats at €39 and €89 per user per month.
+- Price: (re-verified 2026-11-26 on wati.io/pricing, which served us euros, and on Wati's llms.txt) Growth €59/mo, Pro €119/mo and Business €279/mo billed annually, or €69, €149 and €349 billed monthly, with a 7-day free trial and no setup fee. Users are capped per tier: Growth includes 3 and lets you add none at all; Pro and Business include 5, with extra seats at €39 and €89 per user per month.
 
 ## Weave
 - Review: https://zerotouchsupport.com/weave-review.html

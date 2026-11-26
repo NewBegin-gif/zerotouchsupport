@@ -62,9 +62,9 @@
    ]
   ],
   "price": "$39",
-  "price_note": "from · a month for 10 credits and 1 brand",
-  "verified": "2026-09-13",
-  "catch": "The meter counts downloads, not campaigns: iterate seriously on ad variations and a 10-credit starter evaporates in an afternoon, which is exactly what iteration-heavy ad work does.",
+  "price_note": "from · a month for 20 credits and 1 brand",
+  "verified": "2026-11-26",
+  "catch": "The meter counts downloads, not campaigns: iterate seriously on ad variations and a 20-credit Starter month evaporates in an afternoon, which is exactly what iteration-heavy ad work does.",
   "best": "Performance marketers and stores that test many ad variations across sizes and platforms and want on-brand creative volume without a designer bottleneck."
  },
  "ADP": {
@@ -397,7 +397,7 @@
   ],
   "price": "$600",
   "price_note": "from · per month billed annually (2 users)",
-  "verified": "2026-09-14",
+  "verified": "2026-11-26",
   "catch": "Data accuracy and email deliverability are the most-cited complaints, clustering on European contacts, and under about 10 reps you pay for features you never touch.",
   "best": "Mid-market sales teams (20+ reps) who'll actually adopt the full AI-prospecting, multichannel and deliverability stack in one vendor."
  },
@@ -760,7 +760,7 @@
   "best": "Shopify stores under roughly 1,500 orders a month that want the whole store backed up daily (metafields."
  },
  "Barcodes Talk": {
-  "verified": "2026-09-19",
+  "verified": "2026-11-26",
   "catch": "Some large retailers and brand registries, notably certain Amazon Brand Registry and big-box requirements, ask for a GS1-issued prefix, and a third-party barcode may not satisfy that.",
   "best": "Sellers and small brands listing on marketplaces or in independent retail who want authentic, one-time-cost UPC/EAN barcodes without an annual GS1 membership."
  },
@@ -2433,8 +2433,8 @@
     "usage_metered"
    ]
   ],
-  "verified": "2026-09-19",
-  "catch": "The $5 entry pack is the most expensive way to buy: $0.005 per check versus $0.00196 at the 50k tier: a 2.5x spread that rewards guessing your volume upfront.",
+  "verified": "2026-11-26",
+  "catch": "The €5 entry pack is the most expensive way to buy: €5.00 per 1,000 checks against €1.86 at 100,000 and €0.26 at ten million, a spread that rewards guessing your volume upfront.",
   "best": "Teams cleaning real sending lists before campaigns: bulk verification at volume rates, with credits that never expire."
  },
  "Emergent": {
@@ -7656,8 +7656,8 @@
   ],
   "price": "€59",
   "price_note": "from · per month billed annually (€69 monthly), 3 users included",
-  "verified": "2026-09-12",
-  "catch": "Growth is capped at three users with no way to buy a fourth, and automation, AI credits, extra numbers and Meta's per-conversation fees all bill on top of the plan.",
+  "verified": "2026-11-26",
+  "catch": "Growth is capped at three users with no way to buy a fourth, and extra automation triggers, AI credits, numbers and per-message template fees all bill on top of the plan.",
   "best": "Businesses that want to run WhatsApp support and broadcasts at scale with a shared team inbox and automation.",
   "pw": "price held",
   "pw_soort": "held"
