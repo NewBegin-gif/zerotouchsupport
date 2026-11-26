@@ -506,7 +506,10 @@ KOP = '<div class="lg-kop" aria-hidden="true"><span>Tool</span><span>Price, date
 
 def main():
     root = Path(__file__).parent
-    tools = json.loads((root / "data.json").read_text(encoding="utf-8"))
+    import sys as _sys_zb
+    _sys_zb.path.insert(0, str(Path(__file__).resolve().parent.parent))
+    from zuster_bouwdata import bouwdata as _bouwdata  # 26 nov 2026: partnerlink niet meer uit de publieke data.json
+    tools = _bouwdata()
     voor = len(tools)
     tools = [t for t in tools if in_snede(t)]
     tools.sort(key=lambda t: t["name"].lower())
