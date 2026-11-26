@@ -1134,7 +1134,7 @@
   ],
   "price": "€7",
   "price_note": "from · a month or €6.33 billed yearly",
-  "verified": "2026-09-19",
+  "verified": "2026-11-26",
   "catch": "Charging by sends looks cheaper for a big list you email rarely, but the send tiers cap stored contacts too: 5,000 sends a month stores only 500 contacts, and a 20,000-contact list needs the 20,000-send tier whatever you send.",
   "best": "Businesses with large contact lists who email selectively and want to pay by send volume, not list size."
  },
@@ -1457,8 +1457,8 @@
    ]
   ],
   "price": "$29.99",
-  "price_note": "from · per report",
-  "verified": "2026-09-30",
+  "price_note": "Basic · per report, pay-as-you-go per report: Basic $29.99, Essential $59.99, Complete…",
+  "verified": "2026-11-26",
   "catch": "The headline per-check price is rarely what you actually pay: passthrough fees vary wildly by county and search type, so budget for the effective cost, not the advertised one.",
   "best": "Companies hiring hourly or gig workers at volume that need fast, API-driven, compliant background checks."
  },
@@ -2544,8 +2544,8 @@
  },
  "Evey Events": {
   "price": "$19",
-  "price_note": "from · per month plus $0.75 per ticket, 7-day trial",
-  "verified": "2026-10-01",
+  "price_note": "Growth · Growth $19 a month plus $0.75 per ticket",
+  "verified": "2026-11-26",
   "catch": "Nobody gets caught by the monthly fee here; they get caught by the per-ticket one.",
   "best": "Shopify stores that sell tickets alongside products and want attendees."
  },
@@ -3719,7 +3719,7 @@
   ],
   "price": "$6.99",
   "price_note": "Starter · billed monthly through the Shopify invoice in USD",
-  "verified": "2026-11-16",
+  "verified": "2026-11-26",
   "catch": "Free runs one rule; rules skip draft orders.",
   "best": "Shopify merchants who want to hide, rename or reorder payment and shipping methods."
  },
@@ -7280,7 +7280,7 @@
   ],
   "price": "€36",
   "price_note": "Professional, 1 user · billed monthly",
-  "verified": "2026-11-22",
+  "verified": "2026-11-26",
   "catch": "You pay the Swiss-E2EE premium (noticeably above mainstream clouds and above Proton Drive per GB) and the encryption trade-offs are inherent: no server-side content search, more deliberate sharing flows, and credential/recovery discipline is on you.",
   "best": "Businesses and professionals with confidentiality obligations (legal, health, finance) that need end-to-end-encrypted storage."
  },
@@ -7537,7 +7537,7 @@
   ],
   "price": "€13.75",
   "price_note": "Lite · per month, per licence, billed annually at €165",
-  "verified": "2026-10-18",
+  "verified": "2026-11-26",
   "catch": "Non-refundable; Lite watermarks premium images, 5 downloads a month.",
   "best": "Trainers and L&D, HR and marketing teams that want hand-drawn whiteboard explainer videos without hiring an animator."
  },
@@ -8200,8 +8200,8 @@
    ]
   ],
   "price": "$12",
-  "price_note": "from · per month for 360 credits (billed monthly)",
-  "verified": "2026-10-03",
+  "price_note": "Starter · Starter $12 a month for 360 credits ($120 a year)",
+  "verified": "2026-11-26",
   "catch": "The credit is not a picture, and that is the thing to understand before buying.",
   "best": "People who want several image and video models behind one balance and one interface: switching between Nano Banana, GPT Image 2, Seedance, Kling."
  },
@@ -9682,7 +9682,7 @@
   ],
   "price": "$19",
   "price_note": "Starter · billed monthly, excluding VAT",
-  "verified": "2026-10-17",
+  "verified": "2026-11-26",
   "catch": "Non-refundable; one seat below the $199 Team plan; trial only on monthly plans.",
   "best": "Founders, freelancers and small agencies who run cold email from Gmail and want flat monthly plans by email volume, with warm-up and follow-up sequences included."
  },
@@ -9701,7 +9701,7 @@
   ],
   "price": "$59",
   "price_note": "Pro · one-time payment, use on as many sites as you need, no watermark",
-  "verified": "2026-11-18",
+  "verified": "2026-11-26",
   "catch": "Free for one project with a watermark; Pro is $59 once, with no stated refund rule.",
   "best": "Freelancers, small agencies and site owners who want a feedback button on their websites that collects annotated screenshots and bug reports."
  },
@@ -11613,5 +11613,107 @@
   "verified": "2026-11-22",
   "catch": "Stock photo library with an AI image generator; two free generations, downloads need a plan from EUR 9 a month billed yearly.",
   "best": "Marketers and creators who want AI images with exact on-image text next to a licensed stock photo library, and are happy to subscribe to download."
+ },
+ "GemPages": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$29",
+  "price_note": "Build · Build $29/mo, $23/mo billed yearly ($276/yr) on gempages.net/pricing…",
+  "verified": "2026-11-19",
+  "catch": "Shopify page and funnel builder with a free plan (1 published page); paid plans from $29 a month.",
+  "best": "Shopify merchants who want a drag-and-drop page and funnel builder with upsells and A/B offer testing."
+ },
+ "MailerLite": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$12",
+  "price_note": "Comfort… · Comfort $12/mo and Power $25/mo for 500 subscribers, monthly…",
+  "verified": "2026-11-22",
+  "catch": "Email marketing for small senders with a free plan (250 subscribers); paid plans from $12 a month at 500 subscribers.",
+  "coupon": {
+   "code": "LITEFRIDAY26",
+   "label": "26% off annual plans with the code LITEFRIDAY26"
+  },
+  "best": "Small senders and creators who want a simple newsletter tool with a free plan and a template editor."
+ },
+ "ShipProtect ShippingProtection": {
+  "price": "$9.99",
+  "price_note": "ShipProtect · per month, $9.99 every 30 days on the Shopify App Store listing, read 24 November…",
+  "verified": "2026-11-24",
+  "catch": "Shopify shipping protection box for the cart: percentage or fixed fee that you keep; one plan at $9.99 every 30 days.",
+  "best": "Shopify stores that want to add their own shipping protection fee at the cart and keep the premium."
+ },
+ "Wiz Email App": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$29.99",
+  "price_note": "Pro · Pro $29.99 a month, up to 2,000 active contacts, on the Shopify App…",
+  "verified": "2026-11-24",
+  "catch": "Shopify email app where AI drafts abandoned cart, welcome and winback flows; free up to 500 contacts, Pro from $29.99 a month.",
+  "best": "Small Shopify stores that want AI-drafted welcome, abandoned cart and winback emails with a free start."
+ },
+ "KeepCart": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$49",
+  "price_note": "Blocking Basic · Blocking Basic $49 a month on the Shopify App Store listing, read…",
+  "verified": "2026-11-25",
+  "catch": "Shopify app against coupon leaks: protected links and a monthly leak scan are free; blocking coupon extensions starts at $49 a month.",
+  "best": "Shopify stores that run discount codes and want to see where they leak and lock a code to a protected link."
+ },
+ "Section Store": {
+  "price": "$15",
+  "price_note": "Section Store Plus · Plus $15 a month on the Shopify App Store listing, read 25 November 2026",
+  "verified": "2026-11-25",
+  "catch": "Shopify app with 51 free theme sections you add from the editor; premium sections cost about $9 each, Plus is $15 a month.",
+  "best": "Shopify stores that want free ready made theme sections without writing code."
+ },
+ "Sledge": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$29.99",
+  "price_note": "Pro · Pro $29.99 a month on the Shopify App Store listing, read 26 November…",
+  "verified": "2026-11-26",
+  "catch": "Shopify app for AI search, product filters and offers; free on development stores, Pro is $29.99 a month.",
+  "best": "Shopify stores whose shoppers struggle to find products and that want search, filters and offers in one app."
+ },
+ "Proposall": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$14.99",
+  "price_note": "Orbit · Orbit $14.99 a month on the Shopify App Store listing, read 26 November…",
+  "verified": "2026-11-26",
+  "catch": "Shopify app for building custom quotes from your products; free for 5 proposals a month, e-signatures from $14.99 a month.",
+  "best": "Shopify stores that send custom quotes on bulk orders and want to build them from their products in a couple of minutes."
  }
 }
