@@ -1170,7 +1170,7 @@
   ],
   "price": "$19",
   "price_note": "from · a month billed annually (12,000 credits/yr), or $48/mo billed monthly",
-  "verified": "2026-09-21",
+  "verified": "2026-11-27",
   "catch": "Two honest realities of no-code scraping. Credits burn faster than expected: row counts, screenshots and 'premium' sites all multiply the meter, so monitor a big site daily and do the math first.",
   "best": "Ops, research and growth teams that want to monitor competitors, prices or listings and pipe structured web data into sheets without writing scrapers."
  },
@@ -2132,7 +2132,7 @@
   ],
   "price": "$75",
   "price_note": "from · per month (USD)",
-  "verified": "2026-09-22",
+  "verified": "2026-11-27",
   "catch": "It bundles PPC, SEO, lead intelligence and reporting, but a dedicated SEO suite or PPC optimizer goes deeper, so it is consolidation for a lean team, not expert-grade tooling.",
   "best": "Lean teams and agencies that want PPC, SEO and lead intelligence consolidated in one affordable dashboard instead of five subscriptions."
  },
@@ -2849,7 +2849,7 @@
   ],
   "price": "$129.99",
   "price_note": "from · per user per year or $10.99 per user per month",
-  "verified": "2026-09-22",
+  "verified": "2026-11-27",
   "catch": "Buy the $129.99 Editor and then need signatures, and Editor plus standalone eSign Essentials is $249.99 a year against $159.99 for the Editor+ that bundles it.",
   "coupon": {
    "code": "CP366-B4dCXGN5",
@@ -5376,14 +5376,24 @@
  "QuickBooks UK": {
   "flags": [
    [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "£10",
   "price_note": "from · per month (list, plus VAT) - a six-month 90% promo brings it to £1",
-  "verified": "2026-10-11",
+  "verified": "2026-11-27",
   "catch": "The 90% offer is the number to be careful with, because it is the one you will see everywhere and it is not what you will pay.",
   "best": "UK sole traders and small businesses that need Making Tax Digital submissions handled and would rather their accountant worked in the same system they do: the accountant access on every tier is the practical reason most people land here."
  },
@@ -6379,8 +6389,8 @@
    ]
   ],
   "price": "$29",
-  "price_note": "from · per month ($290/yr, 16% off), 5 profiles, 1 workspace",
-  "verified": "2026-09-22",
+  "price_note": "from · per month, 5 profiles, 1 workspace, 1 user",
+  "verified": "2026-11-27",
   "catch": "You are billed per social profile, not per person, and a profile is one brand account on one network.",
   "coupon": {
    "code": "SOCIALBEEBF26",
@@ -7963,9 +7973,16 @@
   "best": "Small and mid-size nonprofits that want donations, ticketing, memberships and payments without any fee eating the mission's money."
  },
  "ZenBusiness": {
+  "flags": [
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ]
+  ],
   "price": "$199",
   "price_note": "from · a year and Worry-Free Compliance $199 a year",
-  "verified": "2026-09-22",
+  "verified": "2026-11-27",
   "catch": "The $0 is real for the filing service and it is also the whole commercial idea: what you sign up for at zero has an annual carry that is not shown next to it.",
   "best": "First-time founders who want the paperwork handled and are willing to pay a yearly fee to keep it handled: the a-la-carte pricing means you can start at the state fee plus a registered agent and add only what you actually need."
  },
