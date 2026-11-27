@@ -990,7 +990,7 @@
   ],
   "price": "$49",
   "price_note": "Start · per month, cancel anytime per their own FAQ",
-  "verified": "2026-09-20",
+  "verified": "2026-11-26",
   "catch": "Bokun is a Tripadvisor/Viator company, and that's both the draw and the lock-in.",
   "best": "Tour, activity and experience operators who want booking management plus wide OTA distribution (Viator, GetYourGuide and more) from one dashboard."
  },
@@ -1079,11 +1079,6 @@
     "usage_metered"
    ],
    [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
-   ],
-   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -1091,7 +1086,7 @@
   ],
   "price": "$49",
   "price_note": "from · a month per website (5,000 lead profiles)",
-  "verified": "2026-09-20",
+  "verified": "2026-11-26",
   "catch": "Two meters to watch: it prices per WEBSITE (multi-site setups multiply the $49) and the AI features run on compute-credit blocks that stack as usage grows.",
   "best": "Marketing and revenue teams that want engaged visitors (people who filled a form or left an email) automatically enriched, scored and nurtured, on a usable freemium tier."
  },
@@ -1894,7 +1889,7 @@
   ],
   "price": "$399",
   "price_note": "from · a month, or $299 a month billed annually ($3,588/yr)",
-  "verified": "2026-09-20",
+  "verified": "2026-11-26",
   "catch": "The meter is tested users, and it keeps running: blow past your monthly allowance and overuse blocks land at $399-699 unless you hard-cap them, and every extra custom domain is $1,000 a year.",
   "best": "CRO teams running serious A/B and multivariate testing who want a privacy-first, GDPR-friendly alternative to the big experimentation suites."
  },
@@ -5914,7 +5909,7 @@
   ],
   "price": "$99",
   "price_note": "from · a month per store",
-  "verified": "2026-09-19",
+  "verified": "2026-11-26",
   "catch": "Two things to weigh, and neither is the price you pay, because you do not pay one. First, you cannot set the fee. Seel's algorithm prices it, so if it lands too high for your niche and shoppers stop opting in, your only lever is switching the feature off entirely.",
   "best": "Stores selling final-sale, high-consideration or hard-to-size products."
  },
@@ -6727,7 +6722,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month equivalent, billed yearly",
-  "verified": "2026-09-20",
+  "verified": "2026-11-26",
   "catch": "The conversational-survey UX is the draw, but response limits on lower tiers and the 'contact sales' wall on advanced features (API, higher volume) make budgeting fiddly, and there's no true monthly billing.",
   "best": "Teams that want engaging, conversational surveys and NPS with a polished respondent experience."
  },
@@ -8636,7 +8631,7 @@
   ],
   "price": "$12.99",
   "price_note": "Kickstart · per month for up to $1,000 of bundle offer revenue, or $131.88 a year",
-  "verified": "2026-09-30",
+  "verified": "2026-11-26",
   "catch": "The meter counts the whole value of every bundle sold through a Koala offer, not the uplift, so Kickstart's $1,000 a month is roughly fourteen $70 bundles.",
   "best": "Shopify merchants who want quantity breaks, multi-product bundles, cart volume discounts, BOGO offers and one-click post-purchase upsells in one app."
  },
@@ -8650,7 +8645,7 @@
   ],
   "price": "$6.99",
   "price_note": "Starter · per month for up to 20,000 widget views, or $67.08 a year",
-  "verified": "2026-09-30",
+  "verified": "2026-11-26",
   "catch": "The free plan is generous on views and tight on badges.",
   "best": "Shopify merchants who want payment icons, feature icons and guarantee or shipping badges under the add-to-cart button without code, starting free."
  },
@@ -8697,7 +8692,7 @@
   ],
   "price": "$59",
   "price_note": "from · per month",
-  "verified": "2026-10-01",
+  "verified": "2026-11-26",
   "catch": "Practice at $79 covers one full-time practitioner, and every other person who takes bookings adds $35 a month, or $17.50 under 24 booked hours a week.",
   "best": "Allied health practices (physio, chiropractic, massage, counselling and similar) with a handful of practitioners who want online booking, charting, telehealth."
  },
@@ -8868,7 +8863,7 @@
   ],
   "price": "$0.13",
   "price_note": "Scale · per member, per month",
-  "verified": "2026-10-05",
+  "verified": "2026-11-26",
   "catch": "You pay $0.13 a month for every member beyond the first 10, so a large free loyalty tier can cost more than the paid tiers earn; the listing does not say whether free members count.",
   "best": "Shopify stores that want a paid or free membership with store credit, member pricing, free shipping, gated products and checkout."
  },
@@ -8882,7 +8877,7 @@
  "Bold Custom Pricing": {
   "price": "$29",
   "price_note": "Essential · per month, pricing for 1 customer group",
-  "verified": "2026-10-06",
+  "verified": "2026-11-26",
   "catch": "Priced by customer group: a second price list moves you from $29 to $69 a month, and POS and bulk CSV pricing need the $129 plan.",
   "best": "Shopify stores that want to sell wholesale, B2B or VIP prices from their existing storefront without Shopify Plus, with quantity breaks and one or a few customer groups."
  },
