@@ -2982,7 +2982,7 @@
   ],
   "price": "$29",
   "price_note": "from · a month for 500 credits",
-  "verified": "2026-09-23",
+  "verified": "2026-11-27",
   "catch": "The pay-on-success model is refreshingly honest, but note the 10x: phone numbers eat credits ten times faster than emails, so a calling-heavy motion consumes budget quickly: model your email/phone mix.",
   "best": "Outbound teams that need maximum find-rates on emails and especially mobile numbers, and prefer paying only for verified hits."
  },
@@ -3078,7 +3078,7 @@
   "price_note": "from · a month per technician plus $0.08 per device, billed annually",
   "verified": "2026-09-23",
   "catch": "AnyDesk tends to feel faster and lower-latency, and TeamViewer carries the heavier security/compliance certifications (HIPAA, SOC 2).",
-  "best": "IT and support people who want browser-based remote access without installing software on the other person's machine: at a fair price or a one-time fee."
+  "best": "IT and support people who want to connect from a browser and can ask the other person to run a small file: at a fair price or a one-time fee."
  },
  "Gixo": {
   "flags": [
@@ -3180,6 +3180,11 @@
  "Gravity Forms": {
   "flags": [
    [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ],
+   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
@@ -3187,7 +3192,7 @@
   ],
   "price": "$59",
   "price_note": "from · a year (1 site, standard support)",
-  "verified": "2026-09-23",
+  "verified": "2026-11-27",
   "catch": "Two honest notes. It's a WordPress-only plugin (no WordPress, no Gravity Forms) and its real power often lives in paid add-ons and third-party extensions, so a advanced setup can cost more than the base license suggests.",
   "best": "WordPress site owners and developers who want powerful, self-hosted forms with conditional logic, payments and deep integrations they fully control."
  },
@@ -3262,6 +3267,11 @@
     "usage_metered"
    ],
    [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -3269,7 +3279,7 @@
   ],
   "price": "$29",
   "price_note": "from · per month billed annually ($39 monthly), up to 50,000 views/mo",
-  "verified": "2026-09-24",
+  "verified": "2026-11-27",
   "catch": "The meter is views, not results: every visitor who sees a popup counts against your quota, so a traffic spike eats the allowance regardless of how many emails you actually captured, and at the limit the campaigns pause until the next billing cycle: a busy site outgrows the entry tier fast.",
   "best": "Content sites, blogs and stores that already have traffic and a worthwhile offer, and want sticky bars."
  },
@@ -3453,7 +3463,7 @@
   ],
   "price": "$0.25",
   "price_note": "from · a month for 100 GB",
-  "verified": "2026-09-24",
+  "verified": "2026-11-27",
   "catch": "The first-year price is a teaser and the renewal is the price: IDrive says so itself under the plan table, and on the current numbers the step from discounted to standard is about 43% (Personal 5 TB goes from $6.99 to $9.99 a month).",
   "best": "Individuals and small businesses that want cheap multi-device cloud backup with versioning, snapshots and physical seed/restore shipping."
  },
@@ -3513,7 +3523,7 @@
   ],
   "price": "$79",
   "price_note": "from · per month billed yearly ($99 month to month) for 15,000 visitors",
-  "verified": "2026-09-24",
+  "verified": "2026-11-27",
   "catch": "It's premium-priced and only justified by serious ad spend: Create is $79 a month billed annually for 15,000 unique monthly visitors, and the price per thousand barely improves as you climb, so the higher tiers buy features rather than cheaper traffic.",
   "best": "Marketing teams running significant paid ad campaigns who need post-click optimisation: AdMap ad-to-page personalisation, A/B testing and heatmaps."
  },
