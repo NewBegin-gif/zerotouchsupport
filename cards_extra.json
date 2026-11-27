@@ -11710,5 +11710,33 @@
   "verified": "2026-11-26",
   "catch": "Shopify app for building custom quotes from your products; free for 5 proposals a month, e-signatures from $14.99 a month.",
   "best": "Shopify stores that send custom quotes on bulk orders and want to build them from their products in a couple of minutes."
+ },
+ "BestTrack": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9",
+  "price_note": "Pro · Pro $9 a month for 1,000 tracked orders on the Shopify App Store…",
+  "verified": "2026-11-27",
+  "catch": "Shopify order tracking app with a branded tracking page and status emails; free for 300 tracked orders a month, Pro is $9 a month.",
+  "best": "Shopify stores that ship fewer than 300 orders a month and want a branded tracking page and carrier detection for free."
+ },
+ "Loox": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$49.99",
+  "price_note": "Convert · Convert $49.99 a month with 300 orders included on the Shopify App…",
+  "verified": "2026-11-27",
+  "catch": "Shopify app for photo and video reviews with review request emails and widgets; free up to 500 orders, Convert is $49.99 a month.",
+  "best": "Shopify stores that want to collect photo reviews after fulfilment and show them in on brand widgets."
  }
 }
