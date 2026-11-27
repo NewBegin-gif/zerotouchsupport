@@ -280,7 +280,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://zerotouchsupport.com/typewise-review.html
 - Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: On the day of sign-up, Plan & limits showed 'Trial · 92 days remaining' with no payment method.
 - Verdict: Typewise: Starter is $99 a month or $999 a year with 1 user, email and chat. The bill has two parts and both are published.
-- Price: (re-read 2026-09-23 and again, unchanged, 2026-09-27 on typewise.app/pricing) A base plan plus a per-resolution rate. Starter is $99 a month or $999 a year with 1 user, email and chat, a $20 monthly AI Operator budget and pay-as-you-go resolutions at $2 each.
+- Price: (re-read 2026-09-23 and again, unchanged, 2026-09-27 and 2026-11-27 on typewise.app/pricing) A base plan plus a per-resolution rate. Starter is $99 a month or $999 a year with 1 user, email and chat, a $20 monthly AI Operator budget and pay-as-you-go resolutions at $2 each.
 
 ## UniTel Voice
 - Review: https://zerotouchsupport.com/unitel-voice-review.html

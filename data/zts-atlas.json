@@ -1613,7 +1613,7 @@
    "entry_price": "$99",
    "entry_price_terms": "Starter · base fee per month with 1 user ($999 a year)",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-09-23 and again, unchanged, 2026-09-27 on typewise.app/pricing) A base plan plus a per-resolution rate. Starter is $99 a month or $999 a year with 1 user, email and chat, a $20 monthly AI Operator budget and pay-as-you-go resolutions at $2 each. Growth is $599 a month or $5,999 a year with 5 users, all digital channels, a $100 AI Operator budget and volume packages that bring resolutions down to $1. Business is $2,000 a month billed annually with 5 users, 3 workspaces (multi-brand), a $500 AI Operator budget, two custom integration days a year and a success consultant. Enterprise is quoted and adds SSO, a custom DPA, unlimited workspaces, a $1,500 AI Operator budget and five integration days. Additional users are $89 a month on every plan - an add-on, not a starting price. Every plan starts with a 14-day trial of 100 resolution credits and $10 of AI Operator credit, no card. The page defines the meter: a full resolution counts once, a hand-off to a person counts as half, and unresolved or flagged tickets are free. Prices are in USD and shown in EUR, GBP or CHF at parity depending on your location. Correction 23 Sep 2026: our 5 Sep reading put unlimited workspaces and the $1,500 budget on Business; on the current page those belong to Enterprise. History: in August 2026 the only published number was 'starting from $1 per resolution' on the home page and /pricing returned a 404.",
+   "price_note": "(re-read 2026-09-23 and again, unchanged, 2026-09-27 and 2026-11-27 on typewise.app/pricing) A base plan plus a per-resolution rate. Starter is $99 a month or $999 a year with 1 user, email and chat, a $20 monthly AI Operator budget and pay-as-you-go resolutions at $2 each. Growth is $599 a month or $5,999 a year with 5 users, all digital channels, a $100 AI Operator budget and volume packages that bring resolutions down to $1. Business is $2,000 a month billed annually with 5 users, 3 workspaces (multi-brand), a $500 AI Operator budget, two custom integration days a year and a success consultant. Enterprise is quoted and adds SSO, a custom DPA, unlimited workspaces, a $1,500 AI Operator budget and five integration days. Additional users are $89 a month on every plan - an add-on, not a starting price. Every plan starts with a 14-day trial of 100 resolution credits and $10 of AI Operator credit, no card. The page defines the meter: a full resolution counts once, a hand-off to a person counts as half, and unresolved or flagged tickets are free. Prices are in USD and shown in EUR, GBP or CHF at parity depending on your location. Correction 23 Sep 2026: our 5 Sep reading put unlimited workspaces and the $1,500 budget on Business; on the current page those belong to Enterprise. History: in August 2026 the only published number was 'starting from $1 per resolution' on the home page and /pricing returned a 404. Read 27 November 2026: going over your volume is billed at the end of the cycle at $2 per resolution unit unless your contract sets another rate; on pay as you go the first 500 units in a cycle are invoiced immediately, and using another 500 while that invoice is unpaid can pause the subscription. You do not move into a package automatically. A reply a person approves without changing it counts as a full resolution.",
    "flags": [
     {
      "flag": "per_seat",
@@ -1621,7 +1621,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-27"
+     "verified_at": "2026-11-27"
     },
     {
      "flag": "usage_metered",
@@ -1629,7 +1629,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-27"
+     "verified_at": "2026-11-27"
     },
     {
      "flag": "addons_extra",
@@ -1637,11 +1637,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-27"
+     "verified_at": "2026-11-27"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-27",
+   "price_verified_at": "2026-11-27",
    "first_observed_at": "2026-09-23"
   },
   {

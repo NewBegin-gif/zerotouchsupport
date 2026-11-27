@@ -537,7 +537,7 @@
   ],
   "price": "$29",
   "price_note": "from · a month, billed annually ($49 billed monthly)",
-  "verified": "2026-09-28",
+  "verified": "2026-11-27",
   "catch": "Two meters run at once. Active contacts bite first: Starter stops at 50, and the step to 500 costs $70 more a month on yearly billing ($90 monthly).",
   "best": "Agencies and professional services firms who want one branded place for clients to message, sign, pay and share files instead of four tools and an email thread."
  },
@@ -5731,7 +5731,7 @@
   ],
   "price": "$24",
   "price_note": "from · per month billed yearly ($35 monthly)",
-  "verified": "2026-09-26",
+  "verified": "2026-11-27",
   "catch": "The meter is not recording time, it is separate-track download time, and separate tracks are the entire reason to use this rather than a video call.",
   "coupon": {
    "code": "RSBF",
@@ -6190,7 +6190,7 @@
  "Shore": {
   "price": "€49.90",
   "price_note": "from · per month billed yearly, €59.90 monthly (Booking, up to 5 staff)",
-  "verified": "2026-09-26",
+  "verified": "2026-11-27",
   "catch": "It's built for local appointment businesses in the German-speaking market, and the package split shows it: booking and the till are sold as separate lines, and only All-in-One carries both.",
   "best": "Salons, barbers, spas, wellness studios, physical therapists, craftspeople and local retailers that want bookings via Google and Instagram, no-show-reducing reminders."
  },
@@ -6656,7 +6656,7 @@
   ],
   "price": "$12",
   "price_note": "from · per user per month on monthly billing ($11 annual)",
-  "verified": "2026-09-26",
+  "verified": "2026-11-27",
   "catch": "The ladder rewards size rather than commitment: each band's rate applies only to the seats inside it, so the 26th user costs a dollar less than the 25th, and the annual discount is worth about the same single dollar per user.",
   "best": "Leadership teams that already run on goals and want one place to set objectives, track KPIs and scorecards, and keep strategy execution on cadence."
  },
@@ -7355,7 +7355,7 @@
   ],
   "price": "$99",
   "price_note": "Starter · base fee per month with 1 user ($999 a year)",
-  "verified": "2026-09-27",
+  "verified": "2026-11-27",
   "catch": "The bill has two parts and both are published: a base fee from $99 and a resolution rate from $2 (pay as you go) down to $1 with volume packages.",
   "best": "Customer-service teams with real ticket volume that want AI agents to resolve requests end to end and act inside the systems they already run (CRM, ERP, billing."
  },
@@ -7916,11 +7916,6 @@
     "🪑",
     "Per-seat pricing",
     "per_seat"
-   ],
-   [
-    "🧩",
-    "Add-ons extra",
-    "addons_extra"
    ],
    [
     "🆓",
