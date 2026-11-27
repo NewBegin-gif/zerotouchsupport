@@ -5611,7 +5611,7 @@
   ],
   "price": "$18",
   "price_note": "from · a month, billed annually ($20 billed monthly)",
-  "verified": "2026-09-26",
+  "verified": "2026-11-27",
   "catch": "The subscription price is fixed; the paid Agent work is not.",
   "best": "Developers, learners and tinkerers who want a zero-setup, browser-based coding environment with AI assistance.",
   "pw": "plans rebuilt Oct 2026",
@@ -5665,6 +5665,11 @@
     "addons_extra"
    ],
    [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -5672,7 +5677,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month ($190/yr billed annually)",
-  "verified": "2026-09-26",
+  "verified": "2026-11-27",
   "catch": "The channel caps are the business model -- each tier buys a few more destinations.",
   "best": "Creators, podcasters and marketing teams who broadcast one show to many platforms at once, without extra encoding hardware."
  },
@@ -6155,7 +6160,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month for 1-200 labels, or $205/yr",
-  "verified": "2026-09-25",
+  "verified": "2026-11-27",
   "catch": "The free tier stops at 30 labels a month at 5¢ a label on your own carrier accounts, and Pro bills $0.08 for every label past 10,000 shipments.",
   "best": "E-commerce sellers shipping across multiple carriers who want rate comparison, label printing and tracking in one place with genuine rate discounts."
  },
@@ -7606,7 +7611,7 @@
   ],
   "price": "$80",
   "price_note": "from · per month billed yearly ($99 monthly), 15 profiles, 2 users",
-  "verified": "2026-09-25",
+  "verified": "2026-11-27",
   "catch": "Platform APIs change constantly, so verify the networks and features your clients need inside the trial, and white-labeling sits on the Scale tier above Professional.",
   "best": "Agencies and multi-brand teams that want scheduling, listening, reviews and reporting across many profiles at a notably lower price than legacy suites.",
   "pw": "price up Oct 2026",
@@ -7913,6 +7918,11 @@
     "per_seat"
    ],
    [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
     "🆓",
     "Free tier",
     "free_tier"
@@ -7920,7 +7930,7 @@
   ],
   "price": "$10",
   "price_note": "from · per user a month, for 2 to 15 users",
-  "verified": "2026-09-25",
+  "verified": "2026-11-27",
   "catch": "It's powerful and scales to complex, cross-team portfolios, but that power brings a learning curve and a per-seat cost that climbs: small teams often find it heavier than they need next to a simpler board tool.",
   "best": "Mid-to-large teams running complex, cross-functional projects that need robust reporting, workflows and resource management."
  },
