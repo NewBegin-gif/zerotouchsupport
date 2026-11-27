@@ -11765,5 +11765,19 @@
   "verified": "2026-11-27",
   "catch": "Shopify app for photo and video reviews with review request emails and widgets; free up to 500 orders, Convert is $49.99 a month.",
   "best": "Shopify stores that want to collect photo reviews after fulfilment and show them in on brand widgets."
+ },
+ "Pabbly Connect": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$19",
+  "price_note": "Standard · Standard $19 a month for 10,000 tasks in the upgrade dialog of our own…",
+  "verified": "2026-11-26",
+  "catch": "Workflow automation tool where only external app actions count as tasks; free for 100 tasks a month, Standard is $19 a month.",
+  "best": "Small teams that run many automations and want to pay per external task instead of per step, with free internal steps."
  }
 }
