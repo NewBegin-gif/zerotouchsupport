@@ -4396,7 +4396,7 @@
   ],
   "price": "$60",
   "price_note": "from · per month at 2.5%)",
-  "verified": "2026-09-25",
+  "verified": "2026-11-27",
   "catch": "Momence stopped publishing prices in September 2026: on the 25th its pricing page was a 'Let's talk pricing' form with no figure on it.",
   "best": "Class-based businesses (studios, gyms, salons, schools) that want scheduling, memberships, payments and marketing in one system with a member app.",
   "pw": "rates withdrawn Oct 2026",
@@ -4528,7 +4528,7 @@
   ],
   "price": "$15",
   "price_note": "from · per user a month from user 6",
-  "verified": "2026-09-24",
+  "verified": "2026-11-27",
   "catch": "'Free' is real but has a mechanism: Navan earns commission on bookings made through its inventory, so the platform's incentive is that your travel flows through Navan, and pricing on specific routes/hotels deserves an occasional spot-check against direct booking.",
   "best": "Companies of up to 300 employees that want self-serve travel booking with built-in policy control, free on Navan Business."
  },
@@ -5760,7 +5760,7 @@
  "Runpod": {
   "price": "$0.27",
   "price_note": "RTX A5000 pod, Secure… · per hour, billed per second",
-  "verified": "2026-09-24",
+  "verified": "2026-11-27",
   "catch": "H100 serverless at $5.89/hr costs about 2.04 times the $2.89/hr Secure Cloud H100 PCIe pod rate. A running pod bills even when it has no work.",
   "best": "Developers and ML teams that want cheap, per-second GPU compute for inference and experiments without committing to hyperscaler contracts.",
   "pw": "price up Nov 2026",
@@ -6008,9 +6008,16 @@
   "best": "European e-commerce stores that want easy multi-carrier shipping (DHL, PostNL, Colissimo, GLS, DPD), branded tracking and a returns portal live in under 30 minutes."
  },
  "Sentaro": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ]
+  ],
   "price": "$6",
   "price_note": "from · a month per protected account (first account free)",
-  "verified": "2026-09-24",
+  "verified": "2026-11-27",
   "catch": "The category claim (AI catches what filters miss) is plausible, Microsoft/Google native filtering misses sophisticated BEC, but any vendor's accuracy percentage is measured on their own test set, not your mail flow.",
   "coupon": {
    "code": "SUMMER",
@@ -7166,7 +7173,7 @@
   ],
   "price": "$5",
   "price_note": "from · a month billed annually ($60/yr) or $7 billed monthly",
-  "verified": "2026-09-25",
+  "verified": "2026-11-27",
   "catch": "The free plan's 5-project cap, and reminders that fire only at the moment a task comes due, push most serious users to Pro quickly, but Pro is cheap.",
   "best": "Individuals and small teams who want a fast, elegant task manager that gets out of the way."
  },
