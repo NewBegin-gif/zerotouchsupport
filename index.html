@@ -58,15 +58,6 @@
 
         h1, h2, h3 { line-height: 1.2; }
         
-        .top-bar {
-            background-color: #02050c;
-            color: #64748b;
-            text-align: center;
-            padding: 0.6rem 1rem;
-            font-size: 0.85rem;
-            border-bottom: 1px solid var(--border);
-            font-weight: 500;
-        }
 
         /* Omni-Navigation */
         nav {
@@ -498,7 +489,6 @@
 </style><style id="hero-mobiel">/* 28 sep 2026 (algemene audit N9): op 390x844 begon de hoofdknop op 814px. Minder witruimte,
    geen extra siteregel boven de nav, een toelichting in plaats van twee. Animatie en pauzeknop ongemoeid. */
 @media (max-width: 600px) {
-  .top-bar { display: none; }
   .hero { padding-top: 1.5rem; padding-bottom: 2.5rem; gap: 1.5rem; }
   .zm-stage .hero { padding-top: 1.5rem; }
   .hero-badge { margin-bottom: 1rem; font-size: .8rem; }
@@ -693,9 +683,6 @@ window.filterTools = function (c) {
 </head>
 <body>
 
-    <div class="top-bar">
-        🔍 Helping you automate customer support, so you can focus on growing your business.
-    </div>
 
     <nav class="snav" id="zuster-nav" aria-label="Main"><style>
 :root{--snav-h:56px}
@@ -1266,7 +1253,7 @@ document.addEventListener('click',function(e){if(!n.contains(e.target)){zetMeer(
                     🛡️ Independent software reviews
                 </div>
                 <h1>Find software for customer questions, <span class="gradient-text">tickets and calls.</span></h1>
-                <p>Compare help desks, chat tools and phone systems. Our reviews explain pricing, automation options and the limits to check before you choose.</p>
+                <p>Compare help desks, chat tools and phone systems that automate customer support, so you can focus on growing your business. Our reviews explain pricing, automation options and the limits to check before you choose.</p>
                 <p class="hero-extra">Every review says whether it is a researched assessment or one we used hands-on, and who should skip the tool.</p>
                 
                 <div class="hero-cta" style="margin-top:28px;display:flex;flex-wrap:wrap;gap:12px"><a href="#what-to-solve" class="btn" onclick="if(window.gtag)gtag('event','hero_cta_click',{cta:'picker',site:'zts'})">Start with your problem ↓</a><a href="/software.html" class="btn-outline">Browse all 54 reviews <span aria-hidden="true">→</span></a></div>
