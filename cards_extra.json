@@ -3537,7 +3537,7 @@
   ],
   "price": "$49",
   "price_note": "Basic · per month for up to 100 products or variants, or $490 a year…",
-  "verified": "2026-10-01",
+  "verified": "2026-11-28",
   "catch": "The ladder counts variants, not products, and that is where stores get caught.",
   "best": "Shopify stores with hundreds to a few thousand variants that compete on price on Google Shopping and want competitor monitoring and repricing handled automatically.",
   "pw": "price down Oct 2026",
@@ -4865,7 +4865,7 @@
   ],
   "price": "$20",
   "price_note": "from · per month ($15 billed yearly)",
-  "verified": "2026-09-30",
+  "verified": "2026-11-28",
   "catch": "The unavoidable honest limit of every AI detector, including accurate ones: it is never infallible.",
   "best": "Educators, publishers and platforms that need a low-false-positive signal on whether text is AI-generated, at web-app or API scale."
  },
@@ -5191,7 +5191,7 @@
   ],
   "price": "$39",
   "price_note": "from · per month, or from $24.99/mo billed yearly",
-  "verified": "2026-10-01",
+  "verified": "2026-11-28",
   "catch": "Printify makes nothing until you sell: the Premium fee only pays off past a break-even order volume, and because it's a middleman marketplace, print quality and shipping vary by the provider you pick.",
   "best": "Creators and stores testing print-on-demand with no upfront cost, upgrading to Premium once volume justifies it."
  },
@@ -6440,7 +6440,7 @@
   ],
   "price": "$19",
   "price_note": "from · per month billed annually (page opens on the Yearly tab, two months off)",
-  "verified": "2026-10-01",
+  "verified": "2026-11-28",
   "catch": "Builder seats are billed on top of the plan, and pricing counts builders and app users separately, so a public-facing app with a lot of end users gets expensive fast.",
   "best": "Teams building internal tools, client portals or member apps on Softr's own built-in database, Airtable or Google Sheets without code.",
   "pw": "plans rebuilt Sep 2026",
@@ -7367,9 +7367,16 @@
   "pw_soort": "restructure"
  },
  "UltaHost": {
+  "flags": [
+   [
+    "📈",
+    "Renewal jump",
+    "renewal_jump"
+   ]
+  ],
   "price": "$3.44",
-  "price_note": "from · per month (list $6.89) on the 2-year term, 1 domain, ~10,000 visits/mo",
-  "verified": "2026-10-01",
+  "price_note": "from · per month on the 2-year term",
+  "verified": "2026-11-28",
   "catch": "The sticker price is a term commitment: the page opens on the 2-year prices, and the 30/40/50% badges are measured from a crossed-out list price rather than from what monthly billing actually costs, so the real saving for prepaying two years is about 22% on Starter.",
   "coupon": {
    "code": "ultaad2RiM",
