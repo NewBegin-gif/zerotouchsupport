@@ -695,7 +695,7 @@
   ],
   "price": "$199",
   "price_note": "from · a month, billed monthly",
-  "verified": "2026-09-28",
+  "verified": "2026-11-28",
   "catch": "It's deliberately narrow: Shopify-only and built around segmented paid traffic.",
   "best": "Shopify stores running segmented paid campaigns (different personas, interests, offers) who are currently sending all that traffic to one generic page."
  },
@@ -3373,7 +3373,7 @@
  "Housecall Pro": {
   "price": "$59",
   "price_note": "from · per month billed annually ($79 month-to-month), 1 user",
-  "verified": "2026-09-29",
+  "verified": "2026-11-28",
   "catch": "The Basic tier is a trap for real field teams: it omits GPS tracking and QuickBooks sync, so most businesses need Essentials or up.",
   "best": "Home-service businesses (HVAC, plumbing, cleaning) that want scheduling, dispatch, invoicing and payments in one app.",
   "pw": "price down Oct 2026",
@@ -3918,7 +3918,7 @@
   ],
   "price": "$24",
   "price_note": "from · per month, billed annually",
-  "verified": "2026-09-28",
+  "verified": "2026-11-28",
   "catch": "You trade away the high-end optimisation: no AI traffic routing like Unbounce's Smart Traffic, no real-time collaboration, and thinner technical control (script containers).",
   "best": "Budget-conscious teams, international businesses and anyone needing bulk or programmatic page generation across 29 languages."
  },
@@ -4468,7 +4468,7 @@
   ],
   "price": "$49",
   "price_note": "from · per user a month (Starter)",
-  "verified": "2026-09-28",
+  "verified": "2026-11-28",
   "catch": "Paying ~$50 per user just so a shop-floor worker can clock in and out feels steep when they'll touch a fraction of the features.",
   "best": "Small manufacturers, wholesalers and distributors who want dependable production planning and inventory control without a heavy ERP or a dedicated IT team."
  },
@@ -7490,7 +7490,7 @@
   ],
   "price": "$144",
   "price_note": "from · a year",
-  "verified": "2026-09-29",
+  "verified": "2026-11-28",
   "catch": "The famous free tier is real, but the paid ladder has quiet extras: extra login seats cost $15-19 per month EACH beyond the included ones, and SMS or voice-call alerts are pay-per-credit on every plan.",
   "best": "Solo builders and small teams monitoring sites, ports and APIs at 60-second resolution with status pages, and honestly, the free 50-monitor tier covers most hobby stacks."
  },
@@ -11798,5 +11798,19 @@
   "verified": "2026-11-26",
   "catch": "Workflow automation tool where only external app actions count as tasks; free for 100 tasks a month, Standard is $19 a month.",
   "best": "Small teams that run many automations and want to pay per external task instead of per step, with free internal steps."
+ },
+ "Reviewers.com": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$150",
+  "price_note": "One campaign · per month, One campaign of up to 10 items $150 on reviewers.com, read 28 November…",
+  "verified": "2026-11-28",
+  "catch": "Shopify app that gets video reviews from real buyers; the first campaign of up to 10 videos is free, then $150 a month.",
+  "best": "Shopify brands that want video reviews from US shoppers and are ready to give the product away."
  }
 }
