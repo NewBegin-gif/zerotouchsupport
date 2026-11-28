@@ -117,6 +117,11 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Before your support tools renew: free renewal check](https://zerotouchsupport.com/tools/renewal-check/)
 - [Test a helpdesk before you buy](https://zerotouchsupport.com/tools/software-test-drive/)
 
+## Research and datasets to cite
+- [Aircall alternatives](https://zerotouchsupport.com/compare/aircall-alternatives.html): for solo operators and small teams
+- [Aircall vs Quo](https://zerotouchsupport.com/compare/aircall-vs-quo.html): licence prices on annual billing, plus number and AI charges
+- [Support and phone software atlas (CSV)](https://zerotouchsupport.com/data/zts-tools.csv): the tools and cost flags behind the atlas
+
 ## Machine-readable
 - [For AI agents](https://aibuildermarketplace.com/agents/): a read-only JSON API covering the reviews on this site too. https://aibuildermarketplace.com/api/v1/index.json lists every product; each record links its canonical review here, plan prices where structured, cost traps with full evidence, the pricing date and what is unknown. No key needed. Remote MCP server (read-only, no key): https://api.aibuildermarketplace.com/mcp, with tools such as search_products, get_product, compare_products, get_evidence, estimate_cost and check_choice; the same data as HTTP/JSON under https://api.aibuildermarketplace.com/v1/.
 - [Full review catalog with prices (plain text)](https://zerotouchsupport.com/llms-full.txt)
