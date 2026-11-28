@@ -11701,6 +11701,13 @@
   "catch": "Shopify email app where AI drafts abandoned cart, welcome and winback flows; free up to 500 contacts, Pro from $29.99 a month.",
   "best": "Small Shopify stores that want AI-drafted welcome, abandoned cart and winback emails with a free start."
  },
+ "BSS B2B Request a Quote": {
+  "price": "$19",
+  "price_note": "Growth · per month, Growth $19 / month, or $194.40/year, on the Shopify App Store listing…",
+  "verified": "2026-11-28",
+  "catch": "Shopify quote app that hides prices behind an Add to quote button and turns quotes into draft orders; from $19 a month.",
+  "best": "Shopify stores that sell to business buyers and want to hide prices, collect quote requests and turn accepted quotes into draft orders."
+ },
  "KeepCart": {
   "flags": [
    [
