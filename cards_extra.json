@@ -518,7 +518,7 @@
   ],
   "price": "S$15",
   "price_note": "from · a month (SGD)",
-  "verified": "2026-10-09",
+  "verified": "2026-11-28",
   "catch": "It's a fintech account (strongest in Southeast Asia), not a full bank: great for keeping fixed costs near zero on mostly-domestic activity, but confirm it supports your country and currencies before you build your finances around it.",
   "best": "Startups and SMBs that want a business account with $0 monthly fees and built-in spend management."
  },
@@ -1291,6 +1291,10 @@
   "price_note": "from · per user a month billed annually ($15 monthly)",
   "verified": "2026-10-10",
   "catch": "The subscription is the platform, not the talking: numbers, minutes and SMS meter separately from a credit balance, so an active calling team's real bill sits meaningfully above the per-seat sticker: model a month of your actual call volume before comparing vendors.",
+  "coupon": {
+   "code": "",
+   "label": "via our link: black Friday on Calilio's own pricing page"
+  },
   "best": "Startups and small teams that want a modern, affordable cloud phone system with international numbers and clean dashboards.",
   "pw": "plans rebuilt Aug 2026",
   "pw_soort": "restructure"
@@ -3763,11 +3767,16 @@
     "🧩",
     "Add-ons extra",
     "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
    ]
   ],
   "price": "$35",
   "price_note": "from · a month, or $30 a month billed annually ($350/yr)",
-  "verified": "2026-10-03",
+  "verified": "2026-11-28",
   "catch": "You pay a premium for managed speed and support: worth it if performance matters, wasteful on a low-traffic hobby site a $5 shared host would carry fine.",
   "best": "Business-critical WordPress sites where speed, uptime and expert support directly affect revenue."
  },
@@ -3894,7 +3903,7 @@
   "catch": "Same honest math as most budget VoIP: the plan buys the platform, the meter buys the conversations: per-minute and per-SMS charges land on top of every seat, so the comparison that matters is call-rate-per-country at your volume.",
   "coupon": {
    "code": "KRISPBLK15OTD",
-   "label": "15% off all KrispCall plans with the code KRISPBLK15OTD"
+   "label": "15% off all KrispCall plans for new KrispCall customers with…"
   },
   "best": "Sales and support teams that need virtual numbers across many countries with a shared dashboard, dialer and CRM hooks at a budget seat price."
  },
@@ -6995,7 +7004,7 @@
   ],
   "price": "$4,790",
   "price_note": "from · per year",
-  "verified": "2026-10-04",
+  "verified": "2026-11-28",
   "catch": "This is enterprise-grade security tooling with an enterprise price and a learning curve: you need someone who can act on the findings, or you're paying for reports nobody reads.",
   "coupon": {
    "code": "SAVE10",
@@ -7247,7 +7256,7 @@
   ],
   "price": "$47",
   "price_note": "from · per user a month",
-  "verified": "2026-10-02",
+  "verified": "2026-11-28",
   "catch": "Per-user pricing is honest and simple, but it means the cost scales linearly with headcount: a ten-person crew is a real monthly number, not the single-seat sticker.",
   "coupon": {
    "code": "",
@@ -9008,7 +9017,7 @@
   ],
   "price": "$39",
   "price_note": "Basic · per month billed yearly, 10,000 sessions and 3 websites",
-  "verified": "2026-10-07",
+  "verified": "2026-11-28",
   "catch": "Sessions are shared across all your sites, and tracking pauses until next month when they run out.",
   "best": "Small and mid-sized websites that want heatmaps, session replays, funnels and form analytics in one tool, with a free plan to try it on real traffic."
  },
@@ -9433,7 +9442,7 @@
   "catch": "Free covers 2,500 subscribers, but the paid prices on the cards are for 500; slide to your list size, and the 30% annual discount is for the first year only.",
   "coupon": {
    "code": "",
-   "label": "via our link: black Friday pricing for new customers"
+   "label": "via our link: black Friday pricing on Sender's own pricing page"
   },
   "best": "Small businesses, shops and creators with lists up to a few thousand subscribers who want newsletters, automation, forms and SMS at a low price."
  },
@@ -11664,7 +11673,7 @@
    ]
   ],
   "price": "$29",
-  "price_note": "Build · Build $29/mo, $23/mo billed yearly ($276/yr) on gempages.net/pricing…",
+  "price_note": "Build · Build $29/mo on gempages.net/pricing, read 28 November 2026",
   "verified": "2026-11-19",
   "catch": "Shopify page and funnel builder with a free plan (1 published page); paid plans from $29 a month.",
   "best": "Shopify merchants who want a drag-and-drop page and funnel builder with upsells and A/B offer testing."

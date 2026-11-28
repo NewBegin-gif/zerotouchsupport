@@ -94,6 +94,12 @@ nav.snav .snav-meer-lijst a{padding:9px 12px}
 nav.snav .snav-cta{flex:0 0 auto;background:linear-gradient(135deg,#4f46e5,#7c3aed);color:#fff;font-weight:700;
  padding:8px 14px;border-radius:9px;white-space:nowrap}
 nav.snav .snav-cta:hover{filter:brightness(1.08)}
+nav.snav .snav-cta2{flex:0 0 auto;color:#e2e8f0;font-weight:700;padding:7px 13px;border-radius:9px;white-space:nowrap;
+ border:1px solid rgba(165,180,252,.55);background:none}
+nav.snav .snav-cta2:hover,nav.snav .snav-cta2[aria-current]{color:#fff;background:rgba(129,140,248,.16)}
+nav.snav .snav-mob{display:none}
+@media(min-width:901px) and (max-width:1120px){nav.snav .snav-merk em{display:none}
+ nav.snav .snav-links a,nav.snav .snav-meer>button{padding:8px 8px}}
 nav.snav .snav-menu{display:none;flex:0 0 auto;background:none;border:1px solid rgba(148,163,184,.3);color:#e2e8f0;
  border-radius:9px;padding:7px 11px;font:inherit;font-weight:600;cursor:pointer}
 nav.snav a:focus-visible,nav.snav button:focus-visible{outline:2px solid #a5b4fc;outline-offset:2px}
@@ -102,6 +108,9 @@ nav.snav a:focus-visible,nav.snav button:focus-visible{outline:2px solid #a5b4fc
  nav.snav .snav-merk{font-size:.98rem}
  nav.snav .snav-menu{display:block}
  nav.snav .snav-cta{margin-left:auto;padding:7px 11px;font-size:.84rem}
+ nav.snav .snav-cta2{display:none}
+ nav.snav .snav-mob{display:block}
+ nav.snav .snav-mob a{color:#fff;border:1px solid rgba(165,180,252,.45);margin:4px 0}
  nav.snav .snav-links{display:none;position:absolute;left:0;right:0;top:var(--snav-h);flex-direction:column;align-items:stretch;
   gap:0;margin:0;padding:8px 12px 14px;background:#0b1224;border-bottom:1px solid rgba(148,163,184,.2);
   max-height:calc(100vh - var(--snav-h));overflow-y:auto;box-shadow:0 16px 32px rgba(0,0,0,.5)}
@@ -118,6 +127,7 @@ nav.snav a:focus-visible,nav.snav button:focus-visible{outline:2px solid #a5b4fc
 var m=n.querySelector('.snav-menu'),w=n.querySelector('.snav-meer>button'),l=n.querySelector('.snav-meer-lijst');
 function zetMenu(o){n.classList.toggle('open',o);m.setAttribute('aria-expanded',o?'true':'false');}
 function zetMeer(o){if(!w)return;w.setAttribute('aria-expanded',o?'true':'false');l.hidden=!o;}
+n.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[data-snav]');if(a&&window.gtag)gtag('event','nav_click_'+a.getAttribute('data-snav'),{link_url:a.href,nav_plek:n.classList.contains('open')?'menu':'balk'});});
 m.addEventListener('click',function(){zetMenu(!n.classList.contains('open'));});
 if(w)w.addEventListener('click',function(e){e.stopPropagation();zetMeer(l.hidden);});
 document.addEventListener('keydown',function(e){if(e.key!=='Escape')return;
